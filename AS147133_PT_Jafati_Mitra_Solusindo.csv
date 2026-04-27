@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2400:7020::/32,ipv6,AS147133,PT Jafati Mitra Solusindo
+103.176.181.0/24,ipv4,AS147133,PT Jafati Mitra Solusindo
+103.176.180.0/24,ipv4,AS147133,PT Jafati Mitra Solusindo

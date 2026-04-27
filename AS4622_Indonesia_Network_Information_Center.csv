@@ -1,0 +1,13 @@
+prefix,ip_version,asn,asn_name
+203.119.53.0/24,ipv4,AS4622,Indonesia Network Information Center
+203.119.52.0/24,ipv4,AS4622,Indonesia Network Information Center
+2001:dc6:666::/48,ipv6,AS4622,Indonesia Network Information Center
+203.119.55.0/24,ipv4,AS4622,Indonesia Network Information Center
+2001:dc6::/48,ipv6,AS4622,Indonesia Network Information Center
+103.88.88.0/24,ipv4,AS4622,Indonesia Network Information Center
+2001:dc6:2::/48,ipv6,AS4622,Indonesia Network Information Center
+203.119.54.0/24,ipv4,AS4622,Indonesia Network Information Center
+203.119.13.0/24,ipv4,AS4622,Indonesia Network Information Center
+2001:dc6::/32,ipv6,AS4622,Indonesia Network Information Center
+2001:dc6:3::/48,ipv6,AS4622,Indonesia Network Information Center
+2001:dc6:1::/48,ipv6,AS4622,Indonesia Network Information Center

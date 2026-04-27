@@ -1,0 +1,10 @@
+prefix,ip_version,asn,asn_name
+103.153.191.0/24,ipv4,AS140469,PT Wahyu Adidaya Network
+202.57.27.0/24,ipv4,AS140469,PT Wahyu Adidaya Network
+202.10.53.0/24,ipv4,AS140469,PT Wahyu Adidaya Network
+103.153.190.0/24,ipv4,AS140469,PT Wahyu Adidaya Network
+202.57.24.0/24,ipv4,AS140469,PT Wahyu Adidaya Network
+202.57.25.0/24,ipv4,AS140469,PT Wahyu Adidaya Network
+202.57.26.0/24,ipv4,AS140469,PT Wahyu Adidaya Network
+2406:4940::/32,ipv6,AS140469,PT Wahyu Adidaya Network
+103.153.190.0/23,ipv4,AS140469,PT Wahyu Adidaya Network

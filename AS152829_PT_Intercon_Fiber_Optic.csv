@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+160.22.209.0/24,ipv4,AS152829,PT Intercon Fiber Optic
+160.22.208.0/24,ipv4,AS152829,PT Intercon Fiber Optic
+160.22.208.0/23,ipv4,AS152829,PT Intercon Fiber Optic
+2402:57a0::/32,ipv6,AS152829,PT Intercon Fiber Optic

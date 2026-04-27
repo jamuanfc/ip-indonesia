@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.96.54.0/23,ipv4,AS150967,PT Buana Menara Indonesia
+103.96.54.0/24,ipv4,AS150967,PT Buana Menara Indonesia
+103.96.55.0/24,ipv4,AS150967,PT Buana Menara Indonesia

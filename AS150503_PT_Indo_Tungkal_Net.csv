@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+163.227.201.0/24,ipv4,AS150503,PT Indo Tungkal Net
+103.126.238.0/24,ipv4,AS150503,PT Indo Tungkal Net
+2001:df1:de40::/48,ipv6,AS150503,PT Indo Tungkal Net

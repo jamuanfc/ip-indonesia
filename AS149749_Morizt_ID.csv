@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.189.110.0/24,ipv4,AS149749,Morizt ID
+103.189.110.0/23,ipv4,AS149749,Morizt ID
+2001:df0:d540::/48,ipv6,AS149749,Morizt ID
+103.189.111.0/24,ipv4,AS149749,Morizt ID

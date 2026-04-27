@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.169.129.0/24,ipv4,AS142342,PT Media Akses Data
+103.169.128.0/24,ipv4,AS142342,PT Media Akses Data
+2001:df2:2c40::/48,ipv6,AS142342,PT Media Akses Data

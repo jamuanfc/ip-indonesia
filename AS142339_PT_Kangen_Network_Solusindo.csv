@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+103.18.112.0/24,ipv4,AS142339,PT Kangen Network Solusindo
+103.169.148.0/24,ipv4,AS142339,PT Kangen Network Solusindo
+103.18.113.0/24,ipv4,AS142339,PT Kangen Network Solusindo
+2407:a5c0::/48,ipv6,AS142339,PT Kangen Network Solusindo
+2407:a5c0:1::/48,ipv6,AS142339,PT Kangen Network Solusindo
+103.169.149.0/24,ipv4,AS142339,PT Kangen Network Solusindo

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.155.113.0/24,ipv4,AS141058,Pemerintah Kabupaten Soppeng
+103.36.250.0/24,ipv4,AS141058,Pemerintah Kabupaten Soppeng
+2401:c420::/32,ipv6,AS141058,Pemerintah Kabupaten Soppeng

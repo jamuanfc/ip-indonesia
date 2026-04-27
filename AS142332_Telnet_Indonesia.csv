@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+160.22.237.0/24,ipv4,AS142332,Telnet Indonesia
+160.22.236.0/24,ipv4,AS142332,Telnet Indonesia
+103.169.40.0/24,ipv4,AS142332,Telnet Indonesia
+103.169.40.0/23,ipv4,AS142332,Telnet Indonesia
+103.169.41.0/24,ipv4,AS142332,Telnet Indonesia
+2001:df2:7bc0::/48,ipv6,AS142332,Telnet Indonesia

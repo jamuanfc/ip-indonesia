@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+45.123.141.0/24,ipv4,AS152049,PT Iconmedia Nusantara Abadi
+45.123.140.0/24,ipv4,AS152049,PT Iconmedia Nusantara Abadi
+45.123.140.0/23,ipv4,AS152049,PT Iconmedia Nusantara Abadi

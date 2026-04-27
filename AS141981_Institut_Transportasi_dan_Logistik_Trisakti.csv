@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.167.110.0/24,ipv4,AS141981,Institut Transportasi dan Logistik Trisakti
+103.167.110.0/23,ipv4,AS141981,Institut Transportasi dan Logistik Trisakti
+103.167.111.0/24,ipv4,AS141981,Institut Transportasi dan Logistik Trisakti

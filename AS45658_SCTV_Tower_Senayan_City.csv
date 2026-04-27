@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.135.94.0/24,ipv4,AS45658,SCTV Tower - Senayan City
+103.135.96.0/23,ipv4,AS45658,SCTV Tower - Senayan City
+202.58.124.0/24,ipv4,AS45658,SCTV Tower - Senayan City

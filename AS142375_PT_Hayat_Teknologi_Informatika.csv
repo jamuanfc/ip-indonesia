@@ -1,0 +1,8 @@
+prefix,ip_version,asn,asn_name
+103.171.182.0/24,ipv4,AS142375,PT Hayat Teknologi Informatika
+103.171.182.0/23,ipv4,AS142375,PT Hayat Teknologi Informatika
+203.145.58.0/23,ipv4,AS142375,PT Hayat Teknologi Informatika
+203.145.58.0/24,ipv4,AS142375,PT Hayat Teknologi Informatika
+203.145.59.0/24,ipv4,AS142375,PT Hayat Teknologi Informatika
+2001:df3:a240::/48,ipv6,AS142375,PT Hayat Teknologi Informatika
+103.171.183.0/24,ipv4,AS142375,PT Hayat Teknologi Informatika

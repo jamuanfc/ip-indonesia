@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2001:df3:c340::/48,ipv6,AS152392,PT Bakung Jaya Network
+157.20.44.0/24,ipv4,AS152392,PT Bakung Jaya Network
+157.20.45.0/24,ipv4,AS152392,PT Bakung Jaya Network

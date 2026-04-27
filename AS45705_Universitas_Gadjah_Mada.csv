@@ -1,0 +1,12 @@
+prefix,ip_version,asn,asn_name
+202.43.92.0/22,ipv4,AS45705,Universitas Gadjah Mada
+202.43.95.0/24,ipv4,AS45705,Universitas Gadjah Mada
+175.111.90.0/24,ipv4,AS45705,Universitas Gadjah Mada
+202.43.94.0/24,ipv4,AS45705,Universitas Gadjah Mada
+175.111.89.0/24,ipv4,AS45705,Universitas Gadjah Mada
+175.111.91.0/24,ipv4,AS45705,Universitas Gadjah Mada
+175.111.88.0/22,ipv4,AS45705,Universitas Gadjah Mada
+202.43.92.0/24,ipv4,AS45705,Universitas Gadjah Mada
+175.111.88.0/24,ipv4,AS45705,Universitas Gadjah Mada
+2405:2c40::/32,ipv6,AS45705,Universitas Gadjah Mada
+202.43.93.0/24,ipv4,AS45705,Universitas Gadjah Mada

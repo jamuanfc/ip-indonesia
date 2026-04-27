@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.190.112.0/23,ipv4,AS149907,PT Linkbit Inovasi Teknologi
+103.190.112.0/24,ipv4,AS149907,PT Linkbit Inovasi Teknologi
+103.190.113.0/24,ipv4,AS149907,PT Linkbit Inovasi Teknologi
+2001:df0:f9c0::/48,ipv6,AS149907,PT Linkbit Inovasi Teknologi

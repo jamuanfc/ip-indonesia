@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.55.225.0/24,ipv4,AS150482,PT Gapura Era Digital
+2001:df1:b740::/48,ipv6,AS150482,PT Gapura Era Digital
+103.55.224.0/23,ipv4,AS150482,PT Gapura Era Digital
+103.55.224.0/24,ipv4,AS150482,PT Gapura Era Digital

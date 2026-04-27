@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.153.97.0/24,ipv4,AS140460,PT Nitnet Media Teknologi
+103.153.96.0/24,ipv4,AS140460,PT Nitnet Media Teknologi
+2406:41c0::/32,ipv6,AS140460,PT Nitnet Media Teknologi

@@ -1,0 +1,12 @@
+prefix,ip_version,asn,asn_name
+103.172.0.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara
+203.175.127.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara
+103.158.154.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara
+203.175.126.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara
+2001:df5:5980::/48,ipv6,AS141126,PT Cubiespot Pilar Data Nusantara
+203.81.250.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara
+103.172.1.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara
+2001:df3:5c40::/48,ipv6,AS141126,PT Cubiespot Pilar Data Nusantara
+203.81.248.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara
+103.158.155.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara
+203.81.249.0/24,ipv4,AS141126,PT Cubiespot Pilar Data Nusantara

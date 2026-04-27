@@ -1,0 +1,3 @@
+prefix,ip_version,asn,asn_name
+103.169.192.0/23,ipv4,AS142348,Universitas Pakuan
+2001:df0:3140::/48,ipv6,AS142348,Universitas Pakuan

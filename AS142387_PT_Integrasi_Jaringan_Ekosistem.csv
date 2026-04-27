@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+216.243.114.0/23,ipv4,AS142387,PT Integrasi Jaringan Ekosistem
+103.172.24.0/24,ipv4,AS142387,PT Integrasi Jaringan Ekosistem
+216.243.112.0/23,ipv4,AS142387,PT Integrasi Jaringan Ekosistem
+216.243.116.0/23,ipv4,AS142387,PT Integrasi Jaringan Ekosistem
+103.172.25.0/24,ipv4,AS142387,PT Integrasi Jaringan Ekosistem
+216.243.118.0/24,ipv4,AS142387,PT Integrasi Jaringan Ekosistem

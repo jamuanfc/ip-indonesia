@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.157.192.0/24,ipv4,AS141122,PT Aneka Siak Nusantara
+103.157.192.0/23,ipv4,AS141122,PT Aneka Siak Nusantara
+103.157.193.0/24,ipv4,AS141122,PT Aneka Siak Nusantara

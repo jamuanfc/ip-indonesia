@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+43.250.183.0/24,ipv4,AS151999,PT Aris Media Globalindo
+43.250.182.0/24,ipv4,AS151999,PT Aris Media Globalindo
+2001:df3:2ac0::/48,ipv6,AS151999,PT Aris Media Globalindo

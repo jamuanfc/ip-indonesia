@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.149.18.0/23,ipv4,AS140009,PT. Riau Satu Net
+103.149.19.0/24,ipv4,AS140009,PT. Riau Satu Net
+103.149.18.0/24,ipv4,AS140009,PT. Riau Satu Net

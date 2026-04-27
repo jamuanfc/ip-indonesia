@@ -1,0 +1,14 @@
+prefix,ip_version,asn,asn_name
+2406:f900:c::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+103.134.48.0/24,ipv4,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:b::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:11::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:d::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:e::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:12::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+103.134.51.0/24,ipv4,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:a::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+43.239.101.0/24,ipv4,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:13::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:10::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia
+2406:f900:f::/48,ipv6,AS138598,PT Nevigate Telekomunikasi Indonesia

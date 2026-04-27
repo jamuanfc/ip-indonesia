@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+2001:df2:5dc0::/48,ipv6,AS150191,PT Sarana Intimedia Telematika
+103.152.21.0/24,ipv4,AS150191,PT Sarana Intimedia Telematika
+103.255.109.0/24,ipv4,AS150191,PT Sarana Intimedia Telematika
+103.44.19.0/24,ipv4,AS150191,PT Sarana Intimedia Telematika
+149.5.52.0/24,ipv4,AS150191,PT Sarana Intimedia Telematika

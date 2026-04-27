@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+160.25.46.0/24,ipv4,AS153059,PT Akses Datatrans Indonesia
+160.25.46.0/23,ipv4,AS153059,PT Akses Datatrans Indonesia
+160.25.47.0/24,ipv4,AS153059,PT Akses Datatrans Indonesia

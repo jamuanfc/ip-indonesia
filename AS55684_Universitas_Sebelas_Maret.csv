@@ -1,0 +1,10 @@
+prefix,ip_version,asn,asn_name
+203.6.149.0/24,ipv4,AS55684,Universitas Sebelas Maret
+103.23.226.0/24,ipv4,AS55684,Universitas Sebelas Maret
+203.6.148.0/24,ipv4,AS55684,Universitas Sebelas Maret
+103.23.224.0/22,ipv4,AS55684,Universitas Sebelas Maret
+2401:90e0::/32,ipv6,AS55684,Universitas Sebelas Maret
+103.23.227.0/24,ipv4,AS55684,Universitas Sebelas Maret
+103.23.224.0/24,ipv4,AS55684,Universitas Sebelas Maret
+203.6.148.0/23,ipv4,AS55684,Universitas Sebelas Maret
+103.23.225.0/24,ipv4,AS55684,Universitas Sebelas Maret

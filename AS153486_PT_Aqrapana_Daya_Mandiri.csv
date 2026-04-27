@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+160.250.195.0/24,ipv4,AS153486,PT Aqrapana Daya Mandiri
+160.250.194.0/23,ipv4,AS153486,PT Aqrapana Daya Mandiri
+160.250.194.0/24,ipv4,AS153486,PT Aqrapana Daya Mandiri
+2001:df4:bd40::/48,ipv6,AS153486,PT Aqrapana Daya Mandiri

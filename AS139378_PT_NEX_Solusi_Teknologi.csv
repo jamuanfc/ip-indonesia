@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.142.202.0/23,ipv4,AS139378,PT. NEX Solusi Teknologi
+2001:df1:5680::/48,ipv6,AS139378,PT. NEX Solusi Teknologi
+103.142.202.0/24,ipv4,AS139378,PT. NEX Solusi Teknologi
+103.142.203.0/24,ipv4,AS139378,PT. NEX Solusi Teknologi

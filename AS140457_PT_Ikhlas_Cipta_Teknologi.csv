@@ -1,0 +1,17 @@
+prefix,ip_version,asn,asn_name
+45.198.22.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+38.183.146.0/23,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+45.198.22.0/23,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+45.198.20.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+2406:3fc0::/32,ipv6,AS140457,PT Ikhlas Cipta Teknologi
+38.183.147.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+45.198.21.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+103.153.63.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+38.183.144.0/23,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+45.198.23.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+38.183.144.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+103.153.62.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+38.183.146.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+38.183.145.0/24,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+103.153.62.0/23,ipv4,AS140457,PT Ikhlas Cipta Teknologi
+45.198.20.0/23,ipv4,AS140457,PT Ikhlas Cipta Teknologi

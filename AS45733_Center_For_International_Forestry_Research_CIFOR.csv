@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+202.137.225.0/24,ipv4,AS45733,Center For International Forestry Research(CIFOR)
+103.27.253.0/24,ipv4,AS45733,Center For International Forestry Research(CIFOR)
+103.27.252.0/24,ipv4,AS45733,Center For International Forestry Research(CIFOR)

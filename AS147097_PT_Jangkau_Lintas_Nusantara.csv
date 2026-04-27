@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df2:4640::/48,ipv6,AS147097,PT Jangkau Lintas Nusantara
+103.174.121.0/24,ipv4,AS147097,PT Jangkau Lintas Nusantara
+103.174.120.0/24,ipv4,AS147097,PT Jangkau Lintas Nusantara
+103.174.120.0/23,ipv4,AS147097,PT Jangkau Lintas Nusantara

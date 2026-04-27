@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+163.128.238.0/24,ipv4,AS136381,PT Megadata Inovasi Solusindo
+163.128.239.0/24,ipv4,AS136381,PT Megadata Inovasi Solusindo
+163.128.238.0/23,ipv4,AS136381,PT Megadata Inovasi Solusindo

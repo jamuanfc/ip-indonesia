@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.142.89.0/24,ipv4,AS139368,Dinas Komunikasi Dan Informatika Pemerintah Provinsi Kalimantan Selatan
+103.142.88.0/24,ipv4,AS139368,Dinas Komunikasi Dan Informatika Pemerintah Provinsi Kalimantan Selatan
+2001:df1:3980::/48,ipv6,AS139368,Dinas Komunikasi Dan Informatika Pemerintah Provinsi Kalimantan Selatan
+103.142.88.0/23,ipv4,AS139368,Dinas Komunikasi Dan Informatika Pemerintah Provinsi Kalimantan Selatan

@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.138.117.0/24,ipv4,AS139417,PT Iweka Digital Solution
+2404:cac0::/48,ipv6,AS139417,PT Iweka Digital Solution
+2404:cac0:1d5::/48,ipv6,AS139417,PT Iweka Digital Solution
+2404:cac0:ff00::/40,ipv6,AS139417,PT Iweka Digital Solution
+103.138.116.0/24,ipv4,AS139417,PT Iweka Digital Solution

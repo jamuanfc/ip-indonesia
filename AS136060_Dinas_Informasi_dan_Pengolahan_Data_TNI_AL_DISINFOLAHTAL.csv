@@ -1,0 +1,8 @@
+prefix,ip_version,asn,asn_name
+103.81.62.0/23,ipv4,AS136060,Dinas Informasi dan Pengolahan Data TNI AL (DISINFOLAHTAL)
+103.81.60.0/22,ipv4,AS136060,Dinas Informasi dan Pengolahan Data TNI AL (DISINFOLAHTAL)
+103.81.62.0/24,ipv4,AS136060,Dinas Informasi dan Pengolahan Data TNI AL (DISINFOLAHTAL)
+103.81.60.0/23,ipv4,AS136060,Dinas Informasi dan Pengolahan Data TNI AL (DISINFOLAHTAL)
+103.81.60.0/24,ipv4,AS136060,Dinas Informasi dan Pengolahan Data TNI AL (DISINFOLAHTAL)
+103.81.63.0/24,ipv4,AS136060,Dinas Informasi dan Pengolahan Data TNI AL (DISINFOLAHTAL)
+103.81.61.0/24,ipv4,AS136060,Dinas Informasi dan Pengolahan Data TNI AL (DISINFOLAHTAL)

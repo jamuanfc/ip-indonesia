@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.253.127.0/24,ipv4,AS150989,PT Media Akses Telematika
+38.253.234.0/24,ipv4,AS150989,PT Media Akses Telematika
+2001:df2:dcc0::/48,ipv6,AS150989,PT Media Akses Telematika
+157.15.154.0/24,ipv4,AS150989,PT Media Akses Telematika

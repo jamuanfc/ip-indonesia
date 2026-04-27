@@ -1,0 +1,11 @@
+prefix,ip_version,asn,asn_name
+202.173.21.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT
+180.150.233.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT
+2403:4100::/32,ipv6,AS24210,Angkasa Sarana Teknik Komunikasi PT
+202.173.22.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT
+202.173.20.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT
+202.173.17.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT
+202.173.18.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT
+202.173.19.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT
+180.150.232.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT
+202.173.16.0/24,ipv4,AS24210,Angkasa Sarana Teknik Komunikasi PT

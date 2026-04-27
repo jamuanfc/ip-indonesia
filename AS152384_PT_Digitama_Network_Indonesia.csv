@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+163.223.37.0/24,ipv4,AS152384,PT Digitama Network Indonesia
+2001:df5:31c0::/48,ipv6,AS152384,PT Digitama Network Indonesia
+157.15.80.0/24,ipv4,AS152384,PT Digitama Network Indonesia

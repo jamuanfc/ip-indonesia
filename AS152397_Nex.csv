@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2001:df4:86c0::/48,ipv6,AS152397,Nex+
+157.15.123.0/24,ipv4,AS152397,Nex+
+157.15.122.0/24,ipv4,AS152397,Nex+

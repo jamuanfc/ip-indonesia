@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2407:87c0::/32,ipv6,AS152057,PT Dinoki Wayae Yoshe
+103.164.14.0/23,ipv4,AS152057,PT Dinoki Wayae Yoshe
+103.164.14.0/24,ipv4,AS152057,PT Dinoki Wayae Yoshe
+103.164.15.0/24,ipv4,AS152057,PT Dinoki Wayae Yoshe

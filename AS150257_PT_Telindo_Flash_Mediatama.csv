@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.30.192.0/23,ipv4,AS150257,PT Telindo Flash Mediatama
+103.30.192.0/24,ipv4,AS150257,PT Telindo Flash Mediatama
+103.30.193.0/24,ipv4,AS150257,PT Telindo Flash Mediatama

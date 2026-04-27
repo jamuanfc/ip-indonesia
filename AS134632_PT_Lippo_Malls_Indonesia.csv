@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.14.75.0/24,ipv4,AS134632,PT Lippo Malls Indonesia
+2001:df7:5400::/48,ipv6,AS134632,PT Lippo Malls Indonesia
+103.14.74.0/24,ipv4,AS134632,PT Lippo Malls Indonesia

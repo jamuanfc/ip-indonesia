@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.165.155.0/24,ipv4,AS141921,PT Jaringan Keluarga Bersama
+103.178.194.0/24,ipv4,AS141921,PT Jaringan Keluarga Bersama
+2001:df3:ac0::/48,ipv6,AS141921,PT Jaringan Keluarga Bersama

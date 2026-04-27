@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df0:f540::/48,ipv6,AS141621,PT Galuh Multidata Solution
+103.161.164.0/23,ipv4,AS141621,PT Galuh Multidata Solution
+103.161.164.0/24,ipv4,AS141621,PT Galuh Multidata Solution
+103.161.165.0/24,ipv4,AS141621,PT Galuh Multidata Solution

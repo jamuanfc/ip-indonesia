@@ -1,0 +1,20 @@
+prefix,ip_version,asn,asn_name
+2400:dbe0:34::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:33::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:21::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:23::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:31::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:25::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+103.60.235.0/24,ipv4,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:2::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+202.14.92.0/24,ipv4,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+202.14.93.0/24,ipv4,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:22::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:41::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+103.60.234.0/23,ipv4,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+202.14.92.0/23,ipv4,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+103.60.234.0/24,ipv4,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:11::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0::/32,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:32::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+2400:dbe0:24::/48,ipv6,AS55680,Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta

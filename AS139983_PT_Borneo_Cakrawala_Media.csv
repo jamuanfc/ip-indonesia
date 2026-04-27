@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+103.167.222.0/24,ipv4,AS139983,PT. Borneo Cakrawala Media
+103.148.48.0/23,ipv4,AS139983,PT. Borneo Cakrawala Media
+2405:cb40::/32,ipv6,AS139983,PT. Borneo Cakrawala Media
+2405:cb40:3::/48,ipv6,AS139983,PT. Borneo Cakrawala Media
+103.148.48.0/24,ipv4,AS139983,PT. Borneo Cakrawala Media
+103.148.49.0/24,ipv4,AS139983,PT. Borneo Cakrawala Media

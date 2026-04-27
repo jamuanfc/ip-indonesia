@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.148.19.0/24,ipv4,AS139978,PT Jaringan Rtrwnet Nusantara
+2405:c7c0::/32,ipv6,AS139978,PT Jaringan Rtrwnet Nusantara
+103.148.18.0/23,ipv4,AS139978,PT Jaringan Rtrwnet Nusantara
+103.148.18.0/24,ipv4,AS139978,PT Jaringan Rtrwnet Nusantara

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.60.88.0/23,ipv4,AS151572,PT Evolution Karya Lintas Data
+103.60.89.0/24,ipv4,AS151572,PT Evolution Karya Lintas Data
+103.60.88.0/24,ipv4,AS151572,PT Evolution Karya Lintas Data

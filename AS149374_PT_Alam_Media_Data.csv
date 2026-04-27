@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.180.127.0/24,ipv4,AS149374,PT Alam Media Data
+2001:df3:8440::/48,ipv6,AS149374,PT Alam Media Data
+103.180.126.0/24,ipv4,AS149374,PT Alam Media Data

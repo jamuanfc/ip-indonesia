@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.141.222.0/24,ipv4,AS139363,PT Amerta Indah Otsuka
+103.141.222.0/23,ipv4,AS139363,PT Amerta Indah Otsuka
+103.141.223.0/24,ipv4,AS139363,PT Amerta Indah Otsuka

@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+103.167.171.0/24,ipv4,AS141983,PT Rajeg Media Telekomunikasi
+103.167.170.0/23,ipv4,AS141983,PT Rajeg Media Telekomunikasi
+2407:9cc0::/32,ipv6,AS141983,PT Rajeg Media Telekomunikasi
+103.167.170.0/24,ipv4,AS141983,PT Rajeg Media Telekomunikasi
+38.248.19.0/24,ipv4,AS141983,PT Rajeg Media Telekomunikasi
+38.106.187.0/24,ipv4,AS141983,PT Rajeg Media Telekomunikasi

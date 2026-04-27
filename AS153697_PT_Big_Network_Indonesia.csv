@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+163.223.78.0/24,ipv4,AS153697,PT Big Network Indonesia
+2001:df5:37c0::/48,ipv6,AS153697,PT Big Network Indonesia
+163.223.79.0/24,ipv4,AS153697,PT Big Network Indonesia

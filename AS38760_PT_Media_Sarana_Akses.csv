@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+103.217.209.0/24,ipv4,AS38760,PT Media Sarana Akses
+103.217.210.0/24,ipv4,AS38760,PT Media Sarana Akses
+103.217.211.0/24,ipv4,AS38760,PT Media Sarana Akses
+2400:9b60:3::/48,ipv6,AS38760,PT Media Sarana Akses
+103.217.208.0/24,ipv4,AS38760,PT Media Sarana Akses
+2400:9b60:4::/48,ipv6,AS38760,PT Media Sarana Akses

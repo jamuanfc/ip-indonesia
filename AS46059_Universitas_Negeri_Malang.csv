@@ -1,0 +1,8 @@
+prefix,ip_version,asn,asn_name
+103.208.94.0/23,ipv4,AS46059,Universitas Negeri Malang
+202.52.137.0/24,ipv4,AS46059,Universitas Negeri Malang
+103.208.95.0/24,ipv4,AS46059,Universitas Negeri Malang
+2405:c240::/32,ipv6,AS46059,Universitas Negeri Malang
+103.208.94.0/24,ipv4,AS46059,Universitas Negeri Malang
+2405:c240:b0::/48,ipv6,AS46059,Universitas Negeri Malang
+2405:c240:a::/48,ipv6,AS46059,Universitas Negeri Malang

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.165.86.0/24,ipv4,AS141076,PT. Arthamas Cipta
+103.155.221.0/24,ipv4,AS141076,PT. Arthamas Cipta
+2001:df4:db80::/48,ipv6,AS141076,PT. Arthamas Cipta

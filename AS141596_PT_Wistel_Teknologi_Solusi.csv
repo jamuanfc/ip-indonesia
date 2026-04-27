@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+103.160.40.0/24,ipv4,AS141596,PT Wistel Teknologi Solusi
+103.179.219.0/24,ipv4,AS141596,PT Wistel Teknologi Solusi
+2406:f940::/32,ipv6,AS141596,PT Wistel Teknologi Solusi
+103.179.218.0/24,ipv4,AS141596,PT Wistel Teknologi Solusi
+103.160.41.0/24,ipv4,AS141596,PT Wistel Teknologi Solusi
+2001:df0:54c0::/48,ipv6,AS141596,PT Wistel Teknologi Solusi

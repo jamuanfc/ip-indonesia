@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.144.18.0/24,ipv4,AS139418,PT Gasatek Bintang Nusantara
+2405:62c0::/32,ipv6,AS139418,PT Gasatek Bintang Nusantara
+103.174.178.0/24,ipv4,AS139418,PT Gasatek Bintang Nusantara
+103.174.179.0/24,ipv4,AS139418,PT Gasatek Bintang Nusantara

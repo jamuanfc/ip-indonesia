@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df2:6140::/48,ipv6,AS147165,PT Amerta Asa Media
+103.178.13.0/24,ipv4,AS147165,PT Amerta Asa Media
+103.178.12.0/23,ipv4,AS147165,PT Amerta Asa Media
+103.178.12.0/24,ipv4,AS147165,PT Amerta Asa Media

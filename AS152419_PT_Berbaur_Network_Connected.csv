@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+157.20.205.0/24,ipv4,AS152419,PT Berbaur Network Connected
+157.20.204.0/23,ipv4,AS152419,PT Berbaur Network Connected
+157.20.204.0/24,ipv4,AS152419,PT Berbaur Network Connected

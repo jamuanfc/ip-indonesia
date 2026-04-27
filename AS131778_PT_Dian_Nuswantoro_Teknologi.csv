@@ -1,0 +1,11 @@
+prefix,ip_version,asn,asn_name
+103.30.2.0/24,ipv4,AS131778,PT Dian Nuswantoro Teknologi
+103.30.0.0/22,ipv4,AS131778,PT Dian Nuswantoro Teknologi
+103.30.0.0/24,ipv4,AS131778,PT Dian Nuswantoro Teknologi
+2001:df0:229::/48,ipv6,AS131778,PT Dian Nuswantoro Teknologi
+2401:7aa0::/32,ipv6,AS131778,PT Dian Nuswantoro Teknologi
+103.246.107.0/24,ipv4,AS131778,PT Dian Nuswantoro Teknologi
+103.30.1.0/24,ipv4,AS131778,PT Dian Nuswantoro Teknologi
+103.30.3.0/24,ipv4,AS131778,PT Dian Nuswantoro Teknologi
+103.30.0.0/23,ipv4,AS131778,PT Dian Nuswantoro Teknologi
+103.30.2.0/23,ipv4,AS131778,PT Dian Nuswantoro Teknologi

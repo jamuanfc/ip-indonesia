@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.123.104.0/24,ipv4,AS138070,PT Jejaring Mitra Persada
+103.123.106.0/24,ipv4,AS138070,PT Jejaring Mitra Persada
+2403:9fc0::/48,ipv6,AS138070,PT Jejaring Mitra Persada
+103.123.107.0/24,ipv4,AS138070,PT Jejaring Mitra Persada
+103.123.105.0/24,ipv4,AS138070,PT Jejaring Mitra Persada

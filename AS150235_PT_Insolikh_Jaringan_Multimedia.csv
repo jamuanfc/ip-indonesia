@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2a14:7583:c200::/48,ipv6,AS150235,PT Insolikh Jaringan Multimedia
+161.248.222.0/24,ipv4,AS150235,PT Insolikh Jaringan Multimedia
+103.72.89.0/24,ipv4,AS150235,PT Insolikh Jaringan Multimedia

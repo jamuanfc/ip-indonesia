@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.4.76.0/23,ipv4,AS150216,PT Khazanah Net Indonesia
+103.4.77.0/24,ipv4,AS150216,PT Khazanah Net Indonesia
+103.4.76.0/24,ipv4,AS150216,PT Khazanah Net Indonesia

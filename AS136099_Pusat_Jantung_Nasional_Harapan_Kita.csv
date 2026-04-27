@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2001:df0:c300::/48,ipv6,AS136099,Pusat Jantung Nasional Harapan Kita
+160.25.249.0/24,ipv4,AS136099,Pusat Jantung Nasional Harapan Kita
+103.89.248.0/24,ipv4,AS136099,Pusat Jantung Nasional Harapan Kita

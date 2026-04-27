@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+157.15.82.0/23,ipv4,AS152363,PT Delapan Broadband Intermedia
+2001:df4:1140::/48,ipv6,AS152363,PT Delapan Broadband Intermedia
+157.15.83.0/24,ipv4,AS152363,PT Delapan Broadband Intermedia
+157.15.82.0/24,ipv4,AS152363,PT Delapan Broadband Intermedia

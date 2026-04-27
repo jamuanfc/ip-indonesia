@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df1:9840::/48,ipv6,AS142401,PT Inter Koneksi Media
+202.81.63.0/24,ipv4,AS142401,PT Inter Koneksi Media
+151.242.55.0/24,ipv4,AS142401,PT Inter Koneksi Media
+103.172.240.0/24,ipv4,AS142401,PT Inter Koneksi Media

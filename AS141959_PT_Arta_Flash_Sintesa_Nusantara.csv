@@ -1,0 +1,12 @@
+prefix,ip_version,asn,asn_name
+103.115.178.0/24,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+103.115.177.0/24,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+103.115.176.0/22,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+103.166.227.0/24,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+103.115.176.0/23,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+103.115.176.0/24,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+2401:4fa0::/32,ipv6,AS141959,PT Arta Flash Sintesa Nusantara
+103.115.178.0/23,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+103.166.226.0/23,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+103.166.226.0/24,ipv4,AS141959,PT Arta Flash Sintesa Nusantara
+103.115.179.0/24,ipv4,AS141959,PT Arta Flash Sintesa Nusantara

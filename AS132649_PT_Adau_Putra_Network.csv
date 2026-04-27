@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.24.212.0/24,ipv4,AS132649,PT Adau Putra Network
+103.24.215.0/24,ipv4,AS132649,PT Adau Putra Network
+103.24.213.0/24,ipv4,AS132649,PT Adau Putra Network
+103.24.214.0/24,ipv4,AS132649,PT Adau Putra Network
+2406:e900::/48,ipv6,AS132649,PT Adau Putra Network

@@ -1,0 +1,3 @@
+prefix,ip_version,asn,asn_name
+2001:df5:1e40::/48,ipv6,AS139693,PT Timeplus Network Media
+163.61.187.0/24,ipv4,AS139693,PT Timeplus Network Media

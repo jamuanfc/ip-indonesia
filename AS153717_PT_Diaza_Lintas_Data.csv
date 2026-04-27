@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+163.223.142.0/24,ipv4,AS153717,PT Diaza Lintas Data
+2001:df5:4240::/48,ipv6,AS153717,PT Diaza Lintas Data
+2a13:9500:b9::/48,ipv6,AS153717,PT Diaza Lintas Data
+163.223.142.0/23,ipv4,AS153717,PT Diaza Lintas Data
+163.223.143.0/24,ipv4,AS153717,PT Diaza Lintas Data
+2407:ed40::/32,ipv6,AS153717,PT Diaza Lintas Data

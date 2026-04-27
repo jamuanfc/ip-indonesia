@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df4:3a40::/48,ipv6,AS153112,PT Luna Media Solusi
+160.30.225.0/24,ipv4,AS153112,PT Luna Media Solusi
+160.30.224.0/24,ipv4,AS153112,PT Luna Media Solusi
+160.30.224.0/23,ipv4,AS153112,PT Luna Media Solusi

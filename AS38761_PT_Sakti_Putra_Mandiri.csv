@@ -1,0 +1,10 @@
+prefix,ip_version,asn,asn_name
+121.100.27.0/24,ipv4,AS38761,PT. Sakti Putra Mandiri
+121.100.31.0/24,ipv4,AS38761,PT. Sakti Putra Mandiri
+121.100.30.0/24,ipv4,AS38761,PT. Sakti Putra Mandiri
+121.100.24.0/24,ipv4,AS38761,PT. Sakti Putra Mandiri
+121.100.26.0/24,ipv4,AS38761,PT. Sakti Putra Mandiri
+121.100.28.0/24,ipv4,AS38761,PT. Sakti Putra Mandiri
+121.100.25.0/24,ipv4,AS38761,PT. Sakti Putra Mandiri
+2406:8f00::/32,ipv6,AS38761,PT. Sakti Putra Mandiri
+121.100.29.0/24,ipv4,AS38761,PT. Sakti Putra Mandiri

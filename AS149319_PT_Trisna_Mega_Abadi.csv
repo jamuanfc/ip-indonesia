@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.178.20.0/23,ipv4,AS149319,PT Trisna Mega Abadi
+103.178.20.0/24,ipv4,AS149319,PT Trisna Mega Abadi
+2001:df2:3940::/48,ipv6,AS149319,PT Trisna Mega Abadi
+103.178.21.0/24,ipv4,AS149319,PT Trisna Mega Abadi

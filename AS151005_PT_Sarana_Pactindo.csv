@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.124.21.0/24,ipv4,AS151005,PT Sarana Pactindo
+103.124.20.0/23,ipv4,AS151005,PT Sarana Pactindo
+103.124.20.0/24,ipv4,AS151005,PT Sarana Pactindo

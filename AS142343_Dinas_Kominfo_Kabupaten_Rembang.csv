@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.169.139.0/24,ipv4,AS142343,Dinas Kominfo Kabupaten Rembang
+103.169.138.0/24,ipv4,AS142343,Dinas Kominfo Kabupaten Rembang
+103.169.138.0/23,ipv4,AS142343,Dinas Kominfo Kabupaten Rembang

@@ -1,0 +1,8 @@
+prefix,ip_version,asn,asn_name
+103.156.74.0/23,ipv4,AS141082,PT Trika Global Media
+103.251.8.0/24,ipv4,AS141082,PT Trika Global Media
+103.156.74.0/24,ipv4,AS141082,PT Trika Global Media
+103.251.8.0/23,ipv4,AS141082,PT Trika Global Media
+2406:8140::/32,ipv6,AS141082,PT Trika Global Media
+103.156.75.0/24,ipv4,AS141082,PT Trika Global Media
+103.251.9.0/24,ipv4,AS141082,PT Trika Global Media

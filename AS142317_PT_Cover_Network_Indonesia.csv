@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.168.159.0/24,ipv4,AS142317,PT Cover Network Indonesia
+103.168.158.0/24,ipv4,AS142317,PT Cover Network Indonesia
+103.168.158.0/23,ipv4,AS142317,PT Cover Network Indonesia
+2400:57e0::/32,ipv6,AS142317,PT Cover Network Indonesia

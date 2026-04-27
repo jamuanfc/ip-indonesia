@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df5:5740::/48,ipv6,AS138517,PT Six Nett Solusindo
+163.227.33.0/24,ipv4,AS138517,PT Six Nett Solusindo
+163.227.32.0/23,ipv4,AS138517,PT Six Nett Solusindo
+163.227.32.0/24,ipv4,AS138517,PT Six Nett Solusindo

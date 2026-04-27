@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.183.6.0/24,ipv4,AS149407,PT Sun Star Motor
+103.183.7.0/24,ipv4,AS149407,PT Sun Star Motor
+103.183.6.0/23,ipv4,AS149407,PT Sun Star Motor
+2001:df1:2140::/48,ipv6,AS149407,PT Sun Star Motor

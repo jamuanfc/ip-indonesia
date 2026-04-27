@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.231.114.0/24,ipv4,AS45724,"Multi Media Access, PT"
+103.231.115.0/24,ipv4,AS45724,"Multi Media Access, PT"
+202.8.28.0/24,ipv4,AS45724,"Multi Media Access, PT"
+103.231.113.0/24,ipv4,AS45724,"Multi Media Access, PT"
+202.8.29.0/24,ipv4,AS45724,"Multi Media Access, PT"

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.224.16.0/23,ipv4,AS151529,PT Jaringan Fiberone Indonesia
+103.224.17.0/24,ipv4,AS151529,PT Jaringan Fiberone Indonesia
+103.224.16.0/24,ipv4,AS151529,PT Jaringan Fiberone Indonesia

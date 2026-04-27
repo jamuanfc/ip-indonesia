@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.152.72.0/23,ipv4,AS140442,PT Nusantara Teknologi Semesta
+103.152.73.0/24,ipv4,AS140442,PT Nusantara Teknologi Semesta
+2001:df3:fd80::/48,ipv6,AS140442,PT Nusantara Teknologi Semesta
+103.152.72.0/24,ipv4,AS140442,PT Nusantara Teknologi Semesta

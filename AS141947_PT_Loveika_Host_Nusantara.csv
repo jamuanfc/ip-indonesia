@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.166.124.0/24,ipv4,AS141947,PT Loveika Host Nusantara
+103.166.125.0/24,ipv4,AS141947,PT Loveika Host Nusantara
+2001:df2:6c0::/48,ipv6,AS141947,PT Loveika Host Nusantara
+103.166.124.0/23,ipv4,AS141947,PT Loveika Host Nusantara

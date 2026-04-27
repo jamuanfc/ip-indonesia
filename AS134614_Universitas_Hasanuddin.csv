@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.185.193.0/24,ipv4,AS134614,Universitas Hasanuddin
+2405:f040::/32,ipv6,AS134614,Universitas Hasanuddin
+103.195.142.0/24,ipv4,AS134614,Universitas Hasanuddin

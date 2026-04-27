@@ -1,0 +1,13 @@
+prefix,ip_version,asn,asn_name
+2400:aca0::/32,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+2400:aca0:4000::/35,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+2400:aca0:6000::/35,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+103.186.97.0/24,ipv4,AS149693,PT Jaringan Datamedia Nusantara
+2400:aca0:a000::/35,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+2400:aca0::/35,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+2400:aca0:2000::/35,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+103.186.96.0/24,ipv4,AS149693,PT Jaringan Datamedia Nusantara
+2400:aca0:e000::/35,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+2400:aca0:8000::/35,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+2400:aca0:c000::/35,ipv6,AS149693,PT Jaringan Datamedia Nusantara
+103.186.96.0/23,ipv4,AS149693,PT Jaringan Datamedia Nusantara

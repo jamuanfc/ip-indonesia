@@ -1,0 +1,14 @@
+prefix,ip_version,asn,asn_name
+2406:be40:b15a::/48,ipv6,AS138818,Internet Ini Saja
+114.141.93.0/24,ipv4,AS138818,Internet Ini Saja
+114.141.91.0/24,ipv4,AS138818,Internet Ini Saja
+103.103.138.0/24,ipv4,AS138818,Internet Ini Saja
+114.141.95.0/24,ipv4,AS138818,Internet Ini Saja
+103.103.136.0/24,ipv4,AS138818,Internet Ini Saja
+2406:be40:babe::/48,ipv6,AS138818,Internet Ini Saja
+2406:be40:5758::/48,ipv6,AS138818,Internet Ini Saja
+2406:be40:ebe5::/48,ipv6,AS138818,Internet Ini Saja
+114.141.92.0/24,ipv4,AS138818,Internet Ini Saja
+2406:be40:cafe::/48,ipv6,AS138818,Internet Ini Saja
+114.141.94.0/24,ipv4,AS138818,Internet Ini Saja
+2406:be40:dead::/48,ipv6,AS138818,Internet Ini Saja

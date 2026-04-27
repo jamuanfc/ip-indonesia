@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.143.70.0/23,ipv4,AS139389,PT. Marawa Transmisi Media
+2405:4a40::/32,ipv6,AS139389,PT. Marawa Transmisi Media
+103.143.71.0/24,ipv4,AS139389,PT. Marawa Transmisi Media
+103.143.70.0/24,ipv4,AS139389,PT. Marawa Transmisi Media

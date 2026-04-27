@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.183.58.0/24,ipv4,AS149409,PT Core Digital Network
+103.183.59.0/24,ipv4,AS149409,PT Core Digital Network
+202.51.21.0/24,ipv4,AS149409,PT Core Digital Network
+202.51.20.0/24,ipv4,AS149409,PT Core Digital Network

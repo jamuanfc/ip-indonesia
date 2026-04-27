@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.159.195.0/24,ipv4,AS141145,PT Giga Digital Nusantara
+103.181.254.0/24,ipv4,AS141145,PT Giga Digital Nusantara
+103.181.255.0/24,ipv4,AS141145,PT Giga Digital Nusantara
+103.159.194.0/24,ipv4,AS141145,PT Giga Digital Nusantara
+2407:5440::/48,ipv6,AS141145,PT Giga Digital Nusantara

@@ -1,0 +1,3 @@
+prefix,ip_version,asn,asn_name
+103.196.85.0/24,ipv4,AS150931,PT Denta Sejahtera Group
+2001:df2:e540::/48,ipv6,AS150931,PT Denta Sejahtera Group

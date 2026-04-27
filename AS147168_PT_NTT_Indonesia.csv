@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2404:c8:8::/48,ipv6,AS147168,PT NTT Indonesia
+202.171.8.0/24,ipv4,AS147168,PT NTT Indonesia
+103.178.8.0/24,ipv4,AS147168,PT NTT Indonesia

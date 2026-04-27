@@ -1,0 +1,16 @@
+prefix,ip_version,asn,asn_name
+2402:3700:4::/48,ipv6,AS137346,PT Cyber Network Indonesia
+223.27.147.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+223.27.155.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+115.178.125.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+115.178.123.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+202.87.187.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+116.66.205.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+2402:3700:3::/48,ipv6,AS137346,PT Cyber Network Indonesia
+2402:3700:8::/48,ipv6,AS137346,PT Cyber Network Indonesia
+115.178.126.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+115.178.127.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+115.178.124.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+182.23.171.0/24,ipv4,AS137346,PT Cyber Network Indonesia
+2402:3700:11::/48,ipv6,AS137346,PT Cyber Network Indonesia
+2402:3700:13::/48,ipv6,AS137346,PT Cyber Network Indonesia

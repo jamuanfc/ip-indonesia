@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+160.191.192.0/23,ipv4,AS153155,PT Sigma Data Nusa
+160.191.192.0/24,ipv4,AS153155,PT Sigma Data Nusa
+160.191.193.0/24,ipv4,AS153155,PT Sigma Data Nusa

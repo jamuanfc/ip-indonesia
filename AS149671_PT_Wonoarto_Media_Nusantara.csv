@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.185.46.0/23,ipv4,AS149671,PT Wonoarto Media Nusantara
+103.185.47.0/24,ipv4,AS149671,PT Wonoarto Media Nusantara
+103.185.46.0/24,ipv4,AS149671,PT Wonoarto Media Nusantara

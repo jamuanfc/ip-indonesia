@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2001:df5:3a00::/48,ipv6,AS56256,Perpustakaan Nasional RI
+103.41.109.0/24,ipv4,AS56256,Perpustakaan Nasional RI
+103.28.21.0/24,ipv4,AS56256,Perpustakaan Nasional RI

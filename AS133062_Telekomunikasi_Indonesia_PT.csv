@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2001:448a:f000::/48,ipv6,AS133062,Telekomunikasi Indonesia (PT)
+160.187.16.0/24,ipv4,AS133062,Telekomunikasi Indonesia (PT)
+160.187.17.0/24,ipv4,AS133062,Telekomunikasi Indonesia (PT)

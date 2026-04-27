@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.160.202.0/23,ipv4,AS141606,PT Sembilan Mediadata Nusaraya
+103.160.202.0/24,ipv4,AS141606,PT Sembilan Mediadata Nusaraya
+103.160.203.0/24,ipv4,AS141606,PT Sembilan Mediadata Nusaraya

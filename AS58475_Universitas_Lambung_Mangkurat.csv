@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.23.233.0/24,ipv4,AS58475,Universitas Lambung Mangkurat
+103.23.232.0/24,ipv4,AS58475,Universitas Lambung Mangkurat
+103.81.100.0/24,ipv4,AS58475,Universitas Lambung Mangkurat
+2405:1e40::/32,ipv6,AS58475,Universitas Lambung Mangkurat

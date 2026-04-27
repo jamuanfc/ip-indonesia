@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+144.79.9.0/24,ipv4,AS154400,PT Jaringan Merah Putih
+2001:df6:59c0::/48,ipv6,AS154400,PT Jaringan Merah Putih
+163.128.191.0/24,ipv4,AS154400,PT Jaringan Merah Putih

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.144.103.0/24,ipv4,AS139421,PT Dharma Sarana Solusindo
+2405:6b40::/32,ipv6,AS139421,PT Dharma Sarana Solusindo
+103.144.102.0/24,ipv4,AS139421,PT Dharma Sarana Solusindo

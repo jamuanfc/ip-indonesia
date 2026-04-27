@@ -1,0 +1,13 @@
+prefix,ip_version,asn,asn_name
+103.8.63.0/24,ipv4,AS131702,Moratelindo Internet Exchange Point
+2400:dc00:4003::/48,ipv6,AS131702,Moratelindo Internet Exchange Point
+103.111.147.0/24,ipv4,AS131702,Moratelindo Internet Exchange Point
+103.129.251.0/24,ipv4,AS131702,Moratelindo Internet Exchange Point
+2400:dc00:8101::/48,ipv6,AS131702,Moratelindo Internet Exchange Point
+2400:dc00:fc01::/48,ipv6,AS131702,Moratelindo Internet Exchange Point
+103.111.145.0/24,ipv4,AS131702,Moratelindo Internet Exchange Point
+45.121.219.0/24,ipv4,AS131702,Moratelindo Internet Exchange Point
+45.121.217.0/24,ipv4,AS131702,Moratelindo Internet Exchange Point
+2400:dc00:8100::/48,ipv6,AS131702,Moratelindo Internet Exchange Point
+2400:dc00:4008::/48,ipv6,AS131702,Moratelindo Internet Exchange Point
+103.154.227.0/24,ipv4,AS131702,Moratelindo Internet Exchange Point

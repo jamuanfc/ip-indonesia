@@ -1,0 +1,3 @@
+prefix,ip_version,asn,asn_name
+2405:aac0:222::/48,ipv6,AS139970,Batam Internet Exchange
+103.147.53.0/24,ipv4,AS139970,Batam Internet Exchange

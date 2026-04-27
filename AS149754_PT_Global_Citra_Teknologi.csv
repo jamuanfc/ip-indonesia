@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.189.165.0/24,ipv4,AS149754,PT Global Citra Teknologi
+103.246.168.0/24,ipv4,AS149754,PT Global Citra Teknologi
+2001:df1:9fc0::/48,ipv6,AS149754,PT Global Citra Teknologi

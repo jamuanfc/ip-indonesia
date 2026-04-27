@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.162.16.0/24,ipv4,AS141636,PT Mega Data Perkasa
+103.162.17.0/24,ipv4,AS141636,PT Mega Data Perkasa
+2400:afa0::/32,ipv6,AS141636,PT Mega Data Perkasa

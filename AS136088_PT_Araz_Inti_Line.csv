@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.87.228.0/24,ipv4,AS136088,PT. Araz Inti Line
+103.87.230.0/24,ipv4,AS136088,PT. Araz Inti Line
+103.87.229.0/24,ipv4,AS136088,PT. Araz Inti Line
+2400:d940::/32,ipv6,AS136088,PT. Araz Inti Line
+103.87.231.0/24,ipv4,AS136088,PT. Araz Inti Line

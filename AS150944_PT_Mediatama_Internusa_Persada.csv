@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2401:2f60:2::/48,ipv6,AS150944,PT Mediatama Internusa Persada
+103.107.176.0/24,ipv4,AS150944,PT Mediatama Internusa Persada
+103.107.177.0/24,ipv4,AS150944,PT Mediatama Internusa Persada
+103.107.176.0/23,ipv4,AS150944,PT Mediatama Internusa Persada

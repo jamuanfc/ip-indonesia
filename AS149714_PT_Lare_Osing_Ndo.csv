@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.186.212.0/24,ipv4,AS149714,PT Lare Osing Ndo
+2001:df1:56c0::/48,ipv6,AS149714,PT Lare Osing Ndo
+103.186.213.0/24,ipv4,AS149714,PT Lare Osing Ndo
+103.186.212.0/23,ipv4,AS149714,PT Lare Osing Ndo

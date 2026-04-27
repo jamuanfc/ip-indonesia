@@ -1,0 +1,13 @@
+prefix,ip_version,asn,asn_name
+103.200.7.0/24,ipv4,AS134451,NewMedia Express Pte Ltd
+103.60.9.0/24,ipv4,AS134451,NewMedia Express Pte Ltd
+2406:f400:120::/44,ipv6,AS134451,NewMedia Express Pte Ltd
+203.114.74.0/24,ipv4,AS134451,NewMedia Express Pte Ltd
+172.111.158.0/24,ipv4,AS134451,NewMedia Express Pte Ltd
+203.114.72.0/24,ipv4,AS134451,NewMedia Express Pte Ltd
+2402:2f80:5::/48,ipv6,AS134451,NewMedia Express Pte Ltd
+45.114.118.0/24,ipv4,AS134451,NewMedia Express Pte Ltd
+2402:2f80:7::/48,ipv6,AS134451,NewMedia Express Pte Ltd
+104.250.105.0/24,ipv4,AS134451,NewMedia Express Pte Ltd
+2402:2f80:6::/48,ipv6,AS134451,NewMedia Express Pte Ltd
+196.18.172.0/23,ipv4,AS134451,NewMedia Express Pte Ltd

@@ -1,0 +1,15 @@
+prefix,ip_version,asn,asn_name
+103.123.96.0/23,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+103.123.99.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+202.43.251.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+103.123.98.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+2403:9f40::/32,ipv6,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+202.43.253.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+103.123.96.0/22,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+103.123.96.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+103.123.97.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+202.43.254.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+202.43.255.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+202.43.250.0/23,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+202.43.250.0/24,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara
+103.123.98.0/23,ipv4,AS138074,PT. Wowrack Cepat Teknologi Nusantara

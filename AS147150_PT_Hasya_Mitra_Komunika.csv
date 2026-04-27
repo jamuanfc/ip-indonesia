@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.177.102.0/24,ipv4,AS147150,PT Hasya Mitra Komunika
+103.255.108.0/24,ipv4,AS147150,PT Hasya Mitra Komunika
+103.177.102.0/23,ipv4,AS147150,PT Hasya Mitra Komunika
+103.177.103.0/24,ipv4,AS147150,PT Hasya Mitra Komunika

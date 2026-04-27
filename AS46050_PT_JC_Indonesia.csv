@@ -1,0 +1,8 @@
+prefix,ip_version,asn,asn_name
+103.30.146.0/24,ipv4,AS46050,PT JC Indonesia
+103.30.145.0/24,ipv4,AS46050,PT JC Indonesia
+103.30.147.0/24,ipv4,AS46050,PT JC Indonesia
+103.30.144.0/24,ipv4,AS46050,PT JC Indonesia
+203.161.185.0/24,ipv4,AS46050,PT JC Indonesia
+2001:df5:d200::/48,ipv6,AS46050,PT JC Indonesia
+203.161.184.0/24,ipv4,AS46050,PT JC Indonesia

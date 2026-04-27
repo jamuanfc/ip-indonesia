@@ -1,0 +1,12 @@
+prefix,ip_version,asn,asn_name
+2a14:7581:4946::/48,ipv6,AS135659,PT Detroit Network Indonesia
+2a14:7581:4949::/48,ipv6,AS135659,PT Detroit Network Indonesia
+2a14:7581:4947::/48,ipv6,AS135659,PT Detroit Network Indonesia
+2a14:7581:4948::/48,ipv6,AS135659,PT Detroit Network Indonesia
+2a14:7581:4945::/48,ipv6,AS135659,PT Detroit Network Indonesia
+160.250.227.0/24,ipv4,AS135659,PT Detroit Network Indonesia
+2a14:7581:4942::/48,ipv6,AS135659,PT Detroit Network Indonesia
+2a14:7581:4944::/48,ipv6,AS135659,PT Detroit Network Indonesia
+2001:df4:c6c0::/48,ipv6,AS135659,PT Detroit Network Indonesia
+2a14:7581:4940::/44,ipv6,AS135659,PT Detroit Network Indonesia
+2a14:7581:4943::/48,ipv6,AS135659,PT Detroit Network Indonesia

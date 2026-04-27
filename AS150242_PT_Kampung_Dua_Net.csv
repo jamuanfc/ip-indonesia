@@ -1,0 +1,3 @@
+prefix,ip_version,asn,asn_name
+103.76.91.0/24,ipv4,AS150242,PT Kampung Dua Net
+2001:df2:7fc0::/48,ipv6,AS150242,PT Kampung Dua Net

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+202.52.52.0/24,ipv4,AS46057,Universitas Muhammadiyah Malang
+103.10.144.0/24,ipv4,AS46057,Universitas Muhammadiyah Malang
+2406:efc0::/32,ipv6,AS46057,Universitas Muhammadiyah Malang

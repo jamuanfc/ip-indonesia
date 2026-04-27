@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.158.250.0/23,ipv4,AS141134,PT Vissie Cyber Data
+103.158.250.0/24,ipv4,AS141134,PT Vissie Cyber Data
+2406:c5c0::/32,ipv6,AS141134,PT Vissie Cyber Data
+103.158.251.0/24,ipv4,AS141134,PT Vissie Cyber Data

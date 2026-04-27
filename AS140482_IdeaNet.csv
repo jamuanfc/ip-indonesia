@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.231.171.0/24,ipv4,AS140482,IdeaNet
+103.22.136.0/22,ipv4,AS140482,IdeaNet
+103.152.141.0/24,ipv4,AS140482,IdeaNet
+27.112.77.0/24,ipv4,AS140482,IdeaNet
+103.152.140.0/24,ipv4,AS140482,IdeaNet

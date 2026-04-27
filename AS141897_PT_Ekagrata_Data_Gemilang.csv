@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.163.22.0/24,ipv4,AS141897,PT Ekagrata Data Gemilang
+103.163.22.0/23,ipv4,AS141897,PT Ekagrata Data Gemilang
+103.163.23.0/24,ipv4,AS141897,PT Ekagrata Data Gemilang

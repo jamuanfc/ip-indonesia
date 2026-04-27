@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.153.134.0/24,ipv4,AS140464,PT Widara Media Informasi
+103.153.135.0/24,ipv4,AS140464,PT Widara Media Informasi
+2406:4540::/32,ipv6,AS140464,PT Widara Media Informasi

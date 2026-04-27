@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.94.251.0/24,ipv4,AS138884,PT Centronet Data Indonesia
+2404:ce40::/32,ipv6,AS138884,PT Centronet Data Indonesia
+103.138.71.0/24,ipv4,AS138884,PT Centronet Data Indonesia
+103.94.250.0/24,ipv4,AS138884,PT Centronet Data Indonesia
+103.138.70.0/24,ipv4,AS138884,PT Centronet Data Indonesia

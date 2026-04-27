@@ -1,0 +1,10 @@
+prefix,ip_version,asn,asn_name
+103.142.194.0/24,ipv4,AS138866,PT Mitra Media Data
+103.140.131.0/24,ipv4,AS138866,PT Mitra Media Data
+2404:fec0::/32,ipv6,AS138866,PT Mitra Media Data
+2404:fec0:7071::/48,ipv6,AS138866,PT Mitra Media Data
+2404:fec0:5::/48,ipv6,AS138866,PT Mitra Media Data
+103.140.130.0/24,ipv4,AS138866,PT Mitra Media Data
+2404:fec0:2024::/48,ipv6,AS138866,PT Mitra Media Data
+2404:fec0:2025::/48,ipv6,AS138866,PT Mitra Media Data
+2404:fec0:2023::/48,ipv6,AS138866,PT Mitra Media Data

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2001:df4:7c0::/48,ipv6,AS151575,PT Jelajah Kreasi Informatika
+103.99.137.0/24,ipv4,AS151575,PT Jelajah Kreasi Informatika
+103.99.136.0/24,ipv4,AS151575,PT Jelajah Kreasi Informatika

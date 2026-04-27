@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df5:7f40::/48,ipv6,AS153895,PT Rajasa Sinergi Komunikasi
+163.227.248.0/23,ipv4,AS153895,PT Rajasa Sinergi Komunikasi
+163.227.249.0/24,ipv4,AS153895,PT Rajasa Sinergi Komunikasi
+163.227.248.0/24,ipv4,AS153895,PT Rajasa Sinergi Komunikasi

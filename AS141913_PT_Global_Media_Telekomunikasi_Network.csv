@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.164.230.0/24,ipv4,AS141913,PT Global Media Telekomunikasi Network
+103.164.230.0/23,ipv4,AS141913,PT Global Media Telekomunikasi Network
+103.164.231.0/24,ipv4,AS141913,PT Global Media Telekomunikasi Network

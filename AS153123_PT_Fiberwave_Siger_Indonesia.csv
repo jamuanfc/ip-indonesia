@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+160.187.136.0/24,ipv4,AS153123,PT Fiberwave Siger Indonesia
+2001:df4:54c0::/48,ipv6,AS153123,PT Fiberwave Siger Indonesia
+160.187.137.0/24,ipv4,AS153123,PT Fiberwave Siger Indonesia

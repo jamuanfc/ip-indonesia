@@ -1,0 +1,9 @@
+prefix,ip_version,asn,asn_name
+103.234.209.0/24,ipv4,AS38767,PT Awan Media Semesta
+103.234.208.0/24,ipv4,AS38767,PT Awan Media Semesta
+103.234.210.0/24,ipv4,AS38767,PT Awan Media Semesta
+2001:df7:3c00::/48,ipv6,AS38767,PT Awan Media Semesta
+103.234.208.0/23,ipv4,AS38767,PT Awan Media Semesta
+103.234.210.0/23,ipv4,AS38767,PT Awan Media Semesta
+103.234.208.0/22,ipv4,AS38767,PT Awan Media Semesta
+103.234.211.0/24,ipv4,AS38767,PT Awan Media Semesta

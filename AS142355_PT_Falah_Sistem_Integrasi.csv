@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.169.221.0/24,ipv4,AS142355,PT Falah Sistem Integrasi
+103.169.220.0/23,ipv4,AS142355,PT Falah Sistem Integrasi
+103.169.220.0/24,ipv4,AS142355,PT Falah Sistem Integrasi

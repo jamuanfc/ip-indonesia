@@ -1,0 +1,3 @@
+prefix,ip_version,asn,asn_name
+103.212.211.0/24,ipv4,AS64026,Pemerintah Kabupaten Cirebon
+2001:df1:6a00::/48,ipv6,AS64026,Pemerintah Kabupaten Cirebon

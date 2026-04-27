@@ -1,0 +1,3 @@
+prefix,ip_version,asn,asn_name
+165.101.30.0/24,ipv4,AS150690,PT Shankara Kalandra Jaya
+2001:df5:c040::/48,ipv6,AS150690,PT Shankara Kalandra Jaya

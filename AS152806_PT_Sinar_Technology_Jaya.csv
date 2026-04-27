@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+160.22.27.0/24,ipv4,AS152806,PT Sinar Technology Jaya
+2001:df3:e040::/48,ipv6,AS152806,PT Sinar Technology Jaya
+160.22.26.0/24,ipv4,AS152806,PT Sinar Technology Jaya
+160.22.26.0/23,ipv4,AS152806,PT Sinar Technology Jaya

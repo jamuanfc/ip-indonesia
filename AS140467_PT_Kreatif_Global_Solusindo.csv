@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.153.150.0/24,ipv4,AS140467,PT Kreatif Global Solusindo
+2406:4640::/32,ipv6,AS140467,PT Kreatif Global Solusindo
+103.235.65.0/24,ipv4,AS140467,PT Kreatif Global Solusindo

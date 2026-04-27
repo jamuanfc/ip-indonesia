@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+157.20.91.0/24,ipv4,AS152395,PT Giga Global Network
+157.20.90.0/23,ipv4,AS152395,PT Giga Global Network
+2001:df3:84c0::/48,ipv6,AS152395,PT Giga Global Network
+157.20.90.0/24,ipv4,AS152395,PT Giga Global Network

@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+202.133.67.0/24,ipv4,AS149925,PT Sakti Wijaya Network
+103.115.20.0/24,ipv4,AS149925,PT Sakti Wijaya Network
+2001:df2:7a40::/48,ipv6,AS149925,PT Sakti Wijaya Network
+103.191.165.0/24,ipv4,AS149925,PT Sakti Wijaya Network
+202.133.66.0/24,ipv4,AS149925,PT Sakti Wijaya Network

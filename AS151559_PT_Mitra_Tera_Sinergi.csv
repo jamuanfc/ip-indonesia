@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.38.108.0/24,ipv4,AS151559,PT Mitra Tera Sinergi
+103.38.108.0/23,ipv4,AS151559,PT Mitra Tera Sinergi
+103.38.109.0/24,ipv4,AS151559,PT Mitra Tera Sinergi

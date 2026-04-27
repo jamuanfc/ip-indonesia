@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.138.166.0/24,ipv4,AS150980,PT Menara Digital Salama
+2001:df2:74c0::/48,ipv6,AS150980,PT Menara Digital Salama
+103.70.122.0/24,ipv4,AS150980,PT Menara Digital Salama
+103.138.167.0/24,ipv4,AS150980,PT Menara Digital Salama
+103.70.123.0/24,ipv4,AS150980,PT Menara Digital Salama

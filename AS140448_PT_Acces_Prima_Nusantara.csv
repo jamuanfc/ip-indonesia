@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2406:3840::/32,ipv6,AS140448,PT Acces Prima Nusantara
+103.152.238.0/23,ipv4,AS140448,PT Acces Prima Nusantara
+103.152.239.0/24,ipv4,AS140448,PT Acces Prima Nusantara
+103.152.238.0/24,ipv4,AS140448,PT Acces Prima Nusantara

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.142.210.0/23,ipv4,AS139387,Pemerintah Kabupaten Gresik
+103.142.211.0/24,ipv4,AS139387,Pemerintah Kabupaten Gresik
+103.142.210.0/24,ipv4,AS139387,Pemerintah Kabupaten Gresik

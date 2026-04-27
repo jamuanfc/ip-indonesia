@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+2400:c260:ffff::/48,ipv6,AS141618,PT Asia Central Telematika
+103.161.109.0/24,ipv4,AS141618,PT Asia Central Telematika
+103.46.198.0/24,ipv4,AS141618,PT Asia Central Telematika
+2400:c260:10::/48,ipv6,AS141618,PT Asia Central Telematika
+103.174.66.0/24,ipv4,AS141618,PT Asia Central Telematika

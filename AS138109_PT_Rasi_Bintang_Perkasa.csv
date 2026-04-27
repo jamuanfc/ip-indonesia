@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.126.87.0/24,ipv4,AS138109,PT. Rasi Bintang Perkasa
+103.126.86.0/24,ipv4,AS138109,PT. Rasi Bintang Perkasa
+103.112.194.0/24,ipv4,AS138109,PT. Rasi Bintang Perkasa
+103.126.84.0/24,ipv4,AS138109,PT. Rasi Bintang Perkasa
+2404:7c0::/32,ipv6,AS138109,PT. Rasi Bintang Perkasa

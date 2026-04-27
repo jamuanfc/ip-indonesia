@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.186.204.0/24,ipv4,AS149723,PT Afna Digital Indonesia
+103.138.53.0/24,ipv4,AS149723,PT Afna Digital Indonesia
+2001:df2:79c0::/48,ipv6,AS149723,PT Afna Digital Indonesia

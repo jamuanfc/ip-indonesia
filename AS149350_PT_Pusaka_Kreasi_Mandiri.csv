@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.179.253.0/24,ipv4,AS149350,PT Pusaka Kreasi Mandiri
+2001:df2:8540::/48,ipv6,AS149350,PT Pusaka Kreasi Mandiri
+103.179.252.0/24,ipv4,AS149350,PT Pusaka Kreasi Mandiri

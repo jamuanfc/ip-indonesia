@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.163.134.0/24,ipv4,AS141902,PT Jawa Provider Telematika
+103.163.135.0/24,ipv4,AS141902,PT Jawa Provider Telematika
+103.187.222.0/24,ipv4,AS141902,PT Jawa Provider Telematika
+2001:df0:3f40::/48,ipv6,AS141902,PT Jawa Provider Telematika

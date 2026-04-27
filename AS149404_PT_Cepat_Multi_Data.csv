@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.183.8.0/23,ipv4,AS149404,PT Cepat Multi Data
+103.183.9.0/24,ipv4,AS149404,PT Cepat Multi Data
+2001:df7:cd00::/48,ipv6,AS149404,PT Cepat Multi Data
+103.183.8.0/24,ipv4,AS149404,PT Cepat Multi Data

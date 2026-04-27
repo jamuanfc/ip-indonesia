@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+203.175.102.0/24,ipv4,AS152014,PT. Mitra Kita Brilian
+203.175.103.0/24,ipv4,AS152014,PT. Mitra Kita Brilian
+203.175.102.0/23,ipv4,AS152014,PT. Mitra Kita Brilian

@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+103.141.149.0/24,ipv4,AS138890,PT Acehlink Media
+103.141.148.0/24,ipv4,AS138890,PT Acehlink Media
+103.141.148.0/23,ipv4,AS138890,PT Acehlink Media
+154.47.153.0/24,ipv4,AS138890,PT Acehlink Media

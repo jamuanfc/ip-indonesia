@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.68.233.0/24,ipv4,AS150541,PT Oren Abadi Sakti
+103.68.232.0/24,ipv4,AS150541,PT Oren Abadi Sakti
+103.68.232.0/23,ipv4,AS150541,PT Oren Abadi Sakti

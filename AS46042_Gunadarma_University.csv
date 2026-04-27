@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+202.124.199.0/24,ipv4,AS46042,Gunadarma University
+2001:df0:255::/48,ipv6,AS46042,Gunadarma University
+202.124.198.0/24,ipv4,AS46042,Gunadarma University
+202.125.95.0/24,ipv4,AS46042,Gunadarma University
+202.125.94.0/24,ipv4,AS46042,Gunadarma University

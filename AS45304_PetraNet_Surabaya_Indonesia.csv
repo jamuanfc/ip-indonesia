@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+203.189.123.0/24,ipv4,AS45304,"PetraNet, Surabaya, Indonesia"
+203.189.120.0/24,ipv4,AS45304,"PetraNet, Surabaya, Indonesia"
+203.189.122.0/24,ipv4,AS45304,"PetraNet, Surabaya, Indonesia"
+203.189.121.0/24,ipv4,AS45304,"PetraNet, Surabaya, Indonesia"

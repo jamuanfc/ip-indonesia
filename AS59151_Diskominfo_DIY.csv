@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+103.131.104.0/24,ipv4,AS59151,Diskominfo DIY
+2400:e320::/32,ipv6,AS59151,Diskominfo DIY
+103.255.15.0/24,ipv4,AS59151,Diskominfo DIY
+103.210.35.0/24,ipv4,AS59151,Diskominfo DIY
+103.131.104.0/23,ipv4,AS59151,Diskominfo DIY
+103.131.105.0/24,ipv4,AS59151,Diskominfo DIY

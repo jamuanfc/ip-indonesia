@@ -1,0 +1,12 @@
+prefix,ip_version,asn,asn_name
+202.47.185.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+2401:5520::/32,ipv6,AS152032,PT Putra Garsel Interkoneksi
+38.226.240.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+38.226.242.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+38.211.24.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+38.226.243.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+38.211.25.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+103.152.148.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+103.152.149.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+202.47.184.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi
+38.226.241.0/24,ipv4,AS152032,PT Putra Garsel Interkoneksi

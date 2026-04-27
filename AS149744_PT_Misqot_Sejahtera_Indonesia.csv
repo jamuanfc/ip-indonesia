@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df0:d140::/48,ipv6,AS149744,PT Misqot Sejahtera Indonesia
+103.187.162.0/23,ipv4,AS149744,PT Misqot Sejahtera Indonesia
+103.187.163.0/24,ipv4,AS149744,PT Misqot Sejahtera Indonesia
+103.187.162.0/24,ipv4,AS149744,PT Misqot Sejahtera Indonesia

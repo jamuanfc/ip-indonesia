@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.170.32.0/23,ipv4,AS142361,PT Razanet Infotama Mandiri
+103.170.32.0/24,ipv4,AS142361,PT Razanet Infotama Mandiri
+103.170.33.0/24,ipv4,AS142361,PT Razanet Infotama Mandiri

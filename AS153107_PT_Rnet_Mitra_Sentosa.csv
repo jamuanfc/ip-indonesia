@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+160.25.197.0/24,ipv4,AS153107,PT Rnet Mitra Sentosa
+160.25.196.0/23,ipv4,AS153107,PT Rnet Mitra Sentosa
+2402:4520::/32,ipv6,AS153107,PT Rnet Mitra Sentosa
+160.25.196.0/24,ipv4,AS153107,PT Rnet Mitra Sentosa

@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+2403:31c0::/32,ipv6,AS137376,PT Tele Net
+103.118.124.0/22,ipv4,AS137376,PT Tele Net
+103.118.127.0/24,ipv4,AS137376,PT Tele Net
+103.118.126.0/24,ipv4,AS137376,PT Tele Net
+103.118.125.0/24,ipv4,AS137376,PT Tele Net
+103.118.124.0/24,ipv4,AS137376,PT Tele Net

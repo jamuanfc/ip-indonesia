@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2a01:e281:a300::/44,ipv6,AS215223,Mohammad Raska
+2a14:7581:4820::/48,ipv6,AS215223,Mohammad Raska
+2a14:7581:4821::/48,ipv6,AS215223,Mohammad Raska
+2a0f:85c1:3a6::/48,ipv6,AS215223,Mohammad Raska

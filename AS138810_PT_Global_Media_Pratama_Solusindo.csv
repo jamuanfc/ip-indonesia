@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+2404:6d40:80::/41,ipv6,AS138810,PT Global Media Pratama Solusindo
+103.134.221.0/24,ipv4,AS138810,PT Global Media Pratama Solusindo
+2404:6d40:81::/48,ipv6,AS138810,PT Global Media Pratama Solusindo
+103.134.222.0/24,ipv4,AS138810,PT Global Media Pratama Solusindo
+2404:6d40:ffff::/48,ipv6,AS138810,PT Global Media Pratama Solusindo
+103.134.220.0/24,ipv4,AS138810,PT Global Media Pratama Solusindo

@@ -1,0 +1,14 @@
+prefix,ip_version,asn,asn_name
+2405:8740::/32,ipv6,AS46019,Universitas Brawijaya
+175.45.185.0/24,ipv4,AS46019,Universitas Brawijaya
+175.45.188.0/24,ipv4,AS46019,Universitas Brawijaya
+2405:8740:3f15::/48,ipv6,AS46019,Universitas Brawijaya
+175.45.190.0/24,ipv4,AS46019,Universitas Brawijaya
+175.45.184.0/24,ipv4,AS46019,Universitas Brawijaya
+2405:8740:3f07::/48,ipv6,AS46019,Universitas Brawijaya
+175.45.187.0/24,ipv4,AS46019,Universitas Brawijaya
+175.45.184.0/21,ipv4,AS46019,Universitas Brawijaya
+175.45.186.0/24,ipv4,AS46019,Universitas Brawijaya
+175.45.189.0/24,ipv4,AS46019,Universitas Brawijaya
+175.45.191.0/24,ipv4,AS46019,Universitas Brawijaya
+2405:8740:3f10::/48,ipv6,AS46019,Universitas Brawijaya

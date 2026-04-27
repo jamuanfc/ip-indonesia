@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2001:df2:5640::/48,ipv6,AS149935,PT Hanania Nusantara Abadi
+103.146.147.0/24,ipv4,AS149935,PT Hanania Nusantara Abadi
+103.6.166.0/24,ipv4,AS149935,PT Hanania Nusantara Abadi

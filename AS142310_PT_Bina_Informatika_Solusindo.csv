@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.168.47.0/24,ipv4,AS142310,PT Bina Informatika Solusindo
+103.168.46.0/24,ipv4,AS142310,PT Bina Informatika Solusindo
+2407:a540::/32,ipv6,AS142310,PT Bina Informatika Solusindo

@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+103.193.166.0/23,ipv4,AS150185,PT Prima Nala Mandiri
+103.193.166.0/24,ipv4,AS150185,PT Prima Nala Mandiri
+103.193.167.0/24,ipv4,AS150185,PT Prima Nala Mandiri

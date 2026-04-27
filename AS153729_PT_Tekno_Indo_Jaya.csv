@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2001:df5:3d40::/48,ipv6,AS153729,PT Tekno Indo Jaya
+163.223.112.0/24,ipv4,AS153729,PT Tekno Indo Jaya
+38.253.121.0/24,ipv4,AS153729,PT Tekno Indo Jaya
+38.253.120.0/24,ipv4,AS153729,PT Tekno Indo Jaya

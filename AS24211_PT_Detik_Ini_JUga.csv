@@ -1,0 +1,13 @@
+prefix,ip_version,asn,asn_name
+203.190.240.0/23,ipv4,AS24211,PT. Detik Ini JUga
+103.49.222.0/23,ipv4,AS24211,PT. Detik Ini JUga
+203.190.240.0/21,ipv4,AS24211,PT. Detik Ini JUga
+103.49.220.0/22,ipv4,AS24211,PT. Detik Ini JUga
+103.49.220.0/23,ipv4,AS24211,PT. Detik Ini JUga
+2402:a000:8000::/34,ipv6,AS24211,PT. Detik Ini JUga
+2402:a000:c000::/34,ipv6,AS24211,PT. Detik Ini JUga
+203.190.246.0/23,ipv4,AS24211,PT. Detik Ini JUga
+203.190.247.0/24,ipv4,AS24211,PT. Detik Ini JUga
+203.190.242.0/23,ipv4,AS24211,PT. Detik Ini JUga
+203.190.244.0/23,ipv4,AS24211,PT. Detik Ini JUga
+2402:a000::/34,ipv6,AS24211,PT. Detik Ini JUga

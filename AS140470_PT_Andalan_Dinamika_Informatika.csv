@@ -1,0 +1,10 @@
+prefix,ip_version,asn,asn_name
+2407:f340:4000::/34,ipv6,AS140470,PT Andalan Dinamika Informatika
+2407:f340:c000::/34,ipv6,AS140470,PT Andalan Dinamika Informatika
+2407:f340::/34,ipv6,AS140470,PT Andalan Dinamika Informatika
+2407:f340:2::/48,ipv6,AS140470,PT Andalan Dinamika Informatika
+157.20.37.0/24,ipv4,AS140470,PT Andalan Dinamika Informatika
+103.159.197.0/24,ipv4,AS140470,PT Andalan Dinamika Informatika
+157.20.36.0/24,ipv4,AS140470,PT Andalan Dinamika Informatika
+2407:f340:8000::/34,ipv6,AS140470,PT Andalan Dinamika Informatika
+103.159.196.0/24,ipv4,AS140470,PT Andalan Dinamika Informatika

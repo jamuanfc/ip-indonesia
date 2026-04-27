@@ -1,0 +1,4 @@
+prefix,ip_version,asn,asn_name
+2402:3760::/32,ipv6,AS134077,PT Telkom Infrastruktur Indonesia
+138.252.140.0/24,ipv4,AS134077,PT Telkom Infrastruktur Indonesia
+138.252.141.0/24,ipv4,AS134077,PT Telkom Infrastruktur Indonesia

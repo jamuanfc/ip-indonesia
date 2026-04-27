@@ -1,0 +1,5 @@
+prefix,ip_version,asn,asn_name
+2406:7a00:ffff::/48,ipv6,AS46031,PT Telkom Satelit Indonesia
+118.151.212.0/24,ipv4,AS46031,PT Telkom Satelit Indonesia
+118.151.214.0/24,ipv4,AS46031,PT Telkom Satelit Indonesia
+118.151.213.0/24,ipv4,AS46031,PT Telkom Satelit Indonesia

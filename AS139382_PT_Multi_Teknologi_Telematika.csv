@@ -1,0 +1,6 @@
+prefix,ip_version,asn,asn_name
+103.142.240.0/24,ipv4,AS139382,PT Multi Teknologi Telematika
+38.246.91.0/24,ipv4,AS139382,PT Multi Teknologi Telematika
+2405:45c0:1::/48,ipv6,AS139382,PT Multi Teknologi Telematika
+103.142.241.0/24,ipv4,AS139382,PT Multi Teknologi Telematika
+2405:45c0::/32,ipv6,AS139382,PT Multi Teknologi Telematika

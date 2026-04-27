@@ -1,0 +1,7 @@
+prefix,ip_version,asn,asn_name
+124.40.248.0/24,ipv4,AS142327,PT Internet Prima Nusantara
+103.168.250.0/24,ipv4,AS142327,PT Internet Prima Nusantara
+103.168.251.0/24,ipv4,AS142327,PT Internet Prima Nusantara
+43.252.104.0/24,ipv4,AS142327,PT Internet Prima Nusantara
+2001:df2:9740::/48,ipv6,AS142327,PT Internet Prima Nusantara
+124.40.253.0/24,ipv4,AS142327,PT Internet Prima Nusantara

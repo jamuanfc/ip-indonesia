@@ -1,0 +1,8 @@
+prefix,ip_version,asn,asn_name
+2001:df7:c180::/48,ipv6,AS147087,PT Jaringan Internet Banten
+103.173.230.0/23,ipv4,AS147087,PT Jaringan Internet Banten
+103.173.231.0/24,ipv4,AS147087,PT Jaringan Internet Banten
+103.69.106.0/24,ipv4,AS147087,PT Jaringan Internet Banten
+103.173.230.0/24,ipv4,AS147087,PT Jaringan Internet Banten
+103.69.107.0/24,ipv4,AS147087,PT Jaringan Internet Banten
+103.69.106.0/23,ipv4,AS147087,PT Jaringan Internet Banten

@@ -1,0 +1,13 @@
+prefix,ip_version,asn,asn_name
+103.147.52.0/24,ipv4,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:10::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:100::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:13::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:7::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:56::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:55::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:6::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:fe::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:500::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:53::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
+2405:aac0:8::/48,ipv6,AS139949,PT. Bintang Kejora Teknologi
