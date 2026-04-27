@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.165.250.0/24,ipv4,AS141937,PT Aulia Sentral Multidata
-103.165.251.0/24,ipv4,AS141937,PT Aulia Sentral Multidata
-2001:df2:22c0::/48,ipv6,AS141937,PT Aulia Sentral Multidata
+103.165.250.0/24
+103.165.251.0/24
+2001:df2:22c0::/48

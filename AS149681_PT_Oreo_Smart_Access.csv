@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.185.40.0/24,ipv4,AS149681,PT Oreo Smart Access
-103.185.41.0/24,ipv4,AS149681,PT Oreo Smart Access
+103.185.40.0/24
+103.185.41.0/24

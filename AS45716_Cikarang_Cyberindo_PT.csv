@@ -1,7 +1,6 @@
-prefix,ip_version,asn,asn_name
-113.20.139.0/24,ipv4,AS45716,Cikarang Cyberindo PT.
-113.20.140.0/24,ipv4,AS45716,Cikarang Cyberindo PT.
-113.20.141.0/24,ipv4,AS45716,Cikarang Cyberindo PT.
-113.20.137.0/24,ipv4,AS45716,Cikarang Cyberindo PT.
-113.20.138.0/24,ipv4,AS45716,Cikarang Cyberindo PT.
-113.20.136.0/24,ipv4,AS45716,Cikarang Cyberindo PT.
+113.20.139.0/24
+113.20.140.0/24
+113.20.141.0/24
+113.20.137.0/24
+113.20.138.0/24
+113.20.136.0/24

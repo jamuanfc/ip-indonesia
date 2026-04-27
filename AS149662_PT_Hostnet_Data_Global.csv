@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.184.178.0/24,ipv4,AS149662,PT Hostnet Data Global
-160.25.162.0/23,ipv4,AS149662,PT Hostnet Data Global
-160.25.162.0/24,ipv4,AS149662,PT Hostnet Data Global
-2400:f220::/32,ipv6,AS149662,PT Hostnet Data Global
-103.184.179.0/24,ipv4,AS149662,PT Hostnet Data Global
-160.25.163.0/24,ipv4,AS149662,PT Hostnet Data Global
-103.188.254.0/24,ipv4,AS149662,PT Hostnet Data Global
+103.184.178.0/24
+160.25.162.0/23
+160.25.162.0/24
+2400:f220::/32
+103.184.179.0/24
+160.25.163.0/24
+103.188.254.0/24

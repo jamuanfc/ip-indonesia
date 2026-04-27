@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.172.172.0/24,ipv4,AS147088,PT Skynet Indonesia Madani
-160.19.88.0/24,ipv4,AS147088,PT Skynet Indonesia Madani
+103.172.172.0/24
+160.19.88.0/24

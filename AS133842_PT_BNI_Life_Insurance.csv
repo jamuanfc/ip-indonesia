@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.204.118.0/24,ipv4,AS133842,PT BNI Life Insurance
-103.63.233.0/24,ipv4,AS133842,PT BNI Life Insurance
+103.204.118.0/24
+103.63.233.0/24

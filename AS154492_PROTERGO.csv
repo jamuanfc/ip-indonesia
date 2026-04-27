@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df6:b440::/48,ipv6,AS154492,PROTERGO
-151.158.162.0/24,ipv4,AS154492,PROTERGO
+2001:df6:b440::/48
+151.158.162.0/24

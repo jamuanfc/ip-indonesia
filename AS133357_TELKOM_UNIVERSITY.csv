@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.233.100.0/24,ipv4,AS133357,TELKOM UNIVERSITY
-2001:df3:fbc0::/48,ipv6,AS133357,TELKOM UNIVERSITY
+103.233.100.0/24
+2001:df3:fbc0::/48

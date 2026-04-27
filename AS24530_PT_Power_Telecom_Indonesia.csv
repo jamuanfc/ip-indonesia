@@ -1,36 +1,35 @@
-prefix,ip_version,asn,asn_name
-203.190.48.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.48.0/22,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.176.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.53.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.50.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
-103.178.196.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.51.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.55.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.179.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-2401:d940:e0ff::/48,ipv6,AS24530,PT. Power Telecom Indonesia
-103.178.196.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.49.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.52.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.52.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
-103.178.197.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.182.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.182.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.54.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.50.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.54.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.176.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.180.0/22,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.48.0/21,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.52.0/22,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.176.0/21,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.183.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.176.0/22,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.180.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.181.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.180.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.178.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-119.10.177.0/24,ipv4,AS24530,PT. Power Telecom Indonesia
-203.190.48.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
-2401:d940::/32,ipv6,AS24530,PT. Power Telecom Indonesia
-119.10.178.0/23,ipv4,AS24530,PT. Power Telecom Indonesia
+203.190.48.0/24
+203.190.48.0/22
+119.10.176.0/24
+203.190.53.0/24
+203.190.50.0/23
+103.178.196.0/23
+203.190.51.0/24
+203.190.55.0/24
+119.10.179.0/24
+2401:d940:e0ff::/48
+103.178.196.0/24
+203.190.49.0/24
+203.190.52.0/24
+203.190.52.0/23
+103.178.197.0/24
+119.10.182.0/23
+119.10.182.0/24
+203.190.54.0/23
+203.190.50.0/24
+203.190.54.0/24
+119.10.176.0/23
+119.10.180.0/22
+203.190.48.0/21
+203.190.52.0/22
+119.10.176.0/21
+119.10.183.0/24
+119.10.176.0/22
+119.10.180.0/23
+119.10.181.0/24
+119.10.180.0/24
+119.10.178.0/24
+119.10.177.0/24
+203.190.48.0/23
+2401:d940::/32
+119.10.178.0/23

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df4:c640::/48,ipv6,AS135649,PT Apci Network Solutions
-160.250.226.0/24,ipv4,AS135649,PT Apci Network Solutions
+2001:df4:c640::/48
+160.250.226.0/24

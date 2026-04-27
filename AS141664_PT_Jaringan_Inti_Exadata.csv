@@ -1,7 +1,6 @@
-prefix,ip_version,asn,asn_name
-2407:2e40:1::/48,ipv6,AS141664,PT Jaringan Inti Exadata
-103.215.187.0/24,ipv4,AS141664,PT Jaringan Inti Exadata
-103.26.128.0/23,ipv4,AS141664,PT Jaringan Inti Exadata
-103.162.205.0/24,ipv4,AS141664,PT Jaringan Inti Exadata
-103.26.129.0/24,ipv4,AS141664,PT Jaringan Inti Exadata
-103.26.128.0/24,ipv4,AS141664,PT Jaringan Inti Exadata
+2407:2e40:1::/48
+103.215.187.0/24
+103.26.128.0/23
+103.162.205.0/24
+103.26.129.0/24
+103.26.128.0/24

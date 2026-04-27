@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.180.250.0/24,ipv4,AS149373,PT Rintis Berkah Akamila
-103.180.250.0/23,ipv4,AS149373,PT Rintis Berkah Akamila
-103.180.251.0/24,ipv4,AS149373,PT Rintis Berkah Akamila
+103.180.250.0/24
+103.180.250.0/23
+103.180.251.0/24

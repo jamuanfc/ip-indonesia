@@ -1,16 +1,15 @@
-prefix,ip_version,asn,asn_name
-103.135.224.0/22,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.175.48.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-202.75.29.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.135.225.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.135.227.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.244.218.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.135.226.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-202.75.28.0/23,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.135.224.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-2001:df7:f100::/48,ipv6,AS138871,PT. Trans Indonesia Superkoridor
-103.175.49.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-202.75.28.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.244.218.0/23,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.175.48.0/23,ipv4,AS138871,PT. Trans Indonesia Superkoridor
-103.244.219.0/24,ipv4,AS138871,PT. Trans Indonesia Superkoridor
+103.135.224.0/22
+103.175.48.0/24
+202.75.29.0/24
+103.135.225.0/24
+103.135.227.0/24
+103.244.218.0/24
+103.135.226.0/24
+202.75.28.0/23
+103.135.224.0/24
+2001:df7:f100::/48
+103.175.49.0/24
+202.75.28.0/24
+103.244.218.0/23
+103.175.48.0/23
+103.244.219.0/24

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.227.184.0/24,ipv4,AS151012,PT Bangun Nusa Network
-103.227.185.0/24,ipv4,AS151012,PT Bangun Nusa Network
+103.227.184.0/24
+103.227.185.0/24

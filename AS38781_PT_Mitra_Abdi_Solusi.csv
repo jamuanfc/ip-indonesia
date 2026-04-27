@@ -1,9 +1,8 @@
-prefix,ip_version,asn,asn_name
-202.129.227.0/24,ipv4,AS38781,PT. Mitra Abdi Solusi
-202.129.225.0/24,ipv4,AS38781,PT. Mitra Abdi Solusi
-202.129.224.0/23,ipv4,AS38781,PT. Mitra Abdi Solusi
-202.129.226.0/24,ipv4,AS38781,PT. Mitra Abdi Solusi
-202.129.224.0/22,ipv4,AS38781,PT. Mitra Abdi Solusi
-202.129.226.0/23,ipv4,AS38781,PT. Mitra Abdi Solusi
-202.129.224.0/24,ipv4,AS38781,PT. Mitra Abdi Solusi
-2001:df3:e600::/48,ipv6,AS38781,PT. Mitra Abdi Solusi
+202.129.227.0/24
+202.129.225.0/24
+202.129.224.0/23
+202.129.226.0/24
+202.129.224.0/22
+202.129.226.0/23
+202.129.224.0/24
+2001:df3:e600::/48

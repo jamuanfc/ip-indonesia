@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-2401:a0a0:5::/48,ipv6,AS58552,PT Multidata Rancana Prima
-103.11.29.0/24,ipv4,AS58552,PT Multidata Rancana Prima
-2404:fd00::/32,ipv6,AS58552,PT Multidata Rancana Prima
-2404:fd00:20::/48,ipv6,AS58552,PT Multidata Rancana Prima
-2404:fd00:14::/48,ipv6,AS58552,PT Multidata Rancana Prima
-43.240.231.0/24,ipv4,AS58552,PT Multidata Rancana Prima
-2401:a0a0:7::/48,ipv6,AS58552,PT Multidata Rancana Prima
+2401:a0a0:5::/48
+103.11.29.0/24
+2404:fd00::/32
+2404:fd00:20::/48
+2404:fd00:14::/48
+43.240.231.0/24
+2401:a0a0:7::/48

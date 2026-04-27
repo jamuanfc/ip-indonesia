@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-2400:fce0::/32,ipv6,AS135472,Dinas Kominfo SLEMAN
-103.71.190.0/24,ipv4,AS135472,Dinas Kominfo SLEMAN
-103.71.191.0/24,ipv4,AS135472,Dinas Kominfo SLEMAN
-103.71.190.0/23,ipv4,AS135472,Dinas Kominfo SLEMAN
+2400:fce0::/32
+103.71.190.0/24
+103.71.191.0/24
+103.71.190.0/23

@@ -1,18 +1,17 @@
-prefix,ip_version,asn,asn_name
-103.191.152.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-103.38.102.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.40.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.42.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-103.38.100.0/22,ipv4,AS38524,"Laxo Global Akses, PT"
-103.191.153.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.47.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-103.38.101.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-103.38.103.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.41.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.43.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.46.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.40.0/21,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.44.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-103.191.152.0/23,ipv4,AS38524,"Laxo Global Akses, PT"
-103.38.100.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
-119.2.45.0/24,ipv4,AS38524,"Laxo Global Akses, PT"
+103.191.152.0/24
+103.38.102.0/24
+119.2.40.0/24
+119.2.42.0/24
+103.38.100.0/22
+103.191.153.0/24
+119.2.47.0/24
+103.38.101.0/24
+103.38.103.0/24
+119.2.41.0/24
+119.2.43.0/24
+119.2.46.0/24
+119.2.40.0/21
+119.2.44.0/24
+103.191.152.0/23
+103.38.100.0/24
+119.2.45.0/24

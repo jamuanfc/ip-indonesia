@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-157.66.125.0/24,ipv4,AS152772,PT Prosperita Sistem Indonesia
-2001:df3:d940::/48,ipv6,AS152772,PT Prosperita Sistem Indonesia
+157.66.125.0/24
+2001:df3:d940::/48

@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.93.246.0/24,ipv4,AS136117,PT Bank Pembangunan Daerah Jawa Barat & Banten
-103.93.245.0/24,ipv4,AS136117,PT Bank Pembangunan Daerah Jawa Barat & Banten
-103.93.244.0/24,ipv4,AS136117,PT Bank Pembangunan Daerah Jawa Barat & Banten
+103.93.246.0/24
+103.93.245.0/24
+103.93.244.0/24

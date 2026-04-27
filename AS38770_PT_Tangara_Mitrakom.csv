@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-114.134.65.0/24,ipv4,AS38770,PT. Tangara Mitrakom
-114.134.70.0/24,ipv4,AS38770,PT. Tangara Mitrakom
-114.134.64.0/21,ipv4,AS38770,PT. Tangara Mitrakom
-114.134.66.0/24,ipv4,AS38770,PT. Tangara Mitrakom
-114.134.64.0/24,ipv4,AS38770,PT. Tangara Mitrakom
-114.134.71.0/24,ipv4,AS38770,PT. Tangara Mitrakom
-114.134.69.0/24,ipv4,AS38770,PT. Tangara Mitrakom
+114.134.65.0/24
+114.134.70.0/24
+114.134.64.0/21
+114.134.66.0/24
+114.134.64.0/24
+114.134.71.0/24
+114.134.69.0/24

@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-103.133.63.0/24,ipv4,AS138134,PT Tunas Link Indonesia
-2404:48c0::/32,ipv6,AS138134,PT Tunas Link Indonesia
-103.133.61.0/24,ipv4,AS138134,PT Tunas Link Indonesia
-103.133.62.0/24,ipv4,AS138134,PT Tunas Link Indonesia
-103.133.60.0/24,ipv4,AS138134,PT Tunas Link Indonesia
+103.133.63.0/24
+2404:48c0::/32
+103.133.61.0/24
+103.133.62.0/24
+103.133.60.0/24

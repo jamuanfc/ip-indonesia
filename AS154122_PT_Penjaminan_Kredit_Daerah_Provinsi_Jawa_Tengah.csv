@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-165.101.212.0/24,ipv4,AS154122,PT Penjaminan Kredit Daerah Provinsi Jawa Tengah
-2001:df5:ddc0::/48,ipv6,AS154122,PT Penjaminan Kredit Daerah Provinsi Jawa Tengah
+165.101.212.0/24
+2001:df5:ddc0::/48

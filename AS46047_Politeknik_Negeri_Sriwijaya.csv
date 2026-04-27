@@ -1,17 +1,16 @@
-prefix,ip_version,asn,asn_name
-2405:1dc0::/32,ipv6,AS46047,Politeknik Negeri Sriwijaya
-103.195.169.0/24,ipv4,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0::/35,ipv6,AS46047,Politeknik Negeri Sriwijaya
-103.195.168.0/23,ipv4,AS46047,Politeknik Negeri Sriwijaya
-103.195.168.0/24,ipv4,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0:4000::/35,ipv6,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0:8000::/33,ipv6,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0:6000::/35,ipv6,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0:a000::/35,ipv6,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0:8000::/35,ipv6,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0:e000::/35,ipv6,AS46047,Politeknik Negeri Sriwijaya
-103.225.170.0/24,ipv4,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0:2000::/35,ipv6,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0::/33,ipv6,AS46047,Politeknik Negeri Sriwijaya
-202.9.69.0/24,ipv4,AS46047,Politeknik Negeri Sriwijaya
-2405:1dc0:c000::/35,ipv6,AS46047,Politeknik Negeri Sriwijaya
+2405:1dc0::/32
+103.195.169.0/24
+2405:1dc0::/35
+103.195.168.0/23
+103.195.168.0/24
+2405:1dc0:4000::/35
+2405:1dc0:8000::/33
+2405:1dc0:6000::/35
+2405:1dc0:a000::/35
+2405:1dc0:8000::/35
+2405:1dc0:e000::/35
+103.225.170.0/24
+2405:1dc0:2000::/35
+2405:1dc0::/33
+202.9.69.0/24
+2405:1dc0:c000::/35

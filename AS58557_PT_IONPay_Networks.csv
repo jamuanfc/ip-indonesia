@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.117.8.0/24,ipv4,AS58557,PT IONPay Networks
-103.20.51.0/24,ipv4,AS58557,PT IONPay Networks
+103.117.8.0/24
+103.20.51.0/24

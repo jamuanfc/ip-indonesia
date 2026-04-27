@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-2001:df5:f00::/48,ipv6,AS24205,PT. Bank Permata Tbk.
-202.191.2.0/24,ipv4,AS24205,PT. Bank Permata Tbk.
-202.191.2.0/23,ipv4,AS24205,PT. Bank Permata Tbk.
-202.191.3.0/24,ipv4,AS24205,PT. Bank Permata Tbk.
+2001:df5:f00::/48
+202.191.2.0/24
+202.191.2.0/23
+202.191.3.0/24

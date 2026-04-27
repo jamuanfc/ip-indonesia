@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.137.8.0/23,ipv4,AS138824,PT. Gemilang Jaya Elektrindo
-103.137.8.0/24,ipv4,AS138824,PT. Gemilang Jaya Elektrindo
-103.137.9.0/24,ipv4,AS138824,PT. Gemilang Jaya Elektrindo
+103.137.8.0/23
+103.137.8.0/24
+103.137.9.0/24

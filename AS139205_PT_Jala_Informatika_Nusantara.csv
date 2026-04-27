@@ -1,9 +1,8 @@
-prefix,ip_version,asn,asn_name
-103.122.246.0/24,ipv4,AS139205,PT Jala Informatika Nusantara
-103.118.174.0/24,ipv4,AS139205,PT Jala Informatika Nusantara
-144.79.174.0/24,ipv4,AS139205,PT Jala Informatika Nusantara
-162.141.100.0/24,ipv4,AS139205,PT Jala Informatika Nusantara
-89.28.203.0/24,ipv4,AS139205,PT Jala Informatika Nusantara
-2001:df6:7840::/48,ipv6,AS139205,PT Jala Informatika Nusantara
-185.65.203.0/24,ipv4,AS139205,PT Jala Informatika Nusantara
-2602:fac2:ce::/48,ipv6,AS139205,PT Jala Informatika Nusantara
+103.122.246.0/24
+103.118.174.0/24
+144.79.174.0/24
+162.141.100.0/24
+89.28.203.0/24
+2001:df6:7840::/48
+185.65.203.0/24
+2602:fac2:ce::/48

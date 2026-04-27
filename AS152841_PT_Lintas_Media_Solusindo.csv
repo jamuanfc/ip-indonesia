@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.22.217.0/24,ipv4,AS152841,PT Lintas Media Solusindo
-2001:df4:cc0::/48,ipv6,AS152841,PT Lintas Media Solusindo
+160.22.217.0/24
+2001:df4:cc0::/48

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-101.50.21.0/24,ipv4,AS138138,PT. Cyberindo Aditama
-2402:9800:4006::/48,ipv6,AS138138,PT. Cyberindo Aditama
+101.50.21.0/24
+2402:9800:4006::/48

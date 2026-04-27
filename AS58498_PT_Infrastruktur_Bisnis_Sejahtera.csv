@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.225.88.0/24,ipv4,AS58498,PT Infrastruktur Bisnis Sejahtera
-103.225.89.0/24,ipv4,AS58498,PT Infrastruktur Bisnis Sejahtera
+103.225.88.0/24
+103.225.89.0/24

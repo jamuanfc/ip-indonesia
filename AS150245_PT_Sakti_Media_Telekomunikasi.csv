@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.23.99.0/24,ipv4,AS150245,PT Sakti Media Telekomunikasi
-103.23.98.0/24,ipv4,AS150245,PT Sakti Media Telekomunikasi
-103.23.98.0/23,ipv4,AS150245,PT Sakti Media Telekomunikasi
+103.23.99.0/24
+103.23.98.0/24
+103.23.98.0/23

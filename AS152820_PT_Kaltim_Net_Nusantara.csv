@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.22.126.0/24,ipv4,AS152820,PT Kaltim Net Nusantara
-160.22.127.0/24,ipv4,AS152820,PT Kaltim Net Nusantara
+160.22.126.0/24
+160.22.127.0/24

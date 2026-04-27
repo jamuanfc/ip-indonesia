@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.161.206.0/24,ipv4,AS141627,PT Media Solusi Network
-103.161.207.0/24,ipv4,AS141627,PT Media Solusi Network
+103.161.206.0/24
+103.161.207.0/24

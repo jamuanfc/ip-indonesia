@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.51.103.0/24,ipv4,AS139432,Diskominfo Kab. Bogor
-103.225.97.0/24,ipv4,AS139432,Diskominfo Kab. Bogor
+103.51.103.0/24
+103.225.97.0/24

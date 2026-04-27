@@ -1,16 +1,15 @@
-prefix,ip_version,asn,asn_name
-202.149.128.0/21,ipv4,AS4833,PT. Gaharu Sejahtera
-2404:600::/32,ipv6,AS4833,PT. Gaharu Sejahtera
-202.149.148.0/23,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.128.0/24,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.128.0/23,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.128.0/22,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.148.0/22,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.133.0/24,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.129.0/24,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.132.0/23,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.130.0/23,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.148.0/24,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.132.0/24,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.149.0/24,ipv4,AS4833,PT. Gaharu Sejahtera
-202.149.130.0/24,ipv4,AS4833,PT. Gaharu Sejahtera
+202.149.128.0/21
+2404:600::/32
+202.149.148.0/23
+202.149.128.0/24
+202.149.128.0/23
+202.149.128.0/22
+202.149.148.0/22
+202.149.133.0/24
+202.149.129.0/24
+202.149.132.0/23
+202.149.130.0/23
+202.149.148.0/24
+202.149.132.0/24
+202.149.149.0/24
+202.149.130.0/24

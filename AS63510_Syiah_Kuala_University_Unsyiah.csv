@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-2001:df0:b6::/48,ipv6,AS63510,Syiah Kuala University (Unsyiah)
-202.4.186.0/24,ipv4,AS63510,Syiah Kuala University (Unsyiah)
-103.41.169.0/24,ipv4,AS63510,Syiah Kuala University (Unsyiah)
+2001:df0:b6::/48
+202.4.186.0/24
+103.41.169.0/24

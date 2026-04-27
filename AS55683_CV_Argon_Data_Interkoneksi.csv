@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.195.19.0/24,ipv4,AS55683,CV Argon Data Interkoneksi
-103.195.18.0/24,ipv4,AS55683,CV Argon Data Interkoneksi
-2001:df6:cc00::/48,ipv6,AS55683,CV Argon Data Interkoneksi
+103.195.19.0/24
+103.195.18.0/24
+2001:df6:cc00::/48

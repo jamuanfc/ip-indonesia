@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.156.235.0/24,ipv4,AS141101,PT Makara Mas
-2001:df5:380::/48,ipv6,AS141101,PT Makara Mas
+103.156.235.0/24
+2001:df5:380::/48

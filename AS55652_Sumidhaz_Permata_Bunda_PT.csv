@@ -1,10 +1,9 @@
-prefix,ip_version,asn,asn_name
-27.121.87.0/24,ipv4,AS55652,"Sumidhaz Permata Bunda, PT"
-27.121.84.0/24,ipv4,AS55652,"Sumidhaz Permata Bunda, PT"
-27.121.85.0/24,ipv4,AS55652,"Sumidhaz Permata Bunda, PT"
-103.24.197.0/24,ipv4,AS55652,"Sumidhaz Permata Bunda, PT"
-27.121.83.0/24,ipv4,AS55652,"Sumidhaz Permata Bunda, PT"
-2404:5a00::/32,ipv6,AS55652,"Sumidhaz Permata Bunda, PT"
-103.24.196.0/24,ipv4,AS55652,"Sumidhaz Permata Bunda, PT"
-27.121.81.0/24,ipv4,AS55652,"Sumidhaz Permata Bunda, PT"
-27.121.80.0/24,ipv4,AS55652,"Sumidhaz Permata Bunda, PT"
+27.121.87.0/24
+27.121.84.0/24
+27.121.85.0/24
+103.24.197.0/24
+27.121.83.0/24
+2404:5a00::/32
+103.24.196.0/24
+27.121.81.0/24
+27.121.80.0/24

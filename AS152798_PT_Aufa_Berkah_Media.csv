@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.22.30.0/24,ipv4,AS152798,PT Aufa Berkah Media
-160.22.31.0/24,ipv4,AS152798,PT Aufa Berkah Media
+160.22.30.0/24
+160.22.31.0/24

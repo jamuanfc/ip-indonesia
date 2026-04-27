@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.236.141.0/24,ipv4,AS151583,PT Satelit Global Media
-157.10.205.0/24,ipv4,AS151583,PT Satelit Global Media
+103.236.141.0/24
+157.10.205.0/24

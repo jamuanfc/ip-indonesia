@@ -1,12 +1,11 @@
-prefix,ip_version,asn,asn_name
-103.31.109.0/24,ipv4,AS133360,PT Awinet Global Mandiri
-103.36.8.0/24,ipv4,AS133360,PT Awinet Global Mandiri
-38.43.65.0/24,ipv4,AS133360,PT Awinet Global Mandiri
-38.43.64.0/23,ipv4,AS133360,PT Awinet Global Mandiri
-2400:5f20:1000::/36,ipv6,AS133360,PT Awinet Global Mandiri
-2400:5f20::/32,ipv6,AS133360,PT Awinet Global Mandiri
-103.36.11.0/24,ipv4,AS133360,PT Awinet Global Mandiri
-38.43.64.0/24,ipv4,AS133360,PT Awinet Global Mandiri
-103.185.43.0/24,ipv4,AS133360,PT Awinet Global Mandiri
-103.36.10.0/24,ipv4,AS133360,PT Awinet Global Mandiri
-103.36.9.0/24,ipv4,AS133360,PT Awinet Global Mandiri
+103.31.109.0/24
+103.36.8.0/24
+38.43.65.0/24
+38.43.64.0/23
+2400:5f20:1000::/36
+2400:5f20::/32
+103.36.11.0/24
+38.43.64.0/24
+103.185.43.0/24
+103.36.10.0/24
+103.36.9.0/24

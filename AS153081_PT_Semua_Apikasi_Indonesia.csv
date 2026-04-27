@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.25.51.0/24,ipv4,AS153081,PT Semua Apikasi Indonesia
-160.25.50.0/24,ipv4,AS153081,PT Semua Apikasi Indonesia
+160.25.51.0/24
+160.25.50.0/24

@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-2400:a060::/48,ipv6,AS142374,PT Solusi Integra Datakom
-103.171.184.0/24,ipv4,AS142374,PT Solusi Integra Datakom
-2400:a060:1::/48,ipv6,AS142374,PT Solusi Integra Datakom
-2400:a060:14::/48,ipv6,AS142374,PT Solusi Integra Datakom
-103.171.185.0/24,ipv4,AS142374,PT Solusi Integra Datakom
+2400:a060::/48
+103.171.184.0/24
+2400:a060:1::/48
+2400:a060:14::/48
+103.171.185.0/24

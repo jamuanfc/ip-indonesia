@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-103.175.81.0/24,ipv4,AS149704,PT Panglima Kamayo Media
-103.153.83.0/24,ipv4,AS149704,PT Panglima Kamayo Media
-103.186.58.0/24,ipv4,AS149704,PT Panglima Kamayo Media
-103.175.80.0/24,ipv4,AS149704,PT Panglima Kamayo Media
-103.186.59.0/24,ipv4,AS149704,PT Panglima Kamayo Media
+103.175.81.0/24
+103.153.83.0/24
+103.186.58.0/24
+103.175.80.0/24
+103.186.59.0/24

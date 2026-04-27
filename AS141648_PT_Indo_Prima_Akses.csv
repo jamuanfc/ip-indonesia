@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.162.61.0/24,ipv4,AS141648,PT Indo Prima Akses
-103.162.60.0/24,ipv4,AS141648,PT Indo Prima Akses
+103.162.61.0/24
+103.162.60.0/24

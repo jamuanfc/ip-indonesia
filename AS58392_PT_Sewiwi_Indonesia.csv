@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-2001:df2:6000::/48,ipv6,AS58392,PT. Sewiwi Indonesia
-103.11.134.0/24,ipv4,AS58392,PT. Sewiwi Indonesia
-103.40.54.0/24,ipv4,AS58392,PT. Sewiwi Indonesia
-103.40.55.0/24,ipv4,AS58392,PT. Sewiwi Indonesia
-103.11.134.0/23,ipv4,AS58392,PT. Sewiwi Indonesia
-103.40.54.0/23,ipv4,AS58392,PT. Sewiwi Indonesia
-103.11.135.0/24,ipv4,AS58392,PT. Sewiwi Indonesia
+2001:df2:6000::/48
+103.11.134.0/24
+103.40.54.0/24
+103.40.55.0/24
+103.11.134.0/23
+103.40.54.0/23
+103.11.135.0/24

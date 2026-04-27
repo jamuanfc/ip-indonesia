@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.25.59.0/24,ipv4,AS152833,PT Tuxsindo Cyber Networks
-160.25.58.0/24,ipv4,AS152833,PT Tuxsindo Cyber Networks
+160.25.59.0/24
+160.25.58.0/24

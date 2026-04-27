@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.155.196.0/23,ipv4,AS141071,PT Jembatan Data Pangrango
-2406:7640::/48,ipv6,AS141071,PT Jembatan Data Pangrango
-103.97.140.0/24,ipv4,AS141071,PT Jembatan Data Pangrango
-103.97.141.0/24,ipv4,AS141071,PT Jembatan Data Pangrango
-103.54.171.0/24,ipv4,AS141071,PT Jembatan Data Pangrango
-2406:7640:1::/48,ipv6,AS141071,PT Jembatan Data Pangrango
-2406:7640::/32,ipv6,AS141071,PT Jembatan Data Pangrango
+103.155.196.0/23
+2406:7640::/48
+103.97.140.0/24
+103.97.141.0/24
+103.54.171.0/24
+2406:7640:1::/48
+2406:7640::/32

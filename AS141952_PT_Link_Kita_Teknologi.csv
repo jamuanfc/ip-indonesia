@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.166.160.0/24,ipv4,AS141952,PT Link Kita Teknologi
-103.166.161.0/24,ipv4,AS141952,PT Link Kita Teknologi
+103.166.160.0/24
+103.166.161.0/24

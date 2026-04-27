@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-2001:df1:8d80::/48,ipv6,AS139400,PT. Rak Super Ninja
-103.143.171.0/24,ipv4,AS139400,PT. Rak Super Ninja
-103.143.170.0/23,ipv4,AS139400,PT. Rak Super Ninja
-103.143.170.0/24,ipv4,AS139400,PT. Rak Super Ninja
+2001:df1:8d80::/48
+103.143.171.0/24
+103.143.170.0/23
+103.143.170.0/24

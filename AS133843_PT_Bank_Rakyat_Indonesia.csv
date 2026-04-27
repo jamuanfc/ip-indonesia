@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-103.63.96.0/22,ipv4,AS133843,PT Bank Rakyat Indonesia
-103.63.96.0/24,ipv4,AS133843,PT Bank Rakyat Indonesia
-103.63.99.0/24,ipv4,AS133843,PT Bank Rakyat Indonesia
-103.63.98.0/24,ipv4,AS133843,PT Bank Rakyat Indonesia
-103.63.97.0/24,ipv4,AS133843,PT Bank Rakyat Indonesia
+103.63.96.0/22
+103.63.96.0/24
+103.63.99.0/24
+103.63.98.0/24
+103.63.97.0/24

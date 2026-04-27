@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.97.79.0/24,ipv4,AS136131,PT Tiga Satu Cyber Network
-2401:8440:31::/48,ipv6,AS136131,PT Tiga Satu Cyber Network
-103.97.77.0/24,ipv4,AS136131,PT Tiga Satu Cyber Network
-2401:8440::/32,ipv6,AS136131,PT Tiga Satu Cyber Network
-2401:8440:131::/48,ipv6,AS136131,PT Tiga Satu Cyber Network
-2401:8440:311::/48,ipv6,AS136131,PT Tiga Satu Cyber Network
-2401:8440:231::/48,ipv6,AS136131,PT Tiga Satu Cyber Network
+103.97.79.0/24
+2401:8440:31::/48
+103.97.77.0/24
+2401:8440::/32
+2401:8440:131::/48
+2401:8440:311::/48
+2401:8440:231::/48

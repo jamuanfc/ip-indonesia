@@ -1,16 +1,15 @@
-prefix,ip_version,asn,asn_name
-2405:5fc0:6::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0:7::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-103.251.183.0/24,ipv4,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0:8::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0:9::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-103.251.181.0/24,ipv4,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0:b::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0:d::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-103.251.182.0/24,ipv4,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0:5::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0:3::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-103.251.180.0/24,ipv4,AS58818,Universitas Muhammadiyah Yogyakarta
-103.251.180.0/22,ipv4,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0::/32,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
-2405:5fc0:f::/48,ipv6,AS58818,Universitas Muhammadiyah Yogyakarta
+2405:5fc0:6::/48
+2405:5fc0:7::/48
+103.251.183.0/24
+2405:5fc0:8::/48
+2405:5fc0:9::/48
+103.251.181.0/24
+2405:5fc0:b::/48
+2405:5fc0:d::/48
+103.251.182.0/24
+2405:5fc0:5::/48
+2405:5fc0:3::/48
+103.251.180.0/24
+103.251.180.0/22
+2405:5fc0::/32
+2405:5fc0:f::/48

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.54.82.0/24,ipv4,AS150512,PT Maskom Indonesia Raya
-103.54.83.0/24,ipv4,AS150512,PT Maskom Indonesia Raya
+103.54.82.0/24
+103.54.83.0/24

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df0:5dc0::/48,ipv6,AS149324,PT Prosperita Mitra Indonesia
-103.178.150.0/23,ipv4,AS149324,PT Prosperita Mitra Indonesia
+2001:df0:5dc0::/48
+103.178.150.0/23

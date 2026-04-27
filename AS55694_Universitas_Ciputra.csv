@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-202.0.88.0/24,ipv4,AS55694,Universitas Ciputra
-202.0.89.0/24,ipv4,AS55694,Universitas Ciputra
+202.0.88.0/24
+202.0.89.0/24

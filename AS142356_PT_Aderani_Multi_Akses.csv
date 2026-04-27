@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.169.194.0/24,ipv4,AS142356,PT Aderani Multi Akses
-2407:a9c0::/32,ipv6,AS142356,PT Aderani Multi Akses
+103.169.194.0/24
+2407:a9c0::/32

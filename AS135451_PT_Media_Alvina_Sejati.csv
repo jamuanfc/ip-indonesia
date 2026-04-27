@@ -1,7 +1,6 @@
-prefix,ip_version,asn,asn_name
-103.96.119.0/24,ipv4,AS135451,PT Media Alvina Sejati
-103.65.238.0/24,ipv4,AS135451,PT Media Alvina Sejati
-103.96.116.0/24,ipv4,AS135451,PT Media Alvina Sejati
-103.96.118.0/24,ipv4,AS135451,PT Media Alvina Sejati
-2001:df2:aa00::/48,ipv6,AS135451,PT Media Alvina Sejati
-157.10.213.0/24,ipv4,AS135451,PT Media Alvina Sejati
+103.96.119.0/24
+103.65.238.0/24
+103.96.116.0/24
+103.96.118.0/24
+2001:df2:aa00::/48
+157.10.213.0/24

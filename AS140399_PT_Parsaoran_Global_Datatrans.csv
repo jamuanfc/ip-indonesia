@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-36.50.123.0/24,ipv4,AS140399,PT Parsaoran Global Datatrans
-36.50.122.0/24,ipv4,AS140399,PT Parsaoran Global Datatrans
+36.50.123.0/24
+36.50.122.0/24

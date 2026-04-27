@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.162.251.0/24,ipv4,AS55672,Universitas Sanata Dharma
-202.94.83.0/24,ipv4,AS55672,Universitas Sanata Dharma
+103.162.251.0/24
+202.94.83.0/24

@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-210.87.78.0/24,ipv4,AS150265,PT Rajawali Bintang Cemerlang Telkomedia
-103.90.66.0/24,ipv4,AS150265,PT Rajawali Bintang Cemerlang Telkomedia
-103.90.67.0/24,ipv4,AS150265,PT Rajawali Bintang Cemerlang Telkomedia
-103.68.2.0/24,ipv4,AS150265,PT Rajawali Bintang Cemerlang Telkomedia
+210.87.78.0/24
+103.90.66.0/24
+103.90.67.0/24
+103.68.2.0/24

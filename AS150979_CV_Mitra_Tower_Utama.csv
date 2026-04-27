@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.70.120.0/24,ipv4,AS150979,CV Mitra Tower Utama
-103.70.121.0/24,ipv4,AS150979,CV Mitra Tower Utama
+103.70.120.0/24
+103.70.121.0/24

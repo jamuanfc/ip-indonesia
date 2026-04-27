@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.194.46.0/24,ipv4,AS149971,PT Jujur Amanah Barokah
-103.194.47.0/24,ipv4,AS149971,PT Jujur Amanah Barokah
-103.194.46.0/23,ipv4,AS149971,PT Jujur Amanah Barokah
+103.194.46.0/24
+103.194.47.0/24
+103.194.46.0/23

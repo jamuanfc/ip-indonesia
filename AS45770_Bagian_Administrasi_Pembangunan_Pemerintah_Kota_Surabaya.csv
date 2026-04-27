@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-203.14.183.0/24,ipv4,AS45770,Bagian Administrasi Pembangunan Pemerintah Kota Surabaya
-2001:df0:96::/48,ipv6,AS45770,Bagian Administrasi Pembangunan Pemerintah Kota Surabaya
+203.14.183.0/24
+2001:df0:96::/48

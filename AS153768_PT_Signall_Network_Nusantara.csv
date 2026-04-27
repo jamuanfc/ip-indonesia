@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-163.223.116.0/23,ipv4,AS153768,PT Signall Network Nusantara
-163.223.117.0/24,ipv4,AS153768,PT Signall Network Nusantara
-163.223.116.0/24,ipv4,AS153768,PT Signall Network Nusantara
-2001:df5:3e40::/48,ipv6,AS153768,PT Signall Network Nusantara
+163.223.116.0/23
+163.223.117.0/24
+163.223.116.0/24
+2001:df5:3e40::/48

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.173.234.0/24,ipv4,AS137309,PT ALTO Network
-103.108.127.0/24,ipv4,AS137309,PT ALTO Network
+103.173.234.0/24
+103.108.127.0/24

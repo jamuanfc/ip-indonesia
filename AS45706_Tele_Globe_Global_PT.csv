@@ -1,29 +1,28 @@
-prefix,ip_version,asn,asn_name
-103.145.220.0/23,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.0.0/21,ipv4,AS45706,"Tele Globe Global, PT"
-150.107.248.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.18.28.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.18.29.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.7.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.145.220.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-150.107.248.0/22,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.6.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-150.107.251.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.2.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.145.221.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.18.28.0/22,ipv4,AS45706,"Tele Globe Global, PT"
-103.244.216.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-150.107.249.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.4.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-150.107.250.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.5.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.244.217.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.18.30.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.244.216.0/23,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.1.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-202.43.114.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.0.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-103.18.31.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-27.123.3.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-202.43.115.0/24,ipv4,AS45706,"Tele Globe Global, PT"
-202.43.114.0/23,ipv4,AS45706,"Tele Globe Global, PT"
+103.145.220.0/23
+27.123.0.0/21
+150.107.248.0/24
+103.18.28.0/24
+103.18.29.0/24
+27.123.7.0/24
+103.145.220.0/24
+150.107.248.0/22
+27.123.6.0/24
+150.107.251.0/24
+27.123.2.0/24
+103.145.221.0/24
+103.18.28.0/22
+103.244.216.0/24
+150.107.249.0/24
+27.123.4.0/24
+150.107.250.0/24
+27.123.5.0/24
+103.244.217.0/24
+103.18.30.0/24
+103.244.216.0/23
+27.123.1.0/24
+202.43.114.0/24
+27.123.0.0/24
+103.18.31.0/24
+27.123.3.0/24
+202.43.115.0/24
+202.43.114.0/23

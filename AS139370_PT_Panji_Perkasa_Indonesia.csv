@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-103.142.94.0/23,ipv4,AS139370,PT. Panji Perkasa Indonesia
-103.157.145.0/24,ipv4,AS139370,PT. Panji Perkasa Indonesia
-103.142.94.0/24,ipv4,AS139370,PT. Panji Perkasa Indonesia
-103.142.95.0/24,ipv4,AS139370,PT. Panji Perkasa Indonesia
-103.157.144.0/24,ipv4,AS139370,PT. Panji Perkasa Indonesia
+103.142.94.0/23
+103.157.145.0/24
+103.142.94.0/24
+103.142.95.0/24
+103.157.144.0/24

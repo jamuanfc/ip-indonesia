@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.22.197.0/24,ipv4,AS152822,PT Bifimerah Network Solution
-160.22.196.0/23,ipv4,AS152822,PT Bifimerah Network Solution
+160.22.197.0/24
+160.22.196.0/23

@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-203.217.188.0/23,ipv4,AS45712,Departemen Luar Negeri Republik Indonesia
-203.217.190.0/24,ipv4,AS45712,Departemen Luar Negeri Republik Indonesia
-203.217.189.0/24,ipv4,AS45712,Departemen Luar Negeri Republik Indonesia
-203.217.191.0/24,ipv4,AS45712,Departemen Luar Negeri Republik Indonesia
-203.217.188.0/24,ipv4,AS45712,Departemen Luar Negeri Republik Indonesia
+203.217.188.0/23
+203.217.190.0/24
+203.217.189.0/24
+203.217.191.0/24
+203.217.188.0/24

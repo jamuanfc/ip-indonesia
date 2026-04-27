@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.132.40.0/24,ipv4,AS150970,PT Kalimasada Inti Sarana
-103.132.41.0/24,ipv4,AS150970,PT Kalimasada Inti Sarana
+103.132.40.0/24
+103.132.41.0/24

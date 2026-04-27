@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-175.111.96.0/24,ipv4,AS151995,PT Wifipedia Sinergi Telematika
-154.18.252.0/24,ipv4,AS151995,PT Wifipedia Sinergi Telematika
-38.147.96.0/24,ipv4,AS151995,PT Wifipedia Sinergi Telematika
+175.111.96.0/24
+154.18.252.0/24
+38.147.96.0/24

@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.140.90.0/24,ipv4,AS138876,CV. Saranaindo
-2001:df0:b580::/48,ipv6,AS138876,CV. Saranaindo
-103.140.90.0/23,ipv4,AS138876,CV. Saranaindo
-103.140.91.0/24,ipv4,AS138876,CV. Saranaindo
+103.140.90.0/24
+2001:df0:b580::/48
+103.140.90.0/23
+103.140.91.0/24

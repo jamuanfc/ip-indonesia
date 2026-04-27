@@ -1,7 +1,6 @@
-prefix,ip_version,asn,asn_name
-103.135.180.0/22,ipv4,AS138806,Dinas Komunikasi dan Informatika Kabupaten Kulon Progo
-103.135.182.0/24,ipv4,AS138806,Dinas Komunikasi dan Informatika Kabupaten Kulon Progo
-103.135.180.0/24,ipv4,AS138806,Dinas Komunikasi dan Informatika Kabupaten Kulon Progo
-103.135.181.0/24,ipv4,AS138806,Dinas Komunikasi dan Informatika Kabupaten Kulon Progo
-103.135.183.0/24,ipv4,AS138806,Dinas Komunikasi dan Informatika Kabupaten Kulon Progo
-2001:df7:ed00::/48,ipv6,AS138806,Dinas Komunikasi dan Informatika Kabupaten Kulon Progo
+103.135.180.0/22
+103.135.182.0/24
+103.135.180.0/24
+103.135.181.0/24
+103.135.183.0/24
+2001:df7:ed00::/48

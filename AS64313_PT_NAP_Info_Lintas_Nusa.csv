@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.80.92.0/23,ipv4,AS64313,PT. NAP Info Lintas Nusa
-103.80.93.0/24,ipv4,AS64313,PT. NAP Info Lintas Nusa
-103.80.92.0/24,ipv4,AS64313,PT. NAP Info Lintas Nusa
+103.80.92.0/23
+103.80.93.0/24
+103.80.92.0/24

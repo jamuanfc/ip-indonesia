@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.154.230.0/24,ipv4,AS136121,PT Digital Media Telematika
-2406:5dc0::/32,ipv6,AS136121,PT Digital Media Telematika
-202.154.19.0/24,ipv4,AS136121,PT Digital Media Telematika
-202.154.18.0/23,ipv4,AS136121,PT Digital Media Telematika
-103.154.230.0/23,ipv4,AS136121,PT Digital Media Telematika
-202.154.18.0/24,ipv4,AS136121,PT Digital Media Telematika
-103.154.231.0/24,ipv4,AS136121,PT Digital Media Telematika
+103.154.230.0/24
+2406:5dc0::/32
+202.154.19.0/24
+202.154.18.0/23
+103.154.230.0/23
+202.154.18.0/24
+103.154.231.0/24

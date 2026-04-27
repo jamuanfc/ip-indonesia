@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-165.99.30.0/24,ipv4,AS136453,PT Kala Hotama Technology
-165.99.31.0/24,ipv4,AS136453,PT Kala Hotama Technology
+165.99.30.0/24
+165.99.31.0/24

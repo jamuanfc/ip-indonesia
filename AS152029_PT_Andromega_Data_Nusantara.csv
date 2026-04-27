@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-36.50.56.0/23,ipv4,AS152029,PT Andromega Data Nusantara
-36.50.56.0/24,ipv4,AS152029,PT Andromega Data Nusantara
-36.50.57.0/24,ipv4,AS152029,PT Andromega Data Nusantara
+36.50.56.0/23
+36.50.56.0/24
+36.50.57.0/24

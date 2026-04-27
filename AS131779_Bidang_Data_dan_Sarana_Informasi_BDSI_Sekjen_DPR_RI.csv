@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.18.181.0/24,ipv4,AS131779,Bidang Data dan Sarana Informasi (BDSI) Sekjen DPR RI
-103.16.220.0/24,ipv4,AS131779,Bidang Data dan Sarana Informasi (BDSI) Sekjen DPR RI
+103.18.181.0/24
+103.16.220.0/24

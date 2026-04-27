@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.21.228.0/24,ipv4,AS132643,Komisi Pemilihan Umum
-103.123.158.0/24,ipv4,AS132643,Komisi Pemilihan Umum
+103.21.228.0/24
+103.123.158.0/24

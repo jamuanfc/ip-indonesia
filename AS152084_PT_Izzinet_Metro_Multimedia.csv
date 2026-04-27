@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df3:79c0::/48,ipv6,AS152084,PT Izzinet Metro Multimedia
-203.14.18.0/24,ipv4,AS152084,PT Izzinet Metro Multimedia
+2001:df3:79c0::/48
+203.14.18.0/24

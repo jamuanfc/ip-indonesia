@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-163.128.198.0/24,ipv4,AS154630,PT Teknologi Media Cepat
-163.128.199.0/24,ipv4,AS154630,PT Teknologi Media Cepat
+163.128.198.0/24
+163.128.199.0/24

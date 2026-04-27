@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-203.114.227.0/24,ipv4,AS45703,Badan Koordinasi Penanaman Modal (BKPM)
-203.114.226.0/24,ipv4,AS45703,Badan Koordinasi Penanaman Modal (BKPM)
+203.114.227.0/24
+203.114.226.0/24

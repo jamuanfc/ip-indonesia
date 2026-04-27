@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-157.66.193.0/24,ipv4,AS152770,PT Indotech Digitama Superlink
-157.66.192.0/23,ipv4,AS152770,PT Indotech Digitama Superlink
-2001:df3:da40::/48,ipv6,AS152770,PT Indotech Digitama Superlink
-157.66.192.0/24,ipv4,AS152770,PT Indotech Digitama Superlink
+157.66.193.0/24
+157.66.192.0/23
+2001:df3:da40::/48
+157.66.192.0/24

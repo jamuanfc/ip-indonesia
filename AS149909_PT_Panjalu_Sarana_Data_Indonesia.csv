@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.191.59.0/24,ipv4,AS149909,PT Panjalu Sarana Data Indonesia
-103.191.58.0/23,ipv4,AS149909,PT Panjalu Sarana Data Indonesia
-2001:df1:c2c0::/48,ipv6,AS149909,PT Panjalu Sarana Data Indonesia
-103.191.58.0/24,ipv4,AS149909,PT Panjalu Sarana Data Indonesia
+103.191.59.0/24
+103.191.58.0/23
+2001:df1:c2c0::/48
+103.191.58.0/24

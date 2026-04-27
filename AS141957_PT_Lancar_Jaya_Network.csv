@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.166.213.0/24,ipv4,AS141957,PT Lancar Jaya Network
-103.166.212.0/24,ipv4,AS141957,PT Lancar Jaya Network
+103.166.213.0/24
+103.166.212.0/24

@@ -1,9 +1,8 @@
-prefix,ip_version,asn,asn_name
-103.145.108.0/23,ipv4,AS139446,PT. Gonet Teknologi Indonesia
-103.189.170.0/24,ipv4,AS139446,PT. Gonet Teknologi Indonesia
-103.145.108.0/24,ipv4,AS139446,PT. Gonet Teknologi Indonesia
-103.189.171.0/24,ipv4,AS139446,PT. Gonet Teknologi Indonesia
-103.145.109.0/24,ipv4,AS139446,PT. Gonet Teknologi Indonesia
-2405:8440::/32,ipv6,AS139446,PT. Gonet Teknologi Indonesia
-180.94.10.0/24,ipv4,AS139446,PT. Gonet Teknologi Indonesia
-180.94.11.0/24,ipv4,AS139446,PT. Gonet Teknologi Indonesia
+103.145.108.0/23
+103.189.170.0/24
+103.145.108.0/24
+103.189.171.0/24
+103.145.109.0/24
+2405:8440::/32
+180.94.10.0/24
+180.94.11.0/24

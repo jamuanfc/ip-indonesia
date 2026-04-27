@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.60.97.0/24,ipv4,AS153114,PT Musik Internet Indonesia
-2401:56e0::/32,ipv6,AS153114,PT Musik Internet Indonesia
+103.60.97.0/24
+2401:56e0::/32

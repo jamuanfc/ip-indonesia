@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-160.25.250.0/24,ipv4,AS153098,PT Mms Digital Communication
-38.150.18.0/23,ipv4,AS153098,PT Mms Digital Communication
-160.25.250.0/23,ipv4,AS153098,PT Mms Digital Communication
-160.25.251.0/24,ipv4,AS153098,PT Mms Digital Communication
-38.150.18.0/24,ipv4,AS153098,PT Mms Digital Communication
+160.25.250.0/24
+38.150.18.0/23
+160.25.250.0/23
+160.25.251.0/24
+38.150.18.0/24

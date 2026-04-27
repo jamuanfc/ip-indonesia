@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.142.15.0/24,ipv4,AS139375,Pemerintah Kabupaten Jombang
-103.142.14.0/24,ipv4,AS139375,Pemerintah Kabupaten Jombang
+103.142.15.0/24
+103.142.14.0/24

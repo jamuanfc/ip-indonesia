@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-151.158.239.0/24,ipv4,AS154528,Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru
-2001:df6:c3c0::/48,ipv6,AS154528,Dinas Komunikasi Informatika Statistik Dan Persandian Kota Pekanbaru
+151.158.239.0/24
+2001:df6:c3c0::/48

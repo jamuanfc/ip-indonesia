@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.156.96.0/24,ipv4,AS141087,PT Karya Panca Telekomunikasi
-2406:8440::/32,ipv6,AS141087,PT Karya Panca Telekomunikasi
+103.156.96.0/24
+2406:8440::/32

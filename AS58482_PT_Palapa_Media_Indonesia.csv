@@ -1,24 +1,23 @@
-prefix,ip_version,asn,asn_name
-2404:f900::/32,ipv6,AS58482,PT. Palapa Media Indonesia
-43.254.126.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-103.28.224.0/23,ipv4,AS58482,PT. Palapa Media Indonesia
-103.28.227.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-2404:f900:2::/48,ipv6,AS58482,PT. Palapa Media Indonesia
-2404:f900:6::/48,ipv6,AS58482,PT. Palapa Media Indonesia
-43.254.124.0/23,ipv4,AS58482,PT. Palapa Media Indonesia
-103.28.224.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-2404:f900::/48,ipv6,AS58482,PT. Palapa Media Indonesia
-103.28.226.0/23,ipv4,AS58482,PT. Palapa Media Indonesia
-103.28.226.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-2404:f900:1::/48,ipv6,AS58482,PT. Palapa Media Indonesia
-43.254.127.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-43.254.125.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-103.28.225.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-43.254.124.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-43.254.124.0/22,ipv4,AS58482,PT. Palapa Media Indonesia
-2404:f900:4::/48,ipv6,AS58482,PT. Palapa Media Indonesia
-2404:f900:3::/48,ipv6,AS58482,PT. Palapa Media Indonesia
-103.11.107.0/24,ipv4,AS58482,PT. Palapa Media Indonesia
-2404:f900:5::/48,ipv6,AS58482,PT. Palapa Media Indonesia
-2404:f900:7::/48,ipv6,AS58482,PT. Palapa Media Indonesia
-103.28.224.0/22,ipv4,AS58482,PT. Palapa Media Indonesia
+2404:f900::/32
+43.254.126.0/24
+103.28.224.0/23
+103.28.227.0/24
+2404:f900:2::/48
+2404:f900:6::/48
+43.254.124.0/23
+103.28.224.0/24
+2404:f900::/48
+103.28.226.0/23
+103.28.226.0/24
+2404:f900:1::/48
+43.254.127.0/24
+43.254.125.0/24
+103.28.225.0/24
+43.254.124.0/24
+43.254.124.0/22
+2404:f900:4::/48
+2404:f900:3::/48
+103.11.107.0/24
+2404:f900:5::/48
+2404:f900:7::/48
+103.28.224.0/22

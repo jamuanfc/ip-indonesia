@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.23.28.0/24,ipv4,AS149969,PT KB Valbury Sekuritas
-160.187.64.0/24,ipv4,AS149969,PT KB Valbury Sekuritas
+103.23.28.0/24
+160.187.64.0/24

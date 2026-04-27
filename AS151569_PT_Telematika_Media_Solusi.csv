@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.38.110.0/24,ipv4,AS151569,PT Telematika Media Solusi
-103.38.111.0/24,ipv4,AS151569,PT Telematika Media Solusi
+103.38.110.0/24
+103.38.111.0/24

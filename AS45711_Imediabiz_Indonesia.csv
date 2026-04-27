@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.18.236.0/22,ipv4,AS45711,Imediabiz Indonesia
-203.217.172.0/23,ipv4,AS45711,Imediabiz Indonesia
+103.18.236.0/22
+203.217.172.0/23

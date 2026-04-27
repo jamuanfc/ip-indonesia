@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-116.193.188.0/24,ipv4,AS63515,Indonesia Network Information Center
-116.193.189.0/24,ipv4,AS63515,Indonesia Network Information Center
-2406:6cc0:a300::/48,ipv6,AS63515,Indonesia Network Information Center
-2404:ef00::/32,ipv6,AS63515,Indonesia Network Information Center
-2406:6cc0:a600::/48,ipv6,AS63515,Indonesia Network Information Center
-2406:6cc0:a200::/48,ipv6,AS63515,Indonesia Network Information Center
-2406:6cc0:a100::/48,ipv6,AS63515,Indonesia Network Information Center
+116.193.188.0/24
+116.193.189.0/24
+2406:6cc0:a300::/48
+2404:ef00::/32
+2406:6cc0:a600::/48
+2406:6cc0:a200::/48
+2406:6cc0:a100::/48

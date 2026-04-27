@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.211.106.0/24,ipv4,AS150998,PT Atmega Telecomindo Nusantara
-103.211.107.0/24,ipv4,AS150998,PT Atmega Telecomindo Nusantara
+103.211.106.0/24
+103.211.107.0/24

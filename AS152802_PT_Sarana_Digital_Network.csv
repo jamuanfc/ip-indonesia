@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.22.23.0/24,ipv4,AS152802,PT Sarana Digital Network
-160.22.22.0/24,ipv4,AS152802,PT Sarana Digital Network
+160.22.23.0/24
+160.22.22.0/24

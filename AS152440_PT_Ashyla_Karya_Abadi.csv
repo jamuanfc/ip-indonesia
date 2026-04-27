@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-2001:df3:c240::/48,ipv6,AS152440,PT Ashyla Karya Abadi
-157.66.3.0/24,ipv4,AS152440,PT Ashyla Karya Abadi
-157.66.2.0/24,ipv4,AS152440,PT Ashyla Karya Abadi
-157.66.2.0/23,ipv4,AS152440,PT Ashyla Karya Abadi
-175.184.236.0/24,ipv4,AS152440,PT Ashyla Karya Abadi
+2001:df3:c240::/48
+157.66.3.0/24
+157.66.2.0/24
+157.66.2.0/23
+175.184.236.0/24

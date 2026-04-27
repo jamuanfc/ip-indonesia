@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.191.232.0/24,ipv4,AS153480,PT Andal Ciptamedia Sarana
-160.191.233.0/24,ipv4,AS153480,PT Andal Ciptamedia Sarana
+160.191.232.0/24
+160.191.233.0/24

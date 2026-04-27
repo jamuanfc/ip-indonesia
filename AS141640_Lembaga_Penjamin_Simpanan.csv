@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df5:e280::/48,ipv6,AS141640,Lembaga Penjamin Simpanan
-103.162.19.0/24,ipv4,AS141640,Lembaga Penjamin Simpanan
+2001:df5:e280::/48
+103.162.19.0/24

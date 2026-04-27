@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df3:92c0::/48,ipv6,AS152421,PT Fiberlink Technology Indonesia
-157.20.145.0/24,ipv4,AS152421,PT Fiberlink Technology Indonesia
+2001:df3:92c0::/48
+157.20.145.0/24

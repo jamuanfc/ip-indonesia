@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-165.99.202.0/24,ipv4,AS153961,PT Connexa Digital Network
-165.99.202.0/23,ipv4,AS153961,PT Connexa Digital Network
-165.99.203.0/24,ipv4,AS153961,PT Connexa Digital Network
-2001:df5:ab40::/48,ipv6,AS153961,PT Connexa Digital Network
+165.99.202.0/24
+165.99.202.0/23
+165.99.203.0/24
+2001:df5:ab40::/48

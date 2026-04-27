@@ -1,10 +1,9 @@
-prefix,ip_version,asn,asn_name
-43.231.129.0/24,ipv4,AS38788,PT Indonesian Cloud
-43.230.4.0/24,ipv4,AS38788,PT Indonesian Cloud
-43.230.7.0/24,ipv4,AS38788,PT Indonesian Cloud
-103.7.1.0/24,ipv4,AS38788,PT Indonesian Cloud
-103.242.180.0/24,ipv4,AS38788,PT Indonesian Cloud
-103.7.0.0/24,ipv4,AS38788,PT Indonesian Cloud
-103.242.181.0/24,ipv4,AS38788,PT Indonesian Cloud
-103.242.180.0/23,ipv4,AS38788,PT Indonesian Cloud
-43.231.128.0/24,ipv4,AS38788,PT Indonesian Cloud
+43.231.129.0/24
+43.230.4.0/24
+43.230.7.0/24
+103.7.1.0/24
+103.242.180.0/24
+103.7.0.0/24
+103.242.181.0/24
+103.242.180.0/23
+43.231.128.0/24

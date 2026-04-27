@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-202.55.175.0/24,ipv4,AS17769,PT Indopratama Teleglobal (ISP)Wisma BSG Floor 6
-103.159.20.0/24,ipv4,AS17769,PT Indopratama Teleglobal (ISP)Wisma BSG Floor 6
-202.55.169.0/24,ipv4,AS17769,PT Indopratama Teleglobal (ISP)Wisma BSG Floor 6
+202.55.175.0/24
+103.159.20.0/24
+202.55.169.0/24

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df5:8cc0::/48,ipv6,AS153937,PT Ring Data Prima
-165.99.71.0/24,ipv4,AS153937,PT Ring Data Prima
+2001:df5:8cc0::/48
+165.99.71.0/24

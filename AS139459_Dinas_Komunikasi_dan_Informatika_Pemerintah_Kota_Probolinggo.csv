@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.146.34.0/24,ipv4,AS139459,Dinas Komunikasi dan Informatika Pemerintah Kota Probolinggo
-103.146.35.0/24,ipv4,AS139459,Dinas Komunikasi dan Informatika Pemerintah Kota Probolinggo
+103.146.34.0/24
+103.146.35.0/24

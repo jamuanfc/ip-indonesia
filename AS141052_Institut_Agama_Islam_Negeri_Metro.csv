@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.152.52.0/24,ipv4,AS141052,Institut Agama Islam Negeri Metro
-2001:df3:f780::/48,ipv6,AS141052,Institut Agama Islam Negeri Metro
+103.152.52.0/24
+2001:df3:f780::/48

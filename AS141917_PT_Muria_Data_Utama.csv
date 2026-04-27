@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.164.228.0/24,ipv4,AS141917,PT Muria Data Utama
-103.164.229.0/24,ipv4,AS141917,PT Muria Data Utama
+103.164.228.0/24
+103.164.229.0/24

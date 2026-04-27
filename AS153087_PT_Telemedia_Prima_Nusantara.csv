@@ -1,15 +1,14 @@
-prefix,ip_version,asn,asn_name
-2404:97c0:9000::/36,ipv6,AS153087,PT Telemedia Prima Nusantara
-2404:97c0:1000::/36,ipv6,AS153087,PT Telemedia Prima Nusantara
-160.25.222.0/24,ipv4,AS153087,PT Telemedia Prima Nusantara
-2404:97c0:200::/40,ipv6,AS153087,PT Telemedia Prima Nusantara
-2404:97c0:3000::/36,ipv6,AS153087,PT Telemedia Prima Nusantara
-103.136.162.0/24,ipv4,AS153087,PT Telemedia Prima Nusantara
-2404:97c0:3100::/40,ipv6,AS153087,PT Telemedia Prima Nusantara
-160.25.222.0/23,ipv4,AS153087,PT Telemedia Prima Nusantara
-160.25.223.0/24,ipv4,AS153087,PT Telemedia Prima Nusantara
-103.136.163.0/24,ipv4,AS153087,PT Telemedia Prima Nusantara
-2404:97c0:9700::/40,ipv6,AS153087,PT Telemedia Prima Nusantara
-2404:97c0::/36,ipv6,AS153087,PT Telemedia Prima Nusantara
-103.136.162.0/23,ipv4,AS153087,PT Telemedia Prima Nusantara
-2404:97c0:1600::/40,ipv6,AS153087,PT Telemedia Prima Nusantara
+2404:97c0:9000::/36
+2404:97c0:1000::/36
+160.25.222.0/24
+2404:97c0:200::/40
+2404:97c0:3000::/36
+103.136.162.0/24
+2404:97c0:3100::/40
+160.25.222.0/23
+160.25.223.0/24
+103.136.163.0/24
+2404:97c0:9700::/40
+2404:97c0::/36
+103.136.162.0/23
+2404:97c0:1600::/40

@@ -1,9 +1,8 @@
-prefix,ip_version,asn,asn_name
-160.25.243.0/24,ipv4,AS142347,PT Sarana Media Cemerlang
-103.169.189.0/24,ipv4,AS142347,PT Sarana Media Cemerlang
-103.101.219.0/24,ipv4,AS142347,PT Sarana Media Cemerlang
-103.101.218.0/24,ipv4,AS142347,PT Sarana Media Cemerlang
-2400:e520::/32,ipv6,AS142347,PT Sarana Media Cemerlang
-160.25.242.0/23,ipv4,AS142347,PT Sarana Media Cemerlang
-160.25.242.0/24,ipv4,AS142347,PT Sarana Media Cemerlang
-103.169.188.0/24,ipv4,AS142347,PT Sarana Media Cemerlang
+160.25.243.0/24
+103.169.189.0/24
+103.101.219.0/24
+103.101.218.0/24
+2400:e520::/32
+160.25.242.0/23
+160.25.242.0/24
+103.169.188.0/24

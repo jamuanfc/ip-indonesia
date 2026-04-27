@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-157.20.206.0/24,ipv4,AS152436,PT Erajaya Telco Indonesia
-38.103.250.0/24,ipv4,AS152436,PT Erajaya Telco Indonesia
-157.20.207.0/24,ipv4,AS152436,PT Erajaya Telco Indonesia
-157.20.206.0/23,ipv4,AS152436,PT Erajaya Telco Indonesia
-2402:5620::/32,ipv6,AS152436,PT Erajaya Telco Indonesia
+157.20.206.0/24
+38.103.250.0/24
+157.20.207.0/24
+157.20.206.0/23
+2402:5620::/32

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df5:8740::/48,ipv6,AS153903,Yayasan Atma Jaya
-165.99.32.0/24,ipv4,AS153903,Yayasan Atma Jaya
+2001:df5:8740::/48
+165.99.32.0/24

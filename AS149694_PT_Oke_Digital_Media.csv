@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.186.27.0/24,ipv4,AS149694,PT Oke Digital Media
-103.186.26.0/24,ipv4,AS149694,PT Oke Digital Media
-103.186.26.0/23,ipv4,AS149694,PT Oke Digital Media
+103.186.27.0/24
+103.186.26.0/24
+103.186.26.0/23

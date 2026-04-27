@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-109.110.188.0/24,ipv4,AS199695,PT Anym Network Indonesia
-2a12:bec4:1620::/48,ipv6,AS199695,PT Anym Network Indonesia
-163.223.227.0/24,ipv4,AS199695,PT Anym Network Indonesia
-2a12:bec0:170::/48,ipv6,AS199695,PT Anym Network Indonesia
+109.110.188.0/24
+2a12:bec4:1620::/48
+163.223.227.0/24
+2a12:bec0:170::/48

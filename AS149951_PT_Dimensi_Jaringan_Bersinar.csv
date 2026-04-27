@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-2001:df1:1ec0::/48,ipv6,AS149951,PT Dimensi Jaringan Bersinar
-103.111.119.0/24,ipv4,AS149951,PT Dimensi Jaringan Bersinar
-103.111.118.0/24,ipv4,AS149951,PT Dimensi Jaringan Bersinar
-218.100.32.0/24,ipv4,AS149951,PT Dimensi Jaringan Bersinar
+2001:df1:1ec0::/48
+103.111.119.0/24
+103.111.118.0/24
+218.100.32.0/24

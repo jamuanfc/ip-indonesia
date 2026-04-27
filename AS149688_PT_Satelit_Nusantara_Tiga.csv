@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.185.254.0/23,ipv4,AS149688,PT Satelit Nusantara Tiga
-2401:5920::/32,ipv6,AS149688,PT Satelit Nusantara Tiga
-103.185.255.0/24,ipv4,AS149688,PT Satelit Nusantara Tiga
-103.185.254.0/24,ipv4,AS149688,PT Satelit Nusantara Tiga
+103.185.254.0/23
+2401:5920::/32
+103.185.255.0/24
+103.185.254.0/24

@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.10.147.0/24,ipv4,AS56253,PT. Bank Tabungan Pensiunan Nasional Tbk
-103.75.51.0/24,ipv4,AS56253,PT. Bank Tabungan Pensiunan Nasional Tbk
-103.10.146.0/24,ipv4,AS56253,PT. Bank Tabungan Pensiunan Nasional Tbk
-103.10.146.0/23,ipv4,AS56253,PT. Bank Tabungan Pensiunan Nasional Tbk
+103.10.147.0/24
+103.75.51.0/24
+103.10.146.0/24
+103.10.146.0/23

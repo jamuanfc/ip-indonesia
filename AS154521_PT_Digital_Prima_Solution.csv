@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-198.22.37.0/24,ipv4,AS154521,PT Digital Prima Solution
-2001:df6:b3c0::/48,ipv6,AS154521,PT Digital Prima Solution
+198.22.37.0/24
+2001:df6:b3c0::/48

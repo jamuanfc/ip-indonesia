@@ -1,10 +1,9 @@
-prefix,ip_version,asn,asn_name
-103.94.9.0/24,ipv4,AS45722,"Widya Intersat Nusantara, PT"
-180.178.94.0/24,ipv4,AS45722,"Widya Intersat Nusantara, PT"
-180.178.92.0/24,ipv4,AS45722,"Widya Intersat Nusantara, PT"
-180.178.95.0/24,ipv4,AS45722,"Widya Intersat Nusantara, PT"
-103.94.11.0/24,ipv4,AS45722,"Widya Intersat Nusantara, PT"
-103.94.8.0/22,ipv4,AS45722,"Widya Intersat Nusantara, PT"
-180.178.92.0/22,ipv4,AS45722,"Widya Intersat Nusantara, PT"
-180.178.93.0/24,ipv4,AS45722,"Widya Intersat Nusantara, PT"
-103.94.10.0/24,ipv4,AS45722,"Widya Intersat Nusantara, PT"
+103.94.9.0/24
+180.178.94.0/24
+180.178.92.0/24
+180.178.95.0/24
+103.94.11.0/24
+103.94.8.0/22
+180.178.92.0/22
+180.178.93.0/24
+103.94.10.0/24

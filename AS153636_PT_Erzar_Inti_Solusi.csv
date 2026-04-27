@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-2001:df5:940::/48,ipv6,AS153636,PT Erzar Inti Solusi
-163.61.51.0/24,ipv4,AS153636,PT Erzar Inti Solusi
-163.61.50.0/24,ipv4,AS153636,PT Erzar Inti Solusi
-163.61.50.0/23,ipv4,AS153636,PT Erzar Inti Solusi
+2001:df5:940::/48
+163.61.51.0/24
+163.61.50.0/24
+163.61.50.0/23

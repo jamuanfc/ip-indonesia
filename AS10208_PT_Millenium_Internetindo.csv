@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-2406:9600::/32,ipv6,AS10208,PT. Millenium Internetindo
-202.153.128.0/19,ipv4,AS10208,PT. Millenium Internetindo
-202.153.140.0/24,ipv4,AS10208,PT. Millenium Internetindo
-202.153.144.0/20,ipv4,AS10208,PT. Millenium Internetindo
-202.153.140.0/23,ipv4,AS10208,PT. Millenium Internetindo
-202.153.128.0/21,ipv4,AS10208,PT. Millenium Internetindo
-202.153.138.0/23,ipv4,AS10208,PT. Millenium Internetindo
+2406:9600::/32
+202.153.128.0/19
+202.153.140.0/24
+202.153.144.0/20
+202.153.140.0/23
+202.153.128.0/21
+202.153.138.0/23

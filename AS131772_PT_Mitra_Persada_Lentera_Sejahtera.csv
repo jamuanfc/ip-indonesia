@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.210.209.0/24,ipv4,AS131772,PT Mitra Persada Lentera Sejahtera
-103.16.78.0/24,ipv4,AS131772,PT Mitra Persada Lentera Sejahtera
+103.210.209.0/24
+103.16.78.0/24

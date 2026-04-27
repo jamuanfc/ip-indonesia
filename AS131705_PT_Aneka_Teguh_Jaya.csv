@@ -1,10 +1,9 @@
-prefix,ip_version,asn,asn_name
-103.154.179.0/24,ipv4,AS131705,PT Aneka Teguh Jaya
-2406:5c40:8888::/48,ipv6,AS131705,PT Aneka Teguh Jaya
-103.23.197.0/24,ipv4,AS131705,PT Aneka Teguh Jaya
-103.23.196.0/24,ipv4,AS131705,PT Aneka Teguh Jaya
-2406:5c40:1000::/36,ipv6,AS131705,PT Aneka Teguh Jaya
-103.154.178.0/24,ipv4,AS131705,PT Aneka Teguh Jaya
-2406:5c40::/36,ipv6,AS131705,PT Aneka Teguh Jaya
-2406:5c40:2000::/36,ipv6,AS131705,PT Aneka Teguh Jaya
-2406:5c40:9999::/48,ipv6,AS131705,PT Aneka Teguh Jaya
+103.154.179.0/24
+2406:5c40:8888::/48
+103.23.197.0/24
+103.23.196.0/24
+2406:5c40:1000::/36
+103.154.178.0/24
+2406:5c40::/36
+2406:5c40:2000::/36
+2406:5c40:9999::/48

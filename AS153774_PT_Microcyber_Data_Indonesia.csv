@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df5:4340::/48,ipv6,AS153774,PT Microcyber Data Indonesia
-163.223.150.0/24,ipv4,AS153774,PT Microcyber Data Indonesia
+2001:df5:4340::/48
+163.223.150.0/24

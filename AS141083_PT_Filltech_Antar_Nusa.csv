@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-202.47.65.0/24,ipv4,AS141083,PT Filltech Antar Nusa
-103.156.57.0/24,ipv4,AS141083,PT Filltech Antar Nusa
-103.162.141.0/24,ipv4,AS141083,PT Filltech Antar Nusa
-209.146.107.0/24,ipv4,AS141083,PT Filltech Antar Nusa
+202.47.65.0/24
+103.156.57.0/24
+103.162.141.0/24
+209.146.107.0/24

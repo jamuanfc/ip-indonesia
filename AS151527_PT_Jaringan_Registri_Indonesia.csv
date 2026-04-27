@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.236.172.0/24,ipv4,AS151527,PT Jaringan Registri Indonesia
-103.236.173.0/24,ipv4,AS151527,PT Jaringan Registri Indonesia
+103.236.172.0/24
+103.236.173.0/24

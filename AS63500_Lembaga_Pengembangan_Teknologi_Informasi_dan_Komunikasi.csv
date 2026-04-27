@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.151.89.0/24,ipv4,AS63500,Lembaga Pengembangan Teknologi Informasi dan Komunikasi
-103.212.43.0/24,ipv4,AS63500,Lembaga Pengembangan Teknologi Informasi dan Komunikasi
+103.151.89.0/24
+103.212.43.0/24

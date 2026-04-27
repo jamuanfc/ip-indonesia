@@ -1,23 +1,22 @@
-prefix,ip_version,asn,asn_name
-2400:4c80:100d::/48,ipv6,AS7632,Linknet-Exchange ASN
-111.95.244.0/23,ipv4,AS7632,Linknet-Exchange ASN
-2400:4c80:1006::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:100c::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:1008::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:1004::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:1007::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:1005::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80::/32,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:1009::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:100a::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:1000::/48,ipv6,AS7632,Linknet-Exchange ASN
-111.95.247.0/24,ipv4,AS7632,Linknet-Exchange ASN
-2400:4c80:1001::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:100b::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:1002::/48,ipv6,AS7632,Linknet-Exchange ASN
-2400:4c80:100f::/48,ipv6,AS7632,Linknet-Exchange ASN
-111.95.246.0/23,ipv4,AS7632,Linknet-Exchange ASN
-111.95.244.0/24,ipv4,AS7632,Linknet-Exchange ASN
-2400:4c80:100e::/48,ipv6,AS7632,Linknet-Exchange ASN
-111.95.245.0/24,ipv4,AS7632,Linknet-Exchange ASN
-2400:4c80:1003::/48,ipv6,AS7632,Linknet-Exchange ASN
+2400:4c80:100d::/48
+111.95.244.0/23
+2400:4c80:1006::/48
+2400:4c80:100c::/48
+2400:4c80:1008::/48
+2400:4c80:1004::/48
+2400:4c80:1007::/48
+2400:4c80:1005::/48
+2400:4c80::/32
+2400:4c80:1009::/48
+2400:4c80:100a::/48
+2400:4c80:1000::/48
+111.95.247.0/24
+2400:4c80:1001::/48
+2400:4c80:100b::/48
+2400:4c80:1002::/48
+2400:4c80:100f::/48
+111.95.246.0/23
+111.95.244.0/24
+2400:4c80:100e::/48
+111.95.245.0/24
+2400:4c80:1003::/48

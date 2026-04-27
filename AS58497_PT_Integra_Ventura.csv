@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-203.12.21.0/24,ipv4,AS58497,PT Integra Ventura
-203.12.20.0/24,ipv4,AS58497,PT Integra Ventura
+203.12.21.0/24
+203.12.20.0/24

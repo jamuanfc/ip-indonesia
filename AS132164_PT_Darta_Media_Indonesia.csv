@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-2001:df0:9e00::/48,ipv6,AS132164,PT Darta Media Indonesia
-103.50.217.0/24,ipv4,AS132164,PT Darta Media Indonesia
-103.6.117.0/24,ipv4,AS132164,PT Darta Media Indonesia
-103.50.216.0/24,ipv4,AS132164,PT Darta Media Indonesia
+2001:df0:9e00::/48
+103.50.217.0/24
+103.6.117.0/24
+103.50.216.0/24

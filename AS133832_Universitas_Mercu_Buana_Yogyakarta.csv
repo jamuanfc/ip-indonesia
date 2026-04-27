@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df4:4400::/48,ipv6,AS133832,Universitas Mercu Buana Yogyakarta
-103.58.111.0/24,ipv4,AS133832,Universitas Mercu Buana Yogyakarta
+2001:df4:4400::/48
+103.58.111.0/24

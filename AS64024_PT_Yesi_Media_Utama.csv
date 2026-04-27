@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.210.116.0/24,ipv4,AS64024,PT Yesi Media Utama
-103.210.119.0/24,ipv4,AS64024,PT Yesi Media Utama
-103.210.118.0/24,ipv4,AS64024,PT Yesi Media Utama
-103.210.117.0/24,ipv4,AS64024,PT Yesi Media Utama
+103.210.116.0/24
+103.210.119.0/24
+103.210.118.0/24
+103.210.117.0/24

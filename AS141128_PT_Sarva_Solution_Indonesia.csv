@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.107.206.0/24,ipv4,AS141128,PT Sarva Solution Indonesia
-103.158.130.0/24,ipv4,AS141128,PT Sarva Solution Indonesia
+103.107.206.0/24
+103.158.130.0/24

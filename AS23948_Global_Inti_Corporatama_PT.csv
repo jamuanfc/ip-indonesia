@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-202.75.22.0/24,ipv4,AS23948,Global Inti Corporatama PT.
-202.75.16.0/24,ipv4,AS23948,Global Inti Corporatama PT.
-2401:8240:1::/48,ipv6,AS23948,Global Inti Corporatama PT.
-2401:8240:3::/48,ipv6,AS23948,Global Inti Corporatama PT.
-202.75.24.0/24,ipv4,AS23948,Global Inti Corporatama PT.
-2401:8240:2::/48,ipv6,AS23948,Global Inti Corporatama PT.
-202.75.20.0/24,ipv4,AS23948,Global Inti Corporatama PT.
+202.75.22.0/24
+202.75.16.0/24
+2401:8240:1::/48
+2401:8240:3::/48
+202.75.24.0/24
+2401:8240:2::/48
+202.75.20.0/24

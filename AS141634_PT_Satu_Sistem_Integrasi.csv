@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.162.1.0/24,ipv4,AS141634,PT Satu Sistem Integrasi
-103.162.0.0/24,ipv4,AS141634,PT Satu Sistem Integrasi
+103.162.1.0/24
+103.162.0.0/24

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.178.23.0/24,ipv4,AS134627,Universitas Kristen Satya Wacana
-103.9.183.0/24,ipv4,AS134627,Universitas Kristen Satya Wacana
+103.178.23.0/24
+103.9.183.0/24

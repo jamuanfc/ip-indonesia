@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.99.215.0/24,ipv4,AS136837,Universitas Muhammadiyah Palembang
-103.99.214.0/24,ipv4,AS136837,Universitas Muhammadiyah Palembang
+103.99.215.0/24
+103.99.214.0/24

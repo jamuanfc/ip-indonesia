@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.20.16.0/24,ipv4,AS149963,PT Layanan Internet Sakti
-202.47.89.0/24,ipv4,AS149963,PT Layanan Internet Sakti
+103.20.16.0/24
+202.47.89.0/24

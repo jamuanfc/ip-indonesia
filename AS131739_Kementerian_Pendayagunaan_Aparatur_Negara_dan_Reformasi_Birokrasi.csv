@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-203.57.24.0/24,ipv4,AS131739,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
-203.57.25.0/24,ipv4,AS131739,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+203.57.24.0/24
+203.57.25.0/24

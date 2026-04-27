@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.155.26.0/24,ipv4,AS141057,PT Fokus Inovasi Faradisa Abadi
-2001:df4:aa80::/48,ipv6,AS141057,PT Fokus Inovasi Faradisa Abadi
+103.155.26.0/24
+2001:df4:aa80::/48

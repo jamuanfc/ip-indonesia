@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-157.15.79.0/24,ipv4,AS152367,PT Box Net Media
-157.15.78.0/24,ipv4,AS152367,PT Box Net Media
+157.15.79.0/24
+157.15.78.0/24

@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-202.46.145.0/24,ipv4,AS18056,Pt Mithaharum Abadi
-202.46.147.0/24,ipv4,AS18056,Pt Mithaharum Abadi
-2402:82c0::/32,ipv6,AS18056,Pt Mithaharum Abadi
-202.46.144.0/24,ipv4,AS18056,Pt Mithaharum Abadi
-202.46.146.0/24,ipv4,AS18056,Pt Mithaharum Abadi
+202.46.145.0/24
+202.46.147.0/24
+2402:82c0::/32
+202.46.144.0/24
+202.46.146.0/24

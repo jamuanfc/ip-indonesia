@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.116.108.0/24,ipv4,AS131785,Mahkamah Agung RI
-103.226.55.0/24,ipv4,AS131785,Mahkamah Agung RI
-103.16.79.0/24,ipv4,AS131785,Mahkamah Agung RI
+103.116.108.0/24
+103.226.55.0/24
+103.16.79.0/24

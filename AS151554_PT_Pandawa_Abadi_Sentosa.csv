@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.244.104.0/24,ipv4,AS151554,PT Pandawa Abadi Sentosa
-103.244.105.0/24,ipv4,AS151554,PT Pandawa Abadi Sentosa
+103.244.104.0/24
+103.244.105.0/24

@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.57.192.0/24,ipv4,AS63882,PT Giga Prima Lestari
-103.57.195.0/24,ipv4,AS63882,PT Giga Prima Lestari
-103.57.194.0/24,ipv4,AS63882,PT Giga Prima Lestari
-103.57.193.0/24,ipv4,AS63882,PT Giga Prima Lestari
+103.57.192.0/24
+103.57.195.0/24
+103.57.194.0/24
+103.57.193.0/24

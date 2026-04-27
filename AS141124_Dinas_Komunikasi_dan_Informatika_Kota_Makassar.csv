@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.151.20.0/24,ipv4,AS141124,Dinas Komunikasi dan Informatika Kota Makassar
-103.151.21.0/24,ipv4,AS141124,Dinas Komunikasi dan Informatika Kota Makassar
+103.151.20.0/24
+103.151.21.0/24

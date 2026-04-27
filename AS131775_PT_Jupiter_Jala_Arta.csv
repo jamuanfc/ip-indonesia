@@ -1,15 +1,14 @@
-prefix,ip_version,asn,asn_name
-202.74.236.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-202.74.238.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-163.227.124.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-202.74.239.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-103.251.44.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-103.251.45.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-103.131.51.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-103.16.199.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-202.74.237.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-103.230.246.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-103.16.198.0/24,ipv4,AS131775,PT. Jupiter Jala Arta
-2406:f040:bcd::/48,ipv6,AS131775,PT. Jupiter Jala Arta
-2406:f040:131::/48,ipv6,AS131775,PT. Jupiter Jala Arta
-2406:f040:c8::/48,ipv6,AS131775,PT. Jupiter Jala Arta
+202.74.236.0/24
+202.74.238.0/24
+163.227.124.0/24
+202.74.239.0/24
+103.251.44.0/24
+103.251.45.0/24
+103.131.51.0/24
+103.16.199.0/24
+202.74.237.0/24
+103.230.246.0/24
+103.16.198.0/24
+2406:f040:bcd::/48
+2406:f040:131::/48
+2406:f040:c8::/48

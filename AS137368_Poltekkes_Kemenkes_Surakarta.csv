@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.116.210.0/24,ipv4,AS137368,Poltekkes Kemenkes Surakarta
-2001:df5:7b00::/48,ipv6,AS137368,Poltekkes Kemenkes Surakarta
+103.116.210.0/24
+2001:df5:7b00::/48

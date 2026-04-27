@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.155.186.0/23,ipv4,AS24198,PT. Datakom Padma Jaya (DatakomNAP)
-202.93.243.0/24,ipv4,AS24198,PT. Datakom Padma Jaya (DatakomNAP)
-103.155.186.0/24,ipv4,AS24198,PT. Datakom Padma Jaya (DatakomNAP)
-202.93.242.0/23,ipv4,AS24198,PT. Datakom Padma Jaya (DatakomNAP)
-2402:b240::/32,ipv6,AS24198,PT. Datakom Padma Jaya (DatakomNAP)
-103.155.187.0/24,ipv4,AS24198,PT. Datakom Padma Jaya (DatakomNAP)
-202.93.242.0/24,ipv4,AS24198,PT. Datakom Padma Jaya (DatakomNAP)
+103.155.186.0/23
+202.93.243.0/24
+103.155.186.0/24
+202.93.242.0/23
+2402:b240::/32
+103.155.187.0/24
+202.93.242.0/24

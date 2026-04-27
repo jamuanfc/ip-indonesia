@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.20.224.0/24,ipv4,AS134659,Diskominfo DKI Jakarta
-103.209.7.0/24,ipv4,AS134659,Diskominfo DKI Jakarta
+160.20.224.0/24
+103.209.7.0/24

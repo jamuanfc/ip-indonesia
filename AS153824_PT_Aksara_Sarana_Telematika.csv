@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-163.227.112.0/24,ipv4,AS153824,PT Aksara Sarana Telematika
-2001:df5:64c0::/48,ipv6,AS153824,PT Aksara Sarana Telematika
+163.227.112.0/24
+2001:df5:64c0::/48

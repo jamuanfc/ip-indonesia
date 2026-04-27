@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.159.225.0/24,ipv4,AS141147,PT Arkananta Global Media
-103.159.224.0/24,ipv4,AS141147,PT Arkananta Global Media
+103.159.225.0/24
+103.159.224.0/24

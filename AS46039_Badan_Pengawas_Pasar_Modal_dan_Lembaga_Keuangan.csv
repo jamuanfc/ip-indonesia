@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.138.230.0/24,ipv4,AS46039,Badan Pengawas Pasar Modal dan Lembaga Keuangan
-202.124.203.0/24,ipv4,AS46039,Badan Pengawas Pasar Modal dan Lembaga Keuangan
-103.14.192.0/24,ipv4,AS46039,Badan Pengawas Pasar Modal dan Lembaga Keuangan
+103.138.230.0/24
+202.124.203.0/24
+103.14.192.0/24

@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.22.190.0/24,ipv4,AS152824,PT Aldiyanur Mahakam Telemedia
-160.22.191.0/24,ipv4,AS152824,PT Aldiyanur Mahakam Telemedia
+160.22.190.0/24
+160.22.191.0/24

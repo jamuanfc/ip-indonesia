@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.167.169.0/24,ipv4,AS141985,PT Argon Internet Amariqindo
-103.167.168.0/24,ipv4,AS141985,PT Argon Internet Amariqindo
+103.167.169.0/24
+103.167.168.0/24

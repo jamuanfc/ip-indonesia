@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2001:df3:2740::/48,ipv6,AS149912,PT Graha Sumber Teknologi
-103.189.197.0/24,ipv4,AS149912,PT Graha Sumber Teknologi
+2001:df3:2740::/48
+103.189.197.0/24

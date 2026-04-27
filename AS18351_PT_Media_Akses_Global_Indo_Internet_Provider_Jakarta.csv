@@ -1,15 +1,14 @@
-prefix,ip_version,asn,asn_name
-203.201.177.0/24,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-103.69.67.0/24,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-103.69.64.0/22,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-2405:eb80:8000::/33,ipv6,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-2001:df0:2f4::/48,ipv6,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-203.201.176.0/22,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-2405:eb80::/32,ipv6,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-2405:eb80::/33,ipv6,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-103.69.64.0/24,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-103.69.66.0/24,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-103.231.110.0/23,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-203.207.53.0/24,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-203.207.52.0/24,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
-203.201.179.0/24,ipv4,AS18351,"PT Media Akses Global Indo, Internet Provider Jakarta"
+203.201.177.0/24
+103.69.67.0/24
+103.69.64.0/22
+2405:eb80:8000::/33
+2001:df0:2f4::/48
+203.201.176.0/22
+2405:eb80::/32
+2405:eb80::/33
+103.69.64.0/24
+103.69.66.0/24
+103.231.110.0/23
+203.207.53.0/24
+203.207.52.0/24
+203.201.179.0/24

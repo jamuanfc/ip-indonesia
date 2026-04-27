@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-2a0f:b240:f::/48,ipv6,AS212001,Muhammad Fhandika Rafif
-2602:fd50:8000::/48,ipv6,AS212001,Muhammad Fhandika Rafif
-2a0f:85c1:bb3::/48,ipv6,AS212001,Muhammad Fhandika Rafif
-2a06:9f44:d000::/36,ipv6,AS212001,Muhammad Fhandika Rafif
+2a0f:b240:f::/48
+2602:fd50:8000::/48
+2a0f:85c1:bb3::/48
+2a06:9f44:d000::/36

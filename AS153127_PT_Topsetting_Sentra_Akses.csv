@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-160.187.151.0/24,ipv4,AS153127,PT Topsetting Sentra Akses
-160.187.150.0/23,ipv4,AS153127,PT Topsetting Sentra Akses
-160.187.150.0/24,ipv4,AS153127,PT Topsetting Sentra Akses
-2001:df4:58c0::/48,ipv6,AS153127,PT Topsetting Sentra Akses
+160.187.151.0/24
+160.187.150.0/23
+160.187.150.0/24
+2001:df4:58c0::/48

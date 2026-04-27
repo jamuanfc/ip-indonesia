@@ -1,7 +1,6 @@
-prefix,ip_version,asn,asn_name
-103.160.182.0/24,ipv4,AS150208,PT Internusa Duta Makmur
-157.15.187.0/24,ipv4,AS150208,PT Internusa Duta Makmur
-2001:df3:c440::/48,ipv6,AS150208,PT Internusa Duta Makmur
-103.160.183.0/24,ipv4,AS150208,PT Internusa Duta Makmur
-103.179.183.0/24,ipv4,AS150208,PT Internusa Duta Makmur
-157.15.186.0/24,ipv4,AS150208,PT Internusa Duta Makmur
+103.160.182.0/24
+157.15.187.0/24
+2001:df3:c440::/48
+103.160.183.0/24
+103.179.183.0/24
+157.15.186.0/24

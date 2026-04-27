@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-203.169.55.0/24,ipv4,AS152081,PT Zinet Media Nusantara
-203.169.54.0/24,ipv4,AS152081,PT Zinet Media Nusantara
+203.169.55.0/24
+203.169.54.0/24

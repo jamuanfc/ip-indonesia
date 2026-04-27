@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.147.118.0/24,ipv4,AS139962,PT.Bestcamp Prima Data
-103.147.119.0/24,ipv4,AS139962,PT.Bestcamp Prima Data
+103.147.118.0/24
+103.147.119.0/24

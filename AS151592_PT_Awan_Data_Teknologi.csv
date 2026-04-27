@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-163.223.104.0/24,ipv4,AS151592,PT Awan Data Teknologi
-202.155.143.0/24,ipv4,AS151592,PT Awan Data Teknologi
-2001:df3:240::/48,ipv6,AS151592,PT Awan Data Teknologi
-143.20.199.0/24,ipv4,AS151592,PT Awan Data Teknologi
-103.52.212.0/24,ipv4,AS151592,PT Awan Data Teknologi
-208.76.40.0/24,ipv4,AS151592,PT Awan Data Teknologi
-45.126.43.0/24,ipv4,AS151592,PT Awan Data Teknologi
+163.223.104.0/24
+202.155.143.0/24
+2001:df3:240::/48
+143.20.199.0/24
+103.52.212.0/24
+208.76.40.0/24
+45.126.43.0/24

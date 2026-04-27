@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-157.20.221.0/24,ipv4,AS152426,PT Nawasena Andalan Indonesia
-2001:df3:9cc0::/48,ipv6,AS152426,PT Nawasena Andalan Indonesia
-157.20.220.0/23,ipv4,AS152426,PT Nawasena Andalan Indonesia
-157.20.220.0/24,ipv4,AS152426,PT Nawasena Andalan Indonesia
+157.20.221.0/24
+2001:df3:9cc0::/48
+157.20.220.0/23
+157.20.220.0/24

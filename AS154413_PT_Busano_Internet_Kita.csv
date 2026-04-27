@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-144.79.74.0/23,ipv4,AS154413,PT Busano Internet Kita
-144.79.74.0/24,ipv4,AS154413,PT Busano Internet Kita
-144.79.75.0/24,ipv4,AS154413,PT Busano Internet Kita
+144.79.74.0/23
+144.79.74.0/24
+144.79.75.0/24

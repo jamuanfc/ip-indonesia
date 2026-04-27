@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.158.23.0/24,ipv4,AS141590,PT Tujuh Media Angkasa
-103.158.22.0/24,ipv4,AS141590,PT Tujuh Media Angkasa
+103.158.23.0/24
+103.158.22.0/24

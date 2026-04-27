@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-157.20.230.0/24,ipv4,AS152431,PT Media Annur Nusantara
-157.20.231.0/24,ipv4,AS152431,PT Media Annur Nusantara
+157.20.230.0/24
+157.20.231.0/24

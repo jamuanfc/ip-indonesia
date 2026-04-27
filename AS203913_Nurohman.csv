@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-2a0a:6045:7e00::/40,ipv6,AS203913,Nurohman
-2a0a:6045:7f00::/40,ipv6,AS203913,Nurohman
+2a0a:6045:7e00::/40
+2a0a:6045:7f00::/40

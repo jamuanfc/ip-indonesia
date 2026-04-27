@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.236.148.0/24,ipv4,AS55664,PT Inovasi Global Mumpuni
-45.249.222.0/24,ipv4,AS55664,PT Inovasi Global Mumpuni
-103.146.186.0/24,ipv4,AS55664,PT Inovasi Global Mumpuni
-103.146.187.0/24,ipv4,AS55664,PT Inovasi Global Mumpuni
-103.236.150.0/24,ipv4,AS55664,PT Inovasi Global Mumpuni
-103.236.151.0/24,ipv4,AS55664,PT Inovasi Global Mumpuni
-45.249.220.0/24,ipv4,AS55664,PT Inovasi Global Mumpuni
+103.236.148.0/24
+45.249.222.0/24
+103.146.186.0/24
+103.146.187.0/24
+103.236.150.0/24
+103.236.151.0/24
+45.249.220.0/24

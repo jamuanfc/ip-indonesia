@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-157.10.156.0/24,ipv4,AS152089,PT Singki Media Telekomunikasi
-141.11.237.0/24,ipv4,AS152089,PT Singki Media Telekomunikasi
-2a13:9500:168::/48,ipv6,AS152089,PT Singki Media Telekomunikasi
+157.10.156.0/24
+141.11.237.0/24
+2a13:9500:168::/48

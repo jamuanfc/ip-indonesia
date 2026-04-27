@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-2401:4a60::/32,ipv6,AS149934,PT Pangkalan Lintas Data
-103.191.196.0/23,ipv4,AS149934,PT Pangkalan Lintas Data
-103.191.197.0/24,ipv4,AS149934,PT Pangkalan Lintas Data
-103.191.196.0/24,ipv4,AS149934,PT Pangkalan Lintas Data
+2401:4a60::/32
+103.191.196.0/23
+103.191.197.0/24
+103.191.196.0/24

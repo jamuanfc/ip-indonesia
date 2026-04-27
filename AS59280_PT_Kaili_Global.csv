@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-103.228.24.0/22,ipv4,AS59280,PT. Kaili Global
-103.228.27.0/24,ipv4,AS59280,PT. Kaili Global
-103.228.26.0/23,ipv4,AS59280,PT. Kaili Global
-103.228.26.0/24,ipv4,AS59280,PT. Kaili Global
-103.228.25.0/24,ipv4,AS59280,PT. Kaili Global
+103.228.24.0/22
+103.228.27.0/24
+103.228.26.0/23
+103.228.26.0/24
+103.228.25.0/24

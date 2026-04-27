@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-163.128.184.0/24,ipv4,AS154629,PT Garuda Network Nusantara Sinergi
-163.128.185.0/24,ipv4,AS154629,PT Garuda Network Nusantara Sinergi
+163.128.184.0/24
+163.128.185.0/24

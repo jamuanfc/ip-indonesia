@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.61.235.0/24,ipv4,AS150510,PT Kawan Lama Sejahtera
-103.61.234.0/24,ipv4,AS150510,PT Kawan Lama Sejahtera
-103.61.234.0/23,ipv4,AS150510,PT Kawan Lama Sejahtera
-2001:df3:c640::/48,ipv6,AS150510,PT Kawan Lama Sejahtera
+103.61.235.0/24
+103.61.234.0/24
+103.61.234.0/23
+2001:df3:c640::/48

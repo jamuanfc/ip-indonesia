@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.22.35.0/24,ipv4,AS152816,PT Takalink Access Indonesia
-2001:df6:c140::/48,ipv6,AS152816,PT Takalink Access Indonesia
+160.22.35.0/24
+2001:df6:c140::/48

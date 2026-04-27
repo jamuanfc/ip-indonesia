@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-103.163.230.0/23,ipv4,AS141907,PT Metrosolusi Teknologi Indonesia
-202.51.218.0/24,ipv4,AS141907,PT Metrosolusi Teknologi Indonesia
-103.163.230.0/24,ipv4,AS141907,PT Metrosolusi Teknologi Indonesia
-2407:4040::/32,ipv6,AS141907,PT Metrosolusi Teknologi Indonesia
-103.163.231.0/24,ipv4,AS141907,PT Metrosolusi Teknologi Indonesia
+103.163.230.0/23
+202.51.218.0/24
+103.163.230.0/24
+2407:4040::/32
+103.163.231.0/24

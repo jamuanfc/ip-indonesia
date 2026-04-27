@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.169.233.0/24,ipv4,AS142362,PT Sukma Sejati Media
-103.169.232.0/23,ipv4,AS142362,PT Sukma Sejati Media
-114.141.59.0/24,ipv4,AS142362,PT Sukma Sejati Media
-103.169.232.0/24,ipv4,AS142362,PT Sukma Sejati Media
+103.169.233.0/24
+103.169.232.0/23
+114.141.59.0/24
+103.169.232.0/24

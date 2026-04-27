@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.177.6.0/23,ipv4,AS147140,PT Hijrah Mandiri Network
-103.177.7.0/24,ipv4,AS147140,PT Hijrah Mandiri Network
-103.177.6.0/24,ipv4,AS147140,PT Hijrah Mandiri Network
+103.177.6.0/23
+103.177.7.0/24
+103.177.6.0/24

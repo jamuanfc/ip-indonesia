@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-151.158.186.0/24,ipv4,AS138990,PT Mulya Jaya Network Group
-2001:df6:b8c0::/48,ipv6,AS138990,PT Mulya Jaya Network Group
+151.158.186.0/24
+2001:df6:b8c0::/48

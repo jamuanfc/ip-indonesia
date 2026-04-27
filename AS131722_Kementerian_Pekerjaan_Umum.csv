@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.12.84.0/24,ipv4,AS131722,Kementerian Pekerjaan Umum
-103.211.51.0/24,ipv4,AS131722,Kementerian Pekerjaan Umum
-103.211.50.0/24,ipv4,AS131722,Kementerian Pekerjaan Umum
-103.211.50.0/23,ipv4,AS131722,Kementerian Pekerjaan Umum
+103.12.84.0/24
+103.211.51.0/24
+103.211.50.0/24
+103.211.50.0/23

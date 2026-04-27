@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.28.81.0/24,ipv4,AS45723,"Omadata Indonesia, PT"
-103.28.80.0/24,ipv4,AS45723,"Omadata Indonesia, PT"
-202.1.236.0/24,ipv4,AS45723,"Omadata Indonesia, PT"
-103.28.80.0/22,ipv4,AS45723,"Omadata Indonesia, PT"
-2403:1a00:4::/47,ipv6,AS45723,"Omadata Indonesia, PT"
-103.28.83.0/24,ipv4,AS45723,"Omadata Indonesia, PT"
-103.28.82.0/24,ipv4,AS45723,"Omadata Indonesia, PT"
+103.28.81.0/24
+103.28.80.0/24
+202.1.236.0/24
+103.28.80.0/22
+2403:1a00:4::/47
+103.28.83.0/24
+103.28.82.0/24

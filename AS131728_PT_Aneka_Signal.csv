@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.12.114.0/24,ipv4,AS131728,PT Aneka Signal
-2404:e700::/32,ipv6,AS131728,PT Aneka Signal
-203.153.215.0/24,ipv4,AS131728,PT Aneka Signal
-203.153.213.0/24,ipv4,AS131728,PT Aneka Signal
-203.153.214.0/24,ipv4,AS131728,PT Aneka Signal
-103.12.112.0/24,ipv4,AS131728,PT Aneka Signal
-2404:e700:22::/48,ipv6,AS131728,PT Aneka Signal
+103.12.114.0/24
+2404:e700::/32
+203.153.215.0/24
+203.153.213.0/24
+203.153.214.0/24
+103.12.112.0/24
+2404:e700:22::/48

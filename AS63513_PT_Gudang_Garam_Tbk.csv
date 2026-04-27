@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.41.208.0/24,ipv4,AS63513,PT Gudang Garam Tbk
-103.41.209.0/24,ipv4,AS63513,PT Gudang Garam Tbk
-103.41.211.0/24,ipv4,AS63513,PT Gudang Garam Tbk
-103.41.210.0/24,ipv4,AS63513,PT Gudang Garam Tbk
+103.41.208.0/24
+103.41.209.0/24
+103.41.211.0/24
+103.41.210.0/24

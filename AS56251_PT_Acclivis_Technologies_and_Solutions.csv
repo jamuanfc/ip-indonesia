@@ -1,7 +1,6 @@
-prefix,ip_version,asn,asn_name
-103.4.174.0/24,ipv4,AS56251,PT Acclivis Technologies and Solutions
-58.145.233.0/24,ipv4,AS56251,PT Acclivis Technologies and Solutions
-103.23.235.0/24,ipv4,AS56251,PT Acclivis Technologies and Solutions
-202.42.51.0/24,ipv4,AS56251,PT Acclivis Technologies and Solutions
-103.4.175.0/24,ipv4,AS56251,PT Acclivis Technologies and Solutions
-103.23.234.0/24,ipv4,AS56251,PT Acclivis Technologies and Solutions
+103.4.174.0/24
+58.145.233.0/24
+103.23.235.0/24
+202.42.51.0/24
+103.4.175.0/24
+103.23.234.0/24

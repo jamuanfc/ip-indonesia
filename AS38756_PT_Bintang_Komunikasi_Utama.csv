@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-103.212.236.0/24,ipv4,AS38756,PT Bintang Komunikasi Utama
-103.212.237.0/24,ipv4,AS38756,PT Bintang Komunikasi Utama
-103.212.238.0/24,ipv4,AS38756,PT Bintang Komunikasi Utama
+103.212.236.0/24
+103.212.237.0/24
+103.212.238.0/24

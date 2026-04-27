@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-121.50.32.0/24,ipv4,AS56237,Universitas Lampung
-103.3.46.0/24,ipv4,AS56237,Universitas Lampung
+121.50.32.0/24
+103.3.46.0/24

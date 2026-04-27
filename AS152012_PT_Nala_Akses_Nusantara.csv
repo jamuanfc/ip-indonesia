@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-203.175.100.0/24,ipv4,AS152012,PT Nala Akses Nusantara
-203.175.101.0/24,ipv4,AS152012,PT Nala Akses Nusantara
-203.175.100.0/23,ipv4,AS152012,PT Nala Akses Nusantara
+203.175.100.0/24
+203.175.101.0/24
+203.175.100.0/23

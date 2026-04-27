@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.123.13.0/24,ipv4,AS133807,Badan Pertanahan Nasional
-103.49.37.0/24,ipv4,AS133807,Badan Pertanahan Nasional
+103.123.13.0/24
+103.49.37.0/24

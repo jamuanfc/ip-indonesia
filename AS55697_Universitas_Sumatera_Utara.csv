@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-202.0.107.0/24,ipv4,AS55697,Universitas Sumatera Utara
-103.54.0.0/24,ipv4,AS55697,Universitas Sumatera Utara
-103.174.222.0/24,ipv4,AS55697,Universitas Sumatera Utara
-2001:df0:2a7::/48,ipv6,AS55697,Universitas Sumatera Utara
+202.0.107.0/24
+103.54.0.0/24
+103.174.222.0/24
+2001:df0:2a7::/48

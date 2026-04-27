@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.129.220.0/24,ipv4,AS138062,PT. Awan Kilat Semesta
-103.129.222.0/24,ipv4,AS138062,PT. Awan Kilat Semesta
-103.129.223.0/24,ipv4,AS138062,PT. Awan Kilat Semesta
-103.129.221.0/24,ipv4,AS138062,PT. Awan Kilat Semesta
+103.129.220.0/24
+103.129.222.0/24
+103.129.223.0/24
+103.129.221.0/24

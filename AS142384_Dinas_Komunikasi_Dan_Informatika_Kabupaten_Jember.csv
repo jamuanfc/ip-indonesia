@@ -1,4 +1,3 @@
-prefix,ip_version,asn,asn_name
-202.169.248.0/24,ipv4,AS142384,Dinas Komunikasi Dan Informatika Kabupaten Jember
-103.225.19.0/24,ipv4,AS142384,Dinas Komunikasi Dan Informatika Kabupaten Jember
-138.252.203.0/24,ipv4,AS142384,Dinas Komunikasi Dan Informatika Kabupaten Jember
+202.169.248.0/24
+103.225.19.0/24
+138.252.203.0/24

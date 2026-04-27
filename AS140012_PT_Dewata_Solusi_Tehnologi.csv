@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.148.28.0/24,ipv4,AS140012,PT Dewata Solusi Tehnologi
-2405:c940::/32,ipv6,AS140012,PT Dewata Solusi Tehnologi
-103.148.29.0/24,ipv4,AS140012,PT Dewata Solusi Tehnologi
-154.58.139.0/24,ipv4,AS140012,PT Dewata Solusi Tehnologi
+103.148.28.0/24
+2405:c940::/32
+103.148.29.0/24
+154.58.139.0/24

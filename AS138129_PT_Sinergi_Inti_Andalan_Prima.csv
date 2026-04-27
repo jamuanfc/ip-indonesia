@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-103.132.236.0/24,ipv4,AS138129,PT Sinergi Inti Andalan Prima
-103.132.239.0/24,ipv4,AS138129,PT Sinergi Inti Andalan Prima
-2404:4240:138::/48,ipv6,AS138129,PT Sinergi Inti Andalan Prima
-103.132.237.0/24,ipv4,AS138129,PT Sinergi Inti Andalan Prima
-103.132.238.0/24,ipv4,AS138129,PT Sinergi Inti Andalan Prima
+103.132.236.0/24
+103.132.239.0/24
+2404:4240:138::/48
+103.132.237.0/24
+103.132.238.0/24

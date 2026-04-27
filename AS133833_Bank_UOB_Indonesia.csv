@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-180.233.155.0/24,ipv4,AS133833,Bank UOB Indonesia
-180.233.154.0/24,ipv4,AS133833,Bank UOB Indonesia
+180.233.155.0/24
+180.233.154.0/24

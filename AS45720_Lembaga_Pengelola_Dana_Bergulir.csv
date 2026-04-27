@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.236.161.0/24,ipv4,AS45720,Lembaga Pengelola Dana Bergulir
-103.236.160.0/24,ipv4,AS45720,Lembaga Pengelola Dana Bergulir
+103.236.161.0/24
+103.236.160.0/24

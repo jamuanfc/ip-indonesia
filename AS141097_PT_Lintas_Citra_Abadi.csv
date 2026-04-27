@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.156.225.0/24,ipv4,AS141097,PT Lintas Citra Abadi
-103.156.224.0/24,ipv4,AS141097,PT Lintas Citra Abadi
+103.156.225.0/24
+103.156.224.0/24

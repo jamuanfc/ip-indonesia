@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-160.22.94.0/24,ipv4,AS153110,PT Tri Orion Prospekindo
-160.22.95.0/24,ipv4,AS153110,PT Tri Orion Prospekindo
+160.22.94.0/24
+160.22.95.0/24

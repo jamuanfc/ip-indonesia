@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.31.47.0/24,ipv4,AS135481,Universitas Negeri Makassar
-103.76.50.0/24,ipv4,AS135481,Universitas Negeri Makassar
+103.31.47.0/24
+103.76.50.0/24

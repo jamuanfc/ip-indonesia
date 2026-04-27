@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.157.24.0/24,ipv4,AS141105,PT Dapur Remaja Multi Sarana
-163.61.90.0/24,ipv4,AS141105,PT Dapur Remaja Multi Sarana
+103.157.24.0/24
+163.61.90.0/24

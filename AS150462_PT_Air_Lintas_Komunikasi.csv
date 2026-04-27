@@ -1,5 +1,4 @@
-prefix,ip_version,asn,asn_name
-103.46.186.0/23,ipv4,AS150462,PT Air Lintas Komunikasi
-2001:df2:bfc0::/48,ipv6,AS150462,PT Air Lintas Komunikasi
-103.46.187.0/24,ipv4,AS150462,PT Air Lintas Komunikasi
-103.46.186.0/24,ipv4,AS150462,PT Air Lintas Komunikasi
+103.46.186.0/23
+2001:df2:bfc0::/48
+103.46.187.0/24
+103.46.186.0/24

@@ -1,18 +1,17 @@
-prefix,ip_version,asn,asn_name
-2405:2cc0:8::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:a::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0::/32,ipv6,AS136079,STMIK Amikom Yogyakarta
-103.86.100.0/24,ipv4,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:4::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:1::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:3::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:7::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-202.91.9.0/24,ipv4,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:9::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:5::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-103.86.101.0/24,ipv4,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:2::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:6::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
-103.86.100.0/23,ipv4,AS136079,STMIK Amikom Yogyakarta
-2405:2cc0:b::/48,ipv6,AS136079,STMIK Amikom Yogyakarta
+2405:2cc0:8::/48
+2405:2cc0:a::/48
+2405:2cc0::/32
+103.86.100.0/24
+2405:2cc0:4::/48
+2405:2cc0:1::/48
+2405:2cc0:3::/48
+2405:2cc0:7::/48
+202.91.9.0/24
+2405:2cc0:9::/48
+2405:2cc0:5::/48
+103.86.101.0/24
+2405:2cc0:2::/48
+2405:2cc0::/48
+2405:2cc0:6::/48
+103.86.100.0/23
+2405:2cc0:b::/48

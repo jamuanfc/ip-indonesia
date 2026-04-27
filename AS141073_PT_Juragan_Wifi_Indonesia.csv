@@ -1,6 +1,5 @@
-prefix,ip_version,asn,asn_name
-103.155.200.0/24,ipv4,AS141073,PT Juragan Wifi Indonesia
-103.155.201.0/24,ipv4,AS141073,PT Juragan Wifi Indonesia
-103.229.201.0/24,ipv4,AS141073,PT Juragan Wifi Indonesia
-103.229.200.0/24,ipv4,AS141073,PT Juragan Wifi Indonesia
-2406:7740::/32,ipv6,AS141073,PT Juragan Wifi Indonesia
+103.155.200.0/24
+103.155.201.0/24
+103.229.201.0/24
+103.229.200.0/24
+2406:7740::/32

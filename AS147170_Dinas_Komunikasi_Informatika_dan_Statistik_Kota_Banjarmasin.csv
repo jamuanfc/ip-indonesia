@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.178.83.0/24,ipv4,AS147170,Dinas Komunikasi Informatika dan Statistik Kota Banjarmasin
-103.174.13.0/24,ipv4,AS147170,Dinas Komunikasi Informatika dan Statistik Kota Banjarmasin
+103.178.83.0/24
+103.174.13.0/24

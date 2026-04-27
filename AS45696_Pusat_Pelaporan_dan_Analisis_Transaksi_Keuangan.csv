@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-203.215.50.0/24,ipv4,AS45696,Pusat Pelaporan dan Analisis Transaksi Keuangan
-103.224.180.0/24,ipv4,AS45696,Pusat Pelaporan dan Analisis Transaksi Keuangan
+203.215.50.0/24
+103.224.180.0/24

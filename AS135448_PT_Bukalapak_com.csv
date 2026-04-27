@@ -1,8 +1,7 @@
-prefix,ip_version,asn,asn_name
-103.64.14.0/24,ipv4,AS135448,PT Bukalapak.com
-45.125.72.0/22,ipv4,AS135448,PT Bukalapak.com
-103.117.83.0/24,ipv4,AS135448,PT Bukalapak.com
-139.5.40.0/22,ipv4,AS135448,PT Bukalapak.com
-103.97.251.0/24,ipv4,AS135448,PT Bukalapak.com
-45.122.52.0/22,ipv4,AS135448,PT Bukalapak.com
-103.117.82.0/24,ipv4,AS135448,PT Bukalapak.com
+103.64.14.0/24
+45.125.72.0/22
+103.117.83.0/24
+139.5.40.0/22
+103.97.251.0/24
+45.122.52.0/22
+103.117.82.0/24

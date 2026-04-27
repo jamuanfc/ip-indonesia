@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.38.106.0/24,ipv4,AS152009,PT Global Koneksi Investama
-103.38.107.0/24,ipv4,AS152009,PT Global Koneksi Investama
+103.38.106.0/24
+103.38.107.0/24

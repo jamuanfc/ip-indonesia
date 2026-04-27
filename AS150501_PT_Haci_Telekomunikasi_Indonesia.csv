@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-103.120.76.0/24,ipv4,AS150501,PT Haci Telekomunikasi Indonesia
-2001:df2:2140::/48,ipv6,AS150501,PT Haci Telekomunikasi Indonesia
+103.120.76.0/24
+2001:df2:2140::/48

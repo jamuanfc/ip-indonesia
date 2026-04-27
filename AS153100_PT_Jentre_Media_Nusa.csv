@@ -1,3 +1,2 @@
-prefix,ip_version,asn,asn_name
-31.59.96.0/24,ipv4,AS153100,PT Jentre Media Nusa
-160.25.201.0/24,ipv4,AS153100,PT Jentre Media Nusa
+31.59.96.0/24
+160.25.201.0/24
