@@ -1,0 +1,9 @@
+# ASN tambahan: satu nomor ASN per baris ("8075" atau "AS8075"); teks setelah "#" diabaikan.
+# Setelah file ini disimpan (Commit changes), GitHub Actions membuat file AS<nomor>_<Nama>.csv
+# berisi semua prefix (IPv4 + IPv6) yang diumumkan ASN itu di internet. ASN dari negara mana pun boleh.
+# Menghapus baris = file AS<nomor>_*.csv ikut dihapus pada jalan berikutnya.
+#
+# Contoh (hapus tanda # di depan nomor untuk mengaktifkan):
+# 8075     # Microsoft
+# 15169    # Google
+# 13335    # Cloudflare
