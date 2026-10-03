@@ -45,6 +45,10 @@ class Pengaman(unittest.TestCase):
         self.assertEqual(lines[-1], "2001:448a::/32")          # IPv4 dulu, lalu IPv6
         self.assertIn('AS64500,"PT Contoh Satu",21', (self.out / "asn_indonesia.csv").read_text())
         self.assertEqual(list(self.out.glob("AS*_*.csv")), [])  # tanpa asn_tambahan: tanpa file per ASN
+        world = (self.out / "asn_dunia.csv").read_text().splitlines()
+        self.assertEqual(world[0], "asn,nama,negara,jumlah_prefix")
+        self.assertIn('AS8075,"Microsoft Corporation",US,1', world)  # ASN luar negeri ikut, tanpa file per ASN
+        self.assertEqual(len(world), 4)
 
     def test_susut_lebih_dari_10_persen_tidak_menulis(self):
         source(self.src, self.ris4, self.ris6)

@@ -9,6 +9,8 @@ Sumber (tiga unduhan per jalan, bukan satu panggilan API per ASN):
 Hasil (prefix: satu per baris, tanpa header, IPv4 lalu IPv6):
   - all_indonesia_ips.csv      semua prefix yang diumumkan ASN berkode negara ID
   - asn_indonesia.csv          daftar ASN Indonesia (asn,nama,jumlah_prefix)
+  - asn_dunia.csv              daftar semua ASN dunia (asn,nama,negara,jumlah_prefix): tempat mencari
+                               nomor ASN sebelum menambahkannya ke asn_tambahan.txt
   - AS<asn>_<Nama>.csv         satu file per ASN yang ditulis di asn_tambahan.txt (Indonesia atau dunia)
 
 Pengaman: semua dihitung di memori dulu; bila sumber gagal/terlalu kecil, hasil terlalu sedikit,
@@ -129,6 +131,10 @@ def file_name(asn, name):
     return f"AS{asn}_{slug}.csv"
 
 
+def quoted(name):
+    return '"' + name.replace('"', "") + '"'
+
+
 def ordered(nets):
     return sorted(nets, key=lambda n: (n.version, n.network_address, n.prefixlen))
 
@@ -151,14 +157,16 @@ def build(out_dir, cache_dir=None):
     unknown = [a for a in extra if a not in names]
     if unknown:
         raise FeedError(f"ASN tidak terdaftar di asn.txt: {', '.join(map(str, unknown))}")
-    routes = {a: {n for n in raw_routes.get(a, ()) if usable(n)} for a in set(id_asns) | set(extra)}
+    routes = {a: {n for n in nets if usable(n)} for a, nets in raw_routes.items()}
 
     all_id = set()
     for asn in id_asns:
         all_id |= routes.get(asn, set())
     files = {"all_indonesia_ips.csv": text(all_id),
              "asn_indonesia.csv": "asn,nama,jumlah_prefix\n" + "".join(
-                 f'AS{a},"{names[a][0].replace(chr(34), "")}",{len(routes.get(a, ()))}\n' for a in id_asns)}
+                 f'AS{a},{quoted(names[a][0])},{len(routes.get(a, ()))}\n' for a in id_asns),
+             "asn_dunia.csv": "asn,nama,negara,jumlah_prefix\n" + "".join(
+                 f'AS{a},{quoted(n)},{cc},{len(routes.get(a, ()))}\n' for a, (n, cc) in sorted(names.items()))}
     old_files = {p.name for p in out_dir.iterdir() if ASN_FILE.match(p.name)}
     keep = set()
     for asn in sorted(set(extra)):
@@ -185,10 +193,11 @@ def build(out_dir, cache_dir=None):
 
     no_route = [a for a in extra if not routes.get(a)]
     return {
-        "asn_dunia": len(names), "asn_indonesia": len(id_asns),
+        "asn_dunia": f"{len(names)} ({sum(1 for a in names if routes.get(a))} beriklan)",
+        "asn_indonesia": len(id_asns),
         "asn_indonesia_beriklan": sum(1 for a in id_asns if routes.get(a)),
         "prefix_indonesia": f"{old_count} -> {len(all_id)}",
-        "file_asn_tambahan": f"{len(files) - 2} ditulis, {len(gone)} dihapus, {len(keep)} dipertahankan",
+        "file_asn_tambahan": f"{len(files) - 3} ditulis, {len(gone)} dihapus, {len(keep)} dipertahankan",
         "asn_tambahan": len(extra),
         "asn_tambahan_tanpa_prefix": ", ".join(f"AS{a}" for a in no_route) or "-",
     }
