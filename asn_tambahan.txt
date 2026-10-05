@@ -7,5 +7,6 @@
 # 8075     # Microsoft
 # 15169    # Google
 # 13335    # Cloudflare
-AS203686
-AS4800
+AS203686 # Ilham Maulana
+AS4800  # Lintasarta
+AS8075  # Microsoft
