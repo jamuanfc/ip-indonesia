@@ -40,7 +40,7 @@ AS38,"University of Illinois",US,10
 AS39,"United States Department of Defense (DoD)",US,0
 AS40,"Massachusetts Institute of Technology",US,0
 AS41,"National Aeronautics and Space Administration",US,0
-AS42,"WoodyNet, Inc.",US,412
+AS42,"WoodyNet, Inc.",US,413
 AS43,"Brookhaven National Laboratory",US,8
 AS44,"Lawrence Livermore National Laboratory",US,6
 AS45,"Lawrence Livermore National Laboratory",US,12
@@ -54,7 +54,7 @@ AS52,"University of California, Los Angeles",US,11
 AS53,"Northrop Grumman Corporation - Automation Sciences Laboratory",US,0
 AS54,"Headquarters, USAISC",US,0
 AS55,"University of Pennsylvania",US,6
-AS56,"United States Department of Defense (DoD)",US,931
+AS56,"United States Department of Defense (DoD)",US,932
 AS57,"University of Minnesota",US,5
 AS58,"Shared Services Canada",CA,0
 AS59,"University of Wisconsin Madison",US,17
@@ -172,7 +172,7 @@ AS170,"United States Department of Defense (DoD)",US,0
 AS171,"Southern Light Rail, Inc.",US,0
 AS172,"Headquarters, USAISC",US,0
 AS173,"Nippon Telegraph and Telephone Corporation",JP,2
-AS174,"Cogent Communications, LLC",US,4574
+AS174,"Cogent Communications, LLC",US,4575
 AS175,"Air Force Systems Networking",US,0
 AS176,"Information Systems and Networks Corporation",US,0
 AS177,"University of Michigan",US,2
@@ -640,7 +640,7 @@ AS643,"United States Department of Defense (DoD)",US,0
 AS644,"United States Department of Defense (DoD)",US,0
 AS645,"United States Department of Defense (DoD)",US,0
 AS646,"United States Department of Defense (DoD)",US,0
-AS647,"United States Department of Defense (DoD)",US,418
+AS647,"United States Department of Defense (DoD)",US,425
 AS648,"United States Department of Defense (DoD)",US,0
 AS649,"United States Department of Defense (DoD)",US,0
 AS650,"United States Department of Defense (DoD)",US,0
@@ -1271,7 +1271,7 @@ AS1295,"General Electric Company",US,0
 AS1296,"University of Chili",CL,0
 AS1297,"European Organization for Nuclear Research",CH,0
 AS1298,"United States Department of Defense (DoD)",US,0
-AS1299,"TWELVE99 Arelion Sweden AB",SE,141
+AS1299,"TWELVE99 Arelion Sweden AB",SE,142
 AS1300,"Renater",EU,0
 AS1301,"Electricite de France SA",EU,11
 AS1302,"Renater",EU,0
@@ -1375,7 +1375,7 @@ AS1399,"Charles Schwab & Co., Inc.",US,4
 AS1400,"Charles Schwab & Co., Inc.",US,0
 AS1401,"DSW Information Technology LLC.",US,2
 AS1402,"Charles Schwab & Co., Inc.",US,0
-AS1403,"EBOX",CA,245
+AS1403,"EBOX",CA,246
 AS1404,"VerticalResponse, Inc.",US,0
 AS1405,"Caelus Technology LLC",US,17
 AS1406,"Motorola Inc",US,11
@@ -1509,7 +1509,7 @@ AS1536,"Headquarters, USAISC",US,0
 AS1537,"Headquarters, USAISC",US,0
 AS1538,"Headquarters, USAISC",US,0
 AS1539,"Headquarters, USAISC",US,0
-AS1540,"Headquarters, USAISC",US,1276
+AS1540,"Headquarters, USAISC",US,1277
 AS1541,"Headquarters, USAISC",US,0
 AS1542,"Headquarters, USAISC",US,1
 AS1543,"Headquarters, USAISC",US,0
@@ -1624,7 +1624,7 @@ AS1655,"Navy Network Information Center (NNIC)",US,0
 AS1656,"Lockheed Martin Corporation",US,0
 AS1657,"University of Louisville",US,15
 AS1658,"Network Management, Inc.",US,0
-AS1659,"Taiwan Academic Network (TANet) Information Center",TW,355
+AS1659,"Taiwan Academic Network (TANet) Information Center",TW,357
 AS1660,"Verizon Business",US,0
 AS1661,"Verizon Business",US,29
 AS1662,"Verizon Business",US,0
@@ -2090,7 +2090,7 @@ AS2148,"ITEP National Research Center Kurchatov Institute",RU,2
 AS2149,"Cogent Communications, LLC",US,2
 AS2150,"CENIC",US,0
 AS2151,"CENIC",US,0
-AS2152,"CENIC",US,756
+AS2152,"CENIC",US,757
 AS2153,"CENIC",US,14
 AS2154,"HP Inc.",US,5
 AS2155,"HP Inc.",US,4
@@ -2492,7 +2492,7 @@ AS2604,"MHS-GRAZ Graz University of Music and Performing Arts",AT,1
 AS2605,"CESNET CESNET z.s.p.o.",CZ,0
 AS2606,"wifiberes Wifiber.es SL",ES,5
 AS2607,"SANET Zdruzenie pouzivatelov Slovenskej akademickej datovej siete SANET",SK,36
-AS2609,"IDDQD-AS",TN,64
+AS2609,"IDDQD-AS",TN,65
 AS2611,"BELNET BELNET",BE,46
 AS2612,"SITASYS AG",CH,1
 AS2613,"VAN_GULIK Association Romandix",CH,3
@@ -3025,7 +3025,7 @@ AS3219,"HU-GOVNET Ministry of Local Government and Regional Development",HU,1
 AS3220,"INTERNET-TECHNOLOGY-ADVISORS Internet Technology Advisors Scandinavia Ab",GB,1
 AS3221,"EENet-AS Haridus- ja Teadusministeerium",EE,4
 AS3222,"CINIAFI Cinia Oy",FI,0
-AS3223,"VOXILITY Voxility LLP",GB,374
+AS3223,"VOXILITY Voxility LLP",GB,398
 AS3225,"Gulfnet-Kuwait GULFNET COMMUNICATIONS CO. WLL",KW,185
 AS3226,"MARK-ITT-AS OOO NI",RU,11
 AS3227,"Live_in_Sky_Ltd Git In Sky LLC",RU,1
@@ -3137,7 +3137,7 @@ AS3351,"IOFFE-PHYSICAL-THECHICAL-INSTITUTE-AS Ioffe Physical-Technical Institute
 AS3352,"Telefonica_de_EspaNa TELEFONICA DE ESPANA S.A.U.",ES,227
 AS3354,"University of Texas System",US,16
 AS3355,"Lockheed Martin Corporation",US,0
-AS3356,"Level 3 Parent, LLC",US,1196
+AS3356,"Level 3 Parent, LLC",US,2089
 AS3357,"VLAN24",KR,0
 AS3358,"Central Intelligence Agency",US,0
 AS3359,"University of Alberta",CA,7
@@ -3353,7 +3353,7 @@ AS3569,"Andersen Worldwide S.C.",US,0
 AS3570,"FMC Corporation",US,0
 AS3571,"Ernst & Young LLP",US,18
 AS3572,"Texas Youth Commission",US,0
-AS3573,"Accenture LLP",US,337
+AS3573,"Accenture LLP",US,338
 AS3574,"ICTV, Inc.",US,0
 AS3575,"GigabitNow",US,0
 AS3576,"Hodgson Russ LLP",US,7
@@ -3519,7 +3519,7 @@ AS3737,"PenTeleData Inc.",US,1385
 AS3738,"State Street Bank and Trust Company",US,88
 AS3739,"Smart Link Project Office",US,0
 AS3740,"The University of Chicago",US,0
-AS3741,"Dimension Data",ZA,509
+AS3741,"Dimension Data",ZA,508
 AS3742,"Rock Island Communications",US,1
 AS3743,"Cleveland Cliffs Steel LLC",US,7
 AS3745,"NTT DATA Services Holdings Corporation",US,3
@@ -3577,7 +3577,7 @@ AS3797,"Metasys, Inc.",US,0
 AS3798,"Law School Admission Council, Inc.",US,0
 AS3799,"InteleCom Data Systems, Inc,",US,0
 AS3800,"AS3800 LLC",US,36
-AS3801,"Mikrotec Internet Services",US,67
+AS3801,"Mikrotec Internet Services",US,69
 AS3802,"Luthern General Health System",US,0
 AS3803,"RCN",US,0
 AS3804,"WorldLinx Telecommunications, Inc.",CA,1
@@ -3984,7 +3984,7 @@ AS4209,"Pequiven",VE,0
 AS4210,"D. E. Shaw & Co. LP",US,0
 AS4211,"Maricopa County Government",US,6
 AS4212,"CenturyLink Communications, LLC",US,0
-AS4213,"Krypt Technologies",US,122
+AS4213,"Krypt Technologies",US,123
 AS4214,"United States Department of Defense (DoD)",US,0
 AS4215,"United States Department of Defense (DoD)",US,0
 AS4216,"United States Department of Defense (DoD)",US,0
@@ -4301,7 +4301,7 @@ AS4534,"Interconnected Associates (IXA) Inc.",US,0
 AS4535,"Inter Network Solutions",VE,0
 AS4536,"United States Department of Defense (DoD)",US,0
 AS4537,"Headquarters, USAISC",US,0
-AS4538,"China Education and Research Network Center",CN,10179
+AS4538,"China Education and Research Network Center",CN,10178
 AS4539,"Schweitzer Engineering Laboratories, Inc.",US,2
 AS4540,"SOGETEL INC",CA,48
 AS4541,"Internet at Work",US,0
@@ -4540,7 +4540,7 @@ AS4776,"A-Net Co., Ltd.",TH,40
 AS4777,"Asia Pacific Network Information Centre",JP,4
 AS4778,"Optus Customer Network",AU,4
 AS4779,"Philippine Open Internet Exchange",PH,0
-AS4780,"Digital United Inc.",TW,1620
+AS4780,"Digital United Inc.",TW,1618
 AS4781,"PAGIC.net , INC.",TW,9
 AS4782,"Data Communication Business Group",TW,19
 AS4783,"SYSTEX CORPORATION",TW,7
@@ -4609,7 +4609,7 @@ AS4845,"Chung Hsiao East Road",TW,2
 AS4846,"Egress Space Pty Ltd",AU,0
 AS4847,"China Networks Inter-Exchange",CN,894
 AS4848,"Cheung Yuk Tong Aaron",HK,0
-AS4849,"S3Company S3 Company Ltd",BG,6
+AS4849,"S3Company S3 Company Ltd",BG,7
 AS4850,"Digicom LLC",MN,1
 AS4851,"Host Networks",AU,16
 AS4852,"iiNet Technologies (SA) Pty Ltd",AU,0
@@ -4859,7 +4859,7 @@ AS5107,"AT&T Enterprises, LLC",US,0
 AS5108,"City of Pasadena",US,6
 AS5109,"Uniti Fiber Holdings Inc.",US,0
 AS5110,"City of Vancouver",CA,5
-AS5111,"Aibo Link Co., Ltd.",JP,0
+AS5111,"Aibo Link Co., Ltd.",JP,2
 AS5112,"Sidlinger Computer Corporation",US,0
 AS5113,"H.G.E.A",US,0
 AS5114,"Knowledge Broker, Inc.",US,0
@@ -5173,7 +5173,7 @@ AS5432,"PROXIMUS-ISP-AS Proximus NV",BE,84
 AS5433,"ROKSON-AS VEROLINE Ltd",RU,0
 AS5435,"VELCOM-AS Velcom d.o.o",SI,7
 AS5436,"COMPUTACENTER-FRANCE Computacenter France SAS",FR,2
-AS5438,"ATI-TN Agence Tunisienne d'Internet",TN,17
+AS5438,"ATI-TN Agence Tunisienne d'Internet",TN,32
 AS5458,"FNV QNB Finans Yatirim Menkul Degerler A.S.",TR,2
 AS5459,"LINX-AS London Internet Exchange Ltd.",GB,4
 AS5461,"OKB-MEI OKB MEI",RU,0
@@ -5191,7 +5191,7 @@ AS5474,"TOBBETU-NET TOBB Economics and Technology University",TR,5
 AS5479,"UNI-VILNIUS Kauno Technologijos Universitetas",LT,8
 AS5480,"R61NET State Educational institution for High professional education 'Southern Federal University'",RU,8
 AS5482,"AS5482 AllPoints Fibre Limited",GB,31
-AS5483,"MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc.",HU,167
+AS5483,"MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Plc.",HU,168
 AS5484,"CIS Shabakeh Gostar Shahriyar Co. (Ltd.)",IR,6
 AS5485,"SMARTHELP SMARTHELP AS",NO,2
 AS5486,"SMILE-ASN Partner Communications Ltd.",IL,3
@@ -5506,7 +5506,7 @@ AS5835,"United States Department of Defense (DoD)",US,0
 AS5836,"United States Department of Defense (DoD)",US,0
 AS5837,"United States Department of Defense (DoD)",US,0
 AS5838,"United States Department of Defense (DoD)",US,0
-AS5839,"United States Department of Defense (DoD)",US,55
+AS5839,"United States Department of Defense (DoD)",US,56
 AS5840,"United States Department of Defense (DoD)",US,0
 AS5841,"United States Department of Defense (DoD)",US,0
 AS5842,"United States Department of Defense (DoD)",US,10
@@ -5740,7 +5740,7 @@ AS6071,"Unisys Corporation",US,9
 AS6072,"Unisys Corporation",US,6
 AS6073,"KAPS, Inc",US,0
 AS6074,"Long Island University",US,1
-AS6075,"Lockheed Martin Corporation",US,188
+AS6075,"Lockheed Martin Corporation",US,190
 AS6076,"CoreComm Internet Services Inc",US,0
 AS6077,"Blue Cross Blue Shield of Nebraska",US,3
 AS6078,"InterActive Network Services",US,0
@@ -5862,7 +5862,7 @@ AS6196,"Internet Systems, Inc.",US,0
 AS6197,"BellSouth Network Solutions, Inc",US,0
 AS6198,"BellSouth Network Solutions, Inc",US,0
 AS6199,"Cooper Union",US,2
-AS6200,"University of Illinois Chicago",US,7
+AS6200,"University of Illinois Chicago",US,8
 AS6201,"Architext",US,0
 AS6202,"IMV/Internet",US,0
 AS6203,"Peace Communications LLC",US,25
@@ -5912,7 +5912,7 @@ AS6246,"NuWave",US,0
 AS6247,"SPAN INFORMATION TECHNOLOGY, Inc.",CA,0
 AS6248,"DEKA Research & Development Corp",US,1
 AS6249,"RCN",US,0
-AS6250,"NeoNova Network Services, LLC",US,41
+AS6250,"NeoNova Network Services, LLC",US,43
 AS6251,"UCLA Physical Sciences Division",US,0
 AS6252,"Evolution On-Line Systems, Inc.",US,0
 AS6253,"The Prudential Insurance Company of America",US,22
@@ -6418,7 +6418,7 @@ AS6803,"SWAN SWAN, a.s.",SK,0
 AS6805,"TDDE-ASN1 Telefonica Germany GmbH & Co.OHG",DE,37
 AS6807,"KHARKIV-AS National Technical University 'Kharkiv Polytechnical Institute'",UA,2
 AS6808,"GTT-ASIA-BACKBONE GTT Communications Inc.",US,0
-AS6810,"BEZEK Bezeq- THE ISRAEL TELECOMMUNICATION CORP. LTD.",IL,202
+AS6810,"BEZEK Bezeq- THE ISRAEL TELECOMMUNICATION CORP. LTD.",IL,203
 AS6811,"Verizon Denmark A/S",DK,0
 AS6813,"FLEXNET TELEFONICA DE ESPANA S.A.U.",ES,11
 AS6814,"GTT Communications Inc.",US,0
@@ -6607,7 +6607,7 @@ AS7025,"Ameritech Library Services",US,0
 AS7026,"Internet Maine",US,0
 AS7027,"ENGAGE games online",US,0
 AS7028,"International Business Software, Inc.",US,0
-AS7029,"Windstream Communications LLC",US,3197
+AS7029,"Windstream Communications LLC",US,3198
 AS7030,"Exwire, Inc.",US,16
 AS7031,"Moonlight Media, Inc.",US,0
 AS7032,"Micro Focus",US,0
@@ -6618,7 +6618,7 @@ AS7036,"Primus Telecommunications Canada Inc.",CA,0
 AS7037,"Level 3 Parent, LLC",US,0
 AS7038,"Instituto Tecnologico y de Estudios Superiores de Monterrey",MX,11
 AS7039,"OAKNET Consulting",US,0
-AS7040,"Netminders Server Hosting",CA,36
+AS7040,"Netminders Server Hosting",CA,37
 AS7041,"Dalcomp",US,0
 AS7042,"UK-ALPHA GamerDating Ltd",GB,0
 AS7043,"FASEB",US,0
@@ -6878,7 +6878,7 @@ AS7299,"ProNET Communications Inc.",CA,0
 AS7300,"InfoTrax Systems, L.C.",US,0
 AS7301,"National Academy of Sciences",US,1
 AS7302,"Advanced Internet Communications, Inc.",US,0
-AS7303,"Telecom Argentina S.A.",AR,768
+AS7303,"Telecom Argentina S.A.",AR,767
 AS7304,"Complete Internet Access, Inc",US,0
 AS7305,"Innerset",US,0
 AS7306,"Asian Development Bank",US,6
@@ -7117,7 +7117,7 @@ AS7541,"FIC Network Service, INC.",TW,0
 AS7542,"Edge Technology Pty Ltd",AU,0
 AS7543,"PT Reach Network Services Indonesia",ID,10
 AS7544,"ComClark Network & Technology Corp",PH,0
-AS7545,"TPG Telecom Limited",AU,6428
+AS7545,"TPG Telecom Limited",AU,6444
 AS7546,"Dreamtilt Service Provider Gladstone",AU,9
 AS7547,"The East China regional network of CEInet",CN,0
 AS7548,"The hainan regional network of CEInet",CN,0
@@ -7297,7 +7297,7 @@ AS7722,"TELPACIFIC P/L",AU,10
 AS7723,"Emergency 24",US,3
 AS7724,"Internet Enterprise Center",US,0
 AS7725,"Comcast Cable Communications, LLC",US,145
-AS7726,"FedEx Internet Technologies Corporation",US,117
+AS7726,"FedEx Internet Technologies Corporation",US,121
 AS7727,"Hondutel",HN,8
 AS7728,"Grillo Networking, Inc.",US,0
 AS7729,"MCSNet",US,0
@@ -7716,7 +7716,7 @@ AS8147,"Ericsson Inc.",US,16
 AS8148,"Sourcewell",US,0
 AS8149,"Abacus Group LLC",US,5
 AS8150,"Mobile Public School System",US,0
-AS8151,"UNINET",MX,14016
+AS8151,"UNINET",MX,14017
 AS8152,"Broderbund Networks",US,0
 AS8153,"Nortel (Northern Telecom)",CA,0
 AS8154,"Gulf Telephone Company",US,0
@@ -7808,7 +7808,7 @@ AS8255,"EURO-INFORMATION Euro-Information-Europeenne de Traitement de l'Informat
 AS8256,"LODMAN-AS Lodz University of Technology",PL,8
 AS8257,"SLOVANET-BROADBAND Slovanet a.s.",SK,13
 AS8258,"VISTI-NET-AS Information Centre Elektronni Visti LLC",UA,5
-AS8262,"EVOLINK-AS Evolink EAD",BG,37
+AS8262,"EVOLINK-AS Evolink EAD",BG,38
 AS8263,"Cloud-Megafon PJSC MegaFon",RU,3
 AS8264,"MARLINK-SK Marlink AS",NO,3
 AS8265,"FASTNET-BKB-ASN FASTNET S.R.L.",IT,9
@@ -7890,7 +7890,7 @@ AS8372,"COLT-UK-AS COLT Technology Services Group Limited",GB,0
 AS8373,"DEUBA-NET Deutsche Bank AG",DE,44
 AS8374,"PLUSNET Polkomtel Sp. z o.o.",PL,18
 AS8375,"Telehouse Deutschland GmbH",DE,5
-AS8376,"Jordan Data Communications Company LLC",JO,1095
+AS8376,"Jordan Data Communications Company LLC",JO,1102
 AS8377,"PETERLINK-AS Imperator LLC",RU,0
 AS8379,"CYBERNET-AG GTT Communications Inc.",US,0
 AS8380,"TU-EUROPA-PL-AS1 TOWARZYSTWO UBEZPIECZEN NA ZYCIE EUROPA SPOLKA AKCYJNA",PL,1
@@ -7940,7 +7940,7 @@ AS8446,"ASN-SJU Kindred IP Limited",MT,0
 AS8447,"A1TELEKOM-AT A1 Telekom Austria AG",AT,131
 AS8448,"CETIN-HU CETIN Hungary Zrt.",HU,4
 AS8449,"AS8449-ELCAT ElCat Ltd.",KG,51
-AS8452,"IDDQD-AS",EG,2562
+AS8452,"IDDQD-AS",EG,2567
 AS8453,"ECONIS-AS Econis AG",CH,5
 AS8454,"FMO FMO Flughafen Muenster/Osnabrueck GmbH",DE,2
 AS8455,"ATOM86-AS atom86 BV",NL,36
@@ -8333,7 +8333,7 @@ AS9003,"SFR SA",FR,0
 AS9006,"GEPSPD-AS CJSC Giproenergoprom",RU,1
 AS9007,"DUF-AS heise & dumrath medien geschaeftsfuehrung gmbh",DE,3
 AS9008,"ASN-VO Visual Online S.A.",LU,11
-AS9009,"M247 M247 Europe SRL",RO,5269
+AS9009,"M247 M247 Europe SRL",RO,5266
 AS9011,"The Patent Office",GB,10
 AS9014,"CEFAS Centre for Environment Fisheries and Aquaculture Science (CEFAS)",GB,1
 AS9016,"KBS-BANK-AS Krakowski Bank Spoldzielczy",PL,1
@@ -8418,7 +8418,7 @@ AS9119,"SOFTNET-AS SOFTNET d.o.o.",SI,86
 AS9120,"KEEPIT-DK-CPH Keepit A/S",DK,10
 AS9121,"TTNet Turk Telekomunikasyon Anonim Sirketi",TR,1335
 AS9122,"TECHNOELECTROSERVIS-AS Technoelektroservis Ltd.",RU,2
-AS9123,"TimeWeb-AS JSC TIMEWEB",RU,968
+AS9123,"TimeWeb-AS JSC TIMEWEB",RU,972
 AS9124,"IKBFU Federal State Educational Institution of Higher Professional Education Russian State University of Immanuil Kant",RU,1
 AS9125,"ORIONTELEKOM-AS Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",RS,301
 AS9126,"COLT Technology Services Group Limited",GB,0
@@ -8526,7 +8526,7 @@ AS9251,"PT INTERLINK TECHNOLOGY",ID,1
 AS9252,"Colonial is a major all-finance institution.",AU,0
 AS9253,"New Media Group Limited",HK,8
 AS9254,"Del Monte Philippines, Inc.",PH,1
-AS9255,"Singapore Telecom",SG,93
+AS9255,"Singapore Telecom",SG,94
 AS9257,"QLD Cement Internet Connection",AU,0
 AS9258,"CITEC",AU,0
 AS9259,"Web Host Limited",HK,0
@@ -8563,8 +8563,8 @@ AS9289,"ASM PACIFIC TECHNOLOGY LIMITED",HK,1
 AS9290,"GoHosting",AU,9
 AS9291,"ONEQODE GAMING CARRIER",AU,1
 AS9292,"21 Tampines Avenue 1",SG,15
-AS9293,"NTT Com Asia Limited",HK,135
-AS9294,"GNET INC.",US,699
+AS9293,"NTT Com Asia Limited",HK,141
+AS9294,"GNET INC.",US,864
 AS9295,"Logic World Pty Ltd",AU,0
 AS9296,"Spirit Networks Pty Ltd",AU,0
 AS9297,"Colocity Pty Ltd",AU,4
@@ -8574,7 +8574,7 @@ AS9300,"Southern Computer Services",AU,0
 AS9301,"Cynergic",AU,11
 AS9302,"ASLINE LIMITED",HK,2
 AS9303,"The Digital Lab 2007 Limited",NZ,38
-AS9304,"HGC Global Communications Limited",HK,2179
+AS9304,"HGC Global Communications Limited",HK,2195
 AS9305,"China Internet Network Information Center",CN,0
 AS9306,"RongHua Road No.11, Beijing Economy Technology Development Area, 100176",CN,5
 AS9307,"Shenzhen Runxun Data Communication Co. Ltd.",CN,0
@@ -8587,7 +8587,7 @@ AS9314,"Melbourne PC User Group Inc",AU,0
 AS9315,"They Call Me Joe Pty Ltd",AU,0
 AS9316,"DACOM-PUBNETPLUS",KR,17
 AS9317,"INHA UNIVERSITY",KR,51
-AS9318,"SK Broadband Co Ltd",KR,1273
+AS9318,"SK Broadband Co Ltd",KR,1272
 AS9319,"HCN CHUNGBUK CABLE TV SYSTEMS",KR,204
 AS9320,"Supreme Court of Korea",KR,8
 AS9321,"Hanyang University",KR,17
@@ -8800,7 +8800,7 @@ AS9536,"Macroview Telecom Limited",HK,4
 AS9537,"Level48 Ltd",NZ,0
 AS9539,"Hoshin Multimedia Center Inc.",TW,0
 AS9540,"VELOCIX LIMITED",IN,3
-AS9541,"Cyber Internet Services (Pvt) Ltd.",PK,921
+AS9541,"Cyber Internet Services (Pvt) Ltd.",PK,922
 AS9543,"Westnet Internet Services",AU,0
 AS9544,"Clarenston T/A Preferred Internet Provider",AU,8
 AS9545,"Asia Pacific Network Information Centre",AU,0
@@ -8840,7 +8840,7 @@ AS9579,"Shinyoung Securities CO ., LTD.",KR,1
 AS9580,"Reed Elsevier multi homes ISP connectivity for India staff (Not Transit)",IN,0
 AS9581,"TTPL",HK,0
 AS9582,"Telstra Global - Customer AS Number",HK,0
-AS9583,"Sify Limited",IN,2703
+AS9583,"Sify Limited",IN,2704
 AS9584,"Diyixian.com Limited",HK,38
 AS9585,"Vision Internet Services",AU,0
 AS9586,"IXTech Limited",HK,0
@@ -8930,7 +8930,7 @@ AS9670,"Manila Internet Exchange",PH,0
 AS9671,"Trade-Van Informaiton Services Co.",TW,17
 AS9672,"Optus Customer Network",AU,1
 AS9673,"Arumba Investments",AU,0
-AS9674,"Far EastTone Telecommunication Co., Ltd.",TW,127
+AS9674,"Far EastTone Telecommunication Co., Ltd.",TW,128
 AS9675,"DW Solutions Ltd.",TW,0
 AS9676,"SaveCom Internation Inc.",TW,318
 AS9677,"Carl Watch Corporation",TW,0
@@ -10397,7 +10397,7 @@ AS11168,"SMART CHOICE COMMUNICATIONS, LLC",US,20
 AS11169,"Arquenzo LLC",US,5
 AS11170,"Roller Network LLC",US,9
 AS11171,"Autonation, Inc",US,4
-AS11172,"Alestra, S. de R.L. de C.V.",MX,4025
+AS11172,"Alestra, S. de R.L. de C.V.",MX,4027
 AS11173,"Oso Grande Technologies, Inc.",US,0
 AS11174,"Athenahealth",US,1
 AS11175,"Distributel Communications Limited",CA,0
@@ -10538,7 +10538,7 @@ AS11316,"CriticL.ai",US,0
 AS11317,"Great Plains Network",US,3
 AS11318,"Georgetown University",US,4
 AS11319,"Deseret Digital Media, Inc.",US,4
-AS11320,"LightEdge Solutions",US,131
+AS11320,"LightEdge Solutions",US,132
 AS11321,"Expansion Programs International",US,0
 AS11322,"Thibodaux Regional Medical Center",US,1
 AS11323,"Getty Images (Seattle), Inc.",US,7
@@ -11211,7 +11211,7 @@ AS12021,"Rogers Communications Canada Inc.",CA,0
 AS12022,"OneMain Holdings, Inc",US,8
 AS12023,"IntelePeer, Inc.",US,0
 AS12024,"Advanced Corporate Network",US,1
-AS12025,"Iron Mountain Data Center",US,731
+AS12025,"Iron Mountain Data Center",US,732
 AS12026,"WideOpenWest Finance LLC",US,0
 AS12027,"Hytron Network Services (US) LLC",US,3
 AS12028,"MM Internet, Inc.",US,2
@@ -11426,7 +11426,7 @@ AS12248,"Oficina Central de Estadistica eInformatica (OCEI)",VE,0
 AS12249,"City of Yuba City",US,0
 AS12250,"EDWARD HEALTH SERVICE CORP",US,5
 AS12251,"Netrix LLC",US,0
-AS12252,"America Movil Peru S.A.C.",PE,1376
+AS12252,"America Movil Peru S.A.C.",PE,1686
 AS12253,"Leon County Board of County Commisioners",US,12
 AS12254,"Instructure, Inc",US,1
 AS12255,"AMGEN, Inc.",US,0
@@ -11588,7 +11588,7 @@ AS12471,"TelstraEuropeLtd-DEDICATED-HOSTING TELSTRA UK LIMITED",GB,0
 AS12472,"ELLO-AS Ello Research SAS",FR,0
 AS12474,"Friaco Momax Network S.r.l.",IT,0
 AS12476,"ASTER-CITY-CABLE-AS P4 Sp. z o.o.",PL,0
-AS12479,"UNI2-AS Orange Espagne SA",ES,8548
+AS12479,"UNI2-AS Orange Espagne SA",ES,8549
 AS12480,"ASILK ILK Internet GmbH Rechnerkommunikation im Internet",DE,14
 AS12481,"TRIVENET Planetel Nordest SRL",IT,3
 AS12483,"DanskeBank-AS Den Danske Bank A/S",DK,15
@@ -12141,7 +12141,7 @@ AS13331,"MetaPeer",US,13
 AS13332,"Hype Enterprises",US,29
 AS13333,"Fidium",US,39
 AS13334,"Rapidzone",CA,3
-AS13335,"Cloudflare, Inc.",US,5720
+AS13335,"Cloudflare, Inc.",US,5723
 AS13336,"Evergy Services, Inc.",US,11
 AS13337,"e-vergent.com LLC",US,10
 AS13338,"HAY GROUP INC",US,0
@@ -13341,7 +13341,7 @@ AS14589,"Wave Broadband",US,4
 AS14590,"Desert Schools Federal Credit Union",US,7
 AS14591,"Standard Process Inc.",US,3
 AS14592,"Makena Technologies Inc",US,0
-AS14593,"Space Exploration Technologies Corporation",US,3137
+AS14593,"Space Exploration Technologies Corporation",US,3127
 AS14594,"Payment Alliance International, Inc",US,0
 AS14595,"Distributel Communications Limited",CA,0
 AS14596,"DC-Net",US,0
@@ -13363,7 +13363,7 @@ AS14614,"Starkey Laboratories, Inc.",US,3
 AS14615,"Comporium, Inc",US,545
 AS14616,"IBASIS INC.",US,17
 AS14617,"Select Medical Corporation",US,1
-AS14618,"Amazon.com, Inc.",US,2104
+AS14618,"Amazon.com, Inc.",US,2105
 AS14619,"THERA NETWORKS",US,2
 AS14620,"iTalk Global Communications, Inc.",US,3
 AS14621,"National Park Service",US,0
@@ -14298,7 +14298,7 @@ AS15698,"ENBW-AG EnBW Energie Baden-Wuerttemberg AG",DE,3
 AS15699,"AS_ADAM Adam EcoTech, S.A",ES,26
 AS15701,"exchange7-RS Init7 (Switzerland) Ltd.",CH,0
 AS15702,"ONSTAGENET euNetworks GmbH",DE,5
-AS15703,"TrueServer-AS TrueFullstaq B.V.",NL,23
+AS15703,"TrueServer-AS TrueFullstaq B.V.",NL,22
 AS15704,"AS15704 XTRA TELECOM S.A.",ES,368
 AS15706,"Sudatel (Sudan Telecom Co. Ltd)",SD,217
 AS15707,"INGOSSTRAKH-AS Open Joint Stock Company INGOSSTRAKH Insurance Company",RU,2
@@ -14558,7 +14558,7 @@ AS16110,"PODKARPACKI-NET-AS Podkarpacki.net Rafal Czarny",PL,8
 AS16111,"ONLINE-CONSULTING Online Consulting AG",CH,5
 AS16114,"UBPAM-AS UNION BANCAIRE PRIVEE, UBP SA",CH,1
 AS16115,"NASDAQ-ASN Nasdaq Technology AB",SE,15
-AS16116,"Pelephone Communications Ltd.",IL,195
+AS16116,"Pelephone Communications Ltd.",IL,197
 AS16117,"GAVLENET Gavle Energi AB",SE,6
 AS16120,"ASUMFT Universitatea de Medicina si Farmacie Victor Babes Timisoara",RO,2
 AS16122,"IT-PRADAINDUSTRIAL-AS Prada S.p.A.",IT,2
@@ -14709,7 +14709,7 @@ AS16333,"A1MK-AS16333 Company for communications services A1 Makedonija DOOEL Sk
 AS16334,"Sureline-Communications-UK Sureline Communications Limited",GB,2
 AS16338,"ONO-AS2 VODAFONE ONO, S.A.",ES,0
 AS16339,"VI-UK Virtual Internet (UK) Limited",GB,1
-AS16342,"TOYA Toya sp.z.o.o",PL,12
+AS16342,"TOYA Toya sp.z.o.o",PL,13
 AS16344,"IS-BG-AS Information Services PLC",BG,12
 AS16345,"BEE-AS PJSC Vimpelcom",RU,198
 AS16347,"INHERENT ADISTA SAS",FR,173
@@ -14855,7 +14855,7 @@ AS16504,"Granite Telecommunications LLC",US,216
 AS16505,"HTF",US,1
 AS16507,"Del Webb Corporation",US,2
 AS16508,"AEG",US,1
-AS16509,"Amazon.com, Inc.",US,26463
+AS16509,"Amazon.com, Inc.",US,26485
 AS16510,"IHS Global, Inc.",US,0
 AS16512,"Fiberifi",US,0
 AS16513,"Cox Newspapers/AJC",US,0
@@ -16340,7 +16340,6 @@ AS18050,"Telstra Global Internet Services Network Blocks",JP,0
 AS18051,"Pustekkom",ID,26
 AS18052,"Asiakomnet Multimedia, PT",ID,4
 AS18053,"Special Communication Organization",PK,34
-AS18054,"H Pop Technology Limited",HK,1
 AS18055,"Department of Human Services",AU,24
 AS18056,"Pt Mithaharum Abadi",ID,5
 AS18057,"Australian Health Management Group,",AU,0
@@ -16678,7 +16677,7 @@ AS18399,"Yatanarpon Teleport Company Limited",MM,32
 AS18400,"Xtreme Networks Limited",NZ,8
 AS18401,"DAEGU UNIVERSITY",KR,25
 AS18402,"NATIONAL LIBRARY BOARD",SG,7
-AS18403,"FPT Telecom Company",VN,8444
+AS18403,"FPT Telecom Company",VN,8451
 AS18404,"HyderabadIX is an non-profit Internet Exchange Point in the city of Hyderabad, India.",IN,0
 AS18405,"Snowregal Holdings TA Digital Data Solutions Perth Peering AS",AU,0
 AS18406,"Two Degrees Mobile Limited",NZ,0
@@ -18018,7 +18017,7 @@ AS19785,"ARK Data Centers LLC",US,0
 AS19787,"First Eagle Investment Management LLC",US,3
 AS19788,"Airadigm Communications, INC.",US,0
 AS19789,"Hazelton Hotels International Inc",CA,0
-AS19790,"Aspire Broadband, LLC",US,5
+AS19790,"Aspire Broadband, LLC",US,7
 AS19791,"Clough Capital Partners",US,0
 AS19792,"Xplore Inc.",CA,0
 AS19793,"Linivo LLC",US,14
@@ -18126,7 +18125,7 @@ AS19901,"Brightspeed",US,1363
 AS19902,"Department of Administrative Services",US,6
 AS19903,"Reach Broadband LLC",US,11
 AS19904,"City of Longview",US,4
-AS19905,"Vercara, LLC",US,174
+AS19905,"Vercara, LLC",US,167
 AS19906,"Charles River Associates Inc.",US,0
 AS19907,"NeuStar, Inc.",US,0
 AS19908,"Cegep de Saint-Laurent",CA,0
@@ -18669,7 +18668,7 @@ AS20469,"Tri-County Metropolitan Transit District",US,1
 AS20470,"DIRECTV, LLC",US,0
 AS20471,"Michael Newcomb, Sole Proprietorship",US,0
 AS20472,"Synergy Networks",US,14
-AS20473,"The Constant Company, LLC",US,2342
+AS20473,"The Constant Company, LLC",US,2357
 AS20474,"NCI Data.com, Inc.",US,22
 AS20475,"Global Capacity, LLC",US,0
 AS20476,"Level 3 Parent, LLC",US,0
@@ -18713,7 +18712,7 @@ AS20539,"TCRS-AS Technical Centre Radio Systems Ltd.",UA,22
 AS20541,"Generali Vie SA",FR,1
 AS20542,"HTV DNA Oyj",FI,1
 AS20545,"GRENA-AS Georgian Research and Educational Networking Association (GRENA)",GE,22
-AS20546,"SOPRADO-ANY SOPRADO GmbH",DE,132
+AS20546,"SOPRADO-ANY SOPRADO GmbH",DE,133
 AS20547,"SIXDG-AS Six Degrees Technology Group Limited",GB,0
 AS20548,"Latvijas_Republikas_Saeima Latvijas Republikas Saeima",LV,1
 AS20549,"FREE-MPEI State Educational Enterprise of Higher Professional Education Moscow Power Engineering Institute (Technical University)",RU,1
@@ -18956,7 +18955,7 @@ AS20934,"ABCINTERNET PE Service center Maket",UA,3
 AS20935,"OEBV-AS Oesterreichische Beamtenversicherung",AT,0
 AS20936,"GRXPROVIDER-AS Deutsche Telekom AG",DE,0
 AS20938,"RETSAT Stowarzyszenie Telewizji Kablowej 'Ret-Sat 1'",PL,3
-AS20940,"AKAMAI-ASN1 Akamai International B.V.",NL,4740
+AS20940,"AKAMAI-ASN1 Akamai International B.V.",NL,4739
 AS20942,"ISP-ASn2 Intesa Sanpaolo S.p.A.",IT,8
 AS20943,"NETNOD-LUL Netnod AB",SE,2
 AS20946,"CCE-AS OBIT Ltd.",RU,1
@@ -19390,7 +19389,7 @@ AS21570,"Accelerated Connections Inc.",CA,1
 AS21571,"MLS Wireless S/A",BR,44
 AS21573,"HealthPartners",US,9
 AS21574,"Century Telecom Ltda",BR,7
-AS21575,"ENTEL PERU S.A.",PE,258
+AS21575,"ENTEL PERU S.A.",PE,257
 AS21576,"insiteOne",US,8
 AS21577,"TOLEDO TELEPHONE CO INC",US,5
 AS21578,"Universidad autonoma de Bucaramanga",CO,4
@@ -19630,7 +19629,7 @@ AS21822,"JD Byrider Systems Inc",US,2
 AS21823,"Arvig Enterprises Inc.",US,0
 AS21824,"EASYMAIL S.A.",AR,0
 AS21825,"Icarus Technologies",US,0
-AS21826,"Corporacion Telemic C.A.",VE,849
+AS21826,"Corporacion Telemic C.A.",VE,850
 AS21827,"Calix, Inc.",US,0
 AS21828,"Tulare County Office of Education",US,3
 AS21829,"Uvation Industries, LLC",US,0
@@ -20390,7 +20389,7 @@ AS22612,"Namecheap, Inc.",US,347
 AS22613,"UNIVERSAL HEALTH SERVICES",US,1
 AS22614,"Legislative Services Agency",US,1
 AS22615,"Monroe County Community School Corporation",US,2
-AS22616,"ZSCALER, INC.",US,607
+AS22616,"ZSCALER, INC.",US,608
 AS22617,"Superior Court of California, County of Sacramento",US,3
 AS22618,"Gannett Welsh & Kotler LLC",US,1
 AS22619,"Cologix Canada, Inc.",US,11
@@ -20461,7 +20460,7 @@ AS22685,"NetWorthy Consulting Inc",US,0
 AS22686,"University of Winnipeg",CA,3
 AS22687,"L3 NETWORKS INC",US,10
 AS22688,"Dollar General Corporation",US,3
-AS22689,"SERCOMTEL S/A TELECOMUNICACOES",BR,73
+AS22689,"SERCOMTEL S/A TELECOMUNICACOES",BR,74
 AS22690,"Axiom Networks Ltd",RW,15
 AS22691,"ISPnet, Inc.",US,8
 AS22692,"Microsoft Corporation",US,0
@@ -20690,7 +20689,7 @@ AS22923,"Netminders Server Hosting",CA,0
 AS22924,"SCOTIABANK CHILE (Banco del Desarrollo)",CL,0
 AS22925,"Allied Telecom Group, LLC",US,37
 AS22926,"Wisper ISP, LLC",US,18
-AS22927,"Telefonica de Argentina",AR,899
+AS22927,"Telefonica de Argentina",AR,901
 AS22928,"CMR LLC",US,1
 AS22929,"VC3, Inc.",US,0
 AS22930,"Mary Baldwin College",US,0
@@ -21200,7 +21199,7 @@ AS23466,"Kitty Hawk Corporation",US,0
 AS23467,"New Relic",US,11
 AS23468,"Microsoft Corporation",US,0
 AS23469,"Highwoods Properties, Inc.",US,1
-AS23470,"ReliableSite.Net LLC",US,218
+AS23470,"ReliableSite.Net LLC",US,219
 AS23471,"ited Solutions",CA,8
 AS23472,"SonicWALL, Inc.",US,3
 AS23473,"PAVLOV MEDIA INC",US,819
@@ -21225,7 +21224,7 @@ AS23492,"Nez Perce Tribe",US,15
 AS23493,"Acuity, A Mutual Insurance Company",US,1
 AS23494,"Blue Cross Blue Shield of Illinois or Blue Cross Blue Shield of Texas",US,4
 AS23495,"Hewlett-Packard Mexico, S. de R.L. de C.V.",MX,0
-AS23496,"Cambia Health Solutions, Inc.",US,15
+AS23496,"Cambia Health Solutions, Inc.",US,16
 AS23497,"NORTH COAST WIRELESS COMMUNICATIONS LLC",US,32
 AS23498,"Beanfield Technologies Inc.",CA,17
 AS23499,"Aurelius Capital Management, LP",US,0
@@ -21987,7 +21986,7 @@ AS24291,"MITSUI & CO., LTD.",JP,4
 AS24292,"JPNIC-2Byte-ASBLOCK-AP",JP,0
 AS24293,"JPNIC-2Byte-ASBLOCK-AP",JP,0
 AS24294,"JPNIC-2Byte-ASBLOCK-AP",JP,0
-AS24295,"PacketFabric (Japan) Co., Ltd.",JP,10
+AS24295,"PacketFabric (Japan) Co., Ltd.",JP,9
 AS24296,"LY Corporation",JP,2
 AS24297,"University Public Corporation Osaka",JP,0
 AS24298,"Apollo Global Net AS, Application Service Provider, Manila",PH,12
@@ -22243,7 +22242,7 @@ AS24556,"Bijoy Online Ltd. Multihome Internet Service Provider",BD,37
 AS24557,"5G NETWORK OPERATIONS PTY LTD",AU,0
 AS24558,"Internet Hosting Service Provider to the Aditya",IN,4
 AS24559,"G-Mobile Corporation",MN,12
-AS24560,"Bharti Airtel Ltd., Telemedia Services",IN,3088
+AS24560,"Bharti Airtel Ltd., Telemedia Services",IN,3090
 AS24561,"WA Police",AU,0
 AS24563,"NewSat Ltd - Sydney POP",AU,0
 AS24565,"Netcraft Australia Pty Ltd",AU,6
@@ -22382,7 +22381,7 @@ AS24750,"CISBG MyAcct LTD",BG,17
 AS24751,"MULTIFI-AS Jakobstadsnejdens Telefon Ab",FI,7
 AS24753,"GCE-NET Globecomm Europe B.V.",NL,7
 AS24756,"LUKAS-BANK-AS Credit Agricole Bank Polska S.A.",PL,2
-AS24757,"Ethio Telecom",ET,512
+AS24757,"Ethio Telecom",ET,514
 AS24758,"MICROEL-AS Mikroel Ltd",RU,4
 AS24763,"THALES Thales Services Numeriques SAS",FR,2
 AS24764,"MAX-IT-AS m.a.x. Informationstechnologie AG",DE,2
@@ -22537,7 +22536,7 @@ AS25012,"ASN-EUI WienIT GmbH",AT,1
 AS25015,"SKYNETLAN-AS PE Efimenko Ruslan Vladimirovich",UA,1
 AS25016,"ASN-MFA Utenriksdepartementet",NO,1
 AS25017,"ASN-SDH-DD_SI Slovenski drzavni holding, d.d. (SDH, d.d.)",SI,0
-AS25019,"SAUDINETSTC-AS Saudi Telecom Company JSC",SA,2463
+AS25019,"SAUDINETSTC-AS Saudi Telecom Company JSC",SA,2465
 AS25020,"ASN-SDH-DD_SI Slovenski drzavni holding, d.d. (SDH, d.d.)",SI,0
 AS25021,"CIEF-AS Etat de Fribourg",CH,2
 AS25022,"TDMGROUP TDM Group Limited",GB,3
@@ -22636,7 +22635,7 @@ AS25154,"CurrencyOneSA Currency One S.A.",PL,2
 AS25155,"STARSOFT-AS Star Soft Ltd.",UA,1
 AS25156,"INRETE-AS Inrete s.r.l",IT,2
 AS25159,"SONICDUO-AS PJSC MegaFon",RU,88
-AS25160,"VORBOSS Vorboss Limited",GB,1361
+AS25160,"VORBOSS Vorboss Limited",GB,1365
 AS25163,"21st Century Technologies Limited",NG,18
 AS25164,"Flughafen-Zuerich Flughafen Zurich AG",CH,4
 AS25165,"ENTRI-AS Entri LLC",UA,3
@@ -22956,7 +22955,7 @@ AS25614,"TJM Institutional Services, LLC.",US,1
 AS25615,"Broadband Visions, LLC",US,1
 AS25616,"CANIX Solutions & Services",CA,0
 AS25617,"Smith and Nephew, Inc.",US,4
-AS25618,"SHINESHAN",US,3
+AS25618,"SHINESHAN",US,4
 AS25619,"Chisholm Broadband LLC",US,8
 AS25620,"COTAS LTDA.",BO,76
 AS25621,"Genesis Health System",US,1
@@ -23083,7 +23082,7 @@ AS25747,"Epic Systems Corporation",US,1
 AS25748,"CQG, Inc.",US,2
 AS25749,"Uniserve On Line",CA,0
 AS25750,"Southwestern Vermont Health Care Corporation",US,1
-AS25751,"Conversant, Inc.",US,17
+AS25751,"Conversant, Inc.",US,18
 AS25752,"Methean Professional, LLC",US,0
 AS25753,"California Public Employees' Retirement System",US,20
 AS25754,"Blueprint America, Inc.",US,12
@@ -23364,7 +23363,7 @@ AS26038,"Elevate Technology Group",US,6
 AS26039,"Athene Annuity and Life Company",US,18
 AS26040,"Marriott International, Inc.",US,0
 AS26041,"Mindshare Design, Inc.",US,0
-AS26042,"FiberState, LLC",US,160
+AS26042,"FiberState, LLC",US,162
 AS26043,"National Education Association",US,3
 AS26044,"Charter Communications LLC",US,0
 AS26045,"Lubbock County",US,1
@@ -23688,7 +23687,7 @@ AS26379,"Agilent Technologies, Inc.",US,2
 AS26380,"MasterCard Technologies LLC",US,72
 AS26381,"HSBC Technology & Services (USA) Inc",US,28
 AS26382,"Allied Pilots Association",US,1
-AS26383,"Baxet Group Inc.",US,349
+AS26383,"Baxet Group Inc.",US,350
 AS26384,"Breezeline",US,0
 AS26385,"The University of Vermont Medical Center Inc",US,19
 AS26386,"Deep Systems LLC",US,0
@@ -23797,7 +23796,7 @@ AS26492,"VCCCD",US,10
 AS26493,"Group Health Incorporated",US,0
 AS26494,"Cboe",US,0
 AS26495,"Coast to Coast Computer Products",US,1
-AS26496,"GoDaddy.com, LLC",US,213
+AS26496,"GoDaddy.com, LLC",US,214
 AS26498,"Sanford Underground Laboratory at Homestake",US,2
 AS26499,"Virginia Polytechnic Institute and State Univ.",US,7
 AS26500,"Fisher-Titus Medical Center",US,1
@@ -23896,7 +23895,7 @@ AS26593,"Telespazio Argentina",AR,32
 AS26594,"Pampa Energia S.A.",AR,8
 AS26595,"Enlaces y Comunicaciones del Sureste SA de CV",MX,3
 AS26598,"IT2B TECNOLOGIA E SERVICOS LTDA.",BR,2
-AS26599,"TELEFONICA BRASIL S.A",BR,719
+AS26599,"TELEFONICA BRASIL S.A",BR,721
 AS26600,"M.I. WEBWORKS S.A.",EC,1
 AS26601,"Publiguias",CL,0
 AS26603,"Telmex Colombia S.A.",CO,0
@@ -24052,7 +24051,7 @@ AS26757,"Solera Holdings, LLC",US,2
 AS26759,"Sago Fiber LLC",US,2
 AS26760,"Southern Kansas Telephone Co., Inc.",US,43
 AS26761,"Designs Apparel, Inc.",US,2
-AS26762,"Conversant, LLC",US,9
+AS26762,"Conversant, LLC",US,10
 AS26763,"Dallas Area Rapid Transit (DART)",US,1
 AS26764,"The Robert Wood Johnson Foundation",US,5
 AS26765,"Bountiful City",US,1
@@ -24419,7 +24418,7 @@ AS27135,"United States Department of Defense (DoD)",US,1
 AS27136,"United States Department of Defense (DoD)",US,0
 AS27137,"United States Department of Defense (DoD)",US,2
 AS27138,"United States Department of Defense (DoD)",US,163
-AS27139,"United States Department of Defense (DoD)",US,29
+AS27139,"United States Department of Defense (DoD)",US,30
 AS27140,"United States Department of Defense (DoD)",US,0
 AS27141,"United States Department of Defense (DoD)",US,0
 AS27142,"United States Department of Defense (DoD)",US,59
@@ -24986,7 +24985,7 @@ AS27734,"New Technologies Group N.V.",SX,5
 AS27735,"TIVIT CHILE TERCERIZACION DE PROCESOS, SERVICIOS Y TECNOLOGIA SpA",CL,8
 AS27736,"Tecnomedia S.R.L",AR,0
 AS27737,"Cablenet, S. A.",GT,0
-AS27738,"Ecuadortelecom S.A.",EC,419
+AS27738,"Ecuadortelecom S.A.",EC,421
 AS27739,"Close Up Sociedad Anonima de Serv. Comer. y Finam.",AR,0
 AS27740,"EDGEUNO ECUADOR S.A.",EC,32
 AS27741,"Superintendencia de Valores y Seguros",CL,0
@@ -24994,7 +24993,7 @@ AS27742,"Amnet Telecomunicaciones S.A.",NI,75
 AS27744,"Tecoar SA",AR,8
 AS27745,"Telefonia Bonairiano N.V.",BQ,11
 AS27746,"LAN CHILE (Lineas Aereas de Chile)",CL,3
-AS27747,"Telecentro S.A.",AR,1705
+AS27747,"Telecentro S.A.",AR,1706
 AS27748,"NetPro N.V.",CW,4
 AS27749,"BCG, Business Computer Group",PA,1
 AS27750,"Cooperacion Latino Americana de Redes Avanzadas",UY,3
@@ -25329,7 +25328,7 @@ AS28121,"BB TECNOLOGIA E SERVICOS S/A",BR,4
 AS28122,"YAHOO DO BRASIL INTERNET LTDA.",BR,2
 AS28124,"UFINET BRASIL S.A.",BR,21
 AS28125,"Elo.Net Tecnologia Ltda. - ME",BR,22
-AS28126,"BRISANET SERVICOS DE TELECOMUNICACOES S.A",BR,266
+AS28126,"BRISANET SERVICOS DE TELECOMUNICACOES S.A",BR,264
 AS28127,"Cambridge Telecomunicacoes Ltda.",BR,1
 AS28128,"Infolic Comercial de Informatica Ltda.",BR,27
 AS28129,"Uniao Norte do Parana de Ensino LTDA",BR,0
@@ -25476,7 +25475,7 @@ AS28317,"NAVEGALO S.A.",CR,14
 AS28318,"CYBERTAP",AR,5
 AS28319,"WISP",CL,2
 AS28321,"Federacao das Camaras de Dirigentes Lojistas SC",BR,1
-AS28323,"AYKO TECNOLOGIA LTDA",BR,49
+AS28323,"AYKO TECNOLOGIA LTDA",BR,64
 AS28324,"COLOMBO AGROINDUSTRIA S.A",BR,3
 AS28326,"Total Telecom Ltda",BR,12
 AS28327,"Rei das Tecnologias LTDA ME",BR,36
@@ -25632,7 +25631,7 @@ AS28505,"Universidad Regiomontana, S.C.",MX,9
 AS28506,"Sistemas de Communicacion GM S.A. de C.V.",MX,22
 AS28507,"TV Azteca, S.A.B. de C.V.",MX,3
 AS28508,"Desarollo Integral Administrativo S.A. de C.V.",MX,0
-AS28509,"Cablemas Telecomunicaciones SA de CV",MX,479
+AS28509,"Cablemas Telecomunicaciones SA de CV",MX,480
 AS28510,"Network Information Center Mexico",MX,0
 AS28511,"Network Information Center Mexico",MX,7
 AS28512,"Cablemas Telecomunicaciones SA de CV",MX,100
@@ -25689,7 +25688,7 @@ AS28569,"Corporacion Universitaria para el Desarrollo de Internet, A.C.",MX,0
 AS28570,"Ryder Capital, S. de R.L. de C.V.",MX,0
 AS28571,"UNIVERSIDADE DE SAO PAULO",BR,56
 AS28572,"Apoiocom Digital Ltda - EPP",BR,23
-AS28573,"Claro NXT Telecomunicacoes Ltda",BR,7026
+AS28573,"Claro NXT Telecomunicacoes Ltda",BR,7024
 AS28574,"CEPEL - CENTRO PESQUISAS DE ENERGIA ELETRICA",BR,0
 AS28576,"ITIBR - Instituto de Tecnologia Informacao Brasil",BR,14
 AS28577,"AZEVEDO E FLORIANI TELECOMUNICACOES LTDA.",BR,29
@@ -25731,7 +25730,7 @@ AS28618,"Linktel Telecom do Brasil Ltda",BR,52
 AS28619,"TAM Linhas Aereas S/A",BR,9
 AS28621,"NetOeste Telecomunicacoes Ltda",BR,3
 AS28623,"PONTIFICIA UNIVERSID CATOLICA DO RIO GRANDE DO SUL",BR,5
-AS28624,"PROVEDORA CMA INTERNET LTDA",BR,82
+AS28624,"PROVEDORA CMA INTERNET LTDA",BR,84
 AS28626,"NTT BRASIL COMERCIO E SERVICOS DE TECNOLOGIA LTDA",BR,12
 AS28627,"EMBRAER - Empresa Brasileira de Aeronautica SA",BR,15
 AS28628,"ERICSSON TELECOMUNICACOES S.A.",BR,3
@@ -25761,7 +25760,7 @@ AS28660,"OPEN SYSTEM LTDA",BR,3
 AS28661,"HOTLINK INTERNET LTDA",BR,66
 AS28662,"Sascar Tecnologia e Seguranca Automotiva S/A",BR,16
 AS28663,"FLYS INTERATIVA LTDA",BR,26
-AS28665,"Predlink Rede de Telecomuniccoes Ltda",BR,145
+AS28665,"Predlink Rede de Telecomuniccoes Ltda",BR,148
 AS28666,"HOSTLOCATION LTDA",BR,33
 AS28667,"VERO S.A",BR,134
 AS28668,"Desktop Sigmanet Comunicacao Multimidia SA",BR,51
@@ -26145,7 +26144,7 @@ AS29222,"Infomaniak-AS Infomaniak Network SA",CH,44
 AS29223,"KDPW-AS Krajowy Depozyt Papierow Wartosciowych",PL,1
 AS29224,"Hellmann Hellmann Worldwide Logistics GmbH & Co KG",DE,3
 AS29225,"MTS-KAZAN-AS MTS PJSC",RU,0
-AS29226,"MASTERTEL-AS JSC Mastertel",RU,58
+AS29226,"MASTERTEL-AS JSC Mastertel",RU,61
 AS29229,"ASDA-AS Anaptiksiakos Sindesmos Ditikis Athinas",GR,2
 AS29231,"GRUPALIA-AS Grupalia Internet S.A.",ES,3
 AS29233,"IIP-NET-AS29233 Telecommunications center UMOS, LLC",RU,1
@@ -26554,7 +26553,7 @@ AS29798,"TenSpire Network",US,0
 AS29799,"Guggenheim Services LLC",US,0
 AS29800,"Guggenheim Services LLC",US,0
 AS29801,"Brundage Management Company, Inc.",US,0
-AS29802,"HIVELOCITY, Inc.",US,1574
+AS29802,"HIVELOCITY, Inc.",US,1576
 AS29803,"FanaticNode LLC",US,1
 AS29804,"Valu-Net LLC.",US,13
 AS29805,"The Ogilvy Group, LLC",US,6
@@ -26783,8 +26782,8 @@ AS30037,"Fiserv Solutions, LLC",US,2
 AS30038,"Andrena, Inc.",US,8
 AS30039,"Smith and Nephew - Endoscopy",US,5
 AS30040,"Amundi Asset Management US, Inc.",US,0
-AS30041,"Race Tech, LLC",US,291
-AS30042,"Boerboel LLC",US,73
+AS30041,"Race Tech, LLC",US,292
+AS30042,"Boerboel LLC",US,83
 AS30043,"ResortInternet",US,25
 AS30044,"Miami Valley Communications Council",US,0
 AS30045,"University Health Network",CA,26
@@ -28380,7 +28379,7 @@ AS32024,"Blueficity",US,13
 AS32025,"Hasbro, Inc.",US,2
 AS32026,"BlackBerry Limited",CA,0
 AS32027,"Port of Seattle",US,5
-AS32028,"Wave Broadband",US,0
+AS32028,"Wave Broadband",US,1
 AS32029,"Security Mutual Life Insurance Company of New York",US,1
 AS32030,"VoIPster Communications, INC.",US,6
 AS32031,"BLUE VALLEY USD NO 229",US,2
@@ -28673,7 +28672,7 @@ AS32334,"CloudCall Inc",US,3
 AS32336,"Springfield College",US,2
 AS32337,"Nowcom Corporation",US,6
 AS32338,"Hostiserver Ltd",AI,32
-AS32340,"ZenWalk",US,4
+AS32340,"ZenWalk",US,5
 AS32341,"HIMSS",US,0
 AS32342,"Genex Services Inc",US,6
 AS32343,"BOK Financial Corporation",US,1
@@ -30554,7 +30553,7 @@ AS34521,"ATOS-SK-AS Atos Slovakia s.r.o.",SK,2
 AS34522,"MORH Ministarstvo Obrane Republike Hrvatske",HR,1
 AS34523,"EMAILSYSTEMS Webroot Services Ltd",GB,4
 AS34524,"DIGICOM-AS Digital Communications Ltd.",BG,11
-AS34525,"KOBA-AS KOBA Sp. z o.o.",PL,9
+AS34525,"KOBA-AS KOBA Sp. z o.o.",PL,10
 AS34527,"NETFORT-AS LLC NETFORT",RU,1
 AS34528,"RUSPROMSOFT Limited Liability Company Ruspromsoft Plus",RU,1
 AS34529,"GNT-MD-AS GLOBAL NETWORK TECHNOLOGY SRL",MD,1
@@ -30797,7 +30796,7 @@ AS34824,"SAMARASVYAZINFORM-LTD-AS Samarasvyazinform Ltd",RU,1
 AS34825,"META-AS34825 FACEBOOK ISRAEL LTD",IL,0
 AS34826,"AUTOPAY-AS Autopay S.A.",PL,4
 AS34827,"EBOR Ebor Limited",GB,0
-AS34828,"Domainhizmetleri-Com DH Bulut Bilisim Anonim Sirketi",TR,13
+AS34828,"Domainhizmetleri-Com DH Bulut Bilisim Anonim Sirketi",TR,14
 AS34829,"NaukaVidnoe LLC Nauka-Svyaz",RU,8
 AS34831,"ASN-QL embeDD GmbH",CH,0
 AS34832,"NOVOSYSTEM-AS NOVOSYSTEM Ltd.",RU,7
@@ -31032,7 +31031,7 @@ AS35117,"verivox-as Verivox GmbH",DE,3
 AS35119,"GARDENPRO-AS Garden Pro LLC",RU,1
 AS35120,"wgtwo WORKING GROUP TWO AS",NO,4
 AS35121,"Webkom Patrik Olsson",SE,1
-AS35122,"SatNet-AS Satnet LTD",BG,2
+AS35122,"SatNet-AS Satnet LTD",BG,3
 AS35123,"MITEL-AS PRIVATE JOINT STOCK COMPANY DATAGROUP",UA,1
 AS35124,"INFINITE-AS INFINITE SP. z o.o.",PL,1
 AS35125,"SMOLENSK-AS PJSC Rostelecom",RU,4
@@ -31095,7 +31094,7 @@ AS35196,"IH-TRANSIT-AS FIRST SERVER LIMITED",GB,17
 AS35197,"VISP-LB-AS Virtual ISP s.a.l.",LB,23
 AS35198,"TOMMEDIA-AS TOM MEDIA SP. Z O.O.",PL,1
 AS35199,"ENFORMATEL-AS Enformatel Sp. z o.o.",PL,7
-AS35200,"TransitX-Ltd TransitX Ltd",GB,19
+AS35200,"TransitX-Ltd TransitX Ltd",GB,17
 AS35202,"OnTheGo Samuel Aschwanden",CH,6
 AS35203,"ch-goldenphone Goldenphone GmbH",CH,8
 AS35204,"AKAMAI-DUB Akamai International B.V.",NL,0
@@ -31396,7 +31395,7 @@ AS35593,"UNIWEB-AS UniWeb bvba",BE,5
 AS35594,"HOSTERBY-AS Reliable Software, Ltd.",BY,7
 AS35596,"PGE-AS PGE Systemy S.A.",PL,0
 AS35597,"NAGARRO-AS Nagarro SRL",RO,1
-AS35598,"INETCOM INETCOM CARRIER LLC",RU,38
+AS35598,"INETCOM INETCOM CARRIER LLC",RU,40
 AS35600,"ASN-VEDEGE Vedege SAS",FR,12
 AS35601,"ZEORK-AS PGE Systemy S.A.",PL,0
 AS35602,"ZOL OMEGA-GROUP LLC",UA,7
@@ -32061,7 +32060,7 @@ AS36347,"Kyndryl",US,1
 AS36348,"WPC",US,0
 AS36349,"3Essentials Inc.",US,4
 AS36350,"The Devereux Foundation",US,2
-AS36351,"IBM Cloud",US,454
+AS36351,"IBM Cloud",US,453
 AS36352,"HostPapa",US,3279
 AS36353,"nXio, LLC",US,0
 AS36354,"SherWeb inc.",CA,16
@@ -32587,7 +32586,7 @@ AS36910,"Electronic Communications Network (PTY)  LTD",ZA,0
 AS36911,"DIRECT ON PC LTD",NG,30
 AS36912,"Orange Cameroun SA",CM,293
 AS36913,"TELEKOM NETWORKS MALAWI LTD",MW,35
-AS36914,"Kenya Education Network",KE,583
+AS36914,"Kenya Education Network",KE,582
 AS36915,"Echotel International Kenya Limited",KE,43
 AS36916,"X-DSL Networking Solutions",ZA,84
 AS36917,"Angola Comunicacoes & Systems LDA",AO,3
@@ -32649,7 +32648,7 @@ AS36987,"Google Kenya Limited",KE,0
 AS36988,"Africell Sierra Leone Limited",SL,8
 AS36990,"ALKAN Telecom",EG,1
 AS36991,"Blue Crane Communications (U) Ltd",UG,0
-AS36992,"ETISALAT MISR",EG,3594
+AS36992,"ETISALAT MISR",EG,3595
 AS36993,"First City Monument Bank, PLC",NG,3
 AS36994,"Vodacom",ZA,147
 AS36995,"MTN COTE D'IVOIRE S.A",CI,0
@@ -32686,7 +32685,7 @@ AS37031,"MISR Information Services and Trading",EG,16
 AS37032,"Alink Telecom Ghana",GH,3
 AS37035,"MIC TANZANIA LTD",TZ,106
 AS37036,"Banco de Fomento Angola, S.A",AO,2
-AS37037,"Orange Madagascar",MG,129
+AS37037,"Orange Madagascar",MG,194
 AS37042,"Mocambique Celular, SARL",MZ,0
 AS37044,"Tangerine Limited",KE,0
 AS37045,"Tanzania Network Information Centre (tzNIC)",TZ,4
@@ -33000,7 +32999,7 @@ AS37461,"ORANGE GUINEE",GN,47
 AS37462,"PRESTABIST",TD,4
 AS37463,"MTN CONGO",CG,31
 AS37467,"Ethiopian Educational Research Network (EthERNet)",ET,1
-AS37468,"Angola Cables",AO,20
+AS37468,"Angola Cables",AO,21
 AS37470,"Kenya Red Cross",KE,1
 AS37472,"Nigerian Communications Satellite Ltd",NG,8
 AS37473,"Telesom",SO,70
@@ -33820,7 +33819,7 @@ AS38488,"Telecard Limited",PK,9
 AS38489,"DBS Vickers Securities Online (Singapore) PTE LTD",SG,0
 AS38491,"VITRO INC.",PH,2
 AS38492,"REANNZ Customer - Endace",NZ,0
-AS38493,"Royal Green Communication Limited",BD,14
+AS38493,"Royal Green Communication Limited",BD,15
 AS38494,"PT. Bakrie & Brothers, Tbk",ID,1
 AS38495,"Transpower New Zealand Ltd.",AU,8
 AS38496,"PT Cyber Network Indonesia",ID,91
@@ -34167,7 +34166,7 @@ AS38874,"KARVY CONSULTANTS LTD.,",IN,7
 AS38875,"FSM Telecommunications Corporation",FM,4
 AS38876,"National Australia Bank Limited",AU,0
 AS38877,"5G NETWORK OPERATIONS PTY LTD",AU,0
-AS38880,"Micron21 Datacentre Pty Ltd",AU,76
+AS38880,"Micron21 Datacentre Pty Ltd",AU,74
 AS38881,"NZ Lotteries Commission",NZ,2
 AS38882,"ADT Security Group PTY Ltd",AU,1
 AS38883,"FireNet Pty Ltd",AU,33
@@ -34564,7 +34563,7 @@ AS39379,"UTB-RU-AS Uraltelebest, Ltd.",RU,1
 AS39380,"PEI Paul-Ehrlich-Institut",DE,1
 AS39381,"SIG-DSI Services Industriels de Geneve",CH,2
 AS39382,"OPTINIUMWH-AS Optinium Ltd",GB,2
-AS39383,"TELESYSTEM-AS Annarsy SRL",RO,6
+AS39383,"TELESYSTEM-AS Annarsy SRL",RO,7
 AS39384,"IT Services, Lda",PT,13
 AS39385,"UORADEA-AS UNIVERSITATEA DIN ORADEA",RO,2
 AS39386,"STC-IGW-AS Saudi Telecom Company JSC",SA,16
@@ -34670,7 +34669,7 @@ AS39503,"SPbPU-AS Peter the Great St. Petersburg Polytechnic University",RU,4
 AS39504,"keoic KEO International Consultants",KW,4
 AS39505,"VESTITEL-AS VESTITEL BG",BG,15
 AS39506,"MFX-AS SYNTIS SARL",FR,8
-AS39507,"IPIVISION-AS Biznes Swiatlowodem Sp. z o.o.",PL,24
+AS39507,"IPIVISION-AS Biznes Swiatlowodem Sp. z o.o.",PL,23
 AS39508,"C07-AS AXIANS ICT Austria GmbH",AT,6
 AS39509,"EUROCONNECT-FR NGANALYTICS SAS",FR,2
 AS39510,"BANKRBK-AS Bank RBK JSC",KZ,1
@@ -35207,7 +35206,7 @@ AS40134,"KITTELSON AND ASSOCIATES, INC.",US,0
 AS40135,"KITTELSON AND ASSOCIATES, INC.",US,0
 AS40136,"Assured Guaranty Corp",US,0
 AS40137,"AWM Investment Company, Inc.",US,1
-AS40138,"Mach Dilemma, LLC",US,52
+AS40138,"Mach Dilemma, LLC",US,50
 AS40139,"Jackson Technical LLC",US,17
 AS40140,"Cognex Corporation",US,2
 AS40141,"Cognex Corporation",US,0
@@ -35721,7 +35720,7 @@ AS40671,"Born Capital LLC",US,0
 AS40673,"Shelter Mutual Insurance",US,1
 AS40674,"Rose Tree Media School District",US,1
 AS40675,"PROQUEST, LLC",US,4
-AS40676,"Psychz Networks",US,601
+AS40676,"Psychz Networks",US,604
 AS40677,"Globalair.com",US,1
 AS40678,"NorthCountry Federal Credit Union",US,1
 AS40679,"ATMOS ENERGY CORP",US,0
@@ -35857,7 +35856,7 @@ AS40814,"City of Regina",CA,2
 AS40815,"Groq, Inc.",US,0
 AS40816,"Avago Technologies U.S. Inc.",US,0
 AS40817,"BMC Software, Inc.",US,3
-AS40818,"Instadart, Inc.",US,10
+AS40818,"Instadart, Inc.",US,12
 AS40819,"Liquid Web, L.L.C",US,13
 AS40820,"Van-Kam Freightways Ltd.",CA,0
 AS40821,"City of Port Moody",CA,0
@@ -36687,7 +36686,7 @@ AS41816,"MEGALOG-PLUS-AS Megalog-Plus Ltd",RU,14
 AS41817,"VFNK Rocket NG GmbH",AT,5
 AS41818,"RO-SMART-AS SMART InterComp SRL",RO,1
 AS41819,"CONCODE Aceve Sverige AB",SE,2
-AS41820,"NOVI-AS New Information Systems PP",UA,36
+AS41820,"NOVI-AS New Information Systems PP",UA,37
 AS41821,"OPTIVO Optimizely GmbH",DE,4
 AS41822,"TNGS-NORTH-AS MTS PJSC",RU,35
 AS41824,"IH-LOSAN-NET O2 Czech Republic, a.s.",CZ,0
@@ -36987,7 +36986,7 @@ AS42184,"AS-TKRZ TKRZ Stadtwerke GmbH",DE,14
 AS42185,"NKM-GSZ-AS MVM Information Technology Private Company Limited by Shares",HU,0
 AS42186,"AS-ITE_NET Kancelarija za informacione tehnologije i elektronsku upravu",RS,6
 AS42187,"REGIT-AS Regional Information Technologies Ltd.",RU,7
-AS42189,"EUROSIGNAL-AS Druzstvo EUROSIGNAL",CZ,5
+AS42189,"EUROSIGNAL-AS Druzstvo EUROSIGNAL",CZ,6
 AS42190,"ENERGOMERA-AS JSC Energomera",RU,1
 AS42191,"DFZ-AS State Fund Agriculture",BG,4
 AS42192,"India THUNDER NETWORK LIMITED",GB,0
@@ -37076,7 +37075,7 @@ AS42293,"AVALA",BG,1
 AS42294,"PORSCHEBANK-AS PORSCHE LEASING ROMANIA IFN S.A.",RO,1
 AS42295,"TBISS-AS TBISS Ltd",BG,8
 AS42296,"AMC-AS AMC WEBSOFT SRL",RO,1
-AS42298,"GCC-MPLS-peering Ooredoo Q.S.C.",QA,797
+AS42298,"GCC-MPLS-peering Ooredoo Q.S.C.",QA,798
 AS42300,"TOPCONNECT-AS TOP CONNECT OU",EE,12
 AS42301,"RADIO-CAPRICORN-AS Radio Kozerog LLC",RU,2
 AS42303,"FiberDirekt LM Layer and Mesh AB",SE,44
@@ -38653,7 +38652,7 @@ AS44239,"PROINITY proinity GmbH",CH,37
 AS44240,"ALGORYTHM-AS Algoritm Ltd.",RU,1
 AS44241,"INFRANET-AS Infranet S.p.A.",IT,2
 AS44243,"Shooka Iman Hamrah Behpardaz Company- Ltd",IR,1
-AS44244,"IranCell-AS Iran Cell Service and Communication Company",IR,475
+AS44244,"IranCell-AS Iran Cell Service and Communication Company",IR,470
 AS44245,"NOTRABLE-AS NOTROUBLE LLC",UA,0
 AS44246,"BITOSIS UAB Bitosis",LT,1
 AS44247,"VIDEOSAT Videosat 21 Vek OOD",BG,17
@@ -38860,7 +38859,7 @@ AS44482,"ZURB-AS TOV TRK Radioservice",UA,7
 AS44483,"ELEKTRONS-AS Elektrons K SIA",LV,1
 AS44484,"XTRIM-AS X-Trim Ltd.",RU,2
 AS44485,"Mediobanca Innovation Service S.C.P.A",IT,1
-AS44486,"SYNLINQ Oliver Horscht trading as SYNLINQ",DE,110
+AS44486,"SYNLINQ Oliver Horscht trading as SYNLINQ",DE,112
 AS44488,"IXBRIGHTON Brighton Digital Exchange Cooperative Limited",GB,0
 AS44489,"Starnet STARNET, s.r.o.",CZ,33
 AS44490,"MRR-AS MINISTERSTWO FUNDUSZY I POLITYKI REGIONALNEJ",PL,1
@@ -39528,7 +39527,7 @@ AS45245,"Banglalink Digital Communications Ltd",BD,82
 AS45246,"ITS , Application Service Provider,",PK,7
 AS45248,"United Information Highway Co.,Ltd",TH,7
 AS45249,"Waikato Institute of Technology,",NZ,11
-AS45250,"Vocom International Telecommunications AP Area",TW,48
+AS45250,"Vocom International Telecommunications AP Area",TW,54
 AS45251,"Anglo-American AU multi-link WAN",AU,0
 AS45252,"Dancom Pakistan - LDI",PK,0
 AS45254,"Internet Solution & Service Provider Co., Ltd.",TH,2
@@ -39861,7 +39860,7 @@ AS45642,"Jasmine International Tower",TH,0
 AS45644,"IT-Networking Department",IN,19
 AS45648,"Bell Teleservices India Pvt Ltd., ISP having own OFC network in Bangalore, India.",IN,58
 AS45649,"SS&C FINTECH SERVICES INDIA PRIVATE LIMITED",IN,3
-AS45650,"VIA NET COMMUNICATION LTD.",NP,94
+AS45650,"VIA NET COMMUNICATION LTD.",NP,95
 AS45651,"Spartan Information Technology",AU,0
 AS45652,"VPLS ASIA",TH,7
 AS45653,"aCure Technology, Data Centres, Perth",AU,0
@@ -39972,7 +39971,7 @@ AS45768,"CEnet",AU,11
 AS45769,"D-Vois Broadband Pvt Ltd",IN,231
 AS45770,"Bagian Administrasi Pembangunan Pemerintah Kota Surabaya",ID,2
 AS45772,"Interactive Labs",AU,0
-AS45773,"PERN AS Content Servie Provider, Islamabad, Pakistan",PK,112
+AS45773,"PERN AS Content Servie Provider, Islamabad, Pakistan",PK,113
 AS45775,"WISH NET PRIVATE LIMITED",IN,49
 AS45776,"Australian Private Networks Pty Ltd",AU,0
 AS45779,"IGI Financial Services",PK,1
@@ -40026,7 +40025,7 @@ AS45833,"Premium customers are to be introduced in this AS.",IN,0
 AS45834,".au Domain Administration Ltd",AU,0
 AS45837,"CITEC, Queensland Government Business,",AU,0
 AS45838,"Anticlockwise Pty Ltd",AU,17
-AS45839,"Shinjiru Technology Sdn Bhd",MY,98
+AS45839,"Shinjiru Technology Sdn Bhd",MY,97
 AS45841,"We Internet Ltd,14 Janaki Center Co.Op.Soc. Ltd., Off Veera Desai Road, Andheri (West), Mumbai 400053",IN,0
 AS45842,"Level 31 TM Tower",MY,0
 AS45843,"Transworld Associates (Pvt.) Ltd.",PK,0
@@ -41366,7 +41365,7 @@ AS47268,"ZANOX Awin SAS",FR,1
 AS47269,"HLUCIN-NET-AS Core4Net, s.r.o.",CZ,6
 AS47270,"GL21-AS GL-21 LLC",GE,1
 AS47271,"WISEKEY WISEKEY SA",CH,2
-AS47272,"HYEHOST LLC",US,32
+AS47272,"HYEHOST LLC",US,33
 AS47273,"KSI-KR-AS Krzysztof Andrzej Kozak trading as P.P.H.U. ARTUS",PL,7
 AS47274,"biotronik Biotronik SE & Co.KG",DE,2
 AS47275,"TORJON-AS Torjon Wieslaw Radka",PL,1
@@ -41385,7 +41384,7 @@ AS47288,"FIXNET FIXNET Telekomunikasyon Limited Sirketi",TR,21
 AS47289,"ASVOLVIDO Volvido Hosting Aps",DK,1
 AS47290,"BESI_PL-AS HAITONG BANK SA",PL,1
 AS47291,"AVN-AS Refrig Co Industrial SRL",RO,1
-AS47292,"SENTIA Sentia Denmark A/S",DK,119
+AS47292,"SENTIA Sentia Denmark A/S",DK,118
 AS47293,"Vibrisnet Linkt SAS",FR,0
 AS47294,"NOMD-AS Nomadl OU",EE,1
 AS47295,"ITELLIGENCE-AS NTT Data Business Solutions Global Managed Services GmbH",DE,6
@@ -41618,7 +41617,7 @@ AS47548,"FLOWLINE Flow Line Technologies SAS",FR,19
 AS47549,"HOSTINGSYSTEMS-AS Hosting Systems Ltd",GB,5
 AS47550,"NetLife-AS Bratinov Oleg Vyacheslavovich",RU,4
 AS47551,"AS-MAYAK-NETWORK MAYAK NETWORK LLC",RU,1
-AS47553,"MISAKA-BYOIP Misaka Network, Inc.",US,3
+AS47553,"MISAKA-BYOIP Misaka Network, Inc.",US,6
 AS47554,"ALMASNET-AS Pardazeshgaran Almas Pasargad Co. Pjs",IR,0
 AS47555,"THGNET-VLB Diogenius SPRL",BE,2
 AS47556,"WEBTIT Webtitude LTD",GB,6
@@ -41643,7 +41642,7 @@ AS47579,"Pilot MTS PJSC",RU,0
 AS47580,"ADAPTIVE Broadband Hosting B.V.",NL,0
 AS47581,"NSFOCUS NSFOCUS Technologies UK Limited",GB,1
 AS47582,"ansonnet-as-uk ANSON NETWORK LIMITED",GB,3
-AS47583,"AS-HOSTINGER Hostinger International Limited",CY,4036
+AS47583,"AS-HOSTINGER Hostinger International Limited",CY,4038
 AS47584,"STELIA Stelia Ltd",GB,0
 AS47585,"YIGITHOSTING Yigit Hosting Bilisim E-Ticaret Gida Sanayi Ticaret Limited Sirketi",TR,1
 AS47586,"Business-Svyaz Dmitriy V. Kozmenko",RU,35
@@ -42032,7 +42031,7 @@ AS48026,"GIDE Association Gide Loyrette Nouel",FR,1
 AS48027,"SITROX Sitrox AG",CH,1
 AS48029,"ParsDade-Network NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",IR,3
 AS48030,"MIN-AS Martynova Irina Nikolaevna",RU,6
-AS48031,"XServerCloud Ivanov Vitaliy Sergeevich",UA,560
+AS48031,"XServerCloud Ivanov Vitaliy Sergeevich",UA,569
 AS48032,"UMSN-AS UMS LLC",RU,1
 AS48033,"GAZ-AS JSC Gazprombank",RU,1
 AS48034,"IP-AGABALOV-AS IP Khachaturova Susanna Rafaelievna",RU,1
@@ -42410,7 +42409,7 @@ AS48449,"SMARTNETIKE-GR-AS SMARTNET I.K.E.",GR,6
 AS48450,"BOLTD-AS Buzachi Operating Ltd.",KZ,2
 AS48451,"PRE-AS Prazska energetika, a.s.",CZ,2
 AS48452,"TRAFFIC-NET Telco power Ltd",BG,26
-AS48453,"CNETWORK-AS CNETWORK SRL",RO,5
+AS48453,"CNETWORK-AS CNETWORK SRL",RO,3
 AS48455,"AHL-LTD Man Investments Limited",GB,0
 AS48456,"FZCO",AE,181
 AS48457,"STAS XKLSV Media Solutions GmbH",DE,0
@@ -42794,7 +42793,7 @@ AS48892,"AVENUE-AS Physical person-businessman Bolotny Volodymyr Oleksiyovich",U
 AS48893,"TELEMEDIA-AS ESO TV Kft.",HU,1
 AS48894,"OPTIMUS-AS Optimus IT d.o.o.",SI,16
 AS48895,"abank Alternatifbank A.S.",TR,5
-AS48896,"DHOSTING-AS dhosting.pl Sp. z o.o.",PL,10
+AS48896,"DHOSTING-AS dhosting.pl Sp. z o.o.",PL,9
 AS48897,"NAU-AS OOO KB Avia",UA,1
 AS48898,"KAUMS-ASN Medical Science University Of Kashan",IR,3
 AS48900,"InfoDataCenter Info Data Center Ltd.",BG,3
@@ -43065,7 +43064,7 @@ AS49210,"IT-Telecom LLC IT Telecom",RU,1
 AS49211,"Sitronics-KT Joint Stock Company Sitronics KT",RU,1
 AS49212,"REALE-SEGUROS-AS REALE SEGUROS GENERALES, S.A",ES,1
 AS49213,"JSC-PGZK-AS PJSC Pivdennyj Ghirnycho-Zbaghachuvaljnyj Kombinat",UA,1
-AS49214,"GAULDALIKT-AS MIDT ENERGI AS",NO,6
+AS49214,"GAULDALIKT-AS MIDT ENERGI AS",NO,8
 AS49215,"BURGO-AS Burgo Group S.p.A",IT,5
 AS49218,"NTKS-AS Nizhnetagilskie Kompyuternye Seti LLC",RU,1
 AS49219,"AVUR-TRANSIT AVUR AS",NO,0
@@ -43522,7 +43521,7 @@ AS49711,"FLYNET Flynet Ltd",BY,11
 AS49712,"TBM-AS JSC TBM",RU,1
 AS49713,"XENOSITE-AS Enreach Netherlands B.V.",NL,0
 AS49714,"Teletech-office Edge Technology Plus d.o.o. Beograd",RS,2
-AS49715,"PL-WLANTECH-AS PTU WLAN-TECH PLUS JACEK SOLTYS",PL,13
+AS49715,"PL-WLANTECH-AS PTU WLAN-TECH PLUS JACEK SOLTYS",PL,14
 AS49717,"BEOTELNETZR ASTRA TELEKOM DOO BEOGRAD",RS,0
 AS49718,"NTS-REAL-AS Nizhnevolzhskie Telecommunication Networks Real LLC",RU,26
 AS49719,"HIGH-TECH-UNITED High Tech United S.R.L.",RO,1
@@ -44370,7 +44369,7 @@ AS50669,"coolvds_reserved Kutcevol Maksum Mukolaevich",UA,0
 AS50670,"VTELJO VTEL HOLDINGS LIMITED/JORDAN CO.",JO,80
 AS50671,"GOROD-AS OOO SET",RU,9
 AS50672,"FORMULA-SVIAZY-AS Formula Svyazi LLC",RU,1
-AS50673,"Serverius-as Serverius Holding B.V.",NL,340
+AS50673,"Serverius-as Serverius Holding B.V.",NL,339
 AS50674,"SPBEX-AS JSC Stock Exchange Saint Petersburg",RU,1
 AS50675,"DSTNY-FINLAND Dstny BE N.V.",BE,3
 AS50676,"TELCOMNET TelCom LLC",RU,2
@@ -44849,7 +44848,7 @@ AS51198,"Servada Servada B.V.",NL,9
 AS51199,"TechnoTek TECHNOTEK LLC",RU,1
 AS51200,"DIDI-AS LLC Digital Dialogue-Nets",RU,43
 AS51201,"AS-AMJDE Ahmadiyya Muslim Jamaat Deutschland KdoR",DE,1
-AS51202,"NUXOA NUXOA GmbH",DE,30
+AS51202,"NUXOA NUXOA GmbH",DE,42
 AS51203,"BM5-AS BM5 Bartosz Malinowski",PL,1
 AS51204,"UNIREA-SHOPPING-CENTER UNIREA SHOPPING CENTER SA",RO,1
 AS51206,"THY Turk Hava Yollari Technic A.S.",TR,1
@@ -45406,7 +45405,7 @@ AS51821,"FORTLAX Cloudist AB",SE,10
 AS51822,"SOPREMA Soprema SAS",FR,2
 AS51823,"MTNETWORKSLTD Microtalk Europe Ltd",GB,2
 AS51824,"ALTERNATIVA-NET PE NIKOLAYENKO NIKOLAY IVANOVICH",UA,2
-AS51825,"TELZAR-ASN Telzar 019 International Telecommunications Services LTD",IL,45
+AS51825,"TELZAR-ASN Telzar 019 International Telecommunications Services LTD",IL,46
 AS51826,"EVROC evroc AB",SE,10
 AS51827,"FREICONHB LWLcom GmbH",DE,1
 AS51828,"IR-T-10 Iran Telecommunication Company PJS",IR,0
@@ -45990,7 +45989,7 @@ AS52464,"Super Giros",CO,1
 AS52465,"WNet Internet y Hosting",AR,31
 AS52466,"TECHNOLOGY EQUINOCCIAL TECCIAL S.A.",EC,0
 AS52467,"Universidad de Ibague",CO,4
-AS52468,"UFINET PANAMA S.A.",PA,1920
+AS52468,"UFINET PANAMA S.A.",PA,1919
 AS52469,"Offshore Racks S.A",PA,8
 AS52470,"CONARE",CR,4
 AS52471,"COLUMBUS NETWORKS DOMINICANA, S.A.",DO,154
@@ -46087,7 +46086,7 @@ AS52582,"Dexco S.A.",BR,1
 AS52583,"Asstelecom telecomunicacao Ltda me",BR,8
 AS52584,"CONNECT FIBRA",BR,4
 AS52586,"AlmavivA Experience S.A.",BR,1
-AS52587,"iFIBRA TELECOM",BR,3
+AS52587,"iFIBRA TELECOM",BR,4
 AS52589,"MULTLINK TELECOM",BR,6
 AS52591,"S. C. Terres e Cia Ltda",BR,2
 AS52592,"CELINO RIBEIRO SERVICOS DE TELECOMUNICACOES LTDA -",BR,5
@@ -46203,7 +46202,7 @@ AS52740,"PRODAP-Centro de Gestao da Tecnologia e Informacao",BR,5
 AS52741,"MC Telecom",BR,13
 AS52742,"HELP INTERNET",BR,24
 AS52743,"Twister Soft Net Ltda",BR,7
-AS52745,"TSS SOFTWARE LTDA",BR,6
+AS52745,"TSS SOFTWARE LTDA",BR,7
 AS52746,"Primanet Internet LTDA",BR,11
 AS52747,"Wsp Servicos de Telecomunicacoes Ltda",BR,29
 AS52748,"Seitel - Seixas Telecomunicacoes",BR,44
@@ -46360,7 +46359,7 @@ AS52938,"EMA Comercio de Eletronicos e Servicos Ltda.",BR,12
 AS52939,"Minas Turbo Provedor de Internet",BR,13
 AS52940,"VERO S.A",BR,22
 AS52941,"SPACE NETWORK",BR,36
-AS52944,"MEGALINK TELECOMUNICACOES LTDA ME",BR,21
+AS52944,"MEGALINK TELECOMUNICACOES LTDA ME",BR,20
 AS52945,"E&L Producoes de Software Ltda",BR,8
 AS52946,"RADIUM NET INTERNET PROVEDOR LTDA ME",BR,2
 AS52947,"PARAOPEBANET PROVEDOR LTDA",BR,18
@@ -46369,7 +46368,7 @@ AS52950,"Fund. de Apoio a Pesq. C&T do Est. de SC - FAPESC",BR,7
 AS52951,"NETFLEX TELECOMUNICACOES LTDA",BR,41
 AS52952,"Millenium Com de Mat e Sist de Inf. Ltda",BR,25
 AS52953,"ZAP TCHE PROVEDOR DE INTERNET LTDA",BR,9
-AS52956,"Speed Travel Comunicacao Multimidia Ltda - ME",BR,43
+AS52956,"Speed Travel Comunicacao Multimidia Ltda - ME",BR,44
 AS52958,"Empr.Tec.Inform.Comun. Mun.SP-PRODAM-SP S/A",BR,8
 AS52960,"EDILSON SANTOS SILVA SOBRINHO - ME",BR,9
 AS52962,"Vipnet Baixada Telecom. e Informatica Ltda",BR,6
@@ -46506,7 +46505,7 @@ AS53141,"FLYS INTERATIVA LTDA",BR,12
 AS53142,"Friburgo Online LTDA ME",BR,34
 AS53143,"CABONNET INTERNET LTDA",BR,51
 AS53146,"R2 Telecom Com. Prod. Inform. Ltda",BR,27
-AS53147,"FONTES SOLUCOES TECNOLOGICAS LTDA",BR,33
+AS53147,"FONTES SOLUCOES TECNOLOGICAS LTDA",BR,32
 AS53150,"UNIMED SAO JOSE DOS CAMPOS - COOPERATIVA DE TRABAL",BR,5
 AS53151,"EDITORA GLOBO S/A.",BR,4
 AS53152,"THS Provider Servicos de Comunicacao Multimidia LT",BR,27
@@ -46562,7 +46561,7 @@ AS53216,"Cangere Online Provedor de Internet Ltda.",BR,18
 AS53217,"INFRANET INTERNET LTDA.",BR,34
 AS53218,"SPEEDSERVICE TELECOMUNICACOES LTDA",BR,36
 AS53219,"VLC Internet e Servicos Ltda ME",BR,5
-AS53221,"ENGETRONICS INTERNET DATACENTER",BR,15
+AS53221,"ENGETRONICS INTERNET DATACENTER",BR,16
 AS53222,"Seanet Telecom Ltda",BR,29
 AS53223,"Master Net Telecom LTDA",BR,12
 AS53225,"IPGLOBE INTERNET LTDA",BR,32
@@ -47441,7 +47440,7 @@ AS54144,"Shawn Kleinart Consulting",US,0
 AS54145,"auth-servers, LLC",US,2
 AS54146,"Lucidiom, inc.",US,0
 AS54147,"UMA Education, Inc.",US,0
-AS54148,"Dynamic Quantum Networks",CA,35
+AS54148,"Dynamic Quantum Networks",CA,36
 AS54149,"TS5 LLC",US,3
 AS54150,"BROADLAWNS MEDICAL CENTER",US,1
 AS54151,"Abound Credit Union",US,1
@@ -48066,7 +48065,7 @@ AS54797,"CITY OF AURORA",US,1
 AS54798,"Oddbytes LLC",US,2
 AS54799,"OTC Markets Group Inc",US,5
 AS54800,"Laredo ISD",US,4
-AS54801,"Zillion Network Inc.",US,288
+AS54801,"Zillion Network Inc.",US,273
 AS54802,"Intuit Inc.",US,0
 AS54803,"Boys Town",US,3
 AS54804,"CableSouth Media III LLC",US,82
@@ -48595,7 +48594,7 @@ AS55351,"AS55351-56 - ",IN,0
 AS55352,"Microscan Internet Limited",IN,484
 AS55353,"RAJESH PATEL NET SERVICES PVT. LTD.",IN,44
 AS55354,"Ace Internet Services Pty Ltd",AU,14
-AS55355,"ISP",HK,27
+AS55355,"ISP",HK,457
 AS55356,"Wateen Telecom (Pvt.) Ltd.",PK,2
 AS55357,"Transit Co Australian Transit AS. Enquiries to the hostmaster.",AU,0
 AS55358,"18 Brodie Hall Drive",AU,1
@@ -48609,7 +48608,7 @@ AS55368,"Lightwire LTD",NZ,0
 AS55369,"DediPower Managed Hosting Limited",HK,0
 AS55372,"University of the Ryukyus",JP,0
 AS55373,"Foundation for Biomedical Research and Innovation at Kobe",JP,1
-AS55374,"FUJITSU LIMITED",JP,128
+AS55374,"FUJITSU LIMITED",JP,125
 AS55375,"SmartInsight Inc.",JP,0
 AS55376,"KCV Communications Co. Ltd.",JP,4
 AS55377,"Sadiatec Co., Ltd",JP,0
@@ -48621,7 +48620,7 @@ AS55382,"Nagato city office",JP,1
 AS55383,"YYY Group, Inc.",JP,8
 AS55384,"Japan Advanced Institute of Science and Technology",JP,2
 AS55385,"Digital Alliance Co.,Ltd.",JP,9
-AS55386,"FUJITSU LIMITED",JP,39
+AS55386,"FUJITSU LIMITED",JP,38
 AS55387,"Japan Communication Inc.",JP,2
 AS55388,"ASJ INC.",JP,3
 AS55389,"Japan Internet Xing Co., Ltd.",JP,0
@@ -48642,7 +48641,7 @@ AS55405,"Exa Bytes Network Sdn.Bhd.",MY,6
 AS55406,"26 Shyamoli, Bir Uttam A. W. Chowdhury Road",BD,21
 AS55408,"Univision LLC. To TTK STM1 UPSTREAM PROVIDER",MN,4
 AS55409,"Akamai Technologies, Inc.",AU,0
-AS55410,"Vodafone Idea Ltd",IN,1338
+AS55410,"Vodafone Idea Ltd",IN,1339
 AS55411,"SUPERLOOP (AUSTRALIA) PTY LTD",AU,0
 AS55412,"SYSTEM 3 NET TECHNOLOGIES PVT. LTD.",IN,0
 AS55413,"Development Bank of the Philippines",PH,1
@@ -48752,7 +48751,7 @@ AS55542,"Roads and Maritime Services",AU,38
 AS55543,"Suite 305, level 3, 66 Berry St",AU,1
 AS55545,"Suranaree University of Technology",TH,16
 AS55546,"Mobinet LLC. AS Mobinet Internet Service Provider",MN,0
-AS55547,"Unit D,E,F,G 28th Floor",PH,357
+AS55547,"Unit D,E,F,G 28th Floor",PH,360
 AS55549,"True International Gateway Co., Ltd.",TH,0
 AS55550,"Asia Pacific Communication Limited",BD,0
 AS55551,"Level 2",AU,0
@@ -49389,7 +49388,7 @@ AS56304,"The Total Team Limited",NZ,27
 AS56306,"PT. Citra International Pratama",ID,0
 AS56307,"ac3, Australian Centre for Advanced Computing and Communications",AU,21
 AS56308,"TELEKOMUNIKASI INDONESIA INTERNATIONAL, PTE.LTD",SG,47
-AS56309,"Siamdata Communication Co.,Ltd.",TH,388
+AS56309,"Siamdata Communication Co.,Ltd.",TH,393
 AS56311,"Morgan Stanley Management Service (Singapore) Pte. Ltd",SG,7
 AS56314,"Beijing Tiantian Net Information Science and Technology Co.,Ltd",CN,0
 AS56315,"Ishan's Network - Allocated -Prime",IN,0
@@ -49977,7 +49976,7 @@ AS56966,"FS-ASN Foodservice LTD",GE,4
 AS56967,"EDI-AS EUROPEAN DRINKS INTERNATIONAL S.R.L.",RO,1
 AS56969,"DVO-IX JSC ER-Telecom Holding",RU,0
 AS56970,"MAGNETIC-IT-SERVICES Magnetic IT Services S.R.L.",RO,4
-AS56971,"AS56971 CGI GLOBAL LIMITED",HK,180
+AS56971,"AS56971 CGI GLOBAL LIMITED",HK,181
 AS56972,"AXON-AS ISP AXON LTD",UA,0
 AS56973,"VITSOL VITKOVICE IT SOLUTIONS a.s.",CZ,3
 AS56974,"SRC_OF_RA-AS State Revenue Committee of the Republic of Armenia",AM,2
@@ -50283,7 +50282,7 @@ AS57319,"TANDER-AS JSC Tander",RU,4
 AS57321,"AMINET AMINET WOJTAS MACIEJ",PL,2
 AS57322,"RO-YOUWOWME Nobel Group Limited",MT,1
 AS57323,"ASKUBANOPTPRODTORG CJSC Kubanoptprodtorg",RU,4
-AS57324,"GCCIT Al Lawn Al Akhdar International Company for Communications and Information Technology Ltd.",IQ,36
+AS57324,"GCCIT Al Lawn Al Akhdar International Company for Communications and Information Technology Ltd.",IQ,35
 AS57325,"AS204765 123Telcom BV trading as Partell",NL,9
 AS57326,"ASN-Infotreat Infotreat SRL",RO,1
 AS57327,"FOILHAT-ANYCAST IP Excess AB",SE,0
@@ -52150,7 +52149,7 @@ AS59443,"BAYNUR-AS Baynur and P Ltd.",KZ,6
 AS59444,"ASAMSNET Andrzej Szreter AMSNET",PL,7
 AS59445,"ICC-AS ICC NETWORKS LTD",GB,3
 AS59446,"DOCTORWEB Doctor Web Ltd",RU,1
-AS59447,"GEOCOM GEOCOM LLC",GE,14
+AS59447,"GEOCOM GEOCOM LLC",GE,3
 AS59448,"ANT-AS Andrews IT Engineering Mernoki, Informaciotechnikai es Szolgaltato Korlatolt Felelossegu Tarsasag",HU,3
 AS59449,"KonzolaNET Mitja Herbaj",SI,8
 AS59451,"ARABBANK-AS Al-Bank Al-Arabi PLC. CO.",JO,10
@@ -52274,7 +52273,7 @@ AS59584,"INDIKOM-AS INDIKOM LLC",RU,7
 AS59585,"NETRIDER-UA-as PE Vinokurov Anton Vladyslavovych",UA,1
 AS59586,"CAG-AS CAG Datastod AB",SE,5
 AS59587,"IR-T-10 Iran Telecommunication Company PJS",IR,0
-AS59588,"ZAINAS-IQ Al Atheer Telecommunication-Iraq Co. Ltd. Incorporated in Cayman Islands",IQ,109
+AS59588,"ZAINAS-IQ Al Atheer Telecommunication-Iraq Co. Ltd. Incorporated in Cayman Islands",IQ,108
 AS59589,"KA2 LLC KA-2",RU,3
 AS59590,"LZM-AS LINKZONE MEDIA S.R.L.",RO,2
 AS59591,"WIRENET_AS WIRENET LLC",RU,1
@@ -53671,7 +53670,7 @@ AS61176,"CDI-AS City Development and Innovation PJSC",IR,1
 AS61177,"NTG-AS NettiTieto Oy",FI,3
 AS61178,"CYMRG-AS2 Digital Transformation Plus LLC",RU,5
 AS61179,"IBM-Romania IBM Romania SRL",RO,1
-AS61180,"A2B2 A2B IP B.V.",NL,8
+AS61180,"A2B2 A2B IP B.V.",NL,9
 AS61181,"METRO-DE-MADRID-AS METRO DE MADRID, S.A.",ES,1
 AS61182,"MTKSRL3 MTK S.R.L.",IT,0
 AS61183,"INTEGRATIONNET-AS integration.net GmbH",DE,6
@@ -53790,7 +53789,7 @@ AS61313,"FZCO",AE,0
 AS61314,"CBoI-AS Central Bank of Ireland",IE,2
 AS61315,"SEDMULTITEL SED Multitel s.r.l.",IT,19
 AS61316,"iPROsrv WEB3 Leaders INC",CA,0
-AS61317,"ASDETUK Hivelocity LLC",US,260
+AS61317,"ASDETUK Hivelocity LLC",US,261
 AS61318,"DANCER-AS Dancer LLC",RU,0
 AS61319,"Pomorskie Wojewodztwo Pomorskie",PL,1
 AS61320,"Q-Branch Andrew Vieyra",CH,2
@@ -53941,7 +53940,7 @@ AS61482,"CONVERGIA",PE,8
 AS61483,"Convergia Telecom S.A.",CL,8
 AS61484,"Convergia Argentina S.A.",AR,9
 AS61485,"GILAT TO HOME PERU S.A",PE,4
-AS61486,"Universidad Nacional de Quilmes",AR,4
+AS61486,"Universidad Nacional de Quilmes",AR,8
 AS61487,"COOPERATIVA ELECTRICA DE SALADILLO",AR,10
 AS61488,"BOLITEL SRL",BO,0
 AS61489,"SISTEMAS EDENIA INTERNACIONAL S.A.",CR,0
@@ -53992,7 +53991,7 @@ AS61569,"Tribunal Regional Federal da 1a Regiao",BR,1
 AS61571,"Metro Tecnologia",BR,2
 AS61572,"CONTROLADORIA-GERAL DA UNIAO",BR,4
 AS61573,"IP TELECOM",BR,19
-AS61574,"UNIVERSIDADE FEDERAL DE MINAS GERAIS",BR,110
+AS61574,"UNIVERSIDADE FEDERAL DE MINAS GERAIS",BR,111
 AS61575,"UNIVERSIDADE FEDERAL DE MINAS GERAIS",BR,0
 AS61576,"UNIVERSIDADE FEDERAL DE MINAS GERAIS",BR,0
 AS61577,"AMAZONTEL TELECOMUNICACOES LTDA",BR,5
@@ -54248,7 +54247,7 @@ AS61885,"MGNETMOC LTDA",BR,8
 AS61886,"MC MEIRA PROVEDOR DE ACESSO LTDA",BR,1
 AS61888,"GFT COMERCIO DE TELEFONIA E COMUNICACAO LTDA",BR,38
 AS61889,"BR.Digital Telecom",BR,25
-AS61890,"Adaptlink Servicos de Comunicacao Multimidia Ltda.",BR,20
+AS61890,"Adaptlink Servicos de Comunicacao Multimidia Ltda.",BR,21
 AS61892,"MONISAT SISTEMA DE INFORMACAO E MONITORAMENTO",BR,1
 AS61893,"RM dos Santos Informatica",BR,38
 AS61894,"FreeBSD Brasil LTDA",BR,4
@@ -54567,7 +54566,7 @@ AS62251,"FZCO",AE,2
 AS62252,"KSB-GE-AS JSC Terabank",GE,5
 AS62253,"GLASNW Glasfaser NordWest Verwaltungs GmbH trading as Glasfaser NordWest GmbH & Co. KG",DE,0
 AS62254,"AVARN-FI Avarn Security Oy",FI,1
-AS62255,"BEMYLINK BiMajLink d.o.o.",SI,7
+AS62255,"BEMYLINK BiMajLink d.o.o.",SI,8
 AS62256,"Samuel_Betrisey Samuel Betrisey",CH,1
 AS62257,"Kardox Mohsen Nikkhah",NL,0
 AS62258,"PROFIM-AS FLOKK Sp zoo",PL,1
@@ -55478,7 +55477,7 @@ AS63209,"KODIAK NETWORKS, INC.",US,4
 AS63210,"FC2 Inc",US,6
 AS63211,"Norwegian Cruise Line Holdings Ltd.",US,0
 AS63212,"Tahoe Internet Exchange (TahoeIX)",US,0
-AS63213,"Astute Internet",CA,16
+AS63213,"Astute Internet",CA,17
 AS63214,"Multi-State Lottery Association",US,1
 AS63215,"Sound & Cellular, Inc.",US,1
 AS63216,"Hype Enterprises",US,0
@@ -56199,7 +56198,7 @@ AS63944,"KaritKarma",BD,0
 AS63945,"Digitec PNG Limited",PG,6
 AS63946,"Viking Telecom Limited",HK,0
 AS63948,"UBER SINGAPORE TECHNOLOGY PTE. LTD",SG,0
-AS63949,"Akamai Connected Cloud",SG,456
+AS63949,"Akamai Connected Cloud",SG,455
 AS63950,"Jackie's Wholesale Nurseries Pty Ltd",AU,0
 AS63951,"THAICOM Public Company Limited",TH,7
 AS63954,"Getz Pharma (Private) Limited",PK,2
@@ -56610,7 +56609,7 @@ AS131086,"Densan Co., Ltd.",JP,0
 AS131087,"KSC Commercial Internet Co., Ltd.",TH,0
 AS131088,"Western Australian Internet Association",AU,0
 AS131089,"National Telecom Public Company Limited",TH,1
-AS131090,"National Telecom Public Company Limited",TH,665
+AS131090,"National Telecom Public Company Limited",TH,666
 AS131091,"GSS Global",HK,13
 AS131092,"KRNIC-ASBLOCK-AP",KR,0
 AS131093,"viva republica",KR,18
@@ -56981,7 +56980,7 @@ AS131460,"9 UM Tower",TH,11
 AS131461,"TALENT LINK GROUP LIMITED",HK,0
 AS131462,"Western Australian Land Information Authority",AU,0
 AS131463,"STN COMMUNICATION & ADVERTISING PVT LTD",IN,2
-AS131464,"Digi Jadoo Broadband Ltd",BD,80
+AS131464,"Digi Jadoo Broadband Ltd",BD,82
 AS131465,"Marbel Telephone System, Inc.",PH,1
 AS131466,"Akari Networks Pte. Ltd.",SG,0
 AS131467,"Unified National Networks",BN,3
@@ -57113,7 +57112,7 @@ AS131592,"TWT Communication Inc.",TW,0
 AS131593,"PEGATRON",TW,2
 AS131594,"Asia Pacific On-Line Service Inc.",TW,0
 AS131595,"Kingston Technology Fareast Corp.",TW,1
-AS131596,"TBC",TW,713
+AS131596,"TBC",TW,712
 AS131597,"TWNIC-TW-4-byte-AS-BLOCK1",TW,0
 AS131598,"CHTD, Chunghwa Telecom Co.,Ltd.",TW,0
 AS131599,"Wistron Corporation",TW,6
@@ -57433,7 +57432,7 @@ AS131913,"JPNIC-4Byte-ASBLOCK-AP",JP,1
 AS131914,"Rakuten Group, Inc.",JP,5
 AS131915,"Hamamatsu Cable Television .Inc",JP,7
 AS131916,"Tokyo Bay Network Co.,Ltd.",JP,13
-AS131917,"Toshiba I.S. corp",JP,7
+AS131917,"Toshiba I.S. corp",JP,5
 AS131918,"SHONAN CABLE NETWORK",JP,13
 AS131919,"Meiji University",JP,3
 AS131920,"closip Inc.",JP,0
@@ -57716,7 +57715,7 @@ AS132199,"Globe Telecom Inc.",PH,762
 AS132200,"Exabytes Network (Singapore) Pte. Ltd.",SG,1
 AS132201,"Land and Houses Bank Public Company Limited",TH,5
 AS132202,"Movaci Co., Ltd",TH,0
-AS132203,"Tencent Building, Kejizhongyi Avenue",CN,1159
+AS132203,"Tencent Building, Kejizhongyi Avenue",CN,1165
 AS132204,"CORETEL NETWORKS (INTERNATIONAL) PTE LTD",SG,2
 AS132205,"YARRA CITY COUNCIL",AU,1
 AS132206,"DC DIGITAL DATA HUB COMPANY LIMITED",VN,2
@@ -58608,7 +58607,7 @@ AS133111,"CERNET New Technology Co., Ltd",CN,11
 AS133112,"Spectra Technologies Limited",BD,2
 AS133113,"SH WEBSERVER SOLUTIONS",MY,2
 AS133114,"ControlVM Sdn Bhd",MY,4
-AS133115,"HK Kwaifong Group Limited",HK,62
+AS133115,"HK Kwaifong Group Limited",HK,65
 AS133116,"Kalgoorlie Consolidated Gold Mines",AU,1
 AS133117,"Tuvalu Telecommunications Corporation",TV,0
 AS133118,"China Unicom IP network",CN,19
@@ -58790,7 +58789,7 @@ AS133297,"IRINN AS-BLOCK",IN,0
 AS133298,"Netflow broadband Pvt Ltd.",IN,2
 AS133299,"Yalamanchili Software Exports Ltd",IN,5
 AS133300,"Soibam Technology Private Limited",IN,5
-AS133301,"DWANIRINN",IN,44
+AS133301,"DWANIRINN",IN,46
 AS133302,"Enet Solutions",IN,0
 AS133303,"Janalakshmi Financial Services Pvt Ltd",IN,4
 AS133304,"Hitech Broadband",IN,9
@@ -59090,7 +59089,7 @@ AS133608,"Liverton Security Limited",NZ,2
 AS133609,"Infinity Supercorridor Sdn Bhd",MY,1
 AS133610,"ASN of BRAC",BD,3
 AS133611,"ST. LUKE'S HEALTH SCIENCES LIBRARY (ELIB)",PH,0
-AS133612,"Vodafone Australia Pty Ltd",AU,1163
+AS133612,"Vodafone Australia Pty Ltd",AU,1171
 AS133613,"MTel telecommunication company ltd.",MO,59
 AS133614,"Runge ICT Pty Ltd",AU,0
 AS133615,"Tecala ICT Pty Limited",AU,4
@@ -59308,7 +59307,7 @@ AS133827,"UNIVERSITAS ISLAM INDONESIA",ID,9
 AS133828,"PT Duta Medialink",ID,0
 AS133829,"PT DELTAULI TEKNIKARYA UTAMA",ID,0
 AS133830,"PT Pika Media Komunika",ID,1
-AS133831,"PT Irama Media FlashNet",ID,3
+AS133831,"PT Irama Media FlashNet",ID,2
 AS133832,"Universitas Mercu Buana Yogyakarta",ID,2
 AS133833,"Bank UOB Indonesia",ID,2
 AS133834,"Bank ICBC Indonesia",ID,3
@@ -59550,6 +59549,7 @@ AS134072,"WAY POWER LIMITED",HK,3
 AS134073,"The Revenue Department",TH,5
 AS134074,"Golomt Bank",MN,3
 AS134075,"PROBAX PTY LTD",AU,0
+AS134076,"2000 Computers & Networks Pty Ltd 103.51.68.0/22",AU,2
 AS134077,"PT Telkom Infrastruktur Indonesia",ID,3
 AS134078,"NETPLUZ HOLDINGS PRIVATE LIMITED",SG,44
 AS134079,"SECUREAX THAILAND",SG,0
@@ -60325,7 +60325,7 @@ AS134856,"VD NETWORKS INDIA PVT LTD",IN,2
 AS134857,"AGLAYA",IN,0
 AS134858,"iForce Networks",IN,36
 AS134859,"IMPERIAL TECH SERVICES",IN,2
-AS134860,"Entire Cable And Broadband Opc Private Limited",IN,3
+AS134860,"Entire Cable And Broadband Opc Private Limited",IN,5
 AS134861,"BroadStar Net India Pvt.Ltd.",IN,5
 AS134862,"Ultimate Internet Services Private Limited",IN,8
 AS134863,"SP INTERNET TECHNOLOGIES PRIVATE LTD",IN,44
@@ -60558,7 +60558,7 @@ AS135091,"Ayaan communication",BD,19
 AS135092,"Ashraf Uddin t/a Dhaka tech",BD,7
 AS135093,"Avaloq Sourcing Asia Pacific (Singapore) Pte Ltd",SG,0
 AS135094,"INSURANCE AUSTRALIA GROUP LIMITED",AU,0
-AS135095,"InterCloud ltd",BD,1
+AS135095,"InterCloud ltd",BD,2
 AS135097,"LUOGELANG (FRANCE) LIMITED",HK,67
 AS135098,"Bright Star Network",BD,2
 AS135099,"QRHUB PTY LTD T/A Entrust ICT",AU,0
@@ -60664,7 +60664,7 @@ AS135199,"8K Digital Brightway Services Private Limited",IN,0
 AS135200,"ISRO Headquarters",IN,0
 AS135201,"siddhbali infotech pvt ltd.",IN,0
 AS135202,"Netfirre Communications Pvt Ltd",IN,4
-AS135203,"Excell Media Pvt Ltd",IN,6
+AS135203,"Excell Media Pvt Ltd",IN,8
 AS135204,"Katyani Energy Solution Private Limited",IN,0
 AS135205,"Aabasoft Technologies India Private Limited",IN,2
 AS135206,"Bluwaves Internet Services India P. Ltd",IN,6
@@ -61131,7 +61131,7 @@ AS135682,"Advika Web Developments Hosting Pvt Ltd",IN,10
 AS135683,"Netncr Technology Pvt. Ltd.",IN,4
 AS135684,"PRIYANK INFOMATICS OPC PVT LTD",IN,0
 AS135685,"Deserver Hosting Hub Private Limited",IN,4
-AS135686,"Navyug Networks Info Private Limited",IN,8
+AS135686,"Navyug Networks Info Private Limited",IN,7
 AS135687,"Qwistel Network Service Private Limited",IN,8
 AS135688,"Best IT Centre",IN,5
 AS135689,"Netark Technologies India Pvt Ltd",IN,0
@@ -61350,7 +61350,7 @@ AS135901,"Phuong Dong technology solution company limited",VN,12
 AS135902,"Hahalolo Travel Social Network Joint Stock Company",VN,0
 AS135903,"FFC joint stock company",VN,0
 AS135904,"VINID PAY JOINT STOCK COMPANY",VN,1
-AS135905,"VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",VN,394
+AS135905,"VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",VN,395
 AS135906,"BOOKING247 COMPANY LIMITED",VN,2
 AS135907,"VI NA Host Co., ltd",VN,0
 AS135908,"ECONET VIETNAM CORPORATION",VN,4
@@ -61363,7 +61363,7 @@ AS135914,"Quang Trung Software City Development Company",VN,0
 AS135915,"8 Floor, 96-98 Dao Duy Anh, Phu Nhuan, HCMC",VN,2
 AS135916,"descr: No. 14, 256 Bach Dang, Chuong Duong, Hoan Kiem, Hanoi",VN,8
 AS135917,"Cong ty TNHH Web Panda",VN,1
-AS135918,"VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",VN,226
+AS135918,"VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",VN,222
 AS135919,"MB SHINSEI Finance Limited Liability Company",VN,3
 AS135920,"Ehost software company limited",VN,5
 AS135921,"Maxserver Company Limited",VN,8
@@ -61417,7 +61417,7 @@ AS135968,"Early Start Joint Stock Company",VN,0
 AS135969,"Sen Do Technology Joint Stock Company",VN,2
 AS135970,"VNNIC-4byte-ASBLOCK-AP",VN,0
 AS135971,"PetroVietNam Securities Joint Stock Company",VN,1
-AS135972,"Quang Nam Department of Information and Communications",VN,2
+AS135972,"Quang Nam Department of Information and Communications",VN,4
 AS135973,"Bamboo Airways Company Limited",VN,1
 AS135974,"National Power Transmission Corporation",VN,2
 AS135975,"Sea Gem Company Limited",VN,0
@@ -63352,7 +63352,7 @@ AS137947,"Prime Bank Ltd",BD,2
 AS137948,"Diebold Nixdorf Singapore PTE. LTD.",SG,1
 AS137949,"AIRTRUNK OPERATING PTY LTD",AU,0
 AS137950,"Better Broadband",AU,2
-AS137951,"ASLINE LIMITED",HK,406
+AS137951,"ASLINE LIMITED",HK,356
 AS137953,"Bismillah IT Solution",BD,2
 AS137954,"CLOUDSTORAGE PTE. LTD.",SG,0
 AS137955,"Myanmar Internet Exchange",MM,3
@@ -63441,7 +63441,7 @@ AS138038,"Wolf Network Lab",JP,1
 AS138039,"Broadband Business Ideas (PVT.) Limited",PK,3
 AS138040,"DNSVAULT SDN BHD",MY,1
 AS138041,"Telco2 Limited",NZ,3
-AS138042,"Runway Broadband",BD,0
+AS138042,"Runway Broadband",BD,1
 AS138043,"T Network",BD,12
 AS138044,"The Aurora Tower CTS 35222",AU,0
 AS138045,"PT Cipta Piranti Sejahtera",ID,2
@@ -64210,7 +64210,7 @@ AS138819,"PT Askara Internal",ID,0
 AS138820,"PT Unza Vitalis",ID,0
 AS138821,"PT Global Nusantara Internet",ID,7
 AS138822,"PT Jaya Komunikasi Indonesia",ID,0
-AS138823,"PT. Trimitra Usaha Sejahtera",ID,22
+AS138823,"PT. Trimitra Usaha Sejahtera",ID,23
 AS138824,"PT. Gemilang Jaya Elektrindo",ID,3
 AS138825,"LPSE Kota Makassar",ID,1
 AS138826,"IDREN - Indonesia Research and Education Network",ID,0
@@ -64301,7 +64301,7 @@ AS138910,"N/A",PK,7
 AS138911,"Renaissance Phuket Resort & Spa",TH,0
 AS138912,"Ghatail Online",BD,4
 AS138914,"Eureka Net Pvt Ltd",PK,0
-AS138915,"Kaopu Cloud HK Limited",HK,419
+AS138915,"Kaopu Cloud HK Limited",HK,418
 AS138916,"Personal Collection Direct Selling, Inc.",PH,1
 AS138917,"JUPITER ONLINE SERVICES",BD,2
 AS138918,"Northern Trust Corporation",US,0
@@ -64607,7 +64607,7 @@ AS139220,"Sichuan Chuanxn IDC",CN,76
 AS139221,"AUVERA TECHNOLOGY GROUP PTY LTD",AU,2
 AS139222,"City of Wanneroo",AU,1
 AS139223,"NTECH COMMUNICATION",BD,1
-AS139224,"Limpid ICT Solution Pvt. Ltd",NP,8
+AS139224,"Limpid ICT Solution Pvt. Ltd",NP,12
 AS139225,"Whatbox Inc.",SG,2
 AS139226,"Brother Telecom (Cambodia) co., Ltd.",HK,2
 AS139227,"Hello IT",BD,2
@@ -64624,7 +64624,7 @@ AS139238,"Infinity Broadband INC.",PH,3
 AS139239,"BograInfo.com",BD,3
 AS139240,"Starch Works",HK,0
 AS139241,"Avrotech Sdn Bhd",MY,1
-AS139242,"Cloudflare Sydney, LLC",US,1
+AS139242,"Cloudflare Sydney, LLC",US,2
 AS139243,"HONGKONG GLOBAL NETWORK TELECOMMUNICATIONS CO., LIMITED",HK,0
 AS139244,"ICTOUCH PTY LTD",AU,1
 AS139245,"3Technology",BD,4
@@ -64752,7 +64752,7 @@ AS139369,"PT. UTARA NUSA MEDIA",ID,2
 AS139370,"PT. Panji Perkasa Indonesia",ID,5
 AS139371,"PT Bank Agris Tbk",ID,3
 AS139372,"Institut Agama Islam Negeri Pekalongan",ID,1
-AS139373,"PT Akses Artha Media",ID,1
+AS139373,"PT Akses Artha Media",ID,0
 AS139374,"PT TRICOM SAKTI",ID,2
 AS139375,"Pemerintah Kabupaten Jombang",ID,2
 AS139376,"PT. ARTAJASA PEMBAYARAN ELEKTRONIS",ID,1
@@ -64989,7 +64989,7 @@ AS139609,"Solomon Islands Submarine Cable Company",SB,3
 AS139610,"abstation ahbr company limited",GB,0
 AS139611,"Bharari.net",BD,1
 AS139612,"ContentKeeper Technologies",AU,0
-AS139613,"HONG KONG LIGHTLAYER TECHNOLOGY CO., LIMITED",HK,12
+AS139613,"HONG KONG LIGHTLAYER TECHNOLOGY CO., LIMITED",HK,11
 AS139614,"BANGKO SENTRAL NG PILIPINAS",PH,1
 AS139615,"Ameropa Australia Pty Ltd",AU,1
 AS139616,"The Central Bank of Bangladesh",BD,6
@@ -66116,7 +66116,7 @@ AS140762,"Vinh Railway Signalling - Telecom Joint Stock Company",VN,1
 AS140763,"ITEXPERT Viet Nam Joint Stock Company",VN,0
 AS140764,"CSD Group Technology JSC.",VN,2
 AS140765,"VINANET Services Joint Stock Company",VN,4
-AS140766,"FPT Smart Cloud Company Limited",VN,263
+AS140766,"FPT Smart Cloud Company Limited",VN,265
 AS140767,"VINASOFT One Member Limited Company",VN,0
 AS140768,"Department of Science and Technology Gia Lai",VN,2
 AS140769,"INFORMATICS SOLUTION COMPANY LIMITED",VN,1
@@ -66557,7 +66557,7 @@ AS141213,"eMudhra Limited",IN,1
 AS141214,"Geo-Informatics and Space Technology Development Agency",TH,3
 AS141215,"Dotcom International Pvt. Limited",PK,3
 AS141216,"GREAT GOLDEN HORSE COMPANY LIMITED",MM,4
-AS141217,"A.B.S. Online Service",BD,3
+AS141217,"A.B.S. Online Service",BD,4
 AS141218,"AK Commercial Industries",BD,2
 AS141219,"World Link",BD,3
 AS141220,"Discovery 24 Online",BD,1
@@ -66681,6 +66681,7 @@ AS141337,"Jr Enterprise",IN,0
 AS141338,"Infodex Solutions Pvt. Ltd.",IN,2
 AS141339,"Lalat Internet Service Pvt Ltd",IN,8
 AS141340,"IIT Madras",IN,2
+AS141341,"SAN MIGUEL CABLE NETWORK INC.",PH,0
 AS141342,"FIBERISH (PVT) LTD",PK,53
 AS141343,"Zeta Technologies (Pvt.) Limited",PK,1
 AS141344,"Net Ninjas Pty Ltd",AU,0
@@ -67089,7 +67090,7 @@ AS141753,"CBC TECH INTERNATIONAL LTD.",SG,5
 AS141754,"Emapta Versatile Services Inc",PH,3
 AS141755,"Nepali Army",NP,0
 AS141756,"MESH INTELLINET LIMITED",HK,1
-AS141757,"Zoho Japan Corporation",JP,9
+AS141757,"Zoho Japan Corporation",JP,8
 AS141758,"CORE WINNER CO.,LIMITED",TW,0
 AS141759,"HONGKONG XING TONG HUI TECHNOLOGY CO.,LIMITED",HK,2
 AS141760,"Mercedes-Benz Singapore Pte. Ltd.",SG,4
@@ -72602,7 +72603,7 @@ AS147277,"C FIBER COMMUNICATIONS PVT LTD",IN,9
 AS147278,"MERV ENTERPRISES PVT LTD",IN,3
 AS147279,"OPTO COMMUNICATIONS PRIVATE LIMITED",IN,16
 AS147280,"OM INFOTECH",IN,0
-AS147281,"Luckynet9 Private Limited",IN,69
+AS147281,"Luckynet9 Private Limited",IN,74
 AS147282,"PATHCOM COMMUNICATIONS PRIVATE LIMITED",IN,4
 AS147283,"MAHARAJ MULTI SYSTEMS PVT LTD",IN,2
 AS147284,"MANA BROADBAND PRIVATE LIMITED",IN,0
@@ -74606,7 +74607,7 @@ AS149282,"Kyushu Telecom Global Limited",HK,1
 AS149283,"Xtream Fiber Private Limited",PK,1
 AS149284,"The codero ltd.",BD,0
 AS149286,"net innovation llc",US,0
-AS149287,"Mynet Technologies",BD,7
+AS149287,"Mynet Technologies",BD,8
 AS149288,"Telstra Limited",AU,0
 AS149289,"Palash Link Technology",BD,0
 AS149290,"Cloud Telecommunications (S) PTE. LTD.",SG,6
@@ -75631,7 +75632,7 @@ AS150319,"HOMENET BROADBAND COMMUNICATION AND TECHNOLOGIES",BD,0
 AS150320,"Empire Universal Business Technology Solutions Limited",HK,3
 AS150321,"Secretariat of the Pacific Regional Environment Programme",WS,1
 AS150322,"My Link Internet",BD,0
-AS150323,"Dak Lak Province Smart City Monitoring and Operation Center",VN,0
+AS150323,"Dak Lak Province Smart City Monitoring and Operation Center",VN,2
 AS150324,"DOTSIS NETWORK",PK,2
 AS150325,"TSUKUDANI NETWORK",GB,5
 AS150326,"DESKTOPIP PTE. LTD.",SG,0
@@ -76644,7 +76645,7 @@ AS151343,"DataHub Asia DC First Limited",BD,0
 AS151344,"Tata Communications Limited",IN,0
 AS151345,"Easycloud Sdn Bhd",MY,1
 AS151346,"MIaaS Cloud Services",PH,1
-AS151347,"Aerpace",IN,109
+AS151347,"Aerpace",IN,110
 AS151348,"A5-DB OPERATIONS (M) BERHAD",MY,0
 AS151349,"Yuki Network Ltd",KR,8
 AS151350,"NIPPON COMMUNICATIONS INC.",JP,1
@@ -76952,6 +76953,7 @@ AS151653,"General Telephone System Inc.",PH,1
 AS151654,"Cloud Digital Cambodia Co.Ltd",KH,0
 AS151655,"PT WBM NETWORK SOLUTION",ID,0
 AS151656,"NUGEN COMMUNICATION PVT LTD",IN,0
+AS151657,"Bada Communications",KR,0
 AS151659,"New Pakistan Cable Network",PK,0
 AS151660,"Neptune Internet",AU,27
 AS151661,"Goldman Sachs Services Private Limited",IN,1
@@ -77302,7 +77304,7 @@ AS152010,"PT Parimas Hicindo Sentosa",ID,2
 AS152011,"PT Generasi Timor Nata Gayuh",ID,1
 AS152012,"PT Nala Akses Nusantara",ID,3
 AS152013,"PT Tiga Putra Zambiliz",ID,1
-AS152014,"PT. Mitra Kita Brilian",ID,3
+AS152014,"PT. Mitra Kita Brilian",ID,2
 AS152015,"PT Radio Dutacakrawala Serasi",ID,0
 AS152016,"Sekolah Tinggi Ilmu Pelayaran Jakarta",ID,1
 AS152017,"PT Digtel Tech Solutions",ID,2
@@ -77433,7 +77435,7 @@ AS152143,"Firmus Metal Technologies Singapore Pte. Ltd",SG,0
 AS152144,"LIGHTSTORM ASIA PTE. LTD.",SG,5
 AS152145,"National University of Laos (NUOL)",LA,0
 AS152146,"TRICETECH SOLUTIONS PRIVATE LIMITED",PK,0
-AS152147,"IT Connection Network",BD,2
+AS152147,"IT Connection Network",BD,3
 AS152148,"FAST LINE FIBER PRIVATE LIMITED",PK,1
 AS152149,"Ahamed IT",BD,1
 AS152150,"Menlo Security Japan K.K.",JP,0
@@ -77848,7 +77850,7 @@ AS152561,"ICSDC CONSULTANTS LLP",IN,0
 AS152562,"ALANDI CITY NETWORKS PRIVATE LIMITED",IN,0
 AS152563,"TECHEDGE BROADBAND PRIVATE LIMITED",IN,0
 AS152564,"AUCTRA COMMUNICATION PRIVATE LIMITED",IN,0
-AS152565,"JOY SERVICES",IN,38
+AS152565,"JOY SERVICES",IN,40
 AS152566,"Abnisp Services Pvt Ltd",IN,2
 AS152567,"CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY",IN,1
 AS152568,"99RPM WEB PRIVATE LIMITED",IN,2
@@ -78007,7 +78009,7 @@ AS152722,"POLITEKNIK PELAYARAN BANTEN",ID,1
 AS152723,"Maijdee Supernet",BD,9
 AS152724,"Point72 Japan Limited",JP,1
 AS152725,"International Trading Services Ltd.",BD,3
-AS152726,"Dream Engineering",BD,5
+AS152726,"Dream Engineering",BD,7
 AS152727,"Villa Market JP Co.,Ltd",TH,2
 AS152728,"NIPPON COMMUNICATIONS INC.",JP,0
 AS152729,"Ha- Meem Denim Limited",BD,2
@@ -78930,14 +78932,14 @@ AS153659,"TRUE INTERNET CORPORATION CO. LTD.",TH,0
 AS153661,"EVERLIGHT RADIOLOGY LIMITED",AU,2
 AS153662,"Citadel (Shanghai) Corporate Services Company Limited",CN,0
 AS153663,"SAKURA LINK LIMITED",HK,3
-AS153664,"PT NAOMI AURORA TEKNOLOGI",ID,3
+AS153664,"PT NAOMI AURORA TEKNOLOGI",ID,2
 AS153665,"PT Borneo Megalink Perkasa",ID,0
 AS153666,"PT JARINGAN INTERNET TERPADU",ID,2
 AS153667,"SADAT INTERNET",BD,2
 AS153668,"Fast Bee 24",BD,0
 AS153669,"Vira Nawawaran ICT Services Company",AF,0
 AS153670,"PT NAFIS GLOBAL VISI",ID,2
-AS153671,"Liasail Global Hongkong Limited",HK,17
+AS153671,"Liasail Global Hongkong Limited",HK,18
 AS153672,"KODIAK NETWORKS INDIA PRIVATE LIMITED",IN,1
 AS153673,"PT Pioneer Nusatama Technology",ID,3
 AS153674,"SZI TECHNOLOGIES PVT LTD",IN,0
@@ -79390,7 +79392,7 @@ AS154128,"PT Elviana Jaringan Nusantara",ID,1
 AS154129,"PT. GLOBAL LINTAS SOLUSI",ID,0
 AS154130,"AIMLware systems Private Limited",IN,1
 AS154131,"Seven Stars Hospital & Diagnostic Center",BD,1
-AS154132,"M/S UMARA INTERNATIONAL",BD,1
+AS154132,"M/S UMARA INTERNATIONAL",BD,6
 AS154133,"SUDAMA TELECOM PRIVATE LIMITED",IN,3
 AS154134,"COMMERCIAL MOBILE INFORMATION TECHNOLOGY JOINT STOCK COMPANY",VN,0
 AS154135,"Contabo Company Limited",VN,0
@@ -79489,7 +79491,7 @@ AS154228,"Rm Communication Ltd",BD,3
 AS154229,"Fiji National Provident Fund",FJ,1
 AS154230,"NETSYS TECHNOLOGIES",IN,0
 AS154231,"Savvy Digital Services",IN,0
-AS154232,"MAX TECHNOLOGY & SUPPORT SERVICES PRIVATE LIMITED",IN,0
+AS154232,"MAX TECHNOLOGY & SUPPORT SERVICES PRIVATE LIMITED",IN,1
 AS154233,"PT Cyber Satria Indonesia",ID,3
 AS154234,"KF GLOBAL LIMITED",HK,0
 AS154235,"Itel network pvt.ltd.",NP,5
@@ -79596,7 +79598,7 @@ AS154335,"NAYSWAN NETWORK AND DATA SOLUTION",PH,9
 AS154336,"PT PEGADAIAN",ID,2
 AS154337,"PT Kledo Berhati Nyaman",ID,2
 AS154338,"CARE TEL",BD,0
-AS154339,"Zyn Data Technology Solutions Co., Ltd.",VN,3
+AS154339,"Zyn Data Technology Solutions Co., Ltd.",VN,2
 AS154341,"Nex Telecom",AU,0
 AS154342,"Nagarik Cable Link pvt. ltd",NP,0
 AS154343,"AGILENAAS GLOBAL SERVICE PTE.LTD",SG,3
@@ -79733,7 +79735,7 @@ AS154473,"EXCELLENCE BROADBAND PRIVATE LIMITED",IN,2
 AS154474,"Turbo Links (Private) Limited",PK,0
 AS154475,"PT Permata Data Nusantara",ID,3
 AS154476,"ACOLYTE TECHNOLOGIES PVT LTD",IN,0
-AS154477,"PT Sinyalku Berkah Teknologi",ID,0
+AS154477,"PT Sinyalku Berkah Teknologi",ID,1
 AS154478,"PT Hasta Media Transdata",ID,0
 AS154479,"PT Panca Cita Synetrix",ID,2
 AS154480,"PT Gerbang Nusantara Sakti",ID,3
@@ -79985,7 +79987,7 @@ AS154726,"Sonic Internet & Voice Pty Ltd",AU,2
 AS154727,"Thryv New Zealand",AU,0
 AS154728,"PT TECHNOLOGY BANTEN SOLUSI",ID,1
 AS154729,"PT Arkanova Cipta Inovasi",ID,3
-AS154730,"PT Ramadhani Prima Net",ID,1
+AS154730,"PT Ramadhani Prima Net",ID,2
 AS154731,"Krungthai XSpring Securities Company Limited",TH,2
 AS154732,"WIXFIBER TELECOMMUNICATION PRIVATE LIMITED",IN,0
 AS154733,"PT CISFO IRPANSAH GRUP",ID,3
@@ -80088,14 +80090,14 @@ AS154830,"PT Espay Debit Indonesia Koe",ID,0
 AS154831,"Green Emperor Group Company LImited",MM,3
 AS154832,"HaloCloud Network Limited",HK,0
 AS154833,"PT WIRA HASTA JITU",ID,3
-AS154834,"1RACE ICT INC.",PH,3
+AS154834,"1RACE ICT INC.",PH,4
 AS154835,"SILICON BUSINESS SOLUTIONS PRIVATE LIMITED",IN,1
 AS154836,"ONE NETWORK",BD,0
 AS154837,"Indian Financial Technology And Allied Services",IN,2
 AS154838,"Broadfiber",PK,1
 AS154839,"BdEdge Technologies Limited",BD,0
 AS154840,"HONG KONG NETFORCE LIMITED",HK,1
-AS154841,"PT INOVASI AKSES NUSANTARA",ID,0
+AS154841,"PT INOVASI AKSES NUSANTARA",ID,1
 AS154842,"PT RARA INDONET SOLUTION",ID,1
 AS154843,"BIC Consolidated",AU,0
 AS154844,"D&D IT SERVICES OPC",PH,0
@@ -80228,6 +80230,7 @@ AS154971,"SMARTMILE GLOBAL TECHNOLOGIES PRIVATE LIMITED",IN,0
 AS154972,"PT Global Inovasi Mitra Solusi",ID,0
 AS154973,"Mana Techno Networks (opc) Private Limited",IN,0
 AS154974,"Teleindia Datacenter private limited",IN,0
+AS154975,"V NETCARE PRIVATE LIMITED",IN,0
 AS196608,"INTERNIC2 INTERNET AG Global Network",DE,0
 AS196609,"PCS PCS Professional Communication Systems GmbH",DE,0
 AS196610,"DECIX-Academy DE-CIX Management GmbH",DE,4
@@ -80530,7 +80533,7 @@ AS197081,"REE Regie Autonome Electric Cable Chauffage EPIC",FR,1
 AS197082,"ZUERS-AT_AS Zuers.net Betriebs GmbH",AT,2
 AS197083,"K2ATMITEC K2 atmitec s.r.o.",CZ,1
 AS197086,"SPEEDY Speedy AD",BG,1
-AS197087,"KPT-AS Kielecki Park Technologiczny",PL,1
+AS197087,"KPT-AS Kielecki Park Technologiczny",PL,2
 AS197090,"OSL-AS Avinor AS",NO,0
 AS197091,"METROPORT METROPORT Sp. z o.o.",PL,4
 AS197093,"STRAUSS-CAFE-AS Strauss Cafe Poland Sp. z o.o.",PL,1
@@ -80629,7 +80632,7 @@ AS197203,"UMHAS LLC Ukrainian Media Holding",UA,1
 AS197204,"Telemaks TeleMaks Ltd",RU,17
 AS197205,"NUMBERLY-AS Numberly SAS",FR,6
 AS197206,"EU1-BUSINESSCOM BusinessCom CZ spol. s r.o.",CZ,9
-AS197207,"MCCI-AS Mobile Communication Company of Iran PLC",IR,844
+AS197207,"MCCI-AS Mobile Communication Company of Iran PLC",IR,847
 AS197208,"MSG msg systems ag",DE,2
 AS197209,"STN-EU-AS STN STORITVE d.o.o.",SI,4
 AS197210,"Dust-Media-Limited Dust Media Limited",HK,0
@@ -80735,7 +80738,7 @@ AS197311,"UTS-AS LLC YUGTELSET",RU,19
 AS197312,"BSOURCE-AS Avaloq Sourcing (Switzerland & Liechtenstein) SA",CH,1
 AS197313,"RMV Roman Veligon",ID,2
 AS197314,"JULA-BUSINESS-PARTNERS-ASN Jula Business Partners AB",SE,1
-AS197315,"ASRPK Rostovskaya proizvodstvennaya kompaniya Ltd.",RU,2
+AS197315,"ASRPK Rostovskaya proizvodstvennaya kompaniya Ltd.",RU,8
 AS197316,"CopenhagenCloud Copenhagen Cloud ApS",DK,2
 AS197317,"Nuuday-Entertainment TDC Brands A/S",DK,5
 AS197318,"HARDCOM-AS HardCom Sp. z o.o.",PL,2
@@ -81101,7 +81104,7 @@ AS197691,"TAIPEI101-AS Taipei101 Network LLC",US,1
 AS197692,"Conostix Conostix S.A.",LU,4
 AS197693,"RU-RN-INFORM-VORONEZH Siberian Internet Company LLC",RU,0
 AS197694,"MEPNET-AS Municipal Office of the City Prague",CZ,2
-AS197695,"AS-REGRU Domain names registrar REG.RU, Ltd",RU,485
+AS197695,"AS-REGRU Domain names registrar REG.RU, Ltd",RU,486
 AS197696,"EVOLIX-AS Evolix SARL",FR,13
 AS197697,"PL-LUB-DERKOM-AS Dariusz Klimczuk trading as DERKOM Sp. J.",PL,7
 AS197698,"CONCORDE-AS Concorde Securities Ltd.",HU,1
@@ -81358,7 +81361,7 @@ AS197955,"Angstrem-AS LLC PK ANGSTREM",RU,1
 AS197956,"GART-AS G.ART Technology Artur Grabiec",PL,1
 AS197957,"KERBB Ker Broadband Communications Ltd",IE,2
 AS197958,"Ogilvie-Communications NET DEFENCE LIMITED",GB,0
-AS197959,"VIRTUASYS-NA VIRTUA SYSTEMS SAS",FR,16
+AS197959,"VIRTUASYS-NA VIRTUA SYSTEMS SAS",FR,17
 AS197960,"MEGANET LIMITED LIABILITY COMPANY INTERNET SERVICE PROVIDER MEGA",RU,2
 AS197961,"EPIX-CDN1 Stowarzyszenie e-Poludnie",PL,9
 AS197962,"HOOP7MOBILETELECOM-AS 7HOOP MOB TELECOM LLC",US,24
@@ -81435,7 +81438,7 @@ AS198033,"MINFIN-AS198033-AS Ministry of finance of Ukraine",UA,1
 AS198034,"SENSOTELECOM-AS VOIP Telecom SAS",FR,9
 AS198035,"MIRASOFT-AS MIRASOFT Sp. z o.o.",PL,2
 AS198036,"NETSERVIS-ISP NETSERVIS Michal Kur",PL,1
-AS198037,"SPACECORE SPACECORE SOLUTION LTD",GB,22
+AS198037,"SPACECORE SPACECORE SOLUTION LTD",GB,21
 AS198038,"WAVEHOST-EU Szymon Dabrowski",PL,1
 AS198039,"rusconsulting-as Shneider Group LLC",RU,1
 AS198040,"CHOJNET CHOJNET sp. z o.o.",PL,3
@@ -81859,7 +81862,7 @@ AS198481,"Sistema-AS LLC Sistema",RU,2
 AS198482,"PERNIKLAN Pernik Lan Ltd.",BG,17
 AS198483,"CLOUDTEK-KZ-AS CloudTek TOO",KZ,1
 AS198484,"RHAPSODY-AS Rhapsody CE Sp. z o.o.",PL,1
-AS198486,"MAGNAPARS Magna Pars Internet Technologies LTD",CY,21
+AS198486,"MAGNAPARS Magna Pars Internet Technologies LTD",CY,20
 AS198488,"NBU-AS National Bank of Ukraine",UA,1
 AS198489,"JZO-AS JZO Sp. z o.o.",PL,1
 AS198490,"PROFNET-AS Profnet",PL,1
@@ -81936,7 +81939,7 @@ AS198562,"SUM-AS University of Mostar",BA,1
 AS198563,"ASPASSIMSERVIS Passim-Servis Ltd.",RU,1
 AS198564,"ASELCOMA STARNET, s.r.o.",CZ,0
 AS198565,"GERMANIASPORT-AS Germania Sport d.o.o.",HR,1
-AS198566,"FZCO",AE,163
+AS198566,"FZCO",AE,183
 AS198568,"ATEA ATEA Sverige AB",SE,17
 AS198569,"Rahanet-AS Rahanet Zanjan Co. (Private Joint-Stock)",IR,11
 AS198570,"STNB-AS Stadtnetz Bamberg Gesellschaft fuer Telekommunikation mbH",DE,42
@@ -82680,7 +82683,7 @@ AS199336,"OneCloud-DC Vmware International Unlimited Company",IE,0
 AS199337,"NET-1-SK A-Systems Sp. z o.o.",PL,0
 AS199338,"ASN-AR-Net Adam Ryszewski trading as AR-NET",PL,2
 AS199339,"INFRAGREEN Bulk Infrastructure Holding AS",NO,1
-AS199340,"HONG-GUANWAN HONG,GUANWAN",HK,117
+AS199340,"HONG-GUANWAN HONG,GUANWAN",HK,108
 AS199341,"ASN-Margonet Margonet S.C. Przemyslaw Parzyjagla i Marcin Janik",PL,6
 AS199342,"UNICATTOLICA-AS Universita Cattolica del Sacro Cuore",IT,2
 AS199343,"LAOTRARED Luis Fernando Mita Caceres",BO,3
@@ -82726,7 +82729,7 @@ AS199382,"REGENCY-GR Regency Entertainment S.A.",GR,3
 AS199383,"CMRP-SELFSERVEUR CMRP SAS",FR,2
 AS199384,"MIKA-PRO-AS MIKA.PRO Przemyslaw Mika",PL,1
 AS199385,"GNOME Midland Press Ltd",GB,1
-AS199386,"FLUXER-AS Fluxer Platform AB",SE,9
+AS199386,"FLUXER-AS Fluxer Platform AB",SE,10
 AS199387,"Reshape-Me Reshape Me, UAB",LT,1
 AS199388,"RDBBG RDB BULGARIA Ltd.",BG,1
 AS199389,"TKT-NET-AS TKT-NET A. Kaniewska, R. Kaniewski s.c.",PL,2
@@ -82857,7 +82860,7 @@ AS199520,"DUSTINAB Dustin Aktiebolag",SE,6
 AS199521,"FK-PULS-AS OOO FK PULS",RU,1
 AS199522,"MOLISE-AS LA FATTORIA DEL MOLISE DI SARPI FILIPPO S.A.S",IT,0
 AS199523,"EMCF-AS Cboe Clear Europe N.V.",NL,1
-AS199524,"GCORE G-Core Labs S.A.",LU,603
+AS199524,"GCORE G-Core Labs S.A.",LU,605
 AS199525,"netflet Net-Flet d.o.o.",BA,1
 AS199526,"ALSHAYA-AS Mohammed Hamoud Alshaya Co. W.L.L",KW,2
 AS199527,"BITE-LT-AS UAB Bite Lietuva",LT,99
@@ -83130,7 +83133,7 @@ AS199804,"TFES-AS THE FIRST EAST STAR LTD",GB,1
 AS199805,"UGO-AS UGO LLC",RU,6
 AS199806,"DCIT-AS-CZ DCIT, a.s.",CZ,2
 AS199808,"ShieldCore ShieldCore SAS",FR,1
-AS199809,"MAX-TEL Maxtel LLC",RU,14
+AS199809,"MAX-TEL Maxtel LLC",RU,15
 AS199810,"UMBB-INET Miasto Bielsko-Biala",PL,2
 AS199811,"wifx Wifx SA",CH,7
 AS199812,"KKB-AS KKB KREDI KAYIT BUROSU A.S.",TR,1
@@ -83620,7 +83623,7 @@ AS200309,"College of Education, Technology and Arts (AR)",IL,1
 AS200310,"Emessage SILICON VALLET SARL",FR,2
 AS200311,"PREWIFI PRE WIFI SRL",IT,4
 AS200312,"Golrang-System-Co Golrang System Co. P.J.S",IR,4
-AS200313,"IT_WEB_LTD IT WEB LTD",VG,36
+AS200313,"ProHoster-AS IT WEB LTD",VG,36
 AS200314,"ALGOSYSTEMS-DR-GR Algosystems S.A.",GR,2
 AS200315,"ae_netconnect NetConnect Innovations LLC",AE,3
 AS200316,"DMT-AS DMT Software House Sp. z o.o.",PL,2
@@ -83790,7 +83793,7 @@ AS200483,"ENEVA-AS Eneva Ltd",RU,20
 AS200484,"SENDINBLUE-ASN Sendinblue SAS",FR,17
 AS200485,"NassIraq Nass Al Iraq for trading, general contracting, technical solutions, internet services and communications services Limited Liability Company",IQ,4
 AS200486,"MK-MN Michael Kloos",DE,3
-AS200487,"OOOVPS-AS OOO VPS",RU,18
+AS200487,"OOOVPS-AS OOO VPS",RU,19
 AS200488,"TGM LLC Tegeta Motors",GE,7
 AS200489,"ARKYANETWORK Arkya Networks SAS",FR,3
 AS200490,"BODEMS Felix Annen",DE,3
@@ -84213,7 +84216,7 @@ AS200932,"BAH-AS bet-at-home.com International Ltd.",MT,1
 AS200933,"TERANET-HU-AS Teranet.hu Szolgaltato Kft",HU,1
 AS200934,"DEFZONE Defzone B.V.",NL,2
 AS200935,"Koda-AS Mobicon CJSC",RU,1
-AS200936,"GUO-AS Chengjie Guo",CN,15
+AS200936,"GUO-AS Chengjie Guo",CN,16
 AS200937,"as-novatio NOVATIO COMUNICACIONES AVANZADAS, S.L.",ES,2
 AS200938,"WISPLINE WISPLINE LLC",RU,1
 AS200939,"Neobitint Neobitint GmbH",AT,0
@@ -85058,7 +85061,7 @@ AS201810,"ArtaNet AmirHosein Karimi",IR,0
 AS201811,"LAURINTAPP-AS LAURINTAPP LTD",GB,0
 AS201812,"ITG IL Technologies Group Limited",CY,1
 AS201813,"Contrust-Solutions Contrust Solutions S.R.L.",MD,5
-AS201814,"Mevspace MEVSPACE sp. z o.o.",PL,57
+AS201814,"Mevspace MEVSPACE sp. z o.o.",PL,56
 AS201815,"MEGADITTA ItalPetrolCemenTermoTessilFarmoMetalChimica LTD",GB,2
 AS201816,"KALMAR-AS Region Kalmar Lan",SE,6
 AS201817,"KZVKTECH VK Tech Kazakhstan LLP",KZ,5
@@ -85413,7 +85416,7 @@ AS202175,"BKM-AS Uzbektelekom Joint Stock Company",UZ,10
 AS202176,"tradetech FINALTO TRADING LIMITED",GB,0
 AS202177,"MEGA-NET-AS Dominik Drozdz trading as Mega-Net",PL,5
 AS202178,"SDNET Sky Digital Co., Ltd.",TW,1
-AS202179,"IDS-AS Intercom Data Service sh.p.k",AL,7
+AS202179,"IDS-AS Intercom Data Service sh.p.k",AL,8
 AS202180,"QVANTEL Qvantel Finland Oy",FI,0
 AS202181,"TAMCOM-AS Transportation Assets Management LLC",RU,2
 AS202182,"KOERBERPHARMA-AS Koerber Pharma Software GmbH",DE,2
@@ -85459,7 +85462,7 @@ AS202224,"Darknet Giannis Kontos",GR,7
 AS202225,"bighost-nl Helionet OU",EE,2
 AS202226,"GreatFlower Emil Vitukhnovskii trading as Great Flower",IL,13
 AS202227,"MONCOFA Nostravant S.L.L.",ES,0
-AS202228,"NETSERVICEPL-AS Krzysztof Jan Klaptocz trading as Netservice",PL,15
+AS202228,"NETSERVICEPL-AS Krzysztof Jan Klaptocz trading as Netservice",PL,16
 AS202230,"NORSK-TIPPING Norsk Tipping AS",NO,5
 AS202231,"LeonRuettentradingasVultris Leon Ruetten trading as Vultris",DE,2
 AS202232,"OdysseyConsultants-AS Odyssey Consultants Ltd",CY,1
@@ -85485,7 +85488,7 @@ AS202251,"Padiz-Daderesan-Company Padiz-Daderesan-Company",IR,0
 AS202252,"OCKNET OCKNet GmbH",DE,1
 AS202253,"metropoledelyon METROPOLE DE LYON",FR,1
 AS202254,"LDL LIFECELL DIGITAL LTD",TR,30
-AS202256,"lawlietnet Dongyu Zhang",CN,37
+AS202256,"lawlietnet Dongyu Zhang",CN,31
 AS202257,"pascal-as Krzysztof Musial trading as PASCAL",PL,1
 AS202258,"IT-ECONOCOM NETALIA S.P.A.",IT,0
 AS202259,"ISP4U ISP4U GmbH",AT,5
@@ -85635,7 +85638,7 @@ AS202407,"ppshp Pohjois-Pohjanmaan Sairaanhoitopiirin kuntayhtyma",FI,1
 AS202409,"LOCIX-INTERNET-EXCHANGE Hilko Boecker",DE,0
 AS202410,"UNIPESSOAL LDA",PT,0
 AS202411,"FLOW-ZRH2 Flow Swiss AG",CH,1
-AS202412,"OMEGATECH-AS Omegatech LTD",SC,22
+AS202412,"OMEGATECH-AS Omegatech LTD",SC,23
 AS202413,"PRONKIN-AS Pronkin Timofei",EE,0
 AS202414,"CITRA Communications and Information Technology Regulatory Authority",KW,6
 AS202415,"IDSI-2 Integrated Digital Services Ltd",GB,0
@@ -85863,7 +85866,7 @@ AS202647,"SIMPLYSOFT-SRV Simplysoft GmbH",CH,0
 AS202648,"Ski Company SAS",FR,0
 AS202649,"HOSTINGWAY Hostingway B.V.",NL,4
 AS202650,"Sarkisov-Y-L Sarkisov Yury Leonidovich",RU,2
-AS202651,"NBTEL-FTTH Al-Tair Al-Watani Company for General Trading, Agricultural Investments, Production and Distribution, Technical Services, Internet Services, Public Services, Information Technology and Software Ltd",IQ,13
+AS202651,"NBTEL-FTTH Al-Tair Al-Watani Company for General Trading, Agricultural Investments, Production and Distribution, Technical Services, Internet Services, Public Services, Information Technology and Software Ltd",IQ,17
 AS202652,"ELEVI-AS Elevi AS",EE,2
 AS202653,"PANSTWOWY INSTYTUT BADAWCZY",PL,0
 AS202654,"ASACERKO Acerko Telecom S.L.",ES,8
@@ -85944,7 +85947,7 @@ AS202730,"mainz05-as 1. FSV Mainz 05 e.V.",DE,1
 AS202731,"FAUSERAG-NET FAUSER AG",DE,1
 AS202732,"Monogon Monogon SE",DE,3
 AS202733,"OKCOMP OK COMP s.r.o.",CZ,1
-AS202734,"Tianshome Junqi Tian",CA,5
+AS202734,"Tianshome Junqi Tian",CA,6
 AS202735,"CRA Communication Regulatory Authority",IR,4
 AS202736,"WISDOM WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.",SG,150
 AS202737,"TRANSACTEU RYVYL (EU) EAD",BG,2
@@ -85976,7 +85979,7 @@ AS202762,"INFERNO-EVENTS Inferno Communications Ltd",GB,0
 AS202763,"IT-Center-AS INFORMATION TECHNOLOGY CENTER LLC JV",UZ,9
 AS202764,"B2B-AS rosstel company LLC",RU,2
 AS202765,"es-datacentereuskadi DATA CENTER EUSKADI SOCIEDAD LIMITADA",ES,3
-AS202766,"as-former-codinet LYNTIA NETWORKS S.A.",ES,112
+AS202766,"as-former-codinet LYNTIA NETWORKS S.A.",ES,113
 AS202767,"futurasp Futura Service Provider S.A.",ES,4
 AS202768,"ARIANA-ASN Ariana Ltd",RU,1
 AS202770,"FINSDEKLA-AS Finsdelka JSC",RU,1
@@ -86136,7 +86139,7 @@ AS202930,"SKYTELL_AE SKYTELL FZ LLC",AE,1
 AS202931,"VIC_GRUP_SRL Vic Grup SRL",MD,3
 AS202932,"QUANZA-CONNECT Quanza B.V.",NL,4
 AS202933,"COMLINK-FR Comlink SAS",FR,5
-AS202934,"MUNTEANU-AS SINCITY HOSTING LLC",US,6
+AS202934,"MUNTEANU-AS SINCITY HOSTING LLC",US,7
 AS202935,"IT-PRO-AS IT PROTECTION LLC",UA,1
 AS202936,"satpol-as Satpol Plus Sp. z o.o.",PL,2
 AS202937,"uk-scripps Discovery Corporate Services Limited",GB,0
@@ -86391,7 +86394,7 @@ AS203210,"SZYBKINET SZYBKI-NET S. BAJOR L. SIWIK Z. WIECZOREK SPOLKA JAWNA",PL,1
 AS203211,"HEWLETT_PACKARD_ENTERPRISE Hewlett Packard France S.A.S.",FR,0
 AS203212,"wico Free Technologies Excom S.L.",ES,0
 AS203213,"fleet Internet Vikings International AB",SE,1
-AS203214,"HulumTele Hulum Almustakbal Company for Communication Engineering and Services Ltd",IQ,679
+AS203214,"HulumTele Hulum Almustakbal Company for Communication Engineering and Services Ltd",IQ,678
 AS203215,"DATAGROUPES DATAGROUP Enterprise Services GmbH",DE,7
 AS203216,"SONET Sonet Internet Erisim Hizmetleri San. ve Tic. LTD. STI",TR,5
 AS203217,"HORIZON-SCOPE-IQ Horizon Scope Mobile Telecom WLL",IQ,109
@@ -86434,7 +86437,7 @@ AS203253,"CHERRYTOP-AS Cherrytop Ltd",GB,1
 AS203254,"KTVNET-AS KTV net d.o.o.",HR,2
 AS203255,"NET",PL,2
 AS203256,"ASbudgetphone Budget Phone Company BV",NL,1
-AS203257,"nexus Layth Zuhair Zahid",IQ,1
+AS203257,"nexus Layth Zuhair Zahid",IQ,2
 AS203258,"UCNS-AS UCNS Limited",GB,5
 AS203259,"ZERONET Zero Veri Merkezi Teknolojileri A.S",TR,1
 AS203260,"exmar Exmar nv",BE,4
@@ -87253,7 +87256,7 @@ AS204100,"PCBK ProCredit Bank Sh.a",AL,2
 AS204101,"relyit Rely IT Norrtelje AB",SE,2
 AS204102,"smartgrupp LLC SmartGrupp",RU,4
 AS204103,"commswest Comms West Limited",GB,7
-AS204104,"GSC Giti Secure Cloud LLC",IR,29
+AS204104,"GSC Giti Secure Cloud LLC",IR,30
 AS204105,"Payabastar-AS Paya Bastar Arina Co. Private J.S.",IR,1
 AS204106,"Babilon-Mobile CJSC Babilon-Mobile",TJ,10
 AS204107,"speedtel Norma S.r.l.",IT,1
@@ -87300,7 +87303,7 @@ AS204149,"HORIZON-SCOPE-IQ AFNAN AL-HARITH CONTRACTING & GENERAL TRADING LTD",IQ
 AS204150,"StormHost David Zakoucky",CZ,18
 AS204151,"KVIKNET-DK EWII Bredbaand A/S",DK,10
 AS204152,"Orient Orient Company for internet services LTD",IQ,4
-AS204153,"TELEKONIKA-IX-AS JOINT-STOCK COMPANY TELEPORT TELECOM",RU,5
+AS204153,"TELEKONIKA-AS JOINT-STOCK COMPANY TELEPORT TELECOM",RU,5
 AS204154,"FIRST-SERVER-US-AS FIRST SERVER LIMITED",GB,10
 AS204155,"DRADIO-K DeutschlandRadio KdoR",DE,1
 AS204156,"ASADALYSNET AdalysNET SRL",RO,1
@@ -87358,7 +87361,7 @@ AS204207,"Devanlay LACOSTE OPERATIONS S.A.",FR,1
 AS204208,"Peravix Peravix Group LTD",GB,3
 AS204209,"BIZIMINTERNET BIZIM INTERNET VE BILISIM TEKNOLOJILERI SAN. VE TIC.LTD.STI.",TR,5
 AS204210,"ZEUSPACKAGINGLTD Zeus Packaging Limited",IE,6
-AS204211,"LOCYAN-NETWORK-AS Shanghai Yingyun Network Technology Co., Ltd.",CN,12
+AS204211,"LOCYAN-NETWORK-AS Shanghai Yingyun Network Technology Co., Ltd.",CN,14
 AS204212,"AS_LyreG3 La Lyre du G3",FR,2
 AS204213,"netmihan Netmihan Communication Company Ltd",IR,21
 AS204214,"ARPANET-AS ARPANET CONSULTING S.R.L.",RO,0
@@ -87815,7 +87818,7 @@ AS204674,"BANKASIA-AS CJSC Bank of Asia",KG,1
 AS204676,"PULS-TECH Paul Meyer",DE,3
 AS204677,"SDNET Sky Digital Co., Ltd.",TW,1
 AS204678,"DC_USERGATE LLC Usergate",RU,1
-AS204679,"PANSTWOWY INSTYTUT BADAWCZY",PL,9
+AS204679,"PANSTWOWY INSTYTUT BADAWCZY",PL,8
 AS204680,"KIT-STUDENT Karlsruhe Institute of Technology",DE,2
 AS204681,"kampmann Kampmann Group GmbH",DE,1
 AS204682,"DECIX-IST-MAPS DE-CIX Management GmbH",DE,0
@@ -88297,7 +88300,7 @@ AS205177,"IVANTI-UK IVANTI UK LIMITED",GB,1
 AS205178,"SAKSKY-AS SAKSKY LLC",UA,1
 AS205179,"virtualdeploy Virtualdeploy SL",ES,15
 AS205180,"ELONGROUP Elon Group AB",SE,1
-AS205181,"KOMEO KOMEO SARL",FR,3
+AS205181,"KOMEO KOMEO SARL",FR,4
 AS205182,"LIFETIME-STUDIOS RAWSRV LTD",GB,1
 AS205183,"neuebank Neue Bank AG",LI,2
 AS205184,"ADJUST-DE Adjust GmbH",DE,9
@@ -88591,7 +88594,7 @@ AS205485,"NetSolution Net Solution Piotr Kaube",PL,12
 AS205486,"LKGF LUAN KLEBER GOMES FARIAS",BR,5
 AS205487,"DGNSERVICE DGN Deutsches Gesundheitsnetz Service GmbH",DE,4
 AS205488,"ISC-BBU1 Internet Systems Consortium Inc.",US,0
-AS205489,"CODEASSET CODE ASSET LTD",GB,66
+AS205489,"CODEASSET CODE ASSET LTD",GB,65
 AS205490,"rai Railways of Islamic Republic of IRAN",IR,6
 AS205491,"NBIP-NAWAS-DK Stichting NBIP-NaWas",NL,1
 AS205492,"SCHRODERS-ZUR-AS Schroder Investment Management Limited",GB,1
@@ -89100,7 +89103,7 @@ AS206022,"AirNetwork Airnetwork S.R.L",IT,6
 AS206023,"TUNSLAB TUNSLAB LLC",US,0
 AS206024,"Far-UK-DualHoming RELX GROUP PLC",GB,2
 AS206025,"GS-AS-2 Naquadria S.R.L.",IT,0
-AS206026,"ipnet_kar-tel Kar-Tel LLC",KZ,127
+AS206026,"ipnet_kar-tel Kar-Tel LLC",KZ,126
 AS206027,"FREIGHT-LINK-AS Freight Link OJSC",RU,1
 AS206028,"datenreisen Datenreisen UG",DE,2
 AS206029,"Attrel UAB Attrel",LT,4
@@ -89170,7 +89173,7 @@ AS206094,"TELBESKID TELBESKID Sp. z o.o.",PL,1
 AS206095,"European Organization for Nuclear Research",CH,0
 AS206096,"KINGCORP Midasplayer AB",SE,0
 AS206097,"gameshield GAMESHIELD LIMITED",GB,0
-AS206098,"CC1-ROSE-NET Minh Duc Vo",VN,3
+AS206098,"CC1-ROSE-NET Minh Duc Vo",VN,4
 AS206099,"SALA-DE-IPX Simsalasim Germany GmbH",DE,0
 AS206100,"ccr_ripe Circle Computer Resources Inc",US,1
 AS206101,"EPIC_TELECOM EPIC SOLUTIONS, S.L.",ES,4
@@ -90033,7 +90036,7 @@ AS206992,"SICILIANET-AS Salvatore Intravaia",IT,5
 AS206993,"AGDER-ENERGI-NORWAY A ENERGI AS",NO,7
 AS206994,"MMATON-AS Max Maton",NL,2
 AS206995,"movity-AS movity Srl",IT,0
-AS206996,"zap-hosting ZAP-Hosting GmbH",DE,92
+AS206996,"zap-hosting ZAP-Hosting GmbH",DE,93
 AS206997,"HNB-AS Hrvatska narodna banka",HR,1
 AS206998,"NEW-2 NEW RELIC INTERNATIONAL LIMITED",IE,3
 AS206999,"oakfordis Oakford Internet Services Ltd",GB,8
@@ -90277,7 +90280,7 @@ AS207248,"vsqloud VS Qloud Solution GmbH",DE,2
 AS207249,"ICS Icard Services PLC",BG,8
 AS207250,"TheNationalBankoftheKyrgyzRepublicAS The National Bank of the Kyrgyz Republic",KG,1
 AS207251,"caspel CASPEL LLC",AZ,11
-AS207252,"Realtox-Media Felix Gassan",DE,30
+AS207252,"Realtox-Media Felix Gassan",DE,32
 AS207253,"AS_ZEAG NetCom BW GmbH",DE,0
 AS207254,"EE-emeedia AS Postimees Grupp",EE,7
 AS207255,"AS_MTVA Mediaszolgaltatas-tamogato es Vagyonkezelo Alap",HU,4
@@ -90597,7 +90600,7 @@ AS207594,"CONNECTIVIA Connectivia S.r.l",IT,15
 AS207595,"Hestronic Hestronic BV",NL,3
 AS207596,"we-cloud Dominik Klages",DE,3
 AS207597,"DKBS DKB Service GmbH",DE,1
-AS207598,"iraqcell Iraqcell Communications Co. Ltd.",IQ,5
+AS207598,"iraqcell Iraqcell Communications Co. Ltd.",IQ,17
 AS207599,"ORBICO_AS Orbico doo",HR,2
 AS207600,"aSocket_LLC Atlas Industries, Inc.",US,0
 AS207601,"EA-FR-LYON Electronic Arts Limited",GB,1
@@ -90706,7 +90709,7 @@ AS207709,"HIZHOSTING CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIR
 AS207710,"WSTELECOM_DE WS Telecom Inc",US,0
 AS207711,"dovilo-1 Effect ICT Solutions B.V.",NL,2
 AS207712,"FZCO",AE,0
-AS207713,"GIR-AS GLOBAL INTERNET SOLUTIONS LLC",RU,46
+AS207713,"GIR-AS GLOBAL INTERNET SOLUTIONS LLC",RU,51
 AS207714,"TECNALIA Fundacion Tecnalia Research and Innovation",ES,27
 AS207715,"lcom-as Lcom s.r.l.s.",IT,2
 AS207716,"AC-X Antonino Catinello",DE,2
@@ -90793,7 +90796,7 @@ AS207806,"Corsica_Fibra_SAS Corsica Fibra SAS",FR,1
 AS207807,"Tarn_Fibre_SAS Tarn Fibre SAS",FR,1
 AS207808,"Gard_Fibre_SAS Gard Fibre SAS",FR,1
 AS207809,"AS-DATA BrainStorm Network, Inc",CA,1
-AS207810,"VTelecom Virus Net LLC",AM,8
+AS207810,"VTelecom Virus Net LLC",AM,9
 AS207811,"SuperCell-ISP SuperCell ISP LTD",IQ,0
 AS207812,"DM_AUTO DM AUTO EOOD",BG,2
 AS207813,"ACRI-ST-AS ACRI-ST S.A.S.",FR,1
@@ -91186,7 +91189,6 @@ AS208238,"hahngroup-as HAHN Automation Group Holding GmbH",DE,1
 AS208239,"dp BJT Partners SAS",FR,0
 AS208240,"GMT-ROTTERDAM Gemeente Rotterdam",NL,3
 AS208241,"RADIO-LINK-PLUS RADIO-LINK PLUS LLC",UA,1
-AS208242,"Jacob Mansfield",GB,0
 AS208243,"HSI HSI doo",SI,1
 AS208244,"Easyweb Ewconnect S.R.L.",IT,3
 AS208245,"BECHTLE-AT Bechtle Austria GmbH",AT,5
@@ -91671,7 +91673,7 @@ AS208749,"bank131-as JSC Bank 131",RU,1
 AS208750,"KLIPPAN-PL Klippan Safety Sp. z o.o.",PL,1
 AS208751,"GOOSSENS Michelle Goossens",NL,3
 AS208752,"BaykonurSvyazInform-AS BaykonurSvyazInform SUE",RU,1
-AS208753,"NETSIX Marco d'Angelo",IT,20
+AS208753,"NETSIX Marco d'Angelo",IT,19
 AS208754,"chiyoda-network XingRui Li",CN,7
 AS208755,"NETWORKABLE Thomas Ferguson",GB,4
 AS208756,"deas-001 ALCON TELECOM LTD",GB,2
@@ -92007,7 +92009,7 @@ AS209105,"TUXLIORG Freunde der Meinungsfreiheit",CH,0
 AS209106,"SISTEC-19-AS SISTEC LLC",UA,3
 AS209107,"SAYENKO_KHARENKO Sayenko Kharenko Attorneys Office",UA,1
 AS209108,"TPIT Trans-Pack Logisztika Kft.",HU,2
-AS209109,"DataSphere-Limited DataSphere (H.K) Limited",HK,10
+AS209109,"DataSphere-Limited DataSphere (H.K) Limited",HK,14
 AS209110,"AMPAREX EVEX Deutschland GmbH",DE,2
 AS209111,"PEOPLECERT-ORG PEOPLECERT GLOBAL SERVICES AE",GR,1
 AS209112,"SKYTELECOM TSK LLC",RU,0
@@ -92085,7 +92087,7 @@ AS209188,"TMHolding-AS Joint Stock Company Transmashholding",RU,1
 AS209189,"ATSO Antalya Ticaret ve Sanayi Odasi",TR,3
 AS209190,"IDGRUP-AS Claranet S.A.U.",ES,0
 AS209191,"MEDIATECH Mediatech s.r.l.",IT,4
-AS209193,"SuperCell-FTTH SUPER CELL NETWORK FOR INTERNET SERVICES LTD",IQ,35
+AS209193,"SuperCell-FTTH SUPER CELL NETWORK FOR INTERNET SERVICES LTD",IQ,32
 AS209194,"Hyper-Data-Transit Hyper Data Transit LTD",MH,1
 AS209195,"ASCASER CAJA DE SEGUROS REUNIDOS COMPANIA DE SEGUROS Y REASEGUROS SA",ES,1
 AS209196,"Elektronet-HU Elektronet Zrt.",HU,11
@@ -93559,7 +93561,7 @@ AS210739,"neolinkgroup Neolink Grupp LLC",RU,2
 AS210740,"ATMFIBER-AS ATM Fiber SH.P.K",AL,1
 AS210741,"ISRcomunicaciones Telnetia S.L. trading as ISR comunicaciones",ES,2
 AS210742,"SIX-JP SIX Group Services AG",CH,3
-AS210743,"BABBAR-AS BABBAR SAS",FR,4
+AS210743,"BABBAR-AS BABBAR SAS",FR,5
 AS210744,"BIOSKSA BUSINESS INTEGRATED OPERATING SYSTEMS BIOS ( M.E ) L L C",AE,1
 AS210745,"RexelFR REXEL FRANCE SASU",FR,1
 AS210746,"BG-BYTEOPT ByteOpt SLLC",BG,2
@@ -94197,7 +94199,7 @@ AS211418,"kabelplus KABELPLUS.DK P/S",DK,2
 AS211419,"Behsazan-Mellat Behsazan Mellat Company PJS",IR,1
 AS211420,"kryptoslogic Kryptos Logic LLC",US,0
 AS211421,"MOBINONE Asiatech Data Transmission company",IR,10
-AS211422,"OnlineInternet Emre Aydogan",TR,32
+AS211422,"OnlineInternet Emre Aydogan",TR,30
 AS211423,"QOONTOO QOONTOO SAS",FR,2
 AS211424,"LSK-Studios SIA LSK Studios",LV,1
 AS211425,"LODOSNET Lodosnet Bilisim Elektronik Haberlesme Ithalat Ihracat Sanayi ve Ticaret Ltd. Sti.",TR,3
@@ -94323,7 +94325,7 @@ AS211553,"AS_BI_INNOVATIONS BI Innovations LLC",KZ,1
 AS211554,"AMR-ELCORONIL ANA MARIA RODRIGUEZ SANTOS",ES,7
 AS211555,"NET",AL,1
 AS211556,"BLUEJUNGLE BlueJungle SARL",FR,1
-AS211557,"TAYNET TAYNET TEKNOLOJI TICARET LIMITED SIRKETI",TR,6
+AS211557,"TAYNET TAYNET TEKNOLOJI TICARET LIMITED SIRKETI",TR,7
 AS211558,"MICRONET MICRONET ILETISIM HIZMETLERI TIC. LTD.STI.",TR,1
 AS211559,"vodafoneqa-ISP Vodafone Qatar P.Q.S.C",QA,36
 AS211560,"UGUR-OZTURK Datafex Bilisim Teknolojileri Ticaret Limited Sirketi",TR,2
@@ -94961,7 +94963,7 @@ AS212234,"SMEJKALOVA SMEJKALOVA Marketa",CZ,0
 AS212235,"VCGelves Juan Ramon Prieto Reyes",ES,5
 AS212236,"KINESCOPE-AS Kinescope LLC",RU,2
 AS212237,"PXNET Changgong Zhang",CN,9
-AS212238,"CDNEXT Datacamp Limited",GB,4305
+AS212238,"CDNEXT Datacamp Limited",GB,4311
 AS212239,"BDBOS-AS2 Bundesministerium des Innern und fuer Heimat",DE,0
 AS212240,"RIKNETWORKS RIK Networks Ltd",GB,3
 AS212241,"threefold TF Tech NV",BE,4
@@ -94992,11 +94994,11 @@ AS212266,"NPCPROM-AS JSC Research & Development Company Promelectronica",RU,1
 AS212267,"KEHRLEIN-AS212267 Sandro Rainer Kehrlein trading as Kehrlein Consulting",DE,0
 AS212269,"AS-Aytelekom AY TELEKOM BILGI TEKNOLOJILERI LIMITED SIRKETI",TR,3
 AS212270,"CHARLESDECOUX-AS Charles Decoux",FR,2
-AS212271,"C1V Cinzia Tocci trading as Lumanex Srl",IT,19
+AS212271,"C1V Cinzia Tocci trading as Lumanex Srl",IT,20
 AS212272,"VTK-spb OOO VTC-MOBILE",RU,1
 AS212273,"YLP Yanino Logistics Park, LLC",RU,1
 AS212274,"ELTRAKSA-AS IEltrak S.A.",GR,1
-AS212275,"GMK-AS Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel",RU,1
+AS212275,"GMK-AS Public Joint Stock Company Mining and Metallurgical Company Norilsk Nickel",RU,2
 AS212277,"NPFF Non-state pension fund Future JSC",RU,1
 AS212278,"KRAUD-AS KRAUD LLC",RU,1
 AS212279,"yuna0x0-network Yuna Lee",TW,2
@@ -95411,7 +95413,7 @@ AS212715,"BPMSOFT BPMSoft Ltd",RU,1
 AS212716,"ISC-LWO1 Internet Systems Consortium Inc.",US,0
 AS212717,"TIETO-LATVIA Tieto Latvia SIA",LV,2
 AS212719,"LANDA Landa Corporation Ltd",IL,1
-AS212720,"FR-GAMMICCHIAMA-20260516 GAMMICCHIA Matt trading as NET2LAN",FR,8
+AS212720,"FR-GAMMICCHIAMA-20260516 GAMMICCHIA Matt trading as NET2LAN",FR,9
 AS212721,"AXARWIFI Francisco Javier Gordillo Perez",ES,4
 AS212722,"HOOP7MOBTELECOM-AS 7HOOP MOB TELECOM LLC",US,0
 AS212723,"DECIX-MRS-MAPS DE-CIX Management GmbH",DE,0
@@ -95501,7 +95503,7 @@ AS212811,"REPIERRE Pierre Boudvillain",FR,1
 AS212812,"IRIEPAL CUSTOS messium SLNE",ES,3
 AS212813,"Lindner Lindner-Recyclingtech GmbH",AT,2
 AS212814,"EC-TAXUD-AS European Commission",LU,0
-AS212815,"AS-DYJIX Dyjix SAS",FR,8
+AS212815,"AS-DYJIX Dyjix SAS",FR,7
 AS212816,"CLSPOW Cluster Power SRL",RO,7
 AS212817,"CursaSAS Cursa SAS",FR,0
 AS212818,"Buckaroo Buckaroo B.V.",NL,0
@@ -95986,7 +95988,7 @@ AS213335,"German Branch of Costa Crociere S.p.A.",DE,2
 AS213336,"ITENCORE IT ENCORE TECNOLOGIA SL",ES,5
 AS213337,"FBANK PJSC BANK FAMILNY",UA,0
 AS213338,"EVACOM Evacom S.R.L.S.",IT,6
-AS213339,"ISAAC-MCFADYEN Isaac Charles McFadyen",CA,3
+AS213339,"ISAAC-MCFADYEN Isaac Charles McFadyen",CA,4
 AS213340,"MRIRW eTOP sp. z o.o.",PL,0
 AS213341,"SWAGSPACE-AS Johannes Erwerle",DE,1
 AS213342,"vifino Adrian Pistol",DE,3
@@ -96200,7 +96202,7 @@ AS213573,"AS-SoluzioneUno Bryan Pedini",IT,1
 AS213575,"raika Maavaraaye Abaade Raika PJSC",IR,0
 AS213576,"ERTIUS-NET Robert Weir",IE,15
 AS213577,"monta_services Monta Services BV",NL,4
-AS213579,"Leon-Hubrich Leon Hubrich",DE,8
+AS213579,"Leon-Hubrich Leon Hubrich",DE,9
 AS213581,"chuyun yuquan nie",CN,0
 AS213582,"AIFUNS XI WU",CN,0
 AS213585,"NULLPTR-AS Null Pointer Limited",GB,0
@@ -96396,7 +96398,7 @@ AS213803,"AS-Xray Xray Network Ltd",GB,0
 AS213804,"NOWANET NOWANET.PL GRP sp. z o.o.",PL,3
 AS213805,"EFFINVEST-AS Upravlyayuschaya kompania Effektivniye investitsii LLC",RU,1
 AS213806,"AURORA-AICLOUD ChenFeng Ma",CN,0
-AS213807,"TehranServer Fanavaran Mehr Vatan Tehran Server Group LLC",IR,49
+AS213807,"TehranServer Fanavaran Mehr Vatan Tehran Server Group LLC",IR,50
 AS213810,"SONET-AS SONET LLC",RU,1
 AS213811,"nekotopia Richard Lowton",AE,2
 AS213812,"alfateh Abdul Rahman Mustafa trading as Alfateh Company for Communications",SY,6
@@ -96440,7 +96442,7 @@ AS213854,"RESURE RE:SURE INTELLIGENCE LTD",GB,0
 AS213857,"INFRACARE-AS InfraCare B.V.",NL,7
 AS213858,"aytemizbank AYTEMIZ YATIRIM BANKASI ANONIM SIRKETI",TR,1
 AS213859,"MONTEOPS-SVC MonteOps d.o.o",ME,0
-AS213861,"Vostrik-AS Vostrikov Rodion",RU,32
+AS213861,"Vostrik-AS Vostrikov Rodion",RU,33
 AS213863,"SmartIXPRouteServers SMARTNET LIMITED",GB,0
 AS213864,"fakeoai Lai BaoYuan",HK,6
 AS213865,"NURULLAH-ATES Nurullah Ates",TR,1
@@ -96632,7 +96634,7 @@ AS214074,"ICS-SZG Spar Business Services GmbH",AT,2
 AS214075,"ics-vie Spar Business Services GmbH",AT,2
 AS214076,"ECKER Michael Ecker",AT,4
 AS214077,"SUMTEL Limited Liability Company Sumtel",RU,2
-AS214078,"PingBaz AMIR MOHAMMAD ZARIFI",IR,0
+AS214078,"PingBaz AMIR MOHAMMAD ZARIFI",IR,4
 AS214079,"LENDNODES LendNodes LTD",GB,1
 AS214080,"TRANSPARENT-EDGE Transparent Edge Services S.L.",ES,1
 AS214081,"KOSHELNIK Koshelnik Sergey Valentinovich",RU,1
@@ -97123,7 +97125,7 @@ AS214641,"FOCUS-AESTHETIC-DYNAMICS FOCUS AESTHETIC DYNAMICS SRL",RO,1
 AS214642,"YOPP-NET Alex Yopp",ME,1
 AS214645,"Bjarne_Nilsson Bjarne Nilsson",NO,1
 AS214646,"JINHEINRICH Mira Jin Heinrich",DE,3
-AS214647,"YADDA Yadda OU",EE,71
+AS214647,"YADDA Yadda OU",EE,86
 AS214648,"WIRELINK Wirelink LLC",US,0
 AS214649,"NETCAT NetCaT GmbH",AT,2
 AS214650,"COLOMBIA_SARL_PARIS COLOMBIA SRL",FR,0
@@ -97182,7 +97184,7 @@ AS214708,"CLOUD-TELECOM Cloud Telecom SAS",FR,5
 AS214709,"MACARNE-AS Macarne SRL",RO,0
 AS214710,"nlogic-as nLogic AS",NO,2
 AS214712,"flokli FLOKLI OU",EE,0
-AS214716,"WEYRO WEYRO LTD",GB,50
+AS214716,"WEYRO WEYRO LTD",GB,53
 AS214718,"WISE Wise lausnir ehf.",IS,0
 AS214719,"GBN LLC DZHIBIEN HOST",RU,4
 AS214720,"MDLAB MoeDove LLC",US,0
@@ -97219,7 +97221,7 @@ AS214758,"Quinnect Quinnect B.V.",NL,0
 AS214759,"ZHANG-CHEN LEKAI ZHAO",CN,1
 AS214760,"LS4KDC LS4KDC LIMITED",HK,18
 AS214761,"Foreach Foreach AS",NO,2
-AS214762,"MATHOST Sebastian Stefanek trading as MatHost.eu",PL,11
+AS214762,"MATHOST Sebastian Stefanek trading as MatHost.eu",PL,12
 AS214763,"Akshay-Revankar Akshay Revankar",US,1
 AS214764,"Alberto-Spaziano-Net Alberto Spaziano",IT,0
 AS214765,"ALEX4386-RIPE-NET Sanghui Park",KR,0
@@ -97539,7 +97541,7 @@ AS215129,"Wodarek Productions LLC",US,4
 AS215130,"DUNYA-KATILIM-BANKASI DUNYA KATILIM BANKASI ANONIM SIRKETI",TR,2
 AS215131,"AS215131 Bram van de Burgt",NL,1
 AS215132,"CODAVEL CODAVEL, S.A.",PT,0
-AS215133,"JAKUB-WITKOWSKI Jakub Witkowski",PL,9
+AS215133,"JAKUB-WITKOWSKI Jakub Witkowski",PL,10
 AS215134,"L0STNET Lucas Pape",DE,1
 AS215135,"GARCED Anthony Garced",US,1
 AS215136,"Ryzehosting Finn Hess trading as Ryzehosting",AT,9
@@ -97597,7 +97599,7 @@ AS215195,"EIRESINGA-SHIELD-LIMITED EIRESINGA SHIELD LIMITED",GB,0
 AS215196,"MEA Middle East Advanced IT Systems Establishment",SA,3
 AS215197,"ZEROSERVICESGMBH-AS Zero Services GmbH",DE,2
 AS215198,"TBLR-AS Theo Buehler",CH,0
-AS215199,"docloud Internet CLOUD Services SL",ES,1
+AS215199,"docloud Internet CLOUD Services SL",ES,2
 AS215201,"TVSAT-AS TV SAT SRL",RO,0
 AS215202,"DMM-Solutions-IPTP SOL Holdings Limited",CY,2
 AS215203,"SNEP-AS Aleksei Efimov",ES,0
@@ -97900,7 +97902,7 @@ AS215536,"AS-PPNET6 Patrizio Palumbo",IT,1
 AS215537,"E-karte_AS E-karte SIA",LV,1
 AS215538,"Givaudan-International-SA Givaudan International SA",CH,2
 AS215539,"SUPERLINK-AS Superlink LLC",RU,1
-AS215540,"GCS-AS GLOBAL CONNECTIVITY SOLUTIONS LLP",GB,270
+AS215540,"GCS-AS GLOBAL CONNECTIVITY SOLUTIONS LLP",GB,274
 AS215541,"AS-KRUSESEC Peter Kruse",DK,17
 AS215542,"NOVA-SPEKTRUM-01 NOVA SPEKTRUM AS",NO,1
 AS215545,"BEIA-CONSULT-INTERNATIONAL Beia Consult International SRL",RO,1
@@ -98444,7 +98446,7 @@ AS216134,"ZF-Friedrichshafen-AG ZF Friedrichshafen AG",DE,50
 AS216135,"pedreratelecom Fibrasur Operadores S.L.",ES,3
 AS216136,"as_sportmaster_kz Sportmaster Kazakhstan LLP",KZ,1
 AS216137,"IP UTM",MD,6
-AS216138,"SKYQUANTUM-TELECOM SKYQUANTUM TELECOM LTD.",GB,118
+AS216138,"SKYQUANTUM-TELECOM SKYQUANTUM TELECOM LTD.",GB,124
 AS216139,"IRONHOST Iron Hosting Centre LTD",GB,63
 AS216140,"SPLF Join Stock Company Serenity Platforms",RU,5
 AS216141,"LEATYON-AS LEATYON LIMITED",IE,1
@@ -98742,10 +98744,22 @@ AS216468,"LEMON-AS Lemon IP group d.o.o.",BA,1
 AS216469,"PIONEN Ismail Fayaz trading as PIONEN",MV,1
 AS216470,"DAEM-SA DIMOS ATHINAION ANONIMI ANAPTIXIAKI ETAIRIA MICHANOGRAFISIS KAI EPICHIRISIAKON MONADON OTA",GR,0
 AS216471,"DEVOUT Devout BV",BE,4
-AS216472,"HS-SYR High Speed For Internet Services L.L.C",SY,44
+AS216472,"HS-SYR High Speed For Internet Services L.L.C",SY,45
 AS216473,"net-host Bashinskii Vadim Ruslanovich",KZ,1
 AS216474,"AS-SERVERMANAGEMENTPANEL Moritz Mantel trading as Nerdscave",DE,0
 AS216475,"nktelecom NKtelecom INC",US,38
+AS218513,"STPD-NETWORK Joshua Noakes",GB,2
+AS218514,"AS49824 LLC Icomtech",UA,0
+AS218515,"SHENFENG-CHEN Shenfeng Chen",CN,0
+AS218516,"iTiService iTi Service",RU,0
+AS218517,"Dmitrijs-AS Dmitrijs Bolasnikovs",LV,0
+AS218518,"lebaraeu Lebara Ltd",GB,0
+AS218519,"nordnet-as Salesforge OU",EE,0
+AS218520,"ORG-LACL1-AS Lumen Arc Connect LLC",US,0
+AS218521,"Van-Jaarsveld-IT Van Jaarsveld IT B.V.",NL,0
+AS218522,"Anna-AS Anna Gaievaia",EE,0
+AS218523,"CF-AS LLC CLOUD FACILITIES",RU,0
+AS218524,"ENGINERIT-AS Oriol Centelles Ruiz trading as enginerIT",FR,0
 AS218525,"hertztelecom Hertz Telecom LLC",AZ,0
 AS218526,"uplink-llc Uplink LLC",AZ,0
 AS218527,"Igors-AS Igors Cernavskis",LV,1
@@ -98759,7 +98773,7 @@ AS218534,"EIDETIC Eidetic SAS",FR,1
 AS218535,"X99-SOLUCOES-ONLINE X99 SOLUCOES ONLINE LTDA",BR,0
 AS218536,"NELIA NELIA SAS",FR,1
 AS218537,"CIPHER Cipher Digital Solutions S.R.L.",MD,0
-AS218538,"ARGSMENT-AS ARGSMENT LIMITED",GB,2
+AS218538,"ARGSMENT-AS ARGSMENT LIMITED",GB,4
 AS218539,"LFAIT-AS Lebanese For Advanced Information Technologies (LFAIT) SARL",LB,0
 AS218540,"IKTSOLUTIONS-AS IKT Solutions UG (haftungsbeschraenkt)",DE,0
 AS218541,"MAILLAND Ventrya LTD",GB,0
@@ -98874,7 +98888,7 @@ AS218649,"ALCA-ZG_AS Alca Zagreb d.o.o.",HR,0
 AS218650,"GOODNET Goodnet LLC",AZ,0
 AS218651,"ALBNK ALBANK LIMITED",CY,0
 AS218652,"NIGHTCOIL-NETWORKS Nightcoil Networks LLC",US,2
-AS218653,"IBOU-SEARCH-ENGINE BABBAR SAS",FR,1
+AS218653,"IBOU-SEARCH-ENGINE BABBAR SAS",FR,5
 AS218654,"SWISH-WORLD Swish World Group Inc.",US,5
 AS218655,"ASESAS Electronic Systems And Services Ltd.",BY,0
 AS218656,"OKOLABS-AS Oko.Labs LLC",GE,5
@@ -98968,7 +98982,7 @@ AS218743,"DIGITALMATRIX DigitalMatrix Information Technologies Limited",HK,0
 AS218744,"AYDAN-AS Aydan Abrahams",GB,1
 AS218745,"CODEWAVE-AS CODEWAVE sp. z o.o.",PL,1
 AS218746,"suratnet-core SURATNET TELEKOMUNIKASYON INTERNET BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI",TR,1
-AS218748,"OSCAR-BRADLEY Oscar Lewis Bradley",GB,1
+AS218748,"OSCAR-BRADLEY Oscar Lewis Bradley",GB,2
 AS218749,"CYBERLAB-AS CYBERLAB LLC",RU,6
 AS218750,"CHEESE-AS Egor Belanov",RU,3
 AS218751,"Fontaine Fontaine, LLC",US,3
@@ -99006,7 +99020,7 @@ AS218785,"TC-DATACENTER TC DATACENTER LIMITED",HK,2
 AS218786,"Novatronsec Novatron Security Distribution SA",GR,0
 AS218787,"az_atftelecom ATF TELECOM GROUP LLC",AZ,1
 AS218788,"SERVER-VIBES-TECHNOLOGIES ARJUN LAL YADAV trading as SERVER VIBES TECHNOLOGIES",IN,1
-AS218789,"Soundvia-ASN Soundvia LLC",US,3
+AS218789,"Soundvia-ASN Soundvia LLC",US,4
 AS218790,"BASE9-AS BASE9 BILISIM TEKNOLOJILERI TICARET AS",TR,1
 AS218791,"BetterWorx BetterWorx GmbH",DE,3
 AS218792,"FiberMouse Maciej Kowalski trading as FiberMouse",PL,1
@@ -99015,7 +99029,7 @@ AS218794,"XORIST James Jones",US,1
 AS218795,"AIRSHARP-AS AIRSHARP LTD",CY,0
 AS218796,"GREYWIND-AS Yunsheng Deng",CN,5
 AS218797,"CHEUNGZIT-TRADE-LIMITED CHEUNGZIT TRADE LIMITED",HK,34
-AS218798,"Reboot-Labs Reboot Labs LLC",US,2
+AS218798,"Reboot-Labs Reboot Labs LLC",US,4
 AS218799,"LITE-DIGITAL LITE DIGITAL LTD",GB,10
 AS218800,"SKYLINE Skyline Quantum Data Systems Limited",HK,0
 AS218801,"NETARMOR-AE NetArmor Software Design L.L.C",AE,0
@@ -99053,7 +99067,7 @@ AS218835,"Dreher Yannick Dreher",DE,2
 AS218836,"EXPED-AS Nicky Hendriks trading as Expeditioner",NL,2
 AS218837,"EVOLINK-CDN Evolink EAD",BG,0
 AS218838,"SETCCE SETCCE d.o.o.",SI,0
-AS218839,"ZONEKTELECOM-AS ZONEK TELECOM LTD",GB,10
+AS218839,"ZONEKTELECOM-AS ZONEK TELECOM LTD",GB,11
 AS218840,"RAINSIFT-AS Maslov Maksim Valerievich",RU,0
 AS218841,"DatalixGmbH Datalix GmbH",DE,0
 AS218842,"SEIBERT-HOSTING-1 Seibert Group GmbH",DE,2
@@ -99082,12 +99096,12 @@ AS218866,"ASN-DEANM Dean Morel",AU,1
 AS218867,"SYZ-AS Sun Youzhi",CN,4
 AS218868,"HIIL-AS Hongning Intelligent International Limited",HK,6
 AS218869,"ORG-PGL22-AS ProWave Groups LLC",US,0
-AS218870,"JULIANET JULIANET KISSRA LTD",IL,1
+AS218870,"JULIANET JULIANET KISSRA LTD",IL,2
 AS218871,"NISHIO-AS Kazuto Nishio",JP,1
 AS218872,"STAR-MEDIA STAR MEDIA HD LTD",IL,1
 AS218873,"AZFIBER-X AZFIBER-X MMC",AZ,0
 AS218874,"ACHRONON Achronon Limited",HK,0
-AS218875,"QUANTUM-FIBER-LTD QUANTUM-FIBER LTD",IL,1
+AS218875,"QUANTUM-FIBER-LTD QUANTUM-FIBER LTD",IL,2
 AS218876,"NR-DIGITAL-LLC-AS N.R. Digital LLC",US,2
 AS218877,"GUARD Samuel Dierich",DE,2
 AS218878,"SpectraIP SpectraIP B.V.",NL,7
@@ -99324,7 +99338,7 @@ AS219111,"OCCIGATE-AS OcciGate Kft.",HU,1
 AS219112,"MRI-AS Mukhayarov Rinat Ildusovich",RU,0
 AS219113,"Databridges-as Databridges Technologies Ltd.",GB,2
 AS219114,"SCALINTH-AS Jorge Leonardes Santos Lda",PT,0
-AS219115,"TropicalHOST Francis Try",GB,0
+AS219115,"TropicalHOST Francis Try",GB,1
 AS219116,"MIMICRY-AS-EU LLP MIMICRY",KZ,0
 AS219117,"PlanA TA Consulting & Services UG",DE,5
 AS219118,"MIA-AI MIA AI Holdings Inc",US,1
@@ -99617,7 +99631,7 @@ AS219408,"NetPlus-AS Net Plus d.o.o.",BA,0
 AS219409,"TRINITY Trinity Digital Limited",HK,0
 AS219410,"KINGSTAR-COMMUNICATION-NETWORK Kingstar(HK)Technology Limited",HK,6
 AS219411,"KeyArg Key Arg B.V.",NL,1
-AS219412,"Oxiwave-Internet Lewis Brown",GB,26
+AS219412,"Oxiwave-Internet Lewis Brown",GB,28
 AS219413,"ServiceCom-AS ServiceCom Ltd.",RU,1
 AS219414,"Taylor-Wimpey Taylor Wimpey PLC",GB,1
 AS219415,"ITRB ITRB Ltd",BG,1
@@ -99791,12 +99805,12 @@ AS262182,"TELEFONICA GLOBAL SOLUTIONS PERU S.A.C.",PE,50
 AS262183,"MULTI LINK S.A.",PY,7
 AS262184,"GRUPO KONECTIVA LATAM S.A",CR,13
 AS262185,"BANCO LAFISE BANCENTRO, S.A",NI,1
-AS262186,"TV AZTECA SUCURSAL COLOMBIA",CO,459
+AS262186,"TV AZTECA SUCURSAL COLOMBIA",CO,461
 AS262187,"Patagonia Green S.A.",AR,20
 AS262188,"Satel NV",BQ,12
 AS262189,"Cooperativa Regional de Servicios",AR,16
 AS262190,"Guyane Numerique",GF,0
-AS262191,"LIBERTY NETWORKS DE COLOMBIA S.A.S",CO,304
+AS262191,"LIBERTY NETWORKS DE COLOMBIA S.A.S",CO,303
 AS262192,"Skycorp S.A.",AR,29
 AS262194,"Dese Technologies Argentina S.A.",AR,21
 AS262195,"Transamerican Telecomunication S.A.",AR,0
@@ -99941,7 +99955,7 @@ AS262367,"SW COMERCIO E SERVICOS DE COMUNICACAO MULTIMIDIA",BR,7
 AS262369,"ok virtual provedor de internet ltda",BR,37
 AS262371,"Siga cred Administradora Ltda",BR,1
 AS262373,"CONECT TELECOM",BR,7
-AS262374,"FAZZY INTERNET",BR,44
+AS262374,"FAZZY INTERNET",BR,38
 AS262376,"NOVANET TELECOMUNICACAO LTDA",BR,23
 AS262378,"Compuservice Empreendimentos Ltda",BR,25
 AS262379,"HZ TELECOM LTDA",BR,7
@@ -100062,7 +100076,7 @@ AS262523,"HD2 TELECOMUNICACOES LTDA",BR,5
 AS262524,"COAMO AGROINDUSTRIAL COOPERATIVA",BR,2
 AS262529,"MS - SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA",BR,2
 AS262530,"Quality Net",BR,76
-AS262531,"Connection Multimidia Telecomunicacoes LTDA",BR,15
+AS262531,"Connection Multimidia Telecomunicacoes LTDA",BR,16
 AS262532,"NET ONDA SERVICOS DE INTERNET LTDA",BR,78
 AS262533,"Universidade do Estado do Para",BR,2
 AS262534,"Laboratorio Nacional de Computacao Cientifica",BR,2
@@ -100086,7 +100100,7 @@ AS262558,"PROMPT BRASIL SOLUCOES EM TI LTDA",BR,5
 AS262559,"Aguia Branca Participacoes Ltda",BR,2
 AS262560,"LONDRES & VELOSO INFORMATICA LTDA",BR,9
 AS262562,"Max WIFI Telecom Ltda.",BR,1
-AS262565,"CYBER INTERNET LTDA",BR,26
+AS262565,"CYBER INTERNET LTDA",BR,25
 AS262566,"Link Sete Servicos de Internet e Redes Ltda",BR,13
 AS262567,"TELECOM FOZ",BR,14
 AS262568,"Netvia Telecom Provedor de Internet Ltda.",BR,18
@@ -100125,7 +100139,7 @@ AS262608,"Vapt Solucoes Tecnologicas Ltda",BR,13
 AS262609,"CL9 Tecnologias Ltda.",BR,9
 AS262610,"INTERall Informatica Ltda.",BR,32
 AS262611,"Ivr informatica ltda me",BR,25
-AS262612,"Piotr Piwowar",BR,19
+AS262612,"Piotr Piwowar",BR,43
 AS262614,"Insper Instituto de Ensino e Pesquisa",BR,1
 AS262615,"GravataNET LTDA",BR,31
 AS262616,"Virtual Slice Telecom Ltda",BR,9
@@ -100171,7 +100185,7 @@ AS262671,"VERO S.A",BR,36
 AS262672,"Digirati Informatica, servicos e telecomunicacoes",BR,10
 AS262673,"VERO S.A",BR,247
 AS262674,"Conquest Telecomunicacoes Ltda",BR,19
-AS262675,"Solucao Network Provedor Ltda",BR,34
+AS262675,"Solucao Network Provedor Ltda",BR,35
 AS262676,"Intervip Networks Ltda.",BR,24
 AS262679,"Governo do Estado de Mato Grosso do Sul",BR,9
 AS262684,"Net New Ltda",BR,26
@@ -100371,11 +100385,11 @@ AS262962,"BRASIL NET EMPREENDIMENTOS LTDA - ME",BR,10
 AS262963,"Lupo S/A",BR,2
 AS262965,"KOSMO COMPUTACAO EM NUVEM LTDA",BR,1
 AS262966,"KDM INTERNET TELECOMUNICACOES LTDA",BR,28
-AS262967,"OPTIDATA LTDA",BR,19
+AS262967,"OPTIDATA LTDA",BR,20
 AS262968,"4B Digital Ltda",BR,7
 AS262970,"Tudo Internet",BR,7
 AS262972,"Info Sete Telecomunicacoes",BR,9
-AS262973,"Max Telecomunicacoes Ltda",BR,26
+AS262973,"Max Telecomunicacoes Ltda",BR,25
 AS262974,"leal porto",BR,5
 AS262977,"ADSNET TELECOM LTDA",BR,18
 AS262978,"Centro de Tecnologia Armazem Datacenter LTDA.",BR,19
@@ -100416,7 +100430,7 @@ AS263022,"CARIRIWEB PROVEDORES DE INTERNET LTDA",BR,8
 AS263023,"INST DE TECN EM INF E INF DO EST DE AL",BR,4
 AS263024,"ARAUJO SAT SERVICOS DE MULTIMIDIA LTDA",BR,23
 AS263025,"ISPTEC Sistemas de Comunicacao Eireli",BR,7
-AS263026,"IBL Banda Larga Internet Informatica LTDA",BR,31
+AS263026,"IBL Banda Larga Internet Informatica LTDA",BR,28
 AS263027,"R. F. COVRE - INFORMATICA",BR,10
 AS263028,"Roveri Opcao Provedor de Acesso a Internet Ltda ME",BR,36
 AS263031,"SCJ Info Com. Serv. de Informatica Ltda",BR,7
@@ -100755,7 +100769,7 @@ AS263429,"Associacao Educacional Luterana Bom Jesus IELUSC",BR,6
 AS263431,"SULNET RC INTERNET PROVIDER INFORMATICA LTDA",BR,4
 AS263432,"CORPORATIVA TELECOMUNICACOES EIRELI ME",BR,73
 AS263433,"Click Fibra",BR,18
-AS263434,"Akto Tecnologia - EIRELI - EPP",BR,8
+AS263434,"Akto Tecnologia - EIRELI - EPP",BR,9
 AS263435,"MAIS NET TECNOLOGIA INTEGRADA",BR,22
 AS263436,"POLLYNET TELECOM EIRELI",BR,15
 AS263437,"CARATINGA INFORMATICA LTDA - ME",BR,9
@@ -100792,7 +100806,7 @@ AS263473,"SILVANIA ALVES SANTOS ME",BR,6
 AS263474,"VerdeNET Fibra Optica",BR,21
 AS263475,"Guara Digital LTDA",BR,10
 AS263477,"Oxxygenium Digital Tecnologies Com Serv Ltda",BR,6
-AS263478,"DUFIBRANET TELECOM LTDA",BR,43
+AS263478,"DUFIBRANET TELECOM LTDA",BR,45
 AS263479,"SONDA PROCWORK INFORMATICA LTDA",BR,14
 AS263480,"TELNET SERVICOS EM TELECOMUNICACOES LTDA",BR,2
 AS263481,"Nova Serv de Com Multimidia Ltda",BR,13
@@ -100819,7 +100833,7 @@ AS263506,"GB ONLINE TELECOMUNICACOES LTDA",BR,23
 AS263507,"VAINET TECNOLOGIA LTDA",BR,7
 AS263508,"SIMNET TELECOMUNICACOES LTDA",BR,26
 AS263509,"TURBOVIP TELECOM LTDA.",BR,31
-AS263511,"Saveincloud Hospedagem na Internet Ltda",BR,43
+AS263511,"Saveincloud Hospedagem na Internet Ltda",BR,44
 AS263512,"CTBA TELECOM",BR,5
 AS263513,"SIGNAL PROVEDOR DE ACESSO A INTERNET LTDA",BR,4
 AS263514,"Link Web",BR,6
@@ -101245,7 +101259,7 @@ AS264007,"Eletric Telecomunicacoes e Informatica LTDA ME",BR,2
 AS264008,"LANCA SERVICOS DE INFORMATICA LTDA - ME",BR,10
 AS264009,"INFIX TELECOM LTDA",BR,16
 AS264010,"Polli Telecom",BR,18
-AS264011,"TREND CONNECT PROVEDOR DE INTERNET LTDA",BR,4
+AS264011,"TREND CONNECT PROVEDOR DE INTERNET LTDA",BR,6
 AS264012,"CONECT TELECOM",BR,2
 AS264013,"CONNECTA TELECOM INTERNET LTDA - EPP",BR,40
 AS264014,"Led Internet Eireli",BR,10
@@ -101321,7 +101335,7 @@ AS264102,"Tribunal Regional do Trabalho 9a Regiao",BR,2
 AS264103,"Pinheiro Net",BR,5
 AS264104,"ZINE TELECOMUNICACOES PROVEDOR LTDA",BR,6
 AS264105,"J S CAMINHA SERVICOS DE INTERNET LTDA",BR,6
-AS264106,"ANDRADE & LANDIM TELECOMUNICACOES LTDA",BR,8
+AS264106,"ANDRADE & LANDIM TELECOMUNICACOES LTDA",BR,9
 AS264108,"M R REDES DE TELECOMUNICACOES LTDA",BR,13
 AS264110,"Econect Itapevi Telecomunicacoes ltda",BR,3
 AS264111,"RedeBr Telecom",BR,11
@@ -101492,7 +101506,7 @@ AS264326,"CARTECH INFORMATICA LTDA-ME",BR,8
 AS264327,"ANDERSON MANZANO BACHIEGA",BR,8
 AS264328,"Eclipse Telecom",BR,7
 AS264329,"ESTRATEGIA REDES DE TELECOMUNICACOES LTDA.",BR,7
-AS264331,"INTEREDE TELECOM",BR,6
+AS264331,"INTEREDE TELECOM",BR,7
 AS264332,"CONEXAO INOVE TELECOMUNICACOES LTDA ME",BR,22
 AS264333,"JN TECNOLOGIA LTDA-ME",BR,7
 AS264334,"MarapelNet Telecom",BR,1
@@ -101552,7 +101566,7 @@ AS264413,"Conecta Telecom Ltda",BR,2
 AS264414,"R. PIETSCH & CIA LTDA ME",BR,5
 AS264415,"MAXIS TELECOMUNICACOES LTDA - ME",BR,8
 AS264416,"WIANET SOLUCOES E TECNOLOGIA LTDA",BR,10
-AS264420,"TurboNet Telecom",BR,4
+AS264420,"TurboNet Telecom",BR,8
 AS264421,"BrumaNet Telecom",BR,19
 AS264422,"DIGITAL WAVE DE MERITI PROVEDOR DE INTERNET LTDA",BR,8
 AS264423,"Departamento de Transito do Estado do Para",BR,1
@@ -101588,7 +101602,7 @@ AS264456,"GBATELECOM LTDA",BR,8
 AS264458,"SMA Networks Informatica LTDA-ME",BR,6
 AS264459,"NET ALTERNATIVA PROVEDOR DE INTERNET LTDA - ME",BR,18
 AS264460,"SIGA FIBRA LTDA",BR,19
-AS264461,"ADM INTERNET EIRELI",BR,15
+AS264461,"ADM INTERNET EIRELI",BR,19
 AS264462,"Comercial Conecte Sem Fio Ltda me",BR,6
 AS264463,"MEGA REDES TELECOM LTDA",BR,6
 AS264464,"ALMEIDA PARENTE INFORMATICA",BR,4
@@ -101698,7 +101712,7 @@ AS264590,"NAVEX TELECOM",BR,14
 AS264591,"7 Sul Telecom",BR,10
 AS264592,"ENLACE TELECOM",BR,4
 AS264594,"Bludata Processamento de Dados Ltda",BR,4
-AS264595,"FALCAO NET PROVEDOR DE INTERNET LTDA",BR,7
+AS264595,"FALCAO NET PROVEDOR DE INTERNET LTDA",BR,9
 AS264596,"ALFA TELECOMUNICACOES",BR,9
 AS264597,"Via Sul Provedor de Acesso a Internet LTDA",BR,12
 AS264598,"DELTA TELECOM",BR,29
@@ -101729,7 +101743,7 @@ AS264624,"Interredes S.A.",AR,0
 AS264625,"SANTA CRUZ AUGUSTO JULIAN (SONYTEL)",AR,5
 AS264626,"Ingenieria e Informatica Asociada Ltda (IIA Ltda)",CL,0
 AS264627,"COMUNICACIONES Y CONSUMOS S.A.",AR,0
-AS264628,"CORPORACION FIBEX TELECOM, C.A.",VE,54
+AS264628,"CORPORACION FIBEX TELECOM, C.A.",VE,70
 AS264629,"COOP. DE PROVISION DE ELECTRICIDAD, SERVICIOS, VIVIENDA Y CREDITO DE MAR DEL PLATA LTDA",AR,5
 AS264630,"Universidad Nacional de Jujuy",AR,2
 AS264631,"RED PARAGUAYA DE TELECOMUNICACIONES SA",PY,9
@@ -102242,7 +102256,7 @@ AS265202,"CONSELHO REGIONAL DE MEDICINA - SP",BR,1
 AS265203,"PTLS SERVICOS DE TECNOLOGIA E ASSESSORIA TECNICA L",BR,4
 AS265204,"LINKFIRE TELECOM LTDA",BR,10
 AS265205,"UnoNet Telecomunicacoes LTDA",BR,9
-AS265207,"PLUS PROVEDOR DE INTERNET LTDA - ME",BR,28
+AS265207,"PLUS PROVEDOR DE INTERNET LTDA - ME",BR,24
 AS265210,"OSCAR M DE CARVALHO - ME",BR,6
 AS265212,"TRIBUNAL DE JUSTICA DO DISTRITO FEDERAL",BR,1
 AS265213,"BRUMART a sua internet",BR,4
@@ -102380,7 +102394,7 @@ AS265367,"Paulo Cesar Cardozo da Mata ME",BR,4
 AS265369,"C-ComTelecom Servios Ltda-ME",BR,16
 AS265370,"G G Tecnologia de Informacao LTDA ME",BR,5
 AS265372,"Antena Sat NetCom",BR,4
-AS265374,"3X TELECOMUNICACOES LTDA",BR,12
+AS265374,"3X TELECOMUNICACOES LTDA",BR,6
 AS265375,"Justica Federal de Primeiro Grau no RS",BR,6
 AS265376,"EQUINIX BRASIL",BR,0
 AS265377,"FLASH NET TELECOMUNICACOES LTDA - ME",BR,13
@@ -103020,7 +103034,7 @@ AS266102,"Net Speed BA",BR,6
 AS266103,"AGILITY TELECOM",BR,6
 AS266104,"RPNET TELECOM",BR,10
 AS266105,"RPNET INFORMATICA LTDA - ME",BR,6
-AS266106,"J.R da Silva Almeida-ME",BR,5
+AS266106,"J.R da Silva Almeida-ME",BR,6
 AS266107,"EVEN TELECOM",BR,7
 AS266109,"JereNET Provedor de Internet & Cons em TI LTDA ME.",BR,6
 AS266110,"AECIO MACARIO DOS SANTOS ME",BR,8
@@ -103189,7 +103203,7 @@ AS266309,"TOP NET LTDA",BR,4
 AS266310,"HECHO VIA INTERNET LTDA",BR,5
 AS266311,"Nossa Provedor de Internet Ltda",BR,5
 AS266312,"NaveNet servicos de internet ltda",BR,19
-AS266313,"LESTETRONICS ME",BR,4
+AS266313,"LESTETRONICS ME",BR,8
 AS266315,"Ubbinet Provedor de Servicos de Internet Ltda ME",BR,8
 AS266316,"WIPY COMERCIO E SERVICOS DE TELEINFORMATICA LTDA",BR,9
 AS266317,"REVILINK TELECOM",BR,9
@@ -103796,7 +103810,7 @@ AS267015,"ESADINET - EMPRESA DE SERVICOS ADM. DE ITUBERA LTD",BR,22
 AS267016,"FIBERNET SERVICOS DE COMUNICACAO LTDA",BR,14
 AS267017,"STARNET CONECTIVIDADE",BR,6
 AS267019,"AH PROVEDOR TELECOM",BR,4
-AS267020,"VS COMUNICACAO E MULTIMIDIA LTDA",BR,8
+AS267020,"VS COMUNICACAO E MULTIMIDIA LTDA",BR,9
 AS267021,"Bruno Luiz de Moura - ME",BR,6
 AS267022,"TG COMUNICACOES LTDA - ME",BR,14
 AS267023,"B. DOS S. VIEIRA NETO LTDA",BR,5
@@ -103925,7 +103939,7 @@ AS267171,"Alfa Network Solutions Inform?tica LTDA",BR,6
 AS267172,"BORBA E ANDRADE LTDA - EPP",BR,4
 AS267173,"NetMontes Telecomunicacoes e Servicos Ltda",BR,5
 AS267174,"PowerNet Telecom",BR,10
-AS267175,"ASBYTE TELECOMUNICACOES E SERVICOS EM INFORMATICA",BR,7
+AS267175,"ASBYTE TELECOMUNICACOES E SERVICOS EM INFORMATICA",BR,3
 AS267176,"DIGITALNET TECNOLOGIA E COMUNICACAO LTDA",BR,5
 AS267178,"UNO INTERNET LTDA",BR,20
 AS267179,"Inforsolutions Consultoria e Tecnologia Ltda",BR,1
@@ -104212,7 +104226,7 @@ AS267500,"DIGITAL LIFE",BR,8
 AS267501,"Equatorial Telecomunicacoes LTDA",BR,23
 AS267502,"VEM DIGITAL",BR,13
 AS267503,"RCM BRASIL MULTIMIDIA LTDA",BR,6
-AS267505,"EMBRATEC COMUNICACOES LTDA ME",BR,12
+AS267505,"EMBRATEC COMUNICACOES LTDA ME",BR,13
 AS267506,"BDNET.COM TELECOMUNICACOES LTDA",BR,5
 AS267507,"SRX TECNOLOGIA DA INFORMACAO LTDA",BR,25
 AS267508,"SEMPRENET INTERNET LTDA ME",BR,6
@@ -104508,7 +104522,7 @@ AS267831,"INVERSIONES EN TELECOMUNICACIONES DIGITALES S.A.C",PE,2
 AS267832,"VELONET SAS",CO,11
 AS267833,"CASELLES COSTA FACUNDO JAVIER (ONPOWER)",AR,9
 AS267834,"SERVYCOM COLOMBIA S.A.S",CO,12
-AS267835,"OSORIO SERGIO ANGELINO(NETVDU).",AR,1
+AS267835,"OSORIO SERGIO ANGELINO(NETVDU).",AR,0
 AS267836,"COOPERATIVA DE PROVISION DE ENERGIA ELECTRICA Y OTROS SERVICIOS PUBLICOS, DE VIVIENDA, CREDITOS Y SERVICIOS SOCIALES DE MURPHY LIMITADA",AR,0
 AS267837,"Vicente Sosa Peralta",PY,6
 AS267838,"GREENLINK SRL",DO,2
@@ -104736,7 +104750,7 @@ AS268081,"CONNECT MARANHAO",BR,10
 AS268082,"Ingnet Banda Larga LTDA-ME",BR,6
 AS268083,"HOME FIBRA TELECOMUNICACOES LTDA ME",BR,7
 AS268084,"MAXIMA INTERNET BANDA LARGA",BR,6
-AS268085,"Plusnetfoz Provedor de Internet Ltda -ME",BR,29
+AS268085,"Plusnetfoz Provedor de Internet Ltda -ME",BR,16
 AS268086,"WD TELECOM SOLUCOES EM TELECOM E SEGURANCA LTDA",BR,4
 AS268087,"RADIONET TELECOM LTDA",BR,6
 AS268088,"PAULO ROBERTO SOARES DE CARVALHO",BR,11
@@ -105005,7 +105019,7 @@ AS268393,"LINKTECH PROVEDOR DE INTERNET",BR,5
 AS268394,"Casavechia & Pierobom Telecomunicacoes Ltda - Me",BR,1
 AS268395,"G7 MS EIRELI - ME",BR,8
 AS268396,"LOPES & TINOCO LTDA",BR,7
-AS268397,"REINALDO DE JESUS",BR,38
+AS268397,"REINALDO DE JESUS",BR,40
 AS268398,"Connecta Comercio de Informatica e Telecom",BR,9
 AS268399,"UP PROVEDOR DE INTERNET LTDA",BR,4
 AS268400,"IRANTEC INFORMATICA",BR,4
@@ -105414,13 +105428,12 @@ AS268881,"NMULTIFIBRA TELECOMUNICACAO LTDA",BR,1
 AS268882,"Mais Rede Telecom",BR,8
 AS268883,"Infortec - Informatica & Tecnologia Ltda - ME",BR,6
 AS268884,"LIKEE FIBRA LTDA",BR,10
-AS268885,"KINET PROVEDOR DE INTERNET E SERVICOS DE TELECOM",BR,2
 AS268886,"WILLYNET PROVEDOR",BR,6
 AS268887,"DAVILSON DOS SANTOS CORREIA-ME",BR,13
 AS268888,"ACRF SERVICOS DE INFORMATICA LTDA - ME",BR,9
 AS268889,"JUSTICA FED DE PRIM INST SECAO JUD DO CEARA",BR,1
 AS268890,"ASTERNET SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",BR,5
-AS268892,"DBS TELECOM EIRELI - ME",BR,8
+AS268892,"DBS TELECOM EIRELI - ME",BR,10
 AS268893,"OLIVEIRA & SEIXAS INFORMATICA LTDA",BR,2
 AS268896,"IBR Informatica Ltda",BR,5
 AS268897,"SUPRI NET SERVICOS E COMERCIO LTDA - ME",BR,11
@@ -105884,7 +105897,7 @@ AS269416,"SEMEAR TELECOM EIRELI",BR,16
 AS269417,"PONTOCOM SOLUCOES EM TECNOLOGIA LTDA",BR,14
 AS269418,"POWER CONNECT LTDA - ME",BR,8
 AS269419,"WWN Redes e Comunicacoes Ltda.",BR,8
-AS269420,"IST INFORMATICA E TELECOMUNICAO 991DF EIRELI - ME",BR,6
+AS269420,"IST INFORMATICA E TELECOMUNICAO 991DF EIRELI - ME",BR,8
 AS269421,"BRASILVOX TELECOMUNICACOES LTDA",BR,5
 AS269422,"GKG NET TELECON LTDA",BR,7
 AS269423,"NETNOAR TELECOM",BR,10
@@ -106102,7 +106115,7 @@ AS269657,"MPLINE TELECOM LTDA",BR,3
 AS269658,"HUGS TELECOM",BR,6
 AS269659,"RD TORRESNET TELECOM LTDA",BR,7
 AS269660,"R.RODRIGUES VASCONCELOS TELECOM EIRELI",BR,6
-AS269662,"TELE FIBRAS INTERNET BANDA LARGA LTDA",BR,8
+AS269662,"TELE FIBRAS INTERNET BANDA LARGA LTDA",BR,4
 AS269663,"CONNECTLINK TECH",BR,6
 AS269664,"MAIS TELECOMUNICACOES LTDA",BR,10
 AS269665,"LEKST TELECOM",BR,14
@@ -106223,7 +106236,7 @@ AS269790,"UNIVERSIDAD CATOLICA DE CUENCA",EC,2
 AS269791,"ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO",EC,2
 AS269792,"UNIVERSIDAD TECNOLOGICA INDOAMERICA",EC,2
 AS269793,"INVERSIONES HEMALASS LIMITADA (HEMANET)",CL,5
-AS269794,"GRUPO SPEED NET SOCIEDAD ANONIMA",PY,14
+AS269794,"GRUPO SPEED NET SOCIEDAD ANONIMA",PY,8
 AS269795,"MLV SA",AR,8
 AS269796,"JIREH WAN SAS",CO,1
 AS269797,"LOCH TEL SRL (GOLOCHTEL)",BO,7
@@ -106274,7 +106287,7 @@ AS269842,"COMUNICA-TE S.A.",EC,0
 AS269843,"BANTEL SAC",PE,26
 AS269844,"UNIVERSIDAD NACIONAL DEL CHIMBORAZO",EC,3
 AS269845,"DEPARTAMENTO DE CALDAS",CO,3
-AS269846,"T.V ZAMORA, C.A.",VE,10
+AS269846,"T.V ZAMORA, C.A.",VE,11
 AS269847,"LA PROVIDENCIA S.R.L",AR,2
 AS269848,"UNIVERSIDAD REGIONAL AMAZONICA IKIAM",EC,0
 AS269849,"KWEB SRL",AR,1
@@ -106327,7 +106340,7 @@ AS269897,"C Y M INTERNET S.R.L.",AR,5
 AS269898,"SOFTBUTTERFLY SAC",PE,12
 AS269899,"TECNOLOGIA EN TELECOMUNICACIONES ABIERTAS S.A.",GT,0
 AS269900,"SISTEMAS AVANZADOS EN TELECOMUNICACIONES S.A.S",CO,2
-AS269901,"MARAVECA TELECOMUNICACIONES C.A",VE,2
+AS269901,"MARAVECA TELECOMUNICACIONES C.A",VE,3
 AS269902,"INSTITUTO COLOMBIANO DE CREDITO EDUCATIVO Y ESTUDIOS TECNICOS EN EL EXTERIOR MARIANO OSPINA PEREZ ICETEX",CO,1
 AS269903,"VILLA MARIA CABLE NET S.A.",AR,0
 AS269904,"DEPARTAMENTO ADMINISTRATIVO DE LA PRESIDENCIA DE LA REPUBLICA",CO,0
@@ -106469,7 +106482,7 @@ AS270047,"PROVEEDOR S.A.",AR,6
 AS270049,"MARVICNET CIA LTDA",EC,53
 AS270050,"OPTIMIZA SEGURIDAD SpA",CL,1
 AS270051,"PLANET TELECOM COLOMBIA S.A.S",CO,8
-AS270052,"STARTELECOM S.A.",PY,20
+AS270052,"STARTELECOM S.A.",PY,16
 AS270053,"VILLEGAS BRAIAN JOEL (MADRYNET)",AR,1
 AS270054,"GLOBALRADIO S.A.",AR,6
 AS270055,"CODINGAR S.R.L.",AR,2
@@ -106705,7 +106718,7 @@ AS270294,"LIKELINK SERVICOS LTDA",BR,6
 AS270295,"MVM INTERNET FIBRA OPTICA",BR,2
 AS270296,"HQV INFORMATICA LTDA",BR,5
 AS270301,"CONNECT WORLD TELECOM EIRELI",BR,14
-AS270302,"Sergio Barrios Noviaky ME",BR,8
+AS270302,"Sergio Barrios Noviaky ME",BR,4
 AS270303,"GENET TELECOM ME",BR,8
 AS270304,"FIBRAVELOZ PROVEDOR DE INTERNET LTDA",BR,13
 AS270305,"Acesse Internet Ltda",BR,12
@@ -106897,7 +106910,7 @@ AS270511,"Ultra Cabo",BR,8
 AS270512,"Nw3 telecomunicacoes Ltda",BR,3
 AS270513,"R J COMERCIO E SERVICOS DE COMUNICACA",BR,6
 AS270514,"JF PAUFERRO DOS SANTOS",BR,2
-AS270515,"Enter Telecom",BR,5
+AS270515,"Enter Telecom",BR,7
 AS270516,"IZOC SERVICOS DE INTERNET LTDA",BR,3
 AS270517,"tryideas ltda",BR,8
 AS270518,"Atec Informatica Telecom Martinez e Rocha LTDA",BR,2
@@ -106997,7 +107010,7 @@ AS270624,"Live Fibra Telecom Ltda",BR,8
 AS270625,"M. S. TELECOMUNICACOES LTDA",BR,7
 AS270626,"DOMINION UAULL NET TEC DE CON INTELIGENTES LTDA",BR,7
 AS270630,"LOLNET TELECOMUNICACOES",BR,7
-AS270631,"Totvs S.A.",BR,146
+AS270631,"Totvs S.A.",BR,147
 AS270632,"ACESSE WI-FI SERVICOS, INSTALACAO E MANUTENCAO",BR,5
 AS270633,"a j ribeiro telecomunicacoes",BR,5
 AS270634,"TOP ON SERVICOS DE MULTIMIDIA LTDA ME",BR,4
@@ -107051,7 +107064,7 @@ AS270690,"EDIVAM FRANCI ALVES EIRELI",BR,7
 AS270691,"REVNET TELECOMUNICACOES E SERVICOS LTDA",BR,7
 AS270692,"JOSE CARLOS GONZAGA CARDOSO - ME",BR,11
 AS270693,"UNIVERSIDADE FEDERAL DO PIAUI",BR,2
-AS270694,"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI",BR,19
+AS270694,"BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCI",BR,20
 AS270697,"BTEC TELECOM EIRELI",BR,7
 AS270699,"GLOBAL NET TELECOM",BR,10
 AS270700,"Speed Fibra Network",BR,2
@@ -107279,7 +107292,7 @@ AS270946,"ULTRANET PROVEDOR CUSTODIA LTDA",BR,7
 AS270947,"Vc de carvalho telecomunicacoes",BR,8
 AS270948,"VALENET TELECOM LTDA",BR,2
 AS270949,"Vello Servicos de Telecomunicacoes Ltda",BR,4
-AS270950,"VIALUX INTERNET BANDA LARGA LTDA",BR,3
+AS270950,"VIALUX INTERNET BANDA LARGA LTDA",BR,4
 AS270951,"PAULO MARQUES DE ARAUJO - ME",BR,7
 AS270952,"PREFEITURA MUNICIPAL DE SAO GONCALO",BR,2
 AS270953,"IDL Telecomunicacoes LTDA",BR,6
@@ -107539,7 +107552,7 @@ AS271240,"PIXEL INTERNET E TELECOMUNICACOES EIRELI",BR,2
 AS271241,"Fbnet Telecom",BR,6
 AS271243,"MAKROSAT TECNOLOGIA E CORRETORA DE SEGUROS LTDA -",BR,5
 AS271244,"FORTINET TELECOMUNICACOES EIRELI",BR,6
-AS271245,"Yauh Telecom Provedores",BR,4
+AS271245,"Yauh Telecom Provedores",BR,5
 AS271246,"MINISTERIO PUBLICO DO ESTADO DE SANTA CATARINA",BR,4
 AS271247,"RS Sul Telecomunicacoes Ltda",BR,9
 AS271248,"MYNETS SERVICOS DE COMUNICACAO LTDA",BR,5
@@ -107817,7 +107830,7 @@ AS271559,"Onnexx LTDA",BR,5
 AS271560,"PHXNET PROVEDOR DE INTERNET",BR,27
 AS271562,"WT NET COMUNICACAO LTDA",BR,11
 AS271563,"Mega Mais Telecom Ltda me",BR,2
-AS271564,"PINHEIRO & SILVA INFORMATICA LTDA",BR,14
+AS271564,"PINHEIRO & SILVA INFORMATICA LTDA",BR,11
 AS271565,"COPATEL SERVICOS DE TELECOMUNICACOES LTDA",BR,2
 AS271566,"R N V DA COSTA JUNIOR EIRELI",BR,5
 AS271567,"JONATAN S COSTA COMUNICACAO MULTIMIDIA ME",BR,7
@@ -108497,7 +108510,7 @@ AS272325,"Instituto de Administracion y Avaluos de Bienes Nacionales",MX,1
 AS272327,"SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES",MX,0
 AS272328,"COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS",MX,0
 AS272329,"Secretaria de Turismo",MX,1
-AS272330,"L & F TELECOMUNICACIONES",MX,10
+AS272330,"L & F TELECOMUNICACIONES",MX,11
 AS272331,"SERVICIO GEOLOGICO MEXICANO",MX,0
 AS272334,"DISENO EN REDES DE DATOS VILLA WIRELESS",MX,2
 AS272335,"COLEGIO DE BACHILLERES",MX,1
@@ -108671,7 +108684,7 @@ AS272541,"Portao Net Telecomunicacoes LTDA",BR,1
 AS272542,"LEANDRO A DE OLIVEIRA SILVA INTERNET EIRELI",BR,22
 AS272543,"CONECTMAS TELECOMUNICACOES LTDA",BR,1
 AS272545,"ULTRA NETWORK TELECOMUNICACOES LTDA",BR,3
-AS272547,"Servicos de Infraestrutura e Datacenter",BR,30
+AS272547,"Servicos de Infraestrutura e Datacenter",BR,31
 AS272548,"BORGES ALEXANDRE & CIA LTDA",BR,12
 AS272549,"Connect LP - SERVICO DE COMUNICACAO MULTIMIDIA LTD",BR,8
 AS272551,"Acenet Solucoes de Rede e Internet LTDA - ME",BR,1
@@ -108726,7 +108739,7 @@ AS272619,"FIVE TELECOM LTDA",BR,8
 AS272621,"Jalles Machado S.A.",BR,1
 AS272623,"FIBER NET SERVICOS DE TELECOMUNICACOES LTDA",BR,8
 AS272624,"GDM TELECOM EIRELI",BR,2
-AS272626,"N9 TELECOM by Ligpronet",BR,5
+AS272626,"N9 TELECOM by Ligpronet",BR,6
 AS272627,"Speed Turbo Telecom GO LTDA",BR,1
 AS272628,"FTI TELECOM SERVICOS DE COMUNICACOES LTDA",BR,3
 AS272629,"FORT TELECOM EIRELI",BR,1
@@ -108818,7 +108831,7 @@ AS272738,"JC FRANKLIN TELECOM LTDA",BR,3
 AS272739,"Lider Fibra",BR,5
 AS272740,"ALLIANCE NET BANDA LARGA LTDA",BR,1
 AS272741,"ATLANTICA TELECOMUNICACOES LTDA",BR,4
-AS272744,"DC INTERNET EIRELI",BR,14
+AS272744,"DC INTERNET EIRELI",BR,16
 AS272747,"M. J. GOMES XAVIER TELECOMUNICACOES",BR,5
 AS272748,"RiverNET ISP",BR,2
 AS272749,"BDF TELECOMUNICACOES LTDA",BR,1
@@ -109202,7 +109215,7 @@ AS273141,"MICARMITA S.A.S",EC,3
 AS273142,"SERVICIOS DE TELCOMUNICACIONES LATEVECOM CIA LTDA",EC,3
 AS273143,"SIGNAL PERU S.A.C.",PE,5
 AS273144,"PC SERVICE PLUS NET,C.A",VE,4
-AS273145,"GRUPO SERVINET S.A.S.",CO,8
+AS273145,"GRUPO SERVINET S.A.S.",CO,7
 AS273146,"REDCONEX E.I.R.L",PE,5
 AS273147,"MUNICIPALIDAD DE CARRILLO GUANACASTE",CR,4
 AS273148,"SMARTNET CHILE TELECOMUNICACIONES LIMITADA",CL,2
@@ -109962,7 +109975,7 @@ AS273973,"APOAPSIS SPA",CL,9
 AS273974,"KILLA COMUNICACIONES S. R. L.",AR,3
 AS273975,"TELECABLE SAMANA S.R.L",DO,0
 AS273976,"FICOM TELECOMUNICACIONES S.A.C.",PE,23
-AS273977,"OFICINA DE NORMALIZACION PREVISIONAL",PE,2
+AS273977,"OFICINA DE NORMALIZACION PREVISIONAL",PE,4
 AS273978,"TELECOMUNICACIONES INTER@LFA, C.A",VE,0
 AS273979,"LIZARSOAIN GREGORIO LUIS ALBERTO (CIBERGOLD WIFI)",AR,5
 AS273980,"INVERSIONES SIRIUS SOCIEDAD DE RESPONSABILIDAD LIMITADA DE CAPITAL VARIABLE",HN,2
@@ -110296,7 +110309,7 @@ AS274312,"TELYEXPRESS TELECOMUNICACIONES LIMITADA",CL,1
 AS274313,"ENORAL S.A",UY,9
 AS274314,"TUYEROS NETWORKS C.A",VE,7
 AS274315,"UNICABLE SOCIEDAD ANONIMA",GT,6
-AS274316,"CABLE NET S.A.S",CO,1
+AS274316,"CABLE NET S.A.S",CO,0
 AS274317,"LOPEZ TOBIAS FERNANDO DANIEL",AR,2
 AS274318,"MCA TELECOMUNICACIONES SAS",CO,24
 AS274319,"PLATINIUM SYSTEM CABLE, C.A.",VE,2
@@ -110837,7 +110850,7 @@ AS274878,"FIBATEL S.A.C.",PE,0
 AS274879,"DYNAMIC NETWORKS SOLUTIONS SAS ZOMAC",CO,1
 AS274880,"ASOCIACION COMUNITARIA VAHOS TELECOMUNICACIONES DE GRANADA",CO,3
 AS274881,"WIN TELECOM S.A.C.",PE,0
-AS274882,"APINET SAS",CO,1
+AS274882,"APINET SAS",CO,2
 AS274883,"SERKOI SERVICIOS DE CONECTIVIDAD INALAMBRICA SAS",CO,0
 AS274884,"MASSARO FERNANDEZ ALBANO JOSE",AR,0
 AS274885,"CRIMSON DATA TECHNOLOGIES",GY,0
@@ -110878,7 +110891,7 @@ AS274919,"Bancard S.A.",PY,0
 AS274920,"PIT-EC SAS",EC,0
 AS274921,"ARMOA BLANCA NOELIA",AR,1
 AS274922,"NEXA TELECOM S.A.S.",CO,0
-AS274923,"ONE NETWORK S.R.L.",PY,2
+AS274923,"ONE NETWORK S.R.L.",PY,4
 AS274924,"WILGOM TELECOMUNICACIONES S.A.S.",CO,0
 AS274925,"KONECTAR TECHNOLOGY SAS",CO,0
 AS274926,"DEPARTAMENTO DE LA GUAJIRA",CO,1
@@ -111020,6 +111033,8 @@ AS275063,"JAR144",VE,0
 AS275064,"MAC677",CL,0
 AS275065,"SPR10",CO,0
 AS275066,"MAL316",AR,0
+AS275067,"SIS74",CO,0
+AS275068,"GEL62",VE,0
 AS275293,"FRPSO156",BR,0
 AS275294,"ARNJU36",BR,0
 AS275295,"ROCFA160",BR,0
@@ -111321,7 +111336,7 @@ AS327734,"Econet-Leo SA",BI,1
 AS327736,"Trans-Sahara IT and Communication",LY,0
 AS327737,"Custom Solutions Business Trust",ZA,2
 AS327738,"STE AFRICELL RDC SPRL",CD,8
-AS327741,"INFOGENIE Technologies",CM,5
+AS327741,"INFOGENIE Technologies",CM,6
 AS327742,"Somali Wireless Network",SO,4
 AS327745,"WiFibre Pty Ltd",ZA,3
 AS327746,"DATACONNECT COTE D'IVOIRE",CI,9
@@ -111583,7 +111598,7 @@ AS328072,"Axxess DSL (PTY) Ltd",ZA,0
 AS328073,"Ion Telecom and Technology",LY,27
 AS328074,"KLIQ (Pty) Ltd",ZA,1
 AS328075,"Gadgetronix.Net Ltd",TZ,8
-AS328076,"University of Mines and Technology",GH,4
+AS328076,"University of Mines and Technology",GH,5
 AS328079,"TELECEL CENTRAFRIQUE",CF,5
 AS328080,"Inview Technology Limited",NG,0
 AS328081,"HollaTags Limited",NG,2
@@ -111680,7 +111695,7 @@ AS328194,"Copperbelt Energy Corporation Plc",ZM,1
 AS328196,"POWERNET",LR,17
 AS328197,"Telstream Telecoms Pty Ltd",ZA,0
 AS328198,"Blue Crane Communications (U) Ltd",UG,7
-AS328199,"Voimar (Pty) Ltd",ZA,3
+AS328199,"Voimar (Pty) Ltd",ZA,4
 AS328200,"Al Madar Al Jadeed Joint Stock Company",LY,98
 AS328201,"Elige Communications Limited",KE,6
 AS328203,"Platinum Index Data Communications Ltd",NG,20
@@ -112718,7 +112733,7 @@ AS329363,"LTX Omega Mushrooms",ZA,1
 AS329364,"GECAMINES",CD,0
 AS329365,"E-Lapariah Technologies Ltd",NG,1
 AS329366,"ABT Telecoms (Pty) Ltd",ZA,0
-AS329367,"Tawala Networks Limited",KE,6
+AS329367,"Tawala Networks Limited",KE,7
 AS329368,"CALNET FIBRE (PTY) LTD",ZA,0
 AS329369,"JNCS PTY LTD",ZA,1
 AS329370,"TELECOMUNICAÇOES, (SU), LDA - ESPAÇONET - TELECOMUNICAÇOES, (SU), LDA",AO,1
@@ -112901,7 +112916,7 @@ AS329548,"DATA LAB (T) LIMITED",TZ,1
 AS329549,"Connexion Link",ZA,0
 AS329550,"Voisip Telecommunications Limited",NG,4
 AS329551,"I&M Bank (Uganda) Limited",UG,1
-AS329552,"PHPLAVATEC SOLUTIONS LTD",KE,4
+AS329552,"PHPLAVATEC SOLUTIONS LTD",KE,8
 AS329553,"Bluetel Communications Limited",NG,0
 AS329554,"CHEAPCALLS",ZA,0
 AS329555,"SAHEL TELECOM S.A",MR,0
@@ -116367,7 +116382,7 @@ AS396541,"VeriSign Global Registry Services",US,0
 AS396542,"VeriSign Global Registry Services",US,6
 AS396543,"VeriSign Global Registry Services",US,4
 AS396544,"VeriSign Global Registry Services",US,27
-AS396545,"VeriSign Global Registry Services",US,22
+AS396545,"VeriSign Global Registry Services",US,14
 AS396546,"VeriSign Global Registry Services",US,28
 AS396547,"VeriSign Global Registry Services",US,25
 AS396548,"VeriSign Global Registry Services",US,0
@@ -116563,7 +116578,7 @@ AS396737,"VeriSign Global Registry Services",US,4
 AS396738,"VeriSign Global Registry Services",US,4
 AS396739,"VeriSign Global Registry Services",US,4
 AS396740,"VeriSign Global Registry Services",US,0
-AS396741,"VeriSign Global Registry Services",US,1
+AS396741,"VeriSign Global Registry Services",US,0
 AS396742,"VeriSign Global Registry Services",US,0
 AS396743,"VeriSign Global Registry Services",US,0
 AS396744,"VeriSign Global Registry Services",US,1
@@ -118259,7 +118274,7 @@ AS398473,"Rothschild & Co US Inc.",US,0
 AS398475,"Drilling Info Inc.",US,3
 AS398476,"TORC Robotics, Inc.",US,3
 AS398477,"Velo IT Group",US,1
-AS398478,"PEG TECH INC",US,80
+AS398478,"PEG TECH INC",US,114
 AS398479,"Z4 Internet",US,7
 AS398480,"Robinson Bradshaw",US,2
 AS398481,"NetSWAT LLC",US,0
@@ -118989,7 +119004,7 @@ AS399222,"NEWCOM, INC",US,2
 AS399223,"TruNet Internet Services, LLC",US,1
 AS399224,"PERATON INC.",US,5
 AS399225,"CooperVision, Inc.",US,1
-AS399226,"SpeedFI Inc.",CA,26
+AS399226,"SpeedFI Inc.",CA,28
 AS399227,"OPEN SYSTEMS INFRASTRUCTURE INTELLIGENCE CORPORATION",US,0
 AS399228,"SHING DIGITAL INC",CA,2
 AS399229,"General Datatech, LP",US,0
@@ -119033,7 +119048,7 @@ AS399267,"Universite Sainte-Anne",CA,1
 AS399268,"Coosa Valley Technologies Inc",US,6
 AS399269,"City of Torrance",US,4
 AS399270,"MARY GREELEY MEDICAL CENTER",US,1
-AS399272,"Barnholdt, LLC",US,14
+AS399272,"Barnholdt, LLC",US,15
 AS399273,"Grenada Co-operative Bank Limited",GD,2
 AS399274,"Jasper County REMC",US,5
 AS399275,"Solid Systems LLC",US,53
@@ -120326,7 +120341,7 @@ AS400615,"Data Canopy Colocation, LLC",US,8
 AS400616,"365 Group LLC",US,0
 AS400617,"City of Fountain",US,0
 AS400618,"Prime Security Corp.",US,99
-AS400619,"AROSSCLOUD INC.",US,339
+AS400619,"AROSSCLOUD INC.",US,334
 AS400621,"Yuma Union High School District #70",US,1
 AS400622,"OpticWise, Inc.",US,1
 AS400623,"Albert Einstein College Of Medicine",US,0
@@ -120753,7 +120768,7 @@ AS401061,"Rogers Group, Inc.",US,1
 AS401062,"Hagerstown Community College",US,1
 AS401063,"COLTONTEL",US,9
 AS401064,"sudoblock",US,1
-AS401066,"LowPing",US,3
+AS401066,"LowPing",US,8
 AS401067,"Cyberbria",PH,0
 AS401068,"2l2o, LLC",US,2
 AS401069,"Glovis Alabama",US,1
@@ -120835,7 +120850,7 @@ AS401148,"Aldevron",US,0
 AS401149,"Equity Bank",US,1
 AS401150,"BLUE CROSS & BLUE SHIELD OF MISSISSIPPI, A MUTUAL INSURANCE COMPANY",US,0
 AS401151,"Marion County",US,1
-AS401152,"Ace Data Centers II, L.L.C.",US,235
+AS401152,"Ace Data Centers II, L.L.C.",US,236
 AS401153,"AgVantage Software, Inc",US,1
 AS401154,"Astral Security, Inc.",US,0
 AS401155,"Wigelsworth Consulting Corp",US,2
@@ -120898,7 +120913,7 @@ AS401216,"Astro-Tech",CA,2
 AS401217,"NextPointe",US,0
 AS401219,"Cochise Connect LLC",US,2
 AS401220,"Edgecity 1343 LLC",US,1
-AS401221,"Evergreen",US,0
+AS401221,"Evergreen",US,1
 AS401222,"Block Agenda LLC",US,3
 AS401223,"Federal Election Commission",US,0
 AS401224,"T1 Network LLC",US,7
@@ -120967,7 +120982,7 @@ AS401290,"Louisiana State University at Alexandria",US,3
 AS401291,"RobinsonHSS",US,3
 AS401292,"Fictie",US,0
 AS401293,"FSTcloud",US,11
-AS401294,"RoofSoft LLC",US,2
+AS401294,"RoofSoft LLC",US,3
 AS401295,"Virtuava",MQ,1
 AS401296,"SARA Plus, LLC",US,0
 AS401297,"June Slater",US,2
@@ -121301,7 +121316,7 @@ AS401646,"Guardian Security Systems, Inc.",US,0
 AS401647,"Fro LLC",US,1
 AS401648,"Everi Games Inc.",US,2
 AS401649,"Cyratech Technologies LLC",US,1
-AS401650,"888 Ventures LLC",US,35
+AS401650,"888 Ventures LLC",US,60
 AS401651,"Blue Ant, LLC",US,0
 AS401652,"FOREVER BUCKET, INC.",US,3
 AS401653,"E2open LLC",US,0
@@ -121348,7 +121363,7 @@ AS401696,"cognetcloud INC",US,60
 AS401698,"NORTH JERSEY COMMUNICATIONS LLC",US,1
 AS401699,"Oiz Networks LLC",US,0
 AS401700,"Joy Labs Ventures LLC",US,1
-AS401701,"cognetcloud INC",US,153
+AS401701,"cognetcloud INC",US,157
 AS401702,"Lower Elwha Klallam Tribe",US,0
 AS401703,"Ordinal Advisors LLC",US,2
 AS401704,"JANI-KING INTERNATIONAL, INC.",US,0
@@ -121569,7 +121584,7 @@ AS401923,"Grant County Public Utility District",US,0
 AS401924,"Spokane Public School District No. 81",US,1
 AS401925,"Grapevine Labs LLC",US,1
 AS401926,"L3HARRIS TECHNOLOGIES, INC.",US,0
-AS401927,"NANA NET, LLC",US,2
+AS401927,"NANA NET, LLC",US,6
 AS401928,"DFTC",US,2
 AS401929,"Bankai Group Inc",US,1
 AS401930,"New Terminal One",US,1
@@ -121584,7 +121599,7 @@ AS401938,"NAV CANADA",CA,2
 AS401939,"NexBank",US,1
 AS401940,"H.S.T. SYSTEMS AND TECHNOLOGY, INC.",US,0
 AS401941,"United States Ski & Snowboard",US,0
-AS401942,"Echo911 PSAP 8753",US,0
+AS401942,"Echo911 PSAP 8753",US,1
 AS401943,"Hornetsecurity",US,3
 AS401944,"Vortex Wireless Internet",US,6
 AS401945,"EIDC.NET LLC",US,0
@@ -122312,7 +122327,7 @@ AS402667,"Croan,",US,1
 AS402668,"One",US,2
 AS402669,"Nektrics",US,0
 AS402670,"ScitiX",US,0
-AS402671,"Frontier",US,15
+AS402671,"Frontier",US,13
 AS402672,"Novus",CA,0
 AS402673,"AtomRoute",US,2
 AS402674,"GTRANSLATE",US,1
@@ -122480,7 +122495,7 @@ AS402835,"Linus",CA,1
 AS402836,"primitive.dev",US,0
 AS402837,"Omobio",US,1
 AS402838,"SEH",US,0
-AS402839,"Technologies",CA,1
+AS402839,"Technologies",CA,2
 AS402840,"IronTrail",US,0
 AS402841,"TOPDAR",US,0
 AS402842,"THE",US,0
@@ -122540,12 +122555,12 @@ AS402895,"Genesys",US,0
 AS402896,"Genesys",US,0
 AS402897,"CK",US,2
 AS402898,"ppflight",US,3
-AS402899,"Prestige",US,17
+AS402899,"Prestige",US,18
 AS402900,"City",US,0
 AS402901,"TECHPEAK",CA,1
 AS402902,"Jason",US,6
 AS402903,"Roanoke",US,0
-AS402904,"Prime",US,0
+AS402904,"Prime",US,1
 AS402905,"TDDT,",US,0
 AS402906,"REVISE",US,0
 AS402907,"GeorgeSingh",US,0
@@ -122572,7 +122587,7 @@ AS402927,"University",US,0
 AS402928,"FullControl",US,0
 AS402929,"Figure",US,0
 AS402930,"Technical",US,0
-AS402931,"AdaptGroup",US,22
+AS402931,"AdaptGroup",US,21
 AS402932,"BlueComet",US,1
 AS402933,"Vosmet",US,10
 AS402934,"Columbia",US,0
@@ -122646,7 +122661,7 @@ AS403001,"Mirage",US,5
 AS403002,"Duos",US,0
 AS403003,"FiberNet",US,0
 AS403004,"AirRabbit",US,0
-AS403005,"Blatant",SC,8
+AS403005,"Blatant",SC,9
 AS403006,"Advanced",US,0
 AS403007,"hostivm",US,0
 AS403008,"Netquor",US,0
@@ -122665,3 +122680,14 @@ AS403020,"Hanover",US,0
 AS403021,"Tashri",US,0
 AS403022,"NorthMark",US,0
 AS403023,"IPv4.Global,",US,0
+AS403024,"Hop179",US,0
+AS403025,"Instadart,",US,0
+AS403026,"Fisher",US,0
+AS403027,"CovertHart",US,0
+AS403028,"Artis",US,0
+AS403029,"Ontario",CA,0
+AS403030,"Baltimore",US,0
+AS403031,"r7labs",US,0
+AS403032,"R.D.",US,0
+AS403033,"Prism",US,0
+AS403034,"Layer9i",US,0
