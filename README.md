@@ -10,9 +10,25 @@ atau disalin langsung.
 | `asn_indonesia.csv` | daftar ASN Indonesia: `asn,nama,jumlah_prefix` |
 | `asn_dunia.csv` | daftar semua ASN dunia (~120 rb): `asn,nama,negara,jumlah_prefix`, untuk mencari nomor ASN |
 | `AS<nomor>_<Nama>.csv` | prefix satu ASN, hanya untuk ASN yang ditulis di `asn_tambahan.txt` |
+| `<nama>_versa.csv` | pasangan setiap file prefix di atas dalam format *address file* Versa, isinya sama |
 | `asn_tambahan.txt` | daftar ASN tambahan (negara mana pun), diisi pemilik repo |
 
 URL untuk FortiGate: `https://raw.githubusercontent.com/jamuanfc/ip-indonesia/master/all_indonesia_ips.csv`
+
+## Format Versa
+
+Setiap file prefix (`all_indonesia_ips.csv` dan `AS<nomor>_<Nama>.csv`) punya pasangan `..._versa.csv`
+yang langsung bisa diunggah di Versa Director (*Objects & Connectors > Objects > Custom Objects > Address Files*):
+
+```
+AS8075_Microsoft_Corporation1,ipv4-prefix,1.186.0.0/16
+AS8075_Microsoft_Corporation2,ipv4-prefix,2.58.103.0/24
+AS8075_Microsoft_Corporation1333,ipv6-prefix,2a14:f180:130b::/48
+```
+
+Nama objek = nama file + nomor urut; IPv6 memakai `ipv6-prefix`. Menambah ASN di `asn_tambahan.txt`
+otomatis membuat kedua file (polos + versa). Mengunggah file dengan nama yang sama di Director
+menggantikan seluruh isi file lama.
 
 ## Sumber data (data publik RIPE NCC, 3 unduhan per jalan)
 

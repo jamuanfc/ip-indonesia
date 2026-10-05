@@ -12,6 +12,8 @@ Hasil (prefix: satu per baris, tanpa header, IPv4 lalu IPv6):
   - asn_dunia.csv              daftar semua ASN dunia (asn,nama,negara,jumlah_prefix): tempat mencari
                                nomor ASN sebelum menambahkannya ke asn_tambahan.txt
   - AS<asn>_<Nama>.csv         satu file per ASN yang ditulis di asn_tambahan.txt (Indonesia atau dunia)
+  - <nama>_versa.csv           pasangan setiap file prefix di atas dalam format address-object-file Versa:
+                               '<nama><nomor>,ipv4-prefix|ipv6-prefix,<prefix>' (isi sama dengan file polosnya)
 
 Pengaman: semua dihitung di memori dulu; bila sumber gagal/terlalu kecil, hasil terlalu sedikit,
 atau prefix Indonesia susut > 10% dari hasil sebelumnya, TIDAK ada file yang ditulis dan skrip
@@ -35,6 +37,7 @@ MIN_ROUTES = {4: 500_000, 6: 100_000}
 MIN_ID_ASN = 1_000       # ASN berkode ID (normal ~2.500+)
 MIN_ID_PREFIX = 5_000    # prefix Indonesia (normal ~27 rb)
 WIDEST = {4: 8, 6: 16}   # prefix lebih lebar dari ini ditolak
+VERSA_NAME_MAX = 50      # panjang dasar nama objek Versa (sebelum nomor urut)
 
 BOGON = [ipaddress.ip_network(n) for n in (
     "0.0.0.0/8", "10.0.0.0/8", "100.64.0.0/10", "127.0.0.0/8", "169.254.0.0/16",
@@ -143,6 +146,21 @@ def text(nets):
     return "".join(f"{n}\n" for n in ordered(nets))
 
 
+def versa_name(file_name):
+    return file_name.removesuffix(".csv") + "_versa.csv"
+
+
+def versa_text(file_name, nets):
+    """Format address-object-file Versa: '<nama><nomor>,ipv4-prefix,<prefix>' (ipv6-prefix untuk IPv6)."""
+    base = file_name.removesuffix(".csv")[:VERSA_NAME_MAX]
+    return "".join(f"{base}{i},ipv{n.version}-prefix,{n}\n" for i, n in enumerate(ordered(nets), 1))
+
+
+def with_versa(file_name, nets):
+    """File prefix polos + pasangan Versa-nya, dari himpunan prefix yang sama."""
+    return {file_name: text(nets), versa_name(file_name): versa_text(file_name, nets)}
+
+
 def build(out_dir, cache_dir=None):
     names = parse_asnames(fetch(ASNAMES_URL, cache_dir))
     raw_routes = {}
@@ -162,7 +180,7 @@ def build(out_dir, cache_dir=None):
     all_id = set()
     for asn in id_asns:
         all_id |= routes.get(asn, set())
-    files = {"all_indonesia_ips.csv": text(all_id),
+    files = {**with_versa("all_indonesia_ips.csv", all_id),
              "asn_indonesia.csv": "asn,nama,jumlah_prefix\n" + "".join(
                  f'AS{a},{quoted(names[a][0])},{len(routes.get(a, ()))}\n' for a in id_asns),
              "asn_dunia.csv": "asn,nama,negara,jumlah_prefix\n" + "".join(
@@ -171,7 +189,7 @@ def build(out_dir, cache_dir=None):
     keep = set()
     for asn in sorted(set(extra)):
         if routes.get(asn):
-            files[file_name(asn, names[asn][0])] = text(routes[asn])
+            files.update(with_versa(file_name(asn, names[asn][0]), routes[asn]))
         else:   # sedang tidak terlihat di BGP: file lamanya (bila ada) dibiarkan
             keep |= {n for n in old_files if n.startswith(f"AS{asn}_")}
 
@@ -197,7 +215,7 @@ def build(out_dir, cache_dir=None):
         "asn_indonesia": len(id_asns),
         "asn_indonesia_beriklan": sum(1 for a in id_asns if routes.get(a)),
         "prefix_indonesia": f"{old_count} -> {len(all_id)}",
-        "file_asn_tambahan": f"{len(files) - 3} ditulis, {len(gone)} dihapus, {len(keep)} dipertahankan",
+        "file_asn_tambahan": f"{len(files) - 4} ditulis (polos + versa), {len(gone)} dihapus, {len(keep)} dipertahankan",
         "asn_tambahan": len(extra),
         "asn_tambahan_tanpa_prefix": ", ".join(f"AS{a}" for a in no_route) or "-",
     }

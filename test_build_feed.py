@@ -73,10 +73,13 @@ class Pengaman(unittest.TestCase):
         (self.out / "asn_tambahan.txt").write_text("# komentar\nAS8075   # Microsoft\n")
         self.build()
         f = self.out / "AS8075_Microsoft_Corporation.csv"
+        fv = self.out / "AS8075_Microsoft_Corporation_versa.csv"
         self.assertEqual(f.read_text(), "20.0.0.0/11\n")
+        self.assertEqual(fv.read_text(), "AS8075_Microsoft_Corporation1,ipv4-prefix,20.0.0.0/11\n")
         (self.out / "asn_tambahan.txt").write_text("# kosong\n")
         self.build()
         self.assertFalse(f.exists())
+        self.assertFalse(fv.exists())
 
     def test_asn_tambahan_tanpa_rute_mempertahankan_file_lama(self):
         source(self.src, self.ris4, self.ris6)
@@ -85,6 +88,17 @@ class Pengaman(unittest.TestCase):
         source(self.src, [r for r in self.ris4 if r[0] != 8075], self.ris6)
         self.build()
         self.assertTrue((self.out / "AS8075_Microsoft_Corporation.csv").exists())
+        self.assertTrue((self.out / "AS8075_Microsoft_Corporation_versa.csv").exists())
+
+    def test_versa_sama_dengan_file_polos(self):
+        source(self.src, self.ris4, self.ris6)
+        self.build()
+        plain = (self.out / "all_indonesia_ips.csv").read_text().split()
+        rows = [l.split(",") for l in (self.out / "all_indonesia_ips_versa.csv").read_text().splitlines()]
+        self.assertEqual([r[2] for r in rows], plain)                   # isi + urutan sama
+        self.assertEqual(rows[0], ["all_indonesia_ips1", "ipv4-prefix", plain[0]])
+        self.assertEqual(rows[-1], ["all_indonesia_ips22", "ipv6-prefix", "2001:448a::/32"])
+        self.assertEqual(len({r[0] for r in rows}), len(rows))          # nama objek unik
 
     def test_isi_asn_tambahan_salah_ditolak(self):
         source(self.src, self.ris4, self.ris6)
