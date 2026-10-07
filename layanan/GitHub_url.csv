@@ -1,7 +1,5 @@
 *.actions.githubusercontent.com
 *.api.github.com
-*.azureedge.net
-*.core.windows.net
 *.ghcr.io
 *.github.com
 *.github.dev
@@ -10,12 +8,8 @@
 *.githubassets.com
 *.githubcopilot.com
 *.githubusercontent.com
-*.microsoft.com
-*.msecnd.net
 *.pkg.github.com
-*.visualstudio.com
 *.vscode-webview.net
-*.windows.net
 api.github.com
 broker.actions.githubusercontent.com
 cafe.github.com

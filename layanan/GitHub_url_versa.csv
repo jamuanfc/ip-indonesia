@@ -1,7 +1,5 @@
 patterns,([^/]*\\.)?actions\\.githubusercontent\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?api\\.github\\.com(/.*)?$,trustworthy
-patterns,([^/]*\\.)?azureedge\\.net(/.*)?$,trustworthy
-patterns,([^/]*\\.)?core\\.windows\\.net(/.*)?$,trustworthy
 patterns,([^/]*\\.)?ghcr\\.io(/.*)?$,trustworthy
 patterns,([^/]*\\.)?github\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?github\\.dev(/.*)?$,trustworthy
@@ -10,12 +8,8 @@ patterns,([^/]*\\.)?githubapp\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?githubassets\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?githubcopilot\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?githubusercontent\\.com(/.*)?$,trustworthy
-patterns,([^/]*\\.)?microsoft\\.com(/.*)?$,trustworthy
-patterns,([^/]*\\.)?msecnd\\.net(/.*)?$,trustworthy
 patterns,([^/]*\\.)?pkg\\.github\\.com(/.*)?$,trustworthy
-patterns,([^/]*\\.)?visualstudio\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?vscode-webview\\.net(/.*)?$,trustworthy
-patterns,([^/]*\\.)?windows\\.net(/.*)?$,trustworthy
 string,api.github.com,trustworthy
 string,broker.actions.githubusercontent.com,trustworthy
 string,cafe.github.com,trustworthy
