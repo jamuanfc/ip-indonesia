@@ -19,6 +19,7 @@ dari hasil sebelumnya, TIDAK ada file yang ditulis dan skrip keluar dengan kode 
 layanan hanya dihapus bila barisnya dihapus dari layanan_tambahan.txt.
 """
 import argparse, ipaddress, json, os, re, sys
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -29,7 +30,6 @@ OUT_DIR = "layanan"
 INPUT_FILE = "layanan_tambahan.txt"
 MAX_SHRINK = 0.10              # daftar URL atau IP sebuah layanan boleh susut paling banyak 10%
 URL_REPUTATION = "trustworthy"  # kolom ketiga file URL Versa
-KINDS = ("url", "ip", "url_versa", "ip_versa")
 OUT_FILE = re.compile(r"^(?P<name>.+)_(?:url|ip|url_versa|ip_versa)\.csv$")
 NAME = re.compile(r"^[A-Za-z0-9][A-Za-z0-9_-]{0,39}$")
 DOMAIN = re.compile(r"^(?=.*\.)[a-z0-9*]([a-z0-9*.-]*[a-z0-9])?$")
@@ -54,6 +54,61 @@ def microsoft365(get):
     return urls, ips
 
 
+ZOOM_URL = "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548"
+LD_JSON = re.compile(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', re.S)
+DOMAIN_LIKE = re.compile(r"[*a-z0-9.-]+\.[a-z]{2,}")
+
+
+class TableCells(HTMLParser):
+    """Teks setiap sel <td> (baris baru dari <br> jadi spasi)."""
+    def __init__(self):
+        super().__init__()
+        self.cells, self.cell = [], None
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "td":
+            self.cell = []
+            self.cells.append(self.cell)
+        elif tag == "br" and self.cell is not None:
+            self.cell.append(" ")
+
+    def handle_endtag(self, tag):
+        if tag == "td":
+            self.cell = None
+
+    def handle_data(self, data):
+        if self.cell is not None:
+            self.cell.append(data)
+
+
+def zoom(get):
+    """Artikel KB 'Zoom network firewall or proxy server settings': isi artikel ada di blok JSON-LD
+    (TechArticle.articleBody, HTML). Semua domain dan IP di sel tabel firewall-nya diambil; teks lain
+    (protokol, port, keterangan) diabaikan. File assets.zoom.us/docs/ipranges/*.txt tidak dipakai:
+    isinya sama dengan tabel artikel kecuali ZoomApps.txt (~1.700 IP CloudFront yang dipakai bersama)."""
+    page = get(ZOOM_URL).decode("utf-8", "replace")
+    try:
+        docs = [json.loads(b) for b in LD_JSON.findall(page)]
+    except ValueError as e:
+        raise FeedError(f"Zoom: JSON-LD tidak terbaca: {e}")
+    bodies = [d.get("articleBody") for d in docs if isinstance(d, dict) and d.get("@type") == "TechArticle"]
+    if not bodies or not isinstance(bodies[0], str):
+        raise FeedError("Zoom: isi artikel (JSON-LD TechArticle.articleBody) tidak ditemukan")
+    parser = TableCells()
+    parser.feed(bodies[0])
+    urls, ips = [], []
+    for cell in parser.cells:
+        for token in re.split(r"[\s,]+", "".join(cell)):
+            token = token.strip("()").rstrip(".:;").lower()
+            try:
+                ipaddress.ip_network(token)
+                ips.append(token)
+            except ValueError:
+                if DOMAIN_LIKE.fullmatch(token):
+                    urls.append(token)
+    return urls, ips
+
+
 # (nama bawaan, cocok(host, path, query), fungsi, minimal URL, minimal IP)
 ADAPTERS = [
     ("Microsoft365",
@@ -62,6 +117,9 @@ ADAPTERS = [
                                 and query.get("view", "o365-worldwide") == "o365-worldwide")
      or (host == "endpoints.office.com" and path == "/endpoints/worldwide"),
      microsoft365, 20, 20),
+    ("Zoom",
+     lambda host, path, query: host == "support.zoom.com" and query.get("sysparm_article") == "KB0060548",
+     zoom, 10, 50),
 ]
 
 
@@ -122,9 +180,11 @@ def clean_ips(raw):
 
 
 def versa_pattern(domain):
-    """'*.teams.microsoft.com' -> regex URL Versa: '*' = bagian nama host (tanpa '/'), path boleh apa saja.
+    """'*.teams.microsoft.com' -> regex URL Versa: '*' = bagian nama host (tanpa '/'), path boleh apa saja;
+    '*.' di depan juga mencakup domain induknya (teams.microsoft.com).
     Sesuai dokumentasi Versa, '\\' dan '{' di dalam regex ditulis '\\\\' dan '\\{'."""
-    regex = domain.replace(".", r"\.").replace("*", "[^/]*") + "(/.*)?$"
+    head, rest = (r"([^/]*\.)?", domain[2:]) if domain.startswith("*.") else ("", domain)
+    regex = head + rest.replace(".", r"\.").replace("*", "[^/]*") + "(/.*)?$"
     return regex.replace("\\", "\\\\").replace("{", "\\{")
 
 
