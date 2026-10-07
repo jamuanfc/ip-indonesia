@@ -181,17 +181,27 @@ def webex(get, url):
 
 GITHUB_URL = "https://api.github.com/meta"
 GITHUB_SKIP = {"ssh_keys", "actions", "actions_macos"}   # actions*: ribuan IP Azure yang dipakai bersama
+# Wildcard domain Azure/Microsoft di objek 'domains' (Codespaces, Copilot) yang mencakup layanan pelanggan
+# siapa pun (mis. *.windows.net = semua Azure Storage); domain spesifik di bawahnya tetap diambil.
+GITHUB_SHARED = ("windows.net", "azureedge.net", "msecnd.net", "visualstudio.com", "microsoft.com")
+
+
+def shared_wildcard(domain):
+    base = domain.lstrip("*.")
+    return domain.startswith("*") and any(base == d or base.endswith("." + d) for d in GITHUB_SHARED)
 
 
 def github(get, url):
     """API resmi GitHub /meta: daftar IP per layanan (web, api, git, hooks, ...) dan objek 'domains'.
-    IP runner GitHub Actions tidak dipakai: isinya ribuan range Azure yang dipakai bersama."""
+    IP runner GitHub Actions dan wildcard Azure/Microsoft yang dipakai bersama (GITHUB_SHARED) tidak dipakai;
+    teks lain di daftar /meta (mis. kunci PGP) bukan IP dan dilewati tanpa dilaporkan."""
     data = load_json(get, GITHUB_URL, "GitHub")
     require(isinstance(data, dict) and isinstance(data.get("web"), list) and isinstance(data.get("domains"), dict),
             "GitHub", "kunci 'web' / 'domains' tidak ada")
     ips = [ip for key, val in data.items() if key not in GITHUB_SKIP and isinstance(val, list)
-           for ip in val if isinstance(ip, str)]
-    return [s for s in strings_in(data["domains"]) if s], ips
+           for ip in val if isinstance(ip, str) and not any(c.isspace() for c in ip)]
+    urls = [s for s in strings_in(data["domains"]) if s and not shared_wildcard(s)]
+    return urls, ips
 
 
 ATLASSIAN_DOC = "https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/"
@@ -426,7 +436,8 @@ def service_files(name, url, fn, min_urls, min_ips, get, out_dir):
                       f"{name}_url_versa.csv": url_versa_text(urls)})
     skipped = bad_urls + bad_ips
     summary = (f"{len(urls)} URL ({sum('*' in d for d in urls)} wildcard), {len(ips)} IP"
-               + (f"; dilewati {len(skipped)}: {', '.join(skipped[:10])}" if skipped else ""))
+               + (f"; dilewati {len(skipped)}: {', '.join(' '.join(s.split())[:60] for s in skipped[:10])}"
+                  if skipped else ""))
     return files, summary
 
 
