@@ -1,11 +1,28 @@
 # Layanan tambahan: satu layanan per baris, '[Nama] <URL halaman vendor>'; teks setelah " #" diabaikan.
-# Setelah file ini disimpan (Commit changes), GitHub Actions membuat 4 file di folder layanan/:
+# Setelah file ini disimpan (Commit changes), GitHub Actions membuat file di folder layanan/:
 #   <Nama>_url.csv, <Nama>_ip.csv, <Nama>_url_versa.csv, <Nama>_ip_versa.csv
+#   (vendor yang hanya menerbitkan IP: hanya <Nama>_ip.csv dan <Nama>_ip_versa.csv)
 # Nama boleh dikosongkan (dipakai nama bawaan sumbernya); hanya huruf, angka, _ dan -.
 # Menghapus baris = keempat file layanan itu ikut dihapus pada jalan berikutnya.
 #
 # Sumber yang sudah didukung (URL lain ditolak sampai adapternya dibuat di build_layanan.py):
 #   Microsoft365  https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
 #   Zoom          https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548
+#   Webex         https://help.webex.com/en-us/article/WBX000028782/Network-Requirements-for-Webex-Services
+#   GitHub        https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses
+#   Atlassian     https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/
+#   Google        https://www.gstatic.com/ipranges/goog.json                       (IP saja)
+#   Okta          https://s3.amazonaws.com/okta-ip-ranges/ip_ranges.json           (IP saja)
+#   Salesforce    https://ip-ranges.salesforce.com/ip-ranges.json                  (IP saja)
+#   Cloudflare_InboundOnly  https://www.cloudflare.com/ips/                        (IP saja, HANYA untuk trafik masuk)
+#   Zscaler       https://config.zscaler.com/zscaler.net/cenr                      (IP saja; ganti zscaler.net dengan cloud Anda)
 Microsoft365 https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
 Zoom https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548
+Webex https://help.webex.com/en-us/article/WBX000028782/Network-Requirements-for-Webex-Services
+GitHub https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses
+Atlassian https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/
+Google https://www.gstatic.com/ipranges/goog.json
+Okta https://s3.amazonaws.com/okta-ip-ranges/ip_ranges.json
+Salesforce https://ip-ranges.salesforce.com/ip-ranges.json
+Cloudflare_InboundOnly https://www.cloudflare.com/ips/
+Zscaler https://config.zscaler.com/zscaler.net/cenr
