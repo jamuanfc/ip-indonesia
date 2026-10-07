@@ -78,8 +78,11 @@ def github_meta():
         "ssh_keys": ["ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl"],
         "hooks": ["192.30.252.0/22"], "web": [f"140.82.{i}.0/24" for i in range(25)], "api": ["2a0a:a440::/29"],
         "git": ["140.82.0.0/24"], "packages": ["140.82.121.33/32"],
+        "web_commit_signing": ["-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nxsBNBFmUaEEBCACzXTDt6Zny\n-----END PGP"],
         "actions": [f"4.{i}.0.0/16" for i in range(200)], "actions_macos": ["13.105.117.0/31"],
         "domains": {"website": ["*.github.com", "*.github.dev", "*.githubusercontent.com"],
+                    "codespaces": ["*.github.dev", "*.windows.net", "*.core.windows.net", "*.azureedge.net",
+                                   "*.microsoft.com", "*.visualstudio.com", "*.vscode-webview.net"],
                     "copilot": ["*.githubcopilot.com"], "packages": ["ghcr.io", "*.pkg.github.com"],
                     "actions": ["*.actions.githubusercontent.com", "productionresultssa0.blob.core.windows.net"],
                     "actions_inbound": {"full_domains": ["github.com", "api.github.com", "codeload.github.com"],
@@ -200,6 +203,10 @@ class Layanan(unittest.TestCase):
         summary, failed = self.build()
         self.assertEqual(failed, {})
         self.assertIn("dilewati 4", summary["Microsoft365"])
+        self.sources[bl.M365_URL] = m365(extra_ips=["BEGIN KEY\n" + "x" * 500])
+        summary, _ = self.build()
+        self.assertNotIn("\n", summary["Microsoft365"])           # entri berbaris banyak diringkas satu baris
+        self.assertLess(len(summary["Microsoft365"]), 200)
         self.assertNotIn("10.0.0.0/8", self.read("Microsoft365_ip.csv"))
 
     def test_susut_lebih_dari_10_persen_tidak_menulis(self):
@@ -309,13 +316,17 @@ class Layanan(unittest.TestCase):
     def test_github(self):
         self.sources[bl.GITHUB_URL] = github_meta()
         summary, _ = self.build(f"{GITHUB}\n")
-        self.assertNotIn("dilewati", summary["GitHub"])           # ssh_keys / trust_domain "" tidak dilaporkan
+        self.assertNotIn("dilewati", summary["GitHub"])           # ssh_keys, kunci PGP, trust_domain "" tidak dilaporkan
         ips = self.read("GitHub_ip.csv")
         self.assertEqual(len(ips), 28)                             # git 140.82.0.0/24 sama dengan web
         self.assertNotIn("4.0.0.0/16", ips)                        # IP runner Actions (Azure) tidak ikut
         self.assertNotIn("13.105.117.0/31", ips)
         urls = self.read("GitHub_url.csv")
-        self.assertEqual(len(urls), 12)                            # domains bersarang ikut, duplikat dibuang
+        self.assertEqual(len(urls), 13)                            # domains bersarang ikut, duplikat dibuang
+        for shared in ("*.windows.net", "*.core.windows.net", "*.azureedge.net", "*.microsoft.com", "*.visualstudio.com"):
+            self.assertNotIn(shared, urls)                         # wildcard Azure/Microsoft yang dipakai bersama
+        self.assertIn("productionresultssa0.blob.core.windows.net", urls)   # domain spesifik tetap ikut
+        self.assertIn("*.vscode-webview.net", urls)
         self.assertIn("ghcr.io", urls)
         self.assertIn("*.ghcr.io", urls)
 
