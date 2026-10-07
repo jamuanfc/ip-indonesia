@@ -55,7 +55,8 @@ feed ASN di atas tidak terpengaruh bila feed layanan gagal.
 1. Buka `layanan_tambahan.txt` -> ikon pensil -> tulis `Nama URL` satu per baris, mis.
    `Microsoft365 https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide`
    -> *Commit changes*.
-2. Sekitar satu menit kemudian folder `layanan/` berisi empat file:
+2. Sekitar satu menit kemudian folder `layanan/` berisi empat file (vendor yang hanya menerbitkan IP:
+   dua file `_ip` saja):
 
 | File | Isi | Dipakai di |
 |---|---|---|
@@ -70,7 +71,7 @@ semua subdomainnya (`\` ditulis `\\` sesuai aturan Versa).
 
 Tiap URL harus dikenali oleh *adapter* di `build_layanan.py` yang mengambil data dari sumber resmi
 yang bisa dibaca mesin, bukan dari HTML halaman. URL yang belum punya adapter membuat run gagal
-dengan pesan "sumber belum didukung". Yang sudah didukung:
+dengan pesan "sumber belum didukung". Yang sudah didukung (URL lengkapnya ada di `layanan_tambahan.txt`):
 
 - **Microsoft 365** (worldwide): halaman di atas -> web service resmi `endpoints.office.com`, semua endpoint
   (semua kategori dan service area).
@@ -78,6 +79,23 @@ dengan pesan "sumber belum didukung". Yang sudah didukung:
   di tabel firewall artikel itu (termasuk domain pihak ketiga yang dicantumkan Zoom, mis. `gstatic.com` dan
   server CRL/OCSP sertifikat). File `assets.zoom.us/docs/ipranges/ZoomApps.txt` sengaja tidak dipakai: isinya
   ~1.700 IP CloudFront yang dipakai bersama banyak situs lain.
+- **Webex**: artikel *Network Requirements for Webex Services* -> domain (kolom pertama) dan IP dari tabelnya,
+  kecuali tabel riwayat revisi (berisi IP lama yang sudah dihapus).
+- **GitHub**: API resmi `api.github.com/meta` -> IP semua layanan dan objek `domains`. IP runner GitHub Actions
+  tidak dipakai (ribuan range Azure yang dipakai bersama).
+- **Atlassian**: artikel *IP addresses and domains for Atlassian cloud products* (domain) + JSON resmi
+  `ip-ranges.atlassian.com` (IP). Atlassian Government Cloud (AS) tidak diambil.
+
+Hanya IP (vendor tidak menerbitkan daftar domain yang bisa dibaca mesin):
+
+- **Google**: `goog.json` dikurangi `cloud.json`, sesuai anjuran Google: IP semua layanan Google (Search,
+  Workspace, YouTube, ...) tanpa IP pelanggan Google Cloud. Tidak ada daftar khusus Workspace.
+- **Okta**: JSON resmi, semua *cell* (cell org Anda tidak diketahui skrip).
+- **Salesforce**: JSON resmi `ip-ranges.salesforce.com`, semua region.
+- **Cloudflare_InboundOnly**: IP proxy Cloudflare. **Hanya untuk mengizinkan trafik MASUK** dari Cloudflare
+  ke server Anda: IP ini dipakai bersama jutaan situs, jadi jangan dipakai sebagai allowlist keluar.
+- **Zscaler**: `config.zscaler.com` untuk cloud di URL (`zscaler.net`, `zscalertwo.net`, ...): Cloud
+  Enforcement Node Ranges semua kota + svpnIPs + range *future* yang dianjurkan Zscaler.
 
 ## Pengaman
 
@@ -85,4 +103,5 @@ Bila sumber gagal diunduh atau terlalu kecil, hasil terlalu sedikit, atau prefix
 dari 10% dibanding hari sebelumnya, tidak ada file yang diubah: run ditandai gagal dan GitHub mengirim
 email ke pemilik repo. Commit hanya dibuat bila isi berubah. Uji: `python3 test_build_feed.py`.
 Feed layanan memakai pengaman yang sama (sumber gagal atau rusak, hasil terlalu sedikit, daftar URL atau IP
-susut lebih dari 10%). Uji: `python3 test_build_layanan.py`.
+susut lebih dari 10%), per layanan: file layanan yang gagal tidak diubah, layanan lain tetap diperbarui,
+dan run tetap ditandai gagal (email). Uji: `python3 test_build_layanan.py`.

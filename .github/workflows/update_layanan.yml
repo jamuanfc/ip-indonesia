@@ -25,10 +25,12 @@ jobs:
       - name: Uji pengaman skrip
         run: python3 test_build_layanan.py
 
-      - name: Bangun feed layanan (gagal = tidak ada file yang diubah)
+      - name: Bangun feed layanan (layanan yang gagal tidak diubah)
+        id: build
         run: python3 build_layanan.py
 
-      - name: Commit bila berubah
+      - name: Commit bila berubah (juga bila sebagian layanan gagal)
+        if: ${{ !cancelled() && steps.build.outcome != 'skipped' }}
         run: |
           git config user.name "ip-feed-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
