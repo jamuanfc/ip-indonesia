@@ -65,7 +65,8 @@ feed ASN di atas tidak terpengaruh bila feed layanan gagal.
 | `<Nama>_ip_versa.csv` | `<Nama>_ip1,ipv4-prefix,<prefix>` | Versa *Address Files* |
 
 Contoh regex Versa: `*.protection.outlook.com` ->
-`patterns,[^/]*\\.protection\\.outlook\\.com(/.*)?$,trustworthy` (`\` ditulis `\\` sesuai aturan Versa).
+`patterns,([^/]*\\.)?protection\\.outlook\\.com(/.*)?$,trustworthy`: cocok dengan `protection.outlook.com` dan
+semua subdomainnya (`\` ditulis `\\` sesuai aturan Versa).
 
 Tiap URL harus dikenali oleh *adapter* di `build_layanan.py` yang mengambil data dari sumber resmi
 yang bisa dibaca mesin, bukan dari HTML halaman. URL yang belum punya adapter membuat run gagal
@@ -73,6 +74,10 @@ dengan pesan "sumber belum didukung". Yang sudah didukung:
 
 - **Microsoft 365** (worldwide): halaman di atas -> web service resmi `endpoints.office.com`, semua endpoint
   (semua kategori dan service area).
+- **Zoom**: `https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548` -> semua domain dan IP
+  di tabel firewall artikel itu (termasuk domain pihak ketiga yang dicantumkan Zoom, mis. `gstatic.com` dan
+  server CRL/OCSP sertifikat). File `assets.zoom.us/docs/ipranges/ZoomApps.txt` sengaja tidak dipakai: isinya
+  ~1.700 IP CloudFront yang dipakai bersama banyak situs lain.
 
 ## Pengaman
 

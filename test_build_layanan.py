@@ -7,6 +7,7 @@ import build_layanan as bl
 from build_feed import FeedError
 
 DOCS = "https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide"
+ZOOM = "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548"
 
 
 def m365(n_urls=30, n_ips=30, extra_urls=(), extra_ips=()):
@@ -24,6 +25,27 @@ def m365(n_urls=30, n_ips=30, extra_urls=(), extra_ips=()):
         {"id": 4, "serviceArea": "Common", "urls": ["OUTLOOK.office.com"], "category": "Allow",
          "required": True},                                       # duplikat beda huruf
     ]).encode()
+
+
+def zoom_page(n_ips=60, article=True):
+    """Halaman KB Zoom tiruan: isi artikel (HTML) di JSON-LD TechArticle.articleBody, seperti aslinya."""
+    ips = "<br />".join(f"170.114.{i}.0/24" for i in range(n_ips))
+    body = (
+        "<p>Lihat tabel. Versi 5.0, mis. port 8801.</p><h3>Firewall rules for Zoom</h3><table><thead><tr>"
+        "<th>Protocol</th><th>Ports</th><th>Source</th><th>Destination</th></tr></thead><tbody>"
+        "<tr><td>TCP</td><td>80, 443</td><td>All Zoom Clients <br />User's web browser</td>"
+        "<td>*.zoom.us <br />*.ZOOM.com<br />cdn.cookielaw.org<br />gstatic.com</td></tr></tbody></table>"
+        "<h3>Meetings</h3><table><tbody><tr><td>UDP</td><td>3478, 3479, 8801 - 8810</td><td>All Zoom clients</td>"
+        f"<td>IPv4: <br />{ips}<br />IPv6:<br />2620:123:2000::/40</td></tr>"
+        "<tr><td>TCP</td><td>443</td><td>IPv4: <br />3.9.26.103<br /></td>"
+        "<td>Specified endpoint from Network requests defined in Zoom Flow Script widget</td></tr>"
+        + "".join(f"<tr><td>HTTP</td><td>80</td><td>Zoom client</td><td>crl{i}.digicert.com</td></tr>"
+                  for i in range(10))
+        + "</tbody></table>")
+    ld = {"@context": "https://schema.org", "@type": "TechArticle" if article else "WebPage",
+          "headline": "Zoom network firewall or proxy server settings", "articleBody": body}
+    return (f'<html><head><script custom-tag="" type="application/ld+json">{json.dumps(ld)}</script>'
+            '</head><body><div id="app"></div></body></html>').encode()
 
 
 class Layanan(unittest.TestCase):
@@ -63,16 +85,17 @@ class Layanan(unittest.TestCase):
         rows = self.read("Microsoft365_url_versa.csv")
         self.assertEqual(len(rows), len(self.read("Microsoft365_url.csv")))
         self.assertIn("string,outlook.office.com,trustworthy", rows)
-        self.assertIn(r"patterns,[^/]*\\.protection\\.outlook\\.com(/.*)?$,trustworthy", rows)
+        self.assertIn(r"patterns,([^/]*\\.)?protection\\.outlook\\.com(/.*)?$,trustworthy", rows)
         self.assertIn(r"patterns,autodiscover\\.[^/]*\\.onmicrosoft\\.com(/.*)?$,trustworthy", rows)
         self.assertTrue(all(len(r.split(",")) == 3 for r in rows))
 
     def test_regex_versa_cocok_dengan_url_yang_dimaksud(self):
         import re
         regex = bl.versa_pattern("*.protection.outlook.com").replace("\\\\", "\\")   # buang escape Versa
-        for ok in ("x.protection.outlook.com", "a.b.protection.outlook.com/path?q=1"):
+        for ok in ("x.protection.outlook.com", "a.b.protection.outlook.com/path?q=1", "protection.outlook.com"):
             self.assertTrue(re.fullmatch(regex, ok), ok)
-        for bad in ("protection.outlook.com.evil.com", "evil.com/x.protection.outlook.com", "xprotection-outlook.com"):
+        for bad in ("protection.outlook.com.evil.com", "evil.com/x.protection.outlook.com", "xprotection-outlook.com",
+                    "evilprotection.outlook.com"):
             self.assertFalse(re.fullmatch(regex, bad), bad)
 
     def test_ip_versa_sama_dengan_file_polos(self):
@@ -117,8 +140,32 @@ class Layanan(unittest.TestCase):
         self.build("# kosong\n")
         self.assertEqual(list(self.out.iterdir()), [])
 
+    def test_zoom_dari_tabel_artikel_kb(self):
+        self.body = zoom_page()
+        self.build(f"{ZOOM}\n")
+        self.assertEqual(self.calls, [bl.ZOOM_URL])
+        urls = self.read("Zoom_url.csv")
+        self.assertEqual(urls[:4], ["*.zoom.com", "*.zoom.us", "cdn.cookielaw.org", "crl0.digicert.com"])
+        self.assertEqual(len(urls), 14)                            # teks lain (port, "5.0", keterangan) diabaikan
+        ips = self.read("Zoom_ip.csv")
+        self.assertEqual(len(ips), 62)
+        self.assertEqual(ips[0], "3.9.26.103/32")                  # IP tunggal dari kolom Source ikut
+        self.assertEqual(ips[-1], "2620:123:2000::/40")
+        self.assertIn(r"patterns,([^/]*\\.)?zoom\\.us(/.*)?$,trustworthy", self.read("Zoom_url_versa.csv"))
+
+    def test_zoom_halaman_berubah_tidak_menulis(self):
+        for body, why in ((b"<html><div id='app'></div></html>", "tidak ditemukan"),
+                          (zoom_page(article=False), "tidak ditemukan"),
+                          (b'<script type="application/ld+json">{rusak</script>', "JSON-LD"),
+                          (zoom_page(n_ips=10), "minimal")):
+            self.body = body
+            with self.assertRaisesRegex(FeedError, why):
+                self.build(f"Zoom {ZOOM}\n")
+            self.assertFalse(self.out.exists())
+
     def test_input_salah_ditolak(self):
-        for line, why in (("Zoom https://support.zoom.com/hc/en/article?id=zm_kb\n", "belum didukung"),
+        for line, why in (("Zoom https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0000001\n",
+                           "belum didukung"),
                           ("https://learn.microsoft.com/en-us/microsoft-365/enterprise/"
                            "urls-and-ip-address-ranges?view=o365-21vianet\n", "belum didukung"),
                           ("Microsoft365\n", "Nama"), ("rm -rf / " + DOCS + "\n", "Nama"),
