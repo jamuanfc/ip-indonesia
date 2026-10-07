@@ -1,0 +1,45 @@
+name: Update feed layanan
+
+on:
+  schedule:
+    - cron: "20 22 * * *"         # 05:20 WIB setiap hari (setelah feed ASN)
+  push:
+    branches: [master]
+    paths: [layanan_tambahan.txt, build_layanan.py, test_build_layanan.py, build_feed.py]
+  workflow_dispatch:               # tombol "Run workflow" di tab Actions
+
+permissions:
+  contents: write                  # hanya untuk commit hasil ke repo ini
+
+concurrency:
+  group: update-layanan
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Uji pengaman skrip
+        run: python3 test_build_layanan.py
+
+      - name: Bangun feed layanan (gagal = tidak ada file yang diubah)
+        run: python3 build_layanan.py
+
+      - name: Commit bila berubah
+        run: |
+          git config user.name "ip-feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- layanan
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan."
+            exit 0
+          fi
+          git commit -m "Update feed layanan - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do               # workflow feed ASN bisa push di saat yang sama
+            git pull --rebase --autostash && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1

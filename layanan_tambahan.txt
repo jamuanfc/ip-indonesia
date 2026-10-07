@@ -1,0 +1,9 @@
+# Layanan tambahan: satu layanan per baris, '[Nama] <URL halaman vendor>'; teks setelah " #" diabaikan.
+# Setelah file ini disimpan (Commit changes), GitHub Actions membuat 4 file di folder layanan/:
+#   <Nama>_url.csv, <Nama>_ip.csv, <Nama>_url_versa.csv, <Nama>_ip_versa.csv
+# Nama boleh dikosongkan (dipakai nama bawaan sumbernya); hanya huruf, angka, _ dan -.
+# Menghapus baris = keempat file layanan itu ikut dihapus pada jalan berikutnya.
+#
+# Sumber yang sudah didukung (URL lain ditolak sampai adapternya dibuat di build_layanan.py):
+#   Microsoft365  https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
+Microsoft365 https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
