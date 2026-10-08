@@ -19,10 +19,10 @@ Zoom_ip18,ipv4-prefix,3.75.143.208/32
 Zoom_ip19,ipv4-prefix,3.131.46.142/32
 Zoom_ip20,ipv4-prefix,3.141.189.66/32
 Zoom_ip21,ipv4-prefix,3.235.82.0/23
-Zoom_ip22,ipv4-prefix,3.235.96.0/23
-Zoom_ip23,ipv4-prefix,3.237.150.230/32
-Zoom_ip24,ipv4-prefix,5.60.131.160/27
-Zoom_ip25,ipv4-prefix,8.5.128.0/24
+Zoom_ip22,ipv4-prefix,3.235.96.26/31
+Zoom_ip23,ipv4-prefix,3.235.96.158/31
+Zoom_ip24,ipv4-prefix,3.237.150.230/32
+Zoom_ip25,ipv4-prefix,5.60.131.160/27
 Zoom_ip26,ipv4-prefix,13.37.194.4/32
 Zoom_ip27,ipv4-prefix,13.38.195.93/32
 Zoom_ip28,ipv4-prefix,13.43.145.150/32
@@ -58,7 +58,7 @@ Zoom_ip57,ipv4-prefix,52.61.100.128/25
 Zoom_ip58,ipv4-prefix,52.84.151.0/24
 Zoom_ip59,ipv4-prefix,64.211.144.0/24
 Zoom_ip60,ipv4-prefix,64.224.32.0/19
-Zoom_ip61,ipv4-prefix,69.174.108.0/22
+Zoom_ip61,ipv4-prefix,69.174.110.0/23
 Zoom_ip62,ipv4-prefix,79.72.2.74/32
 Zoom_ip63,ipv4-prefix,84.8.109.27/32
 Zoom_ip64,ipv4-prefix,84.8.121.192/32
