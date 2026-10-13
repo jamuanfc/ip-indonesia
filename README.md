@@ -65,6 +65,14 @@ feed ASN di atas tidak terpengaruh bila feed layanan gagal.
 | `<Nama>_url_versa.csv` | `string,<fqdn>,trustworthy`; domain wildcard jadi `patterns,<regex>,trustworthy` | Versa *URL Category* (unggah file) |
 | `<Nama>_ip_versa.csv` | `<Nama>_ip1,ipv4-prefix,<prefix>` | Versa *Address Files* |
 
+Folder `layanan/` juga berisi dua file JSON untuk aplikasi lain (mis. panel di server lokal), diperbarui
+setiap run dan hanya di-commit bila isinya berubah:
+
+| File | Isi |
+|---|---|
+| `layanan/sumber.json` | sumber yang didukung: `nama`, `url`, `domain` (ada daftar domain atau hanya IP), `keterangan`, `baris` (baris siap tempel ke `layanan_tambahan.txt`) |
+| `layanan/status.json` | hasil terakhir tiap layanan di `layanan_tambahan.txt`: `nama`, `sumber`, `status` (`ok`/`gagal`), `pesan`, `jumlah_url`, `jumlah_ip`, `dilewati`, `file` |
+
 Contoh regex Versa: `*.protection.outlook.com` ->
 `patterns,([^/]*\\.)?protection\\.outlook\\.com(/.*)?$,trustworthy`: cocok dengan `protection.outlook.com` dan
 semua subdomainnya (`\` ditulis `\\` sesuai aturan Versa).
