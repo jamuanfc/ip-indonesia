@@ -13,6 +13,9 @@ Hasil di folder layanan/, per layanan (tanpa header):
                            'patterns,<regex>,<reputasi>' untuk domain dengan wildcard
   - <Nama>_ip_versa.csv    file address object Versa, format sama dengan feed ASN (build_feed.py)
 Vendor yang hanya menerbitkan IP (Google, Okta, Salesforce, Cloudflare, Zscaler) hanya punya dua file _ip.
+Untuk aplikasi lain (mis. panel di server lokal) yang membaca repo ini:
+  - layanan/sumber.json    daftar sumber yang didukung (nama bawaan, URL, ada domain atau tidak, keterangan)
+  - layanan/status.json    hasil terakhir tiap layanan di layanan_tambahan.txt (ok/gagal, jumlah, file)
 
 Pengaman: semua dihitung di memori dulu. Bila sumber sebuah layanan gagal diunduh atau tidak sesuai
 format, hasilnya di bawah minimum adapter, atau daftar URL/IP-nya susut > 10% dari hasil sebelumnya,
@@ -21,6 +24,7 @@ Kesalahan di layanan_tambahan.txt menghentikan semuanya sebelum ada file yang di
 layanan hanya dihapus bila barisnya dihapus dari layanan_tambahan.txt.
 """
 import argparse, ipaddress, json, os, re, sys
+from collections import namedtuple
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -316,42 +320,70 @@ def at(host, *paths):
     return lambda h, p, q: h == host and (not paths or p in paths)
 
 
-# (nama bawaan, cocok(host, path, query), fungsi, minimal URL, minimal IP)
+# nama bawaan, URL untuk layanan_tambahan.txt, keterangan (ikut ke layanan/sumber.json), cocok(host, path, query),
+# fungsi, minimal URL (0 = vendor hanya menerbitkan IP), minimal IP
+Adapter = namedtuple("Adapter", "nama url keterangan cocok fn min_urls min_ips")
 ADAPTERS = [
-    ("Microsoft365",
-     lambda h, p, q: (h == "learn.microsoft.com" and p.endswith("/microsoft-365/enterprise/urls-and-ip-address-ranges")
-                      and q.get("view", "o365-worldwide") == "o365-worldwide")
-     or at("endpoints.office.com", "/endpoints/worldwide")(h, p, q),
-     microsoft365, 20, 20),
-    ("Zoom", lambda h, p, q: h == "support.zoom.com" and q.get("sysparm_article") == "KB0060548", zoom, 10, 50),
-    ("Webex", lambda h, p, q: h == "help.webex.com" and "/WBX000028782" in p, webex, 20, 20),
-    ("GitHub",
-     lambda h, p, q: at("api.github.com", "/meta")(h, p, q)
-     or (h == "docs.github.com" and p.endswith("/about-githubs-ip-addresses")),
-     github, 10, 20),
-    ("Atlassian",
-     lambda h, p, q: h == "support.atlassian.com" and p.endswith("/ip-addresses-and-domains-for-atlassian-cloud-products")
-     or at("ip-ranges.atlassian.com", "")(h, p, q),
-     atlassian, 10, 50),
-    ("Google", at("www.gstatic.com", "/ipranges/goog.json"), google, 0, 50),
-    ("Okta", at("s3.amazonaws.com", "/okta-ip-ranges/ip_ranges.json"), okta, 0, 100),
-    ("Salesforce", at("ip-ranges.salesforce.com", "/ip-ranges.json"), salesforce, 0, 10),
-    ("Cloudflare_InboundOnly",
-     lambda h, p, q: at("www.cloudflare.com", "/ips", "/ips-v4", "/ips-v6")(h, p, q)
-     or at("api.cloudflare.com", "/client/v4/ips")(h, p, q),
-     cloudflare, 0, 10),
-    ("Zscaler", lambda h, p, q: h == "config.zscaler.com" and zscaler_cloud("https://x" + p) is not None,
-     zscaler, 0, 100),
+    Adapter("Microsoft365",
+            "https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide",
+            "Semua endpoint Microsoft 365 worldwide, dari web service resmi endpoints.office.com.",
+            lambda h, p, q: (h == "learn.microsoft.com"
+                             and p.endswith("/microsoft-365/enterprise/urls-and-ip-address-ranges")
+                             and q.get("view", "o365-worldwide") == "o365-worldwide")
+            or at("endpoints.office.com", "/endpoints/worldwide")(h, p, q),
+            microsoft365, 20, 20),
+    Adapter("Zoom", ZOOM_URL,
+            "Domain dan IP dari tabel firewall artikel KB Zoom, termasuk domain pihak ketiga yang dicantumkan Zoom.",
+            lambda h, p, q: h == "support.zoom.com" and q.get("sysparm_article") == "KB0060548", zoom, 10, 50),
+    Adapter("Webex", WEBEX_URL,
+            "Domain dan IP dari artikel Network Requirements for Webex Services.",
+            lambda h, p, q: h == "help.webex.com" and "/WBX000028782" in p, webex, 20, 20),
+    Adapter("GitHub",
+            "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses",
+            "IP dan domain dari API api.github.com/meta, tanpa IP runner Actions dan wildcard Azure bersama.",
+            lambda h, p, q: at("api.github.com", "/meta")(h, p, q)
+            or (h == "docs.github.com" and p.endswith("/about-githubs-ip-addresses")),
+            github, 10, 20),
+    Adapter("Atlassian", ATLASSIAN_DOC,
+            "Domain dari artikel Atlassian dan IP dari ip-ranges.atlassian.com, tanpa Atlassian Government Cloud.",
+            lambda h, p, q: h == "support.atlassian.com"
+            and p.endswith("/ip-addresses-and-domains-for-atlassian-cloud-products")
+            or at("ip-ranges.atlassian.com", "")(h, p, q),
+            atlassian, 10, 50),
+    Adapter("Google", GOOGLE_URL,
+            "IP semua layanan Google (goog.json dikurangi cloud.json). Tanpa daftar domain.",
+            at("www.gstatic.com", "/ipranges/goog.json"), google, 0, 50),
+    Adapter("Okta", OKTA_URL, "IP semua cell Okta. Tanpa daftar domain.",
+            at("s3.amazonaws.com", "/okta-ip-ranges/ip_ranges.json"), okta, 0, 100),
+    Adapter("Salesforce", SALESFORCE_URL, "IP semua region Salesforce. Tanpa daftar domain.",
+            at("ip-ranges.salesforce.com", "/ip-ranges.json"), salesforce, 0, 10),
+    Adapter("Cloudflare_InboundOnly", "https://www.cloudflare.com/ips/",
+            "IP proxy Cloudflare, HANYA untuk mengizinkan trafik masuk (dipakai bersama jutaan situs). "
+            "Tanpa daftar domain.",
+            lambda h, p, q: at("www.cloudflare.com", "/ips", "/ips-v4", "/ips-v6")(h, p, q)
+            or at("api.cloudflare.com", "/client/v4/ips")(h, p, q),
+            cloudflare, 0, 10),
+    Adapter("Zscaler", "https://config.zscaler.com/zscaler.net/cenr",
+            "IP Cloud Enforcement Node (+ svpn dan future) untuk cloud di URL; ganti zscaler.net dengan cloud "
+            "Anda (mis. zscalertwo.net). Tanpa daftar domain.",
+            lambda h, p, q: h == "config.zscaler.com" and zscaler_cloud("https://x" + p) is not None,
+            zscaler, 0, 100),
 ]
 
 
 def adapter_for(url):
     parts = urlsplit(url)
     query = dict(p.split("=", 1) for p in parts.query.split("&") if "=" in p)
-    for default_name, match, fn, min_urls, min_ips in ADAPTERS:
-        if match(parts.hostname or "", parts.path.rstrip("/"), query):
-            return default_name, fn, min_urls, min_ips
+    for adapter in ADAPTERS:
+        if adapter.cocok(parts.hostname or "", parts.path.rstrip("/"), query):
+            return adapter
     return None
+
+
+def sources_json():
+    """layanan/sumber.json: sumber yang didukung, untuk pilihan dan validasi di aplikasi lain."""
+    return [{"nama": a.nama, "url": a.url, "domain": a.min_urls > 0, "keterangan": a.keterangan,
+             "baris": f"{a.nama} {a.url}"} for a in ADAPTERS]
 
 
 # ---------------------------------------------------------------- olah hasil adapter
@@ -370,13 +402,13 @@ def read_input(path):
         found = adapter_for(tokens[-1])
         if not found:
             raise FeedError(f"{path.name} baris {n}: sumber belum didukung (belum ada adapter): {tokens[-1]}")
-        name = tokens[0] if len(tokens) == 2 else found[0]
+        name = tokens[0] if len(tokens) == 2 else found.nama
         if not NAME.match(name):
             raise FeedError(f"{path.name} baris {n}: nama '{name}' hanya boleh huruf, angka, _ dan - (maks 40)")
         if name.lower() in seen:
             raise FeedError(f"{path.name} baris {n}: nama '{name}' dipakai dua kali")
         seen.add(name.lower())
-        entries.append((name, tokens[-1], *found[1:]))
+        entries.append((name, tokens[-1], found.fn, found.min_urls, found.min_ips))
     return entries
 
 
@@ -420,7 +452,7 @@ def count_lines(path):
 
 
 def service_files(name, url, fn, min_urls, min_ips, get, out_dir):
-    """File satu layanan + ringkasannya; FeedError bila sumber/hasilnya tidak lolos pengaman."""
+    """File satu layanan + ringkasan + data status-nya; FeedError bila sumber/hasilnya tidak lolos pengaman."""
     raw_urls, raw_ips = fn(get, url)
     urls, bad_urls = clean_urls(raw_urls)
     ips, bad_ips = clean_ips(raw_ips)
@@ -434,24 +466,37 @@ def service_files(name, url, fn, min_urls, min_ips, get, out_dir):
     if urls:
         files.update({f"{name}_url.csv": "".join(f"{d}\n" for d in urls),
                       f"{name}_url_versa.csv": url_versa_text(urls)})
-    skipped = bad_urls + bad_ips
+    skipped = [" ".join(s.split())[:60] for s in bad_urls + bad_ips]
     summary = (f"{len(urls)} URL ({sum('*' in d for d in urls)} wildcard), {len(ips)} IP"
-               + (f"; dilewati {len(skipped)}: {', '.join(' '.join(s.split())[:60] for s in skipped[:10])}"
-                  if skipped else ""))
-    return files, summary
+               + (f"; dilewati {len(skipped)}: {', '.join(skipped[:10])}" if skipped else ""))
+    status = {"status": "ok", "pesan": "", "jumlah_url": len(urls), "jumlah_ip": len(ips),
+              "dilewati": skipped[:10]}
+    return files, summary, status
+
+
+def write_json(path, data):
+    tmp = path.with_name(f".{path.name}.tmp")
+    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+    os.replace(tmp, path)
 
 
 def build(root, get=bf.fetch):
     """-> (ringkasan per layanan, {layanan gagal: alasan}). File layanan yang gagal tidak diubah."""
     out_dir = root / OUT_DIR
     entries = read_input(root / INPUT_FILE)
-    files, summary, failed = {}, {}, {}
+    files, summary, failed, status = {}, {}, {}, []
     for name, url, fn, min_urls, min_ips in entries:
         try:
-            service, summary[name] = service_files(name, url, fn, min_urls, min_ips, get, out_dir)
+            service, summary[name], info = service_files(name, url, fn, min_urls, min_ips, get, out_dir)
             files.update(service)
         except FeedError as e:
             failed[name] = summary[name] = f"GAGAL, file lama dipertahankan: {e}"
+            info = {"status": "gagal", "pesan": str(e), "jumlah_url": count_lines(out_dir / f"{name}_url.csv"),
+                    "jumlah_ip": count_lines(out_dir / f"{name}_ip.csv"), "dilewati": []}
+        status.append({"nama": name, "sumber": url, **info,
+                       "file": sorted(f"{name}_{kind}.csv" for kind in KINDS
+                                      if f"{name}_{kind}.csv" in files
+                                      or (name in failed and (out_dir / f"{name}_{kind}.csv").exists()))})
 
     old_files = {p.name for p in out_dir.iterdir() if OUT_FILE.match(p.name)} if out_dir.exists() else set()
     keep = {f"{name}_{kind}.csv" for name in failed for kind in KINDS}
@@ -464,6 +509,8 @@ def build(root, get=bf.fetch):
         os.replace(tmp, out_dir / name)
     for name in gone:
         (out_dir / name).unlink()
+    write_json(out_dir / "sumber.json", sources_json())
+    write_json(out_dir / "status.json", status)
     summary["file"] = f"{len(files)} ditulis, {len(gone)} dihapus"
     return summary, failed
 

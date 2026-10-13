@@ -150,10 +150,13 @@ class Layanan(unittest.TestCase):
         return (self.out / name).read_text().splitlines()
 
     def names(self):
-        return sorted(p.name for p in self.out.iterdir()) if self.out.exists() else []
+        return sorted(p.name for p in self.out.glob("*.csv"))
 
     def snapshot(self):
-        return {p.name: p.read_text() for p in self.out.iterdir()}
+        return {p.name: p.read_text() for p in self.out.glob("*.csv")}
+
+    def status(self):
+        return {s["nama"]: s for s in json.loads((self.out / "status.json").read_text())}
 
     # ---- Microsoft 365 + perilaku umum
 
@@ -261,6 +264,41 @@ class Layanan(unittest.TestCase):
             self.assertFalse(self.out.exists())
             self.assertEqual(self.calls, [])
 
+    def test_sumber_json_untuk_aplikasi_lain(self):
+        self.build("# kosong\n")
+        sources = json.loads((self.out / "sumber.json").read_text())
+        self.assertEqual([s["nama"] for s in sources], [a.nama for a in bl.ADAPTERS])
+        for s in sources:
+            self.assertEqual(set(s), {"nama", "url", "domain", "keterangan", "baris"})
+            self.assertEqual(bl.adapter_for(s["url"]).nama, s["nama"])     # URL contoh dikenali adapternya
+        contoh = self.root / "contoh.txt"                                       # baris contoh lolos validasi
+        contoh.write_text("".join(s["baris"] + "\n" for s in sources))
+        self.assertEqual([e[0] for e in bl.read_input(contoh)], [s["nama"] for s in sources])
+        by = {s["nama"]: s for s in sources}
+        self.assertTrue(by["Zoom"]["domain"])
+        self.assertFalse(by["Google"]["domain"])
+        self.assertIn("HANYA", by["Cloudflare_InboundOnly"]["keterangan"])
+
+    def test_status_json_ok_dan_gagal(self):
+        self.sources[bl.ZOOM_URL] = zoom_page()
+        self.build(f"{DOCS}\nZoomKantor {ZOOM}\n")
+        st = self.status()
+        self.assertEqual(list(st), ["Microsoft365", "ZoomKantor"])             # urutan = layanan_tambahan.txt
+        self.assertEqual(st["Microsoft365"]["status"], "ok")
+        self.assertEqual(st["Microsoft365"]["sumber"], DOCS)
+        self.assertEqual((st["Microsoft365"]["jumlah_url"], st["Microsoft365"]["jumlah_ip"]), (33, 32))
+        self.assertEqual(st["ZoomKantor"]["file"], ["ZoomKantor_ip.csv", "ZoomKantor_ip_versa.csv",
+                                                    "ZoomKantor_url.csv", "ZoomKantor_url_versa.csv"])
+        del self.sources[bl.ZOOM_URL]                                          # Zoom down: file lama tetap
+        self.build(f"{DOCS}\nZoomKantor {ZOOM}\n")
+        z = self.status()["ZoomKantor"]
+        self.assertEqual(z["status"], "gagal")
+        self.assertIn("unduh gagal", z["pesan"])
+        self.assertEqual((z["jumlah_url"], z["jumlah_ip"], len(z["file"])), (14, 62, 4))
+        before = (self.out / "status.json").read_text()                       # tanpa cap waktu: tidak ada
+        self.build(f"{DOCS}\nZoomKantor {ZOOM}\n")                            # commit bila hasil sama
+        self.assertEqual((self.out / "status.json").read_text(), before)
+
     def test_url_dokumentasi_tiap_vendor_dikenali(self):
         for url, name in ((DOCS, "Microsoft365"), (ZOOM, "Zoom"), (WEBEX, "Webex"), (GITHUB, "GitHub"),
                           ("https://api.github.com/meta", "GitHub"), (ATLASSIAN, "Atlassian"),
@@ -270,7 +308,7 @@ class Layanan(unittest.TestCase):
                           ("https://www.cloudflare.com/ips/", "Cloudflare_InboundOnly"),
                           ("https://api.cloudflare.com/client/v4/ips", "Cloudflare_InboundOnly"),
                           (ZSCALER, "Zscaler"), ("https://config.zscaler.com/api/zscalertwo.net/cenr/json", "Zscaler")):
-            self.assertEqual(bl.adapter_for(url)[0], name, url)
+            self.assertEqual(bl.adapter_for(url).nama, name, url)
 
     # ---- vendor dengan domain + IP
 
