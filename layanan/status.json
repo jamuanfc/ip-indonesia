@@ -1,0 +1,142 @@
+[
+  {
+    "nama": "Microsoft365",
+    "sumber": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 190,
+    "jumlah_ip": 93,
+    "dilewati": [],
+    "file": [
+      "Microsoft365_ip.csv",
+      "Microsoft365_ip_versa.csv",
+      "Microsoft365_url.csv",
+      "Microsoft365_url_versa.csv"
+    ]
+  },
+  {
+    "nama": "Zoom",
+    "sumber": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 25,
+    "jumlah_ip": 116,
+    "dilewati": [],
+    "file": [
+      "Zoom_ip.csv",
+      "Zoom_ip_versa.csv",
+      "Zoom_url.csv",
+      "Zoom_url_versa.csv"
+    ]
+  },
+  {
+    "nama": "Webex",
+    "sumber": "https://help.webex.com/en-us/article/WBX000028782/Network-Requirements-for-Webex-Services",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 47,
+    "jumlah_ip": 37,
+    "dilewati": [],
+    "file": [
+      "Webex_ip.csv",
+      "Webex_ip_versa.csv",
+      "Webex_url.csv",
+      "Webex_url_versa.csv"
+    ]
+  },
+  {
+    "nama": "GitHub",
+    "sumber": "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 118,
+    "jumlah_ip": 330,
+    "dilewati": [],
+    "file": [
+      "GitHub_ip.csv",
+      "GitHub_ip_versa.csv",
+      "GitHub_url.csv",
+      "GitHub_url_versa.csv"
+    ]
+  },
+  {
+    "nama": "Atlassian",
+    "sumber": "https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 66,
+    "jumlah_ip": 186,
+    "dilewati": [],
+    "file": [
+      "Atlassian_ip.csv",
+      "Atlassian_ip_versa.csv",
+      "Atlassian_url.csv",
+      "Atlassian_url_versa.csv"
+    ]
+  },
+  {
+    "nama": "Google",
+    "sumber": "https://www.gstatic.com/ipranges/goog.json",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 0,
+    "jumlah_ip": 394,
+    "dilewati": [],
+    "file": [
+      "Google_ip.csv",
+      "Google_ip_versa.csv"
+    ]
+  },
+  {
+    "nama": "Okta",
+    "sumber": "https://s3.amazonaws.com/okta-ip-ranges/ip_ranges.json",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 0,
+    "jumlah_ip": 2220,
+    "dilewati": [],
+    "file": [
+      "Okta_ip.csv",
+      "Okta_ip_versa.csv"
+    ]
+  },
+  {
+    "nama": "Salesforce",
+    "sumber": "https://ip-ranges.salesforce.com/ip-ranges.json",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 0,
+    "jumlah_ip": 61,
+    "dilewati": [],
+    "file": [
+      "Salesforce_ip.csv",
+      "Salesforce_ip_versa.csv"
+    ]
+  },
+  {
+    "nama": "Cloudflare_InboundOnly",
+    "sumber": "https://www.cloudflare.com/ips/",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 0,
+    "jumlah_ip": 22,
+    "dilewati": [],
+    "file": [
+      "Cloudflare_InboundOnly_ip.csv",
+      "Cloudflare_InboundOnly_ip_versa.csv"
+    ]
+  },
+  {
+    "nama": "Zscaler",
+    "sumber": "https://config.zscaler.com/zscaler.net/cenr",
+    "status": "ok",
+    "pesan": "",
+    "jumlah_url": 0,
+    "jumlah_ip": 886,
+    "dilewati": [],
+    "file": [
+      "Zscaler_ip.csv",
+      "Zscaler_ip_versa.csv"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "nama": "Microsoft365",
+    "url": "https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide",
+    "domain": true,
+    "keterangan": "Semua endpoint Microsoft 365 worldwide, dari web service resmi endpoints.office.com.",
+    "baris": "Microsoft365 https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide"
+  },
+  {
+    "nama": "Zoom",
+    "url": "https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548",
+    "domain": true,
+    "keterangan": "Domain dan IP dari tabel firewall artikel KB Zoom, termasuk domain pihak ketiga yang dicantumkan Zoom.",
+    "baris": "Zoom https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060548"
+  },
+  {
+    "nama": "Webex",
+    "url": "https://help.webex.com/en-us/article/WBX000028782/Network-Requirements-for-Webex-Services",
+    "domain": true,
+    "keterangan": "Domain dan IP dari artikel Network Requirements for Webex Services.",
+    "baris": "Webex https://help.webex.com/en-us/article/WBX000028782/Network-Requirements-for-Webex-Services"
+  },
+  {
+    "nama": "GitHub",
+    "url": "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses",
+    "domain": true,
+    "keterangan": "IP dan domain dari API api.github.com/meta, tanpa IP runner Actions dan wildcard Azure bersama.",
+    "baris": "GitHub https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses"
+  },
+  {
+    "nama": "Atlassian",
+    "url": "https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/",
+    "domain": true,
+    "keterangan": "Domain dari artikel Atlassian dan IP dari ip-ranges.atlassian.com, tanpa Atlassian Government Cloud.",
+    "baris": "Atlassian https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/"
+  },
+  {
+    "nama": "Google",
+    "url": "https://www.gstatic.com/ipranges/goog.json",
+    "domain": false,
+    "keterangan": "IP semua layanan Google (goog.json dikurangi cloud.json). Tanpa daftar domain.",
+    "baris": "Google https://www.gstatic.com/ipranges/goog.json"
+  },
+  {
+    "nama": "Okta",
+    "url": "https://s3.amazonaws.com/okta-ip-ranges/ip_ranges.json",
+    "domain": false,
+    "keterangan": "IP semua cell Okta. Tanpa daftar domain.",
+    "baris": "Okta https://s3.amazonaws.com/okta-ip-ranges/ip_ranges.json"
+  },
+  {
+    "nama": "Salesforce",
+    "url": "https://ip-ranges.salesforce.com/ip-ranges.json",
+    "domain": false,
+    "keterangan": "IP semua region Salesforce. Tanpa daftar domain.",
+    "baris": "Salesforce https://ip-ranges.salesforce.com/ip-ranges.json"
+  },
+  {
+    "nama": "Cloudflare_InboundOnly",
+    "url": "https://www.cloudflare.com/ips/",
+    "domain": false,
+    "keterangan": "IP proxy Cloudflare, HANYA untuk mengizinkan trafik masuk (dipakai bersama jutaan situs). Tanpa daftar domain.",
+    "baris": "Cloudflare_InboundOnly https://www.cloudflare.com/ips/"
+  },
+  {
+    "nama": "Zscaler",
+    "url": "https://config.zscaler.com/zscaler.net/cenr",
+    "domain": false,
+    "keterangan": "IP Cloud Enforcement Node (+ svpn dan future) untuk cloud di URL; ganti zscaler.net dengan cloud Anda (mis. zscalertwo.net). Tanpa daftar domain.",
+    "baris": "Zscaler https://config.zscaler.com/zscaler.net/cenr"
+  }
+]
