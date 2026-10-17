@@ -16,7 +16,7 @@ AS7543,"PT Reach Network Services Indonesia",10
 AS7587,"TRANSMEDIA-ID",3
 AS7597,"Indonesia Internet Exchange",0
 AS7632,"Linknet-Exchange ASN",22
-AS7713,"PT Telekomunikasi Indonesia",4013
+AS7713,"PT Telekomunikasi Indonesia",4002
 AS7717,"OpenIXP ASN",5
 AS9228,"PT. Total Info Kharisma",27
 AS9235,"PT. Dunia Virtual Online",0
@@ -86,7 +86,7 @@ AS23671,"PT. Sarana InsanMuda Selaras",33
 AS23679,"PT. Media Antar Nusa",117
 AS23691,"PT Multi Teknologi Sejahtra",0
 AS23692,"Estiko Ramanda AS",4
-AS23693,"PT. Telekomunikasi Selular",688
+AS23693,"PT. Telekomunikasi Selular",690
 AS23694,"PT Iconmedia Lintas Nusantara",7
 AS23695,"ELGANET-ASN PT. Elga Yasa Media Internet Service",32
 AS23696,"PT Asia Akses Utama",17
@@ -151,7 +151,7 @@ AS24535,"PT.Insan Sarana Telematika",52
 AS24536,"PT. Elektrindo Data Nusantara",11
 AS24537,"PT Paket Data Andal",3
 AS24538,"DIGITAL SATELLITE INDONESIA PT.",8
-AS38060,"Biznet NAP - Internet Exchange Provider",13
+AS38060,"Biznet NAP - Internet Exchange Provider",14
 AS38141,"PT. Citramedia Network",1
 AS38142,"Universitas Airlangga",17
 AS38143,"PT. Rabik Bangun Pertiwi, PMA",9
@@ -167,7 +167,7 @@ AS38152,"PT Antar Mitra Prakarsa",0
 AS38153,"Universitas Pelita Harapan",16
 AS38154,"PT. Pasifik Satelit Nusantara",6
 AS38155,"Audianet Sentra Data, PT",0
-AS38156,"PT. Union Routelink Communication",16
+AS38156,"PT. Union Routelink Communication",15
 AS38157,"Tentara Nasional Indonesia Angkatan Udara (TNI-AU)",2
 AS38158,"PT. Cyberindo Aditama",7
 AS38159,"PT Jivan Jaya Makmur Telecom",0
@@ -185,7 +185,7 @@ AS38320,"PT Maxindo Mitra Solusi",167
 AS38331,"Institut Teknologi Sepuluh Nopember",2
 AS38482,"Biznet ISP",59
 AS38494,"PT. Bakrie & Brothers, Tbk",1
-AS38496,"PT Cyber Network Indonesia",96
+AS38496,"PT Cyber Network Indonesia",98
 AS38497,"PT Sumber Data Indonesia",0
 AS38498,"203.31.164.0/23",6
 AS38499,"PT ANDOWA TELECOM",0
@@ -311,7 +311,7 @@ AS45696,"Pusat Pelaporan dan Analisis Transaksi Keuangan",2
 AS45697,"Universitas Surabaya",4
 AS45698,"Bonet Utama, PT",0
 AS45699,"Jogja Digital, PT",0
-AS45700,"PT. NAP Info Lintas Nusa",73
+AS45700,"PT. NAP Info Lintas Nusa",65
 AS45701,"PT. Internet Madju Abad Milenindo",64
 AS45702,"PT JEMBATAN CITRA NUSANTARA",0
 AS45703,"Badan Koordinasi Penanaman Modal (BKPM)",2
@@ -462,7 +462,7 @@ AS56235,"PT KOMATSU INDONESIA",2
 AS56236,"Badan Narkotika Nasional",2
 AS56237,"Universitas Lampung",2
 AS56238,"PT. SURYAPUTRA ADIPRADANA",1
-AS56239,"PT Graha Anugrah Sejahtera",10
+AS56239,"PT Graha Anugrah Sejahtera",11
 AS56240,"PT DJARUM",2
 AS56241,"PT Telkom Satelit Indonesia",17
 AS56242,"PT SUMBER KONEKSI INDOTELEMATIKA",0
@@ -533,7 +533,7 @@ AS58481,"PT. Astra International, Tbk",6
 AS58482,"PT. Palapa Media Indonesia",23
 AS58483,"PT Sarana Polaris Jaya",0
 AS58484,"PT. PRATESIS",1
-AS58485,"WIFIAN ID",166
+AS58485,"WIFIAN ID",162
 AS58486,"PT. Intelex Technet Global",0
 AS58487,"CV. Rumahweb Indonesia",63
 AS58488,"PUSDATIN KKP",5
@@ -657,7 +657,7 @@ AS63516,"Transhybrid Internet Xchange",2
 AS63517,"PT Surya Anugrah Mulya",0
 AS63827,"PT Econdelight",12
 AS63858,"PT Solusi Digital Manira",3
-AS63859,"PT. Eka Mas Republik",374
+AS63859,"PT. Eka Mas Republik",381
 AS63860,"PT Vitya Persada Informatika",0
 AS63861,"PT Aktif Tengah Malam",4
 AS63862,"PT Pascal Solusi Nusantara",9
@@ -937,7 +937,7 @@ AS133796,"Subbid Sistem Jaringan dan Infrastruktur",3
 AS133797,"PT Rekajasa Akses",10
 AS133798,"PT. Smartfren Telecom, Tbk",143
 AS133799,"PT. GOMEDS NETWORK",9
-AS133800,"PT Biznet Gio Nusantara",97
+AS133800,"PT Biznet Gio Nusantara",98
 AS133801,"PT Lyto Datarindo Fortuna",0
 AS133802,"Universitas Pasundan Bandung",3
 AS133803,"PT Semesta Teknologi Informatika",3
@@ -978,7 +978,7 @@ AS133837,"CV NEGUBAKU INDONESIA",0
 AS133838,"PT Infotek Global Network",9
 AS133839,"Dinas Komunikasi dan Informatika Tangerang Kota",2
 AS133840,"PT Jala Lintas Media",14
-AS133841,"INDONESIA BROADBAND ACCESS - ANYWHERE",3
+AS133841,"INDONESIA BROADBAND ACCESS - ANYWHERE",4
 AS133842,"PT BNI Life Insurance",2
 AS133843,"PT Bank Rakyat Indonesia",5
 AS133844,"Universitas Islam Negeri Suska Riau",1
@@ -1254,7 +1254,7 @@ AS136857,"PT. ASURANSI JIWA INHEALTH INDONESIA",2
 AS136858,"PT XL Planet",0
 AS136859,"PT Max Internet Indonesia",0
 AS136860,"PT Mega Medica Pharmaceuticals",0
-AS136861,"PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA",7
+AS136861,"PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA",5
 AS136862,"DINAS KOMUNIKASI DAN INFORMATIKA KOTA SERANG",1
 AS136863,"PT Era Global Nusindo",2
 AS136864,"PT Kalla Inti Karsa",1
@@ -1418,7 +1418,7 @@ AS138060,"PT Global Data Inspirasi",0
 AS138061,"PT MEISSA Berkah Teknologi",1
 AS138062,"PT. Awan Kilat Semesta",4
 AS138063,"PT. Personel Alih Daya",0
-AS138064,"PT. Jinom Network Indonesia",10
+AS138064,"PT. Jinom Network Indonesia",9
 AS138065,"PT Teknovatus Solusi Sejahtera",4
 AS138066,"Universitas Negeri Manado",1
 AS138067,"PT. ZORINA INDO MEDIA",0
@@ -1499,7 +1499,7 @@ AS138141,"PT. Waluya Istana Nusantara",0
 AS138142,"Institut Informatika & Bisnis Darmajaya",1
 AS138143,"PT GERBANG AKSES INDONESIA",7
 AS138144,"Institut Agama Islam Negeri Kediri",1
-AS138389,"PT Borneo Gerbang Solusindo",0
+AS138389,"PT Borneo Gerbang Solusindo",1
 AS138428,"DCI Indonesia",0
 AS138497,"PT Ardyanda Digital Connect",1
 AS138517,"PT Six Nett Solusindo",4
@@ -1522,7 +1522,7 @@ AS138814,"PT Telemedia Prima Nusantara",0
 AS138815,"PT Super Sistem Ultima",0
 AS138816,"Pemerintah Kabupaten Banjar",3
 AS138817,"Indonesia Network Information Center",0
-AS138818,"Internet Ini Saja",8
+AS138818,"Internet Ini Saja",13
 AS138819,"PT Askara Internal",0
 AS138820,"PT Unza Vitalis",0
 AS138821,"PT Global Nusantara Internet",7
@@ -1552,7 +1552,7 @@ AS138844,"PT. PERTAMINA BINA MEDIKA",2
 AS138845,"PT Akses Prima Indonesia",2
 AS138846,"PT Ajusnet Lintas Global Data",0
 AS138847,"PT. AMBHARA DUTA SHANTI",0
-AS138848,"Pemerintah Daerah Kabupaten Fakfak",0
+AS138848,"Pemerintah Daerah Kabupaten Fakfak",2
 AS138849,"PT. Trimitra Media Internet",1
 AS138850,"Pemerintah Kota Palembang",1
 AS138851,"Pemerintah Kota Payakumbuh",2
@@ -1649,7 +1649,7 @@ AS139394,"PT Patra Drilling Contractor",3
 AS139395,"CV. Inti Berkat",0
 AS139396,"PT. Master Global Solusi",1
 AS139397,"PT. Multimedia Network Indonesia",0
-AS139398,"PT. Pusat Informasi Kredit",2
+AS139398,"PT. Pusat Informasi Kredit",0
 AS139399,"PT Palapa Network Nusantara",0
 AS139400,"PT. Rak Super Ninja",4
 AS139401,"Dinas Komunikasi, Informatika, Persandian dan Statistik, Kabupaten Raja Ampat",1
@@ -1860,7 +1860,7 @@ AS140419,"PT. ASURANSI TAKAFUL KELUARGA",0
 AS140420,"MENTARI INTERNATIONAL SCHOOL - YAYASAN PERKEMBANGAN ANAK INDONESIA",0
 AS140421,"PT APLIKA DATA NUSANTARA",3
 AS140422,"PT. Sintesa Kreasi Yudha",0
-AS140423,"PT Chandra Media Nusantara",28
+AS140423,"PT Chandra Media Nusantara",30
 AS140424,"DINAS KOMUNIKASI INFORMATIKA STATISTIK DAN PERSANDIAN PROVINSI SULAWESI SELATAN",1
 AS140425,"DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN DEMAK",1
 AS140426,"Pemerintah Kabupaten Klungkung",1
@@ -1885,7 +1885,7 @@ AS140444,"Universitas Binawan",3
 AS140445,"PT Satu Nusa Bangsa",1
 AS140446,"PT Kingpolah Network Solutions",3
 AS140447,"PT Data Nusantara Adhikarya",0
-AS140448,"PT Acces Prima Nusantara",3
+AS140448,"PT Acces Prima Nusantara",4
 AS140449,"PT Media Cloud Indonesia",3
 AS140450,"Yayasan Alam Jaya Sakti",0
 AS140451,"DINAS KOMUNIKASI INFORMATIKA DAN STATISTIK KOTA DENPASAR",0
@@ -1977,7 +1977,7 @@ AS141096,"PT Layanan Otheto Indonesia",0
 AS141097,"PT Lintas Citra Abadi",3
 AS141098,"PT Multimedia Link Technology",2
 AS141099,"PT Javadwipa Duta Mandiri",0
-AS141100,"PT Integrasi Karya Nusa",2
+AS141100,"PT Integrasi Karya Nusa",0
 AS141101,"PT Makara Mas",2
 AS141102,"PT Trans Media Telekomunikasi",0
 AS141103,"PT Sekar Solusi Abadi",0
@@ -2000,7 +2000,7 @@ AS141119,"PT Airpay Integrasi Indonesia",0
 AS141120,"PT Warna Data Multimedia",14
 AS141121,"PT Murni Kasih Bangsa",0
 AS141122,"PT Aneka Siak Nusantara",2
-AS141123,"PT Puskomedia Indonesia Kreatif",5
+AS141123,"PT Puskomedia Indonesia Kreatif",6
 AS141124,"Dinas Komunikasi dan Informatika Kota Makassar",2
 AS141125,"PT Radmila Pratama Multireka",2
 AS141126,"PT Cubiespot Pilar Data Nusantara",11
@@ -2116,8 +2116,8 @@ AS141659,"Badan Nasional Penanggulangan Bencana",2
 AS141660,"PT Wahyu Akses Koneksi Riau",1
 AS141661,"PT Madiun Multimedia",0
 AS141662,"PT Neo Fiber Teknologi",2
-AS141663,"PT Microcel Pole Indonesia",3
-AS141664,"PT Jaringan Inti Exadata",10
+AS141663,"PT Microcel Pole Indonesia",0
+AS141664,"PT Jaringan Inti Exadata",9
 AS141665,"PT Cahaya Artha Daya",2
 AS141666,"PT Industri Kereta Api (INKA)",1
 AS141667,"PT Amboro Integrasi Teknologi Inovasi",2
@@ -2221,7 +2221,7 @@ AS141974,"PT Teknologi Rubi Mandriva",1
 AS141975,"PT Rubyan Network Solution",3
 AS141976,"Dinas Komunikasi dan Informatika Kabupaten Jepara",1
 AS141977,"PDAM Bandarmasih Kota Banjarmasin",1
-AS141978,"PT Akses Bersama Sedaya",3
+AS141978,"PT Akses Bersama Sedaya",4
 AS141979,"PT Agro Boga Utama",3
 AS141980,"PT Mega Auto Finance",0
 AS141981,"Institut Transportasi dan Logistik Trisakti",1
@@ -3048,7 +3048,7 @@ AS150982,"Dinas Komunikasi, Informatika dan Persandian Kabupaten Kampar",2
 AS150983,"PT Berkat Dunia Digital Cikande",0
 AS150984,"PT Fitrah Marina Sukses",2
 AS150985,"PT Yadica Multimedia Nusantara",2
-AS150986,"PT Altafocus Media Center",2
+AS150986,"PT Altafocus Media Center",3
 AS150987,"Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung",1
 AS150988,"PT Nusa Surya Ciptadana",1
 AS150989,"PT Media Akses Telematika",4
@@ -3263,7 +3263,7 @@ AS152067,"PT Jaringan Teman Sejati",0
 AS152068,"Universitas Muhammadiyah A.R. Fachruddin",1
 AS152069,"PT Nusantara Star Connect",6
 AS152070,"PT Fasindo Multimedia",1
-AS152071,"PT Jalur Net Infotek",2
+AS152071,"PT Jalur Net Infotek",3
 AS152072,"Pemerintah Kabupaten Mamuju Tengah",1
 AS152073,"PT Media Balai Nusa",5
 AS152074,"Dinas Komunikasi Informatika Statistik dan Persandian Kabupaten Paser",1
@@ -3584,7 +3584,7 @@ AS153148,"PT Bhatara Net",2
 AS153149,"PT Optical Light Nusantara",1
 AS153150,"PT Gerbang Nasional Akses Prima",1
 AS153151,"PT Diapa Angkasa Nusaintegra",2
-AS153152,"PT Sibay Global Network",2
+AS153152,"PT Sibay Global Network",3
 AS153153,"PT Data Multimedia Nusantara",1
 AS153154,"Universitas Katholik Soegijapranata",1
 AS153155,"PT Sigma Data Nusa",3
@@ -3829,7 +3829,7 @@ AS154427,"PT Digital Unique Indonesia",2
 AS154428,"PT Suhat Dirobean Bersaudara",0
 AS154430,"PT Abel Multi Network",3
 AS154440,"Dinas Komunikasi & Informatika Kota Cimahi",1
-AS154442,"PT Asa Trio Network",1
+AS154442,"PT Asa Trio Network",2
 AS154444,"PT Nusa Data Koneksi",3
 AS154452,"PT Berkah Solution Tatawafaqu",1
 AS154454,"PT Dikta Teknologi",1
@@ -3989,14 +3989,14 @@ AS154946,"PT Sikonet Network Nusantara",0
 AS154956,"PT REAL DATA SOLUSINDO",0
 AS154957,"DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN MAJALENGKA",1
 AS154958,"PT Justone Network Indonesia",0
-AS154959,"PT Andika Komunika Tama",0
+AS154959,"PT Andika Komunika Tama",1
 AS154962,"PT NUWEJA NETWORK TECHNOLOGY",0
 AS154963,"PT ZONA MABAR GRUP",0
 AS154964,"PT Urban Valley Telecommunication",0
 AS154965,"PT Manyala Amerta Semesta",0
 AS154967,"PT Muria Duta Sinergi",0
 AS154972,"PT Global Inovasi Mitra Solusi",0
-AS154979,"PT DZAKI WAJAH PRIBUMI",0
+AS154979,"PT DZAKI WAJAH PRIBUMI",2
 AS154981,"PT Aulia Solusi Internet",2
 AS154982,"Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung Barat",0
 AS154984,"PT Inovasi Jaya Kualindo",1
@@ -4012,6 +4012,8 @@ AS155006,"PT Centris Data Indo",0
 AS155007,"CV Harfa Teknologi Nusantara",0
 AS155008,"PT Gupuma Gemilang Cipat Netmedia",0
 AS155013,"PT Jaringan Lintas Data Nusantara",0
+AS155016,"PT Gifta Media Samawa",0
+AS155017,"PT Saviel Network Indonesia",0
 AS197199,"WLJ-CLOUD PT WIDYADHANA LINTAS JARINGAN",0
 AS197313,"RMV Roman Veligon",1
 AS197587,"LAVACORP-AS PT LAVACORP TEKNOLOGI INDONESIA",0
@@ -4062,5 +4064,5 @@ AS219079,"EKO-ANDRI-PRASETYO Eko Andri Prasetyo",1
 AS219134,"BAGAS BAGAS PURWA SENTIKA",1
 AS219215,"RIMBA-AS M. RIMBA ADHITYA A.",0
 AS219433,"ALANTRIWIBOWO Alan Tri Wibowo",3
-AS219484,"RIPE-HJC-AS-ID PT HOBIMU JADI CUAN",1
+AS219484,"RIPE-HJC-AS-ID PT HOBIMU JADI CUAN",3
 AS402969,"Biocyber",0
