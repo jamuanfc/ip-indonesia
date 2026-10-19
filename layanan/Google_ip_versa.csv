@@ -28,7 +28,7 @@ Google_ip27,ipv4-prefix,34.3.72.0/22
 Google_ip28,ipv4-prefix,34.3.112.0/20
 Google_ip29,ipv4-prefix,34.4.0.0/20
 Google_ip30,ipv4-prefix,34.4.20.0/22
-Google_ip31,ipv4-prefix,34.4.100.0/23
+Google_ip31,ipv4-prefix,34.4.101.0/24
 Google_ip32,ipv4-prefix,34.4.112.0/20
 Google_ip33,ipv4-prefix,34.4.193.0/24
 Google_ip34,ipv4-prefix,34.4.194.0/23
