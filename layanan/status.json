@@ -50,7 +50,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 238,
-    "jumlah_ip": 330,
+    "jumlah_ip": 334,
     "dilewati": [],
     "file": [
       "GitHub_ip.csv",
@@ -93,7 +93,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 2214,
+    "jumlah_ip": 2248,
     "dilewati": [],
     "file": [
       "Okta_ip.csv",
