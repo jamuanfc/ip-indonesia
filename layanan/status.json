@@ -65,7 +65,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 66,
-    "jumlah_ip": 186,
+    "jumlah_ip": 189,
     "dilewati": [],
     "file": [
       "Atlassian_ip.csv",
@@ -93,7 +93,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 2303,
+    "jumlah_ip": 2306,
     "dilewati": [],
     "file": [
       "Okta_ip.csv",
