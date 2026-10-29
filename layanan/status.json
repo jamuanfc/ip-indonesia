@@ -93,7 +93,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 2306,
+    "jumlah_ip": 2305,
     "dilewati": [],
     "file": [
       "Okta_ip.csv",
@@ -132,7 +132,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 890,
+    "jumlah_ip": 891,
     "dilewati": [],
     "file": [
       "Zscaler_ip.csv",
