@@ -49,8 +49,8 @@
     "sumber": "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses",
     "status": "ok",
     "pesan": "",
-    "jumlah_url": 238,
-    "jumlah_ip": 349,
+    "jumlah_url": 118,
+    "jumlah_ip": 330,
     "dilewati": [],
     "file": [
       "GitHub_ip.csv",
@@ -65,7 +65,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 66,
-    "jumlah_ip": 189,
+    "jumlah_ip": 186,
     "dilewati": [],
     "file": [
       "Atlassian_ip.csv",
@@ -80,7 +80,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 395,
+    "jumlah_ip": 394,
     "dilewati": [],
     "file": [
       "Google_ip.csv",
@@ -93,7 +93,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 2305,
+    "jumlah_ip": 2220,
     "dilewati": [],
     "file": [
       "Okta_ip.csv",
@@ -106,7 +106,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 72,
+    "jumlah_ip": 61,
     "dilewati": [],
     "file": [
       "Salesforce_ip.csv",
@@ -132,7 +132,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 891,
+    "jumlah_ip": 886,
     "dilewati": [],
     "file": [
       "Zscaler_ip.csv",
