@@ -29,7 +29,6 @@ patterns,([^/]*\\.)?msecnd\\.net(/.*)?$,trustworthy
 patterns,([^/]*\\.)?msftauth\\.net(/.*)?$,trustworthy
 patterns,([^/]*\\.)?msftauthimages\\.net(/.*)?$,trustworthy
 patterns,([^/]*\\.)?msftidentity\\.com(/.*)?$,trustworthy
-patterns,([^/]*\\.)?msidentity\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?msocdn\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?mx\\.microsoft(/.*)?$,trustworthy
 patterns,([^/]*\\.)?o365weve\\.com(/.*)?$,trustworthy
@@ -84,11 +83,9 @@ string,amp.azure.net,trustworthy
 string,api.passwordreset.microsoftonline.com,trustworthy
 string,apis.live.net,trustworthy
 string,appsforoffice.microsoft.com,trustworthy
-string,assets.onestore.ms,trustworthy
 string,auth.gfx.ms,trustworthy
 patterns,autodiscover\\.[^/]*\\.onmicrosoft\\.com(/.*)?$,trustworthy
 string,autologon.microsoftazuread-sso.com,trustworthy
-string,becws.microsoftonline.com,trustworthy
 string,c.bing.com,trustworthy
 string,c.bing.net,trustworthy
 string,c.live.com,trustworthy
@@ -121,8 +118,6 @@ string,go.microsoft.com,trustworthy
 string,graph.microsoft.com,trustworthy
 string,graph.windows.net,trustworthy
 string,informationprotection.hosting.portal.azure.net,trustworthy
-string,isrg.trustid.ocsp.identrust.com,trustworthy
-string,join.secure.skypeassets.com,trustworthy
 string,login-us.microsoftonline.com,trustworthy
 string,login.live.com,trustworthy
 string,login.microsoft.com,trustworthy
@@ -133,7 +128,6 @@ string,login.windows.net,trustworthy
 string,logincert.microsoftonline.com,trustworthy
 string,loginex.microsoftonline.com,trustworthy
 string,mem.gfx.ms,trustworthy
-string,mlccdnprod.azureedge.net,trustworthy
 string,mscrl.microsoft.com,trustworthy
 string,msdn.microsoft.com,trustworthy
 string,nexus.microsoftonline-p.com,trustworthy
@@ -141,7 +135,6 @@ string,o15.officeredir.microsoft.com,trustworthy
 string,ocos-office365-s2s.msedge.net,trustworthy
 string,ocsp.digicert.com,trustworthy
 string,ocsp.globalsign.com,trustworthy
-string,ocsp.msocsp.com,trustworthy
 string,ocsp2.globalsign.com,trustworthy
 string,ocspx.digicert.com,trustworthy
 string,office.live.com,trustworthy
@@ -161,9 +154,7 @@ string,outlook.office365.com,trustworthy
 string,partnerservices.getmicrosoftkey.com,trustworthy
 string,passwordreset.microsoftonline.com,trustworthy
 string,platform.linkedin.com,trustworthy
-string,prod.msocdn.com,trustworthy
 string,protection.office.com,trustworthy
-string,provisioningapi.microsoftonline.com,trustworthy
 string,purview.microsoft.com,trustworthy
 string,r.office.microsoft.com,trustworthy
 string,secure.globalsign.com,trustworthy
@@ -173,7 +164,6 @@ string,signup.live.com,trustworthy
 string,smtp.office365.com,trustworthy
 string,spoprod-a.akamaihd.net,trustworthy
 string,storage.live.com,trustworthy
-string,support.microsoft.com,trustworthy
 string,sway.com,trustworthy
 string,teams.cloud.microsoft,trustworthy
 string,teams.microsoft.com,trustworthy

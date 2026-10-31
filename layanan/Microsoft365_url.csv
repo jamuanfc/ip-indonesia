@@ -29,7 +29,6 @@
 *.msftauth.net
 *.msftauthimages.net
 *.msftidentity.com
-*.msidentity.com
 *.msocdn.com
 *.mx.microsoft
 *.o365weve.com
@@ -84,11 +83,9 @@ amp.azure.net
 api.passwordreset.microsoftonline.com
 apis.live.net
 appsforoffice.microsoft.com
-assets.onestore.ms
 auth.gfx.ms
 autodiscover.*.onmicrosoft.com
 autologon.microsoftazuread-sso.com
-becws.microsoftonline.com
 c.bing.com
 c.bing.net
 c.live.com
@@ -121,8 +118,6 @@ go.microsoft.com
 graph.microsoft.com
 graph.windows.net
 informationprotection.hosting.portal.azure.net
-isrg.trustid.ocsp.identrust.com
-join.secure.skypeassets.com
 login-us.microsoftonline.com
 login.live.com
 login.microsoft.com
@@ -133,7 +128,6 @@ login.windows.net
 logincert.microsoftonline.com
 loginex.microsoftonline.com
 mem.gfx.ms
-mlccdnprod.azureedge.net
 mscrl.microsoft.com
 msdn.microsoft.com
 nexus.microsoftonline-p.com
@@ -141,7 +135,6 @@ o15.officeredir.microsoft.com
 ocos-office365-s2s.msedge.net
 ocsp.digicert.com
 ocsp.globalsign.com
-ocsp.msocsp.com
 ocsp2.globalsign.com
 ocspx.digicert.com
 office.live.com
@@ -161,9 +154,7 @@ outlook.office365.com
 partnerservices.getmicrosoftkey.com
 passwordreset.microsoftonline.com
 platform.linkedin.com
-prod.msocdn.com
 protection.office.com
-provisioningapi.microsoftonline.com
 purview.microsoft.com
 r.office.microsoft.com
 secure.globalsign.com
@@ -173,7 +164,6 @@ signup.live.com
 smtp.office365.com
 spoprod-a.akamaihd.net
 storage.live.com
-support.microsoft.com
 sway.com
 teams.cloud.microsoft
 teams.microsoft.com
