@@ -64,7 +64,7 @@
     "sumber": "https://support.atlassian.com/organization-administration/docs/ip-addresses-and-domains-for-atlassian-cloud-products/",
     "status": "ok",
     "pesan": "",
-    "jumlah_url": 66,
+    "jumlah_url": 65,
     "jumlah_ip": 191,
     "dilewati": [],
     "file": [
@@ -93,7 +93,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 2312,
+    "jumlah_ip": 2311,
     "dilewati": [],
     "file": [
       "Okta_ip.csv",

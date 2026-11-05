@@ -54,7 +54,6 @@ rps--*--migration-report-center--report-data.s3.*.amazonaws.com
 rps--prod-east--app-migration-service--ams.s3-accelerate.amazonaws.com
 rps--prod-east--app-migration-service--ams.s3.amazonaws.com
 rps--prod-west2--migration-catalogue--migration-storage.s3.us-west-2.amazonaws.com
-rps--prod-west2--migration-orchestrator--task-data-repository.s3.us-west-2.amazonaws.com
 rps--prod-west2--migration-report-center--report-data.s3.us-west-2.amazonaws.com
 statsigapi.net
 teamwork-graph.atlassian.com

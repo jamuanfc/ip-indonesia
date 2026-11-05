@@ -54,7 +54,6 @@ patterns,rps--[^/]*--migration-report-center--report-data\\.s3\\.[^/]*\\.amazona
 string,rps--prod-east--app-migration-service--ams.s3-accelerate.amazonaws.com,trustworthy
 string,rps--prod-east--app-migration-service--ams.s3.amazonaws.com,trustworthy
 string,rps--prod-west2--migration-catalogue--migration-storage.s3.us-west-2.amazonaws.com,trustworthy
-string,rps--prod-west2--migration-orchestrator--task-data-repository.s3.us-west-2.amazonaws.com,trustworthy
 string,rps--prod-west2--migration-report-center--report-data.s3.us-west-2.amazonaws.com,trustworthy
 string,statsigapi.net,trustworthy
 string,teamwork-graph.atlassian.com,trustworthy
