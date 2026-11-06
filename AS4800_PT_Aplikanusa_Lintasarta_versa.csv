@@ -727,4 +727,5 @@ AS4800_PT_Aplikanusa_Lintasarta726,ipv6-prefix,2400:8000:1000::/48
 AS4800_PT_Aplikanusa_Lintasarta727,ipv6-prefix,2400:8000:1001::/48
 AS4800_PT_Aplikanusa_Lintasarta728,ipv6-prefix,2400:8000:2420::/48
 AS4800_PT_Aplikanusa_Lintasarta729,ipv6-prefix,2400:8000:2600::/48
-AS4800_PT_Aplikanusa_Lintasarta730,ipv6-prefix,2400:8000:a404::/48
+AS4800_PT_Aplikanusa_Lintasarta730,ipv6-prefix,2400:8000:3c03::/48
+AS4800_PT_Aplikanusa_Lintasarta731,ipv6-prefix,2400:8000:a404::/48
