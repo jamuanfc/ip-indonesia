@@ -311,7 +311,7 @@ AS45696,"Pusat Pelaporan dan Analisis Transaksi Keuangan",2
 AS45697,"Universitas Surabaya",4
 AS45698,"Bonet Utama, PT",0
 AS45699,"Jogja Digital, PT",0
-AS45700,"PT. NAP Info Lintas Nusa",77
+AS45700,"PT. NAP Info Lintas Nusa",76
 AS45701,"PT. Internet Madju Abad Milenindo",64
 AS45702,"PT JEMBATAN CITRA NUSANTARA",3
 AS45703,"Badan Koordinasi Penanaman Modal (BKPM)",2
@@ -533,7 +533,7 @@ AS58481,"PT. Astra International, Tbk",6
 AS58482,"PT. Palapa Media Indonesia",23
 AS58483,"PT Sarana Polaris Jaya",0
 AS58484,"PT. PRATESIS",1
-AS58485,"WIFIAN ID",168
+AS58485,"WIFIAN ID",169
 AS58486,"PT. Intelex Technet Global",0
 AS58487,"CV. Rumahweb Indonesia",63
 AS58488,"PUSDATIN KKP",5
@@ -3226,7 +3226,7 @@ AS152028,"PT Ardei Gatra Mayantara",1
 AS152029,"PT Andromega Data Nusantara",3
 AS152030,"PT BRI Asuransi Indonesia",0
 AS152031,"PT Naraya Telematika",0
-AS152032,"PT Putra Garsel Interkoneksi",13
+AS152032,"PT Putra Garsel Interkoneksi",14
 AS152033,"PT Mandari Teknologi Nusantara",1
 AS152034,"PT Lintas Jaringan Mandiri",2
 AS152035,"PUSDATIN KKP",0
@@ -3744,6 +3744,7 @@ AS154008,"PT SAKRAL INTERMEDIA GLOBAL NETWORK PERSADA",0
 AS154023,"PT Global Usaha Teknologi",1
 AS154034,"PT Semarang Data Center",0
 AS154039,"PT Awan Media Digital",3
+AS154054,"PT ANUGRAH GANETA ALVARO",0
 AS154056,"PT Metadata Teknovasi Nusantara",1
 AS154067,"PT Inti Siber Net",3
 AS154073,"PT ATTA SEJAHTERA INDONESIA",2
@@ -3763,7 +3764,7 @@ AS154129,"PT. GLOBAL LINTAS SOLUSI",0
 AS154141,"PT Satu Jaringan Nasional",1
 AS154143,"PT AZWAR DIGITAL NETWORKS",2
 AS154145,"PT Andika Media Data",1
-AS154146,"PT Global Asta Systelematika",3
+AS154146,"PT Global Asta Systelematika",6
 AS154152,"PT KASIH RAJAWALI SEJAHTERA",0
 AS154153,"PT Bimanet Media Nusantara",1
 AS154154,"PT BORNEO FIBER TEKNOLOGI",1
@@ -4043,6 +4044,8 @@ AS155079,"PT Nrlink Media Indonesia",0
 AS155083,"PT Teradata Megah",0
 AS155084,"PT Aulia Jaya Network Solusindo",0
 AS155085,"PT INDONESIAN NETWORK MEDIA",0
+AS155086,"PT Lintas Network Akses",0
+AS155088,"Universitas Islam Syekh-Yusuf",0
 AS197199,"WLJ-CLOUD PT WIDYADHANA LINTAS JARINGAN",0
 AS197313,"RMV Roman Veligon",1
 AS197587,"LAVACORP-AS PT LAVACORP TEKNOLOGI INDONESIA",0
@@ -4051,7 +4054,7 @@ AS199459,"AlexandroS-AS Alexandro Setiawan",1
 AS199592,"WAHYU WAHYU",10
 AS199695,"ANYM-NET PT Anym Network Indonesia",5
 AS199762,"KOMOREBI Adita Tarkono Putra",0
-AS200051,"VPSLab-Networks RIZKI ABDUL AZIS",5
+AS200051,"VPSLab-Networks RIZKI ABDUL AZIS",6
 AS200135,"PTPabrikGula PT Pabrik Gula Rajawali II",1
 AS200160,"PONGERY Putu Paundrayana Waringin",1
 AS200177,"ATLANTIC-AS-ID PT Atlantic Aksa Group",5
