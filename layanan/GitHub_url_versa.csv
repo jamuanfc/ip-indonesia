@@ -71,6 +71,13 @@ string,pipelinesproxweu1.actions.githubusercontent.com,trustworthy
 string,pipelinesproxwus31.actions.githubusercontent.com,trustworthy
 string,pipelinesproxwus32.actions.githubusercontent.com,trustworthy
 string,pkg.actions.githubusercontent.com,trustworthy
+string,production-copilot-host-austriaeast.webpubsub.azure.com,trustworthy
+string,production-copilot-host-centralus-02.webpubsub.azure.com,trustworthy
+string,production-copilot-host-centralus.webpubsub.azure.com,trustworthy
+string,production-copilot-host-eastasia.webpubsub.azure.com,trustworthy
+string,production-copilot-host-westus.webpubsub.azure.com,trustworthy
+string,production-copilot-host-westus3.webpubsub.azure.com,trustworthy
+string,production-copilot-host.webpubsub.azure.com,trustworthy
 string,productionresultssa0.blob.core.windows.net,trustworthy
 string,productionresultssa1.blob.core.windows.net,trustworthy
 string,productionresultssa10.blob.core.windows.net,trustworthy
