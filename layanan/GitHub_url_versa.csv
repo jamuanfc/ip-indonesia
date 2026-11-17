@@ -23,6 +23,8 @@ string,ghcr.io,trustworthy
 string,github-registry-files.githubusercontent.com,trustworthy
 string,github-releases.githubusercontent.com,trustworthy
 string,github.com,trustworthy
+string,hosted-compute-request-orchestrator-gccus02-01.githubapp.com,trustworthy
+string,hosted-compute-request-orchestrator-gccus02-02.githubapp.com,trustworthy
 string,hosted-compute-request-orchestrator-prod-eus-01.githubapp.com,trustworthy
 string,hosted-compute-request-orchestrator-prod-eus-02.githubapp.com,trustworthy
 string,hosted-compute-request-orchestrator-prod-iad-01.githubapp.com,trustworthy
