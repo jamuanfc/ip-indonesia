@@ -93,7 +93,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 2306,
+    "jumlah_ip": 2309,
     "dilewati": [],
     "file": [
       "Okta_ip.csv",
@@ -106,7 +106,7 @@
     "status": "ok",
     "pesan": "",
     "jumlah_url": 0,
-    "jumlah_ip": 72,
+    "jumlah_ip": 73,
     "dilewati": [],
     "file": [
       "Salesforce_ip.csv",
