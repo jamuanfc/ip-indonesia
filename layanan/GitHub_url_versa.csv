@@ -10,6 +10,7 @@ patterns,([^/]*\\.)?githubcopilot\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?githubusercontent\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?pkg\\.github\\.com(/.*)?$,trustworthy
 patterns,([^/]*\\.)?vscode-webview\\.net(/.*)?$,trustworthy
+patterns,([^/]*\\.)?wps\\.githubcopilot\\.com(/.*)?$,trustworthy
 string,api.github.com,trustworthy
 string,broker.actions.githubusercontent.com,trustworthy
 string,cafe.github.com,trustworthy
